@@ -7,7 +7,7 @@ year: 2024
 bibkey: rana2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18980"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Distillation']
 ---
 Zero-shot slot filling is a well-established subtask of Natural Language
 Understanding (NLU). However, most existing methods primarily focus on

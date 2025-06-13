@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025akvq
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15021"}
-tags: ['Multimodal Models', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Quantization', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Quantization']
 ---
 Vision-language models (VLMs) show remarkable performance in multimodal
 tasks. However, excessively long multimodal inputs lead to oversized Key-Value

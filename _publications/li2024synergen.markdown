@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024synergen
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09604"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 The remarkable success of Large Language Models (LLMs) has extended to the
 multimodal domain, achieving outstanding performance in image understanding and

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11795"}
-tags: ['Efficiency and Optimization', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown great success in various Natural
 Language Processing (NLP) tasks, whist they still need updates after deployment

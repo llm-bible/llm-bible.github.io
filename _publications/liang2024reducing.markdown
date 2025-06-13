@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024reducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00855"}
-tags: ['Agentic', 'Arxiv', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'Distillation', 'Arxiv']
 ---
 As large language models (LLMs) improve their capabilities in handling
 complex tasks, the issues of computational cost and efficiency due to long

@@ -7,7 +7,7 @@ year: 2022
 bibkey: cheng2022is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.14529"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Task-Oriented Dialogue (TOD) systems are drawing more and more attention in
 recent studies. Current methods focus on constructing pre-trained models or

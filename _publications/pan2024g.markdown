@@ -7,7 +7,7 @@ year: 2024
 bibkey: pan2024g
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12915"}
-tags: ['WMT', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Applications', 'WMT']
 ---
 Large Language Models (LLMs) have demonstrated remarkable abilities in
 general scenarios. Instruction finetuning empowers them to align with humans in

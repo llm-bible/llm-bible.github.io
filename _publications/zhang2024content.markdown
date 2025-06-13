@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024content
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04237"}
-tags: ['Multimodal Models', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['GPT', 'Training Techniques', 'Multimodal Models', 'Model Architecture']
 ---
 Large language models (LLMs) have proven effective for layout generation due
 to their ability to produce structure-description languages, such as HTML or

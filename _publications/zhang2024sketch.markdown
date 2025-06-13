@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024sketch
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06364"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Adapting pre-trained large language models (LLMs) is crucial but challenging
 due to their enormous size. Parameter-efficient fine-tuning (PEFT) techniques

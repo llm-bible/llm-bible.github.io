@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12390"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 We introduce Blink, a new benchmark for multimodal language models (LLMs)
 that focuses on core visual perception abilities not found in other

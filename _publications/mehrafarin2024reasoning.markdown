@@ -7,7 +7,7 @@ year: 2024
 bibkey: mehrafarin2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20200"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Evaluating Large Language Models (LLMs) on reasoning benchmarks demonstrates
 their ability to solve compositional questions. However, little is known of

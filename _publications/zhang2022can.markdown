@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhang2022can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.03864"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Pre-training has been a useful method for learning implicit transferable
 knowledge and it shows the benefit of offering complementary features across

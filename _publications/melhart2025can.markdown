@@ -7,7 +7,7 @@ year: 2025
 bibkey: melhart2025can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04379"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 Can out-of-the-box pretrained Large Language Models (LLMs) detect human
 affect successfully when observing a video? To address this question, for the

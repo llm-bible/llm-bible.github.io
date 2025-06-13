@@ -7,7 +7,7 @@ year: 2024
 bibkey: freedman2024argumentative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02079"}
-tags: ['Merging', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Merging', 'Reinforcement Learning']
 ---
 The profusion of knowledge encoded in large language models (LLMs) and their
 ability to apply this knowledge zero-shot in a range of settings makes them

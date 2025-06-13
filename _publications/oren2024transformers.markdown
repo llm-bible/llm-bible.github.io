@@ -8,7 +8,7 @@ bibkey: oren2024transformers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06104"}
   - {name: "Code", url: "https://github.com/schwartz-lab-NLP/TOVA"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Transformers are considered conceptually different from the previous
 generation of state-of-the-art NLP models - recurrent neural networks (RNNs).

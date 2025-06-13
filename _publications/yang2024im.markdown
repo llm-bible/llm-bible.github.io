@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024im
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13021"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Although the Retrieval-Augmented Generation (RAG) paradigms can use external
 knowledge to enhance and ground the outputs of Large Language Models (LLMs) to

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024progressively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02599"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large Language Models (LLM) alignment aims to prevent models from producing
 content that misaligns with human expectations, which can lead to ethical and

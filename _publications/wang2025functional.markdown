@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025functional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14496"}
-tags: ['Prompting', 'Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Prompting', 'Model Architecture', 'Pretraining Methods']
 ---
 Pre-trained transformer large language models (LLMs) demonstrate strong
 knowledge recall capabilities. This paper investigates the knowledge recall

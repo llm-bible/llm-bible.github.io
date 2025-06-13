@@ -7,7 +7,7 @@ year: 2024
 bibkey: kumar2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12981"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have shown promising capabilities in healthcare
 analysis but face several challenges like hallucinations, parroting, and bias

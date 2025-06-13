@@ -7,7 +7,7 @@ year: 2024
 bibkey: conklin2024representations
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02449"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large scale neural models show impressive performance across a wide array of
 linguistic tasks. Despite this they remain, largely, black-boxes - inducing

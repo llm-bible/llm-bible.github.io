@@ -8,7 +8,7 @@ bibkey: oliaro2024system
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18789"}
   - {name: "Code", url: "https://github.com/flexflow/FlexFlow/"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pruning', 'Large-Scale Training', 'Has Code']
+tags: ['Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Has Code']
 ---
 Finetuning large language models (LLMs) is essential for task adaptation, yet
 serving stacks today isolate inference and finetuning on separate GPU clusters

@@ -8,7 +8,7 @@ bibkey: he2021emory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.03903"}
   - {name: "Code", url: "https://github.com/emorynlp/elit"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Tokenization', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Tokenization', 'Has Code', 'Pretraining Methods']
 ---
 We introduce ELIT, the Emory Language and Information Toolkit, which is a
 comprehensive NLP framework providing transformer-based end-to-end models for

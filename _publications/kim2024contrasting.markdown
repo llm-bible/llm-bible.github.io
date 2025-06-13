@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024contrasting
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2406.01920v1"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Multimodal Models']
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Tools']
 ---
 Large Multi-modal Models (LMMs) have recently demonstrated remarkable
 abilities in visual context understanding and coherent response generation.

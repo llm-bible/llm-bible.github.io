@@ -8,7 +8,7 @@ bibkey: he2023fovea
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07102"}
   - {name: "Code", url: "https://github.com/ZiweiHe/Fovea-Transformer"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 The quadratic complexity of self-attention in Transformers has hindered the
 processing of long text. To alleviate this problem, previous works have

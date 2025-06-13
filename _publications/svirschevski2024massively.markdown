@@ -7,7 +7,7 @@ year: 2024
 bibkey: svirschevski2024massively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02532"}
-tags: ['Quantization', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Quantization', 'Reinforcement Learning']
 ---
 As large language models gain widespread adoption, running them efficiently
 becomes crucial. Recent works on LLM inference use speculative decoding to

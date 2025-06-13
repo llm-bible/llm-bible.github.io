@@ -8,7 +8,7 @@ bibkey: yin2024geo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06483"}
   - {name: "Code", url: "https://github.com/PlusLabNLP/SafeWorld"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 In the rapidly evolving field of Large Language Models (LLMs), ensuring
 safety is a crucial and widely discussed topic. However, existing works often

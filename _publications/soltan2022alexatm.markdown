@@ -7,7 +7,7 @@ year: 2022
 bibkey: soltan2022alexatm
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2208.01448v2"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 In this work, we demonstrate that multilingual large-scale
 sequence-to-sequence (seq2seq) models, pre-trained on a mixture of denoising

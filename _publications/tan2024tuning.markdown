@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024tuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05636"}
-tags: ['Responsible AI', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLMs) have catalyzed transformative advances across a
 spectrum of natural language processing tasks through few-shot or zero-shot

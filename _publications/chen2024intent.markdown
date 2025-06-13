@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024intent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08583"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'RecSys', 'Pretraining Methods']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Pretraining Methods']
 ---
 The research on intent-enhanced sequential recommendation algorithms focuses
 on how to better mine dynamic user intent based on user behavior data for

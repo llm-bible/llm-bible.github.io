@@ -8,7 +8,7 @@ bibkey: lauscher2020common
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.11787"}
   - {name: "Code", url: "https://github.com/wluper/retrograph"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Following the major success of neural language models (LMs) such as BERT or
 GPT-2 on a variety of language understanding tasks, recent work focused on

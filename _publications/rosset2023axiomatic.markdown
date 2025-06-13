@@ -8,7 +8,7 @@ bibkey: rosset2023axiomatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02206"}
   - {name: "Code", url: "https://huggingface.co/corbyrosset/axiomatic_preference_model"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 The remarkable abilities of large language models (LLMs) like GPT-4 partially
 stem from post-training processes like Reinforcement Learning from Human

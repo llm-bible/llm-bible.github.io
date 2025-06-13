@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.03957"}
-tags: ['RAG', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) has proven to be an effective method for
 mitigating hallucination issues inherent in large language models (LLMs).

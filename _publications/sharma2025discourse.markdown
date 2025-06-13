@@ -7,7 +7,7 @@ year: 2025
 bibkey: sharma2025discourse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04685"}
-tags: ['Pretraining Methods', 'Training Techniques']
+tags: ['Training Techniques', 'Pretraining Methods']
 ---
 We look at reasoning on GSM8k, a dataset of short texts presenting primary
 school, math problems. We find, with Mirzadeh et al. (2024), that current LLM

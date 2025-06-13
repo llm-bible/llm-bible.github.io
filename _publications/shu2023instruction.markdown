@@ -8,7 +8,7 @@ bibkey: shu2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15685"}
   - {name: "Code", url: "https://github.com/google-research/google-research/tree/master/rewritelm)"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Prompting']
+tags: ['Agentic', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in
 creative tasks such as storytelling and E-mail generation. However, as LLMs are

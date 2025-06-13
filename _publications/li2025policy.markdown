@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025policy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06813"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Prompting']
 ---
 Despite their remarkable capabilities, large language models often struggle
 with tasks requiring complex reasoning and planning. While existing approaches

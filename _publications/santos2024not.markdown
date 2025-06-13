@@ -7,7 +7,7 @@ year: 2024
 bibkey: santos2024not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18661"}
-tags: ['Model Architecture', 'GPT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture']
 ---
 The sudden emergence of large language models (LLMs) such as ChatGPT has had
 a disruptive impact throughout the computing education community. LLMs have

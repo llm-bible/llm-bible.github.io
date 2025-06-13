@@ -7,7 +7,7 @@ year: 2024
 bibkey: perełkiewicz2024review
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07630"}
-tags: ['Ethics and Bias', 'Training Techniques', 'Pre-Training', 'Survey Paper']
+tags: ['Training Techniques', 'Pre-Training', 'Survey Paper', 'Ethics and Bias']
 ---
 This article presents a comprehensive review of the challenges associated
 with using massive web-mined corpora for the pre-training of large language

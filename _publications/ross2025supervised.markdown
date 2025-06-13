@@ -7,7 +7,7 @@ year: 2025
 bibkey: ross2025supervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20527"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) are increasingly being explored in higher
 education, yet their effectiveness as teaching agents remains underexamined. In

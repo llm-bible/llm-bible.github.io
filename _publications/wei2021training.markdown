@@ -7,7 +7,7 @@ year: 2021
 bibkey: wei2021training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.09469"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'BERT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
 ---
 The pre-trained language models have achieved great successes in various
 natural language understanding (NLU) tasks due to its capacity to capture the

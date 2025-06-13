@@ -7,7 +7,7 @@ year: 2024
 bibkey: trivedi2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05495"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 LLM-as-a-judge models have been used for evaluating both human and AI
 generated content, specifically by providing scores and rationales. Rationales,

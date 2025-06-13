@@ -7,7 +7,7 @@ year: 2023
 bibkey: denny2023using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.16364"}
-tags: ['Prompting', 'Merging', 'Reinforcement Learning']
+tags: ['Merging', 'Prompting', 'Reinforcement Learning']
 ---
 With their remarkable ability to generate code, large language models (LLMs)
 are a transformative technology for computing education practice. They have

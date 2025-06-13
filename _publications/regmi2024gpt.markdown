@@ -7,7 +7,7 @@ year: 2024
 bibkey: regmi2024gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05276"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture']
 ---
 Large Language Models (LLMs), such as GPT, have revolutionized artificial
 intelligence by enabling nuanced understanding and generation of human-like

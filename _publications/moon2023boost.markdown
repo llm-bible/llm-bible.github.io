@@ -8,7 +8,7 @@ bibkey: moon2023boost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07215"}
   - {name: "Code", url: "https://github.com/Lune-Blue/COFFEE"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Code editing is an essential step towards reliable program synthesis to
 automatically correct critical errors generated from code LLMs. Recent studies

@@ -7,7 +7,7 @@ year: 2024
 bibkey: qi2024constraint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.24175"}
-tags: ['Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques']
 ---
 Large language models (LLMs) struggle to follow instructions with complex
 constraints in format, length, etc. Following the conventional

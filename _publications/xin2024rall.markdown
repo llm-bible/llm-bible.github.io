@@ -7,7 +7,7 @@ year: 2024
 bibkey: xin2024rall
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03204"}
-tags: ['Security', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Language Modeling', 'Model Architecture', 'Security', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 We present RALL-E, a robust language modeling method for text-to-speech (TTS)
 synthesis. While previous work based on large language models (LLMs) shows

@@ -7,7 +7,7 @@ year: 2022
 bibkey: white2022probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.00667"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Abstractive text summarization has recently become a popular approach, but
 data hallucination remains a serious problem, including with quantitative data.

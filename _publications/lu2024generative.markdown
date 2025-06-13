@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11591"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Prompting']
 ---
 Evaluating the quality of automatically generated question items has been a
 long standing challenge. In this paper, we leverage LLMs to simulate student

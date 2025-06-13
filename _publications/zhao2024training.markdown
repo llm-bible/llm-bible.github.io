@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00605"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 We introduce LongSkywork, a long-context Large Language Model (LLM) capable
 of processing up to 200,000 tokens. We provide a training recipe for

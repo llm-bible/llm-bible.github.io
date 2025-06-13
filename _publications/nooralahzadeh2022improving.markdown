@@ -7,7 +7,7 @@ year: 2022
 bibkey: nooralahzadeh2022improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.02982"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 While several benefits were realized for multilingual vision-language
 pretrained models, recent benchmarks across various tasks and languages showed

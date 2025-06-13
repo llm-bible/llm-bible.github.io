@@ -8,7 +8,7 @@ bibkey: liu2025protecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21824"}
   - {name: "Code", url: "https://github.com/ttthhl/Protecting_Your_Video_Content"}
-tags: ['Security', 'Tools', 'Reinforcement Learning', 'Has Code', 'Prompting']
+tags: ['Tools', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
 ---
 Recently, video-based large language models (video-based LLMs) have achieved
 impressive performance across various video comprehension tasks. However, this

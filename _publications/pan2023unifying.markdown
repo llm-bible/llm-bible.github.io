@@ -7,7 +7,7 @@ year: 2023
 bibkey: pan2023unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.08302"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Language Modeling', 'RAG', 'GPT', 'Interpretability and Explainability', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Tools', 'Applications', 'Survey Paper', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques']
 ---
 Large language models (LLMs), such as ChatGPT and GPT4, are making new waves
 in the field of natural language processing and artificial intelligence, due to

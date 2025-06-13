@@ -7,7 +7,7 @@ year: 2023
 bibkey: ren2023time
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02051"}
-tags: ['Multimodal Models', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Multimodal Models']
 ---
 This work proposes TimeChat, a time-sensitive multimodal large language model
 specifically designed for long video understanding. Our model incorporates two

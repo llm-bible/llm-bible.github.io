@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024hardware
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17678"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Large-Scale Training', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Attention Mechanism']
 ---
 Sparse attention, which selectively attends to a subset of tokens in the
 context was supposed to be efficient. However, its theoretical reduction in

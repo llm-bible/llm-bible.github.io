@@ -7,7 +7,7 @@ year: 2023
 bibkey: liyanage2023augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.04059"}
-tags: ['Prompting', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Amid ongoing health crisis, there is a growing necessity to discern possible
 signs of Wellness Dimensions (WD) manifested in self-narrated text. As the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: vladika2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17112"}
-tags: ['Language Modeling', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'Language Modeling', 'Reinforcement Learning']
 ---
 The increasing popularity of Large Language Models (LLMs) in recent years has
 changed the way users interact with and pose questions to AI-based

@@ -8,7 +8,7 @@ bibkey: lu2024not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14800"}
   - {name: "Code", url: "https://github.com/Lucky-Lance/Expert_Sparsity"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pruning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Has Code', 'Pruning']
 ---
 A pivotal advancement in the progress of large language models (LLMs) is the
 emergence of the Mixture-of-Experts (MoE) LLMs. Compared to traditional LLMs,

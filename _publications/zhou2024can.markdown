@@ -8,7 +8,7 @@ bibkey: zhou2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23856"}
   - {name: "Code", url: "https://github.com/tmlr-group/NoisyRationales"}
-tags: ['Security', 'RAG', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Security', 'Has Code', 'Prompting']
 ---
 This paper investigates an under-explored challenge in large language models
 (LLMs): chain-of-thought prompting with noisy rationales, which include

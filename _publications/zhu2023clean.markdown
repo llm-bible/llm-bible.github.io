@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhu2023clean
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09154"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Few-Shot']
+tags: ['Fine-Tuning', 'Few-Shot', 'Training Techniques', 'Pretraining Methods']
 ---
 We are currently in an era of fierce competition among various large language
 models (LLMs) continuously pushing the boundaries of benchmark performance.

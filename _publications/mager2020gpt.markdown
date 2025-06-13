@@ -7,7 +7,7 @@ year: 2020
 bibkey: mager2020gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.09123"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Meaning Representations (AMRs) are broad-coverage sentence-level semantic
 graphs. Existing approaches to generating text from AMR have focused on

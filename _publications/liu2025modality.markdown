@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025modality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15910"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Pruning']
+tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Multimodal Models']
 ---
 Generative models such as Large Language Models (LLMs) and Multimodal Large
 Language Models (MLLMs) trained on massive datasets can lead them to memorize

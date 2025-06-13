@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023tem
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08414"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Video-language pre-trained models have shown remarkable success in guiding
 video question-answering (VideoQA) tasks. However, due to the length of video

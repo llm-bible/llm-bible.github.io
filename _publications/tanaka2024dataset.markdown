@@ -7,7 +7,7 @@ year: 2024
 bibkey: tanaka2024dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13313"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 We study the problem of completing various visual document understanding
 (VDU) tasks, e.g., question answering and information extraction, on real-world

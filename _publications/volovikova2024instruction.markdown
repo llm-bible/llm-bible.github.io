@@ -7,7 +7,7 @@ year: 2024
 bibkey: volovikova2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09287"}
-tags: ['Agentic', 'Agent', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Agent', 'Reinforcement Learning']
 ---
 In this study, we address the issue of enabling an artificial intelligence
 agent to execute complex language instructions within virtual environments. In

@@ -7,7 +7,7 @@ year: 2025
 bibkey: decerqueira2025mapping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04785"}
-tags: ['Responsible AI', 'Training Techniques', 'Tools', 'RAG', 'Merging', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Merging', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 The rapid proliferation of Large Language Models (LLMs) has raised
 significant trustworthiness and ethical concerns. Despite the widespread

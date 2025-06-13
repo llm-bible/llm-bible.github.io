@@ -7,7 +7,7 @@ year: 2025
 bibkey: makridis2025user
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04261"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability']
 ---
 In today's data-driven era, computational systems generate vast amounts of
 data that drive the digital transformation of industries, where Artificial

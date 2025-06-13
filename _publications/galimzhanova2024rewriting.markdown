@@ -7,7 +7,7 @@ year: 2024
 bibkey: galimzhanova2024rewriting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07797"}
-tags: ['Agentic', 'Few-Shot', 'Reinforcement Learning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Agentic', 'Applications', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Many recent studies have shown the ability of large language models (LLMs) to
 achieve state-of-the-art performance on many NLP tasks, such as question

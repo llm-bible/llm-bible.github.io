@@ -7,7 +7,7 @@ year: 2024
 bibkey: cherepanova2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04642"}
-tags: ['Efficiency and Optimization', 'Fairness', 'Few-Shot', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Few-Shot', 'Fairness', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have been shown to be effective on tabular
 prediction tasks in the low-data regime, leveraging their internal knowledge

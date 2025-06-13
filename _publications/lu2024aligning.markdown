@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024aligning
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2403.05063v2"}
-tags: ['RecSys', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'RecSys', 'Reinforcement Learning']
 ---
 Inspired by the exceptional general intelligence of Large Language Models
 (LLMs), researchers have begun to explore their application in pioneering the

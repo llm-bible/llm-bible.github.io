@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20021"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Cross-lingual summarization (CLS) aims to generate a summary for the source
 text in a different target language. Currently, instruction-tuned large

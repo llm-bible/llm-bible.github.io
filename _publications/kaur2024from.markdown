@@ -7,7 +7,7 @@ year: 2024
 bibkey: kaur2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16142"}
-tags: ['Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 This groundbreaking study explores the expanse of Large Language Models
 (LLMs), such as Generative Pre-Trained Transformer (GPT) and Bidirectional

@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025risks
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22040"}
-tags: ['Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Prompting']
+tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Prompting']
 ---
 Generative artificial intelligence (GenAI) or large language models (LLMs)
 have the potential to revolutionize computational social science, particularly

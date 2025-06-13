@@ -7,7 +7,7 @@ year: 2024
 bibkey: thulke2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09646"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques']
 ---
 This paper introduces ClimateGPT, a model family of domain-specific large
 language models that synthesize interdisciplinary research on climate change.

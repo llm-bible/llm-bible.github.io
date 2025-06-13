@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08417"}
-tags: ['WMT', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods']
 ---
 Moderate-sized large language models (LLMs) -- those with 7B or 13B
 parameters -- exhibit promising machine translation (MT) performance. However,

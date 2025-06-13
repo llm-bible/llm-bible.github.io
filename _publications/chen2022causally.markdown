@@ -8,7 +8,7 @@ bibkey: chen2022causally
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10678"}
   - {name: "Code", url: "https://github.com/chenyuen0103/gender-bias"}
-tags: ['Tools', 'Bias Mitigation', 'Ethics and Bias', 'Has Code', 'Prompting']
+tags: ['Tools', 'Ethics and Bias', 'Bias Mitigation', 'Has Code', 'Prompting']
 ---
 Generated texts from large language models (LLMs) have been shown to exhibit
 a variety of harmful, human-like biases against various demographics. These

@@ -8,7 +8,7 @@ bibkey: communication2023massively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.11596"}
   - {name: "Code", url: "https://github.com/facebookresearch/seamless_communication"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'BERT', 'Has Code', 'Applications', 'INTERSPEECH']
+tags: ['Responsible AI', 'INTERSPEECH', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'BERT', 'Multimodal Models']
 ---
 What does it take to create the Babel Fish, a tool that can help individuals
 translate speech between any two languages? While recent breakthroughs in

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.07678"}
-tags: ['Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This paper introduces a simple yet effective query expansion approach,
 denoted as query2doc, to improve both sparse and dense retrieval systems. The

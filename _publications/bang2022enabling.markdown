@@ -7,7 +7,7 @@ year: 2022
 bibkey: bang2022enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.07652"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'Interpretability and Explainability', 'Interpretability', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 Many NLP classification tasks, such as sexism/racism detection or toxicity
 detection, are based on human values. Yet, human values can vary under diverse

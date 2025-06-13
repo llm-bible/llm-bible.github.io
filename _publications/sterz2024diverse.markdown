@@ -7,7 +7,7 @@ year: 2024
 bibkey: sterz2024diverse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18023"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Security', 'Multimodal Models', 'Prompting']
 ---
 Vision Language Models (VLMs) extend remarkable capabilities of text-only
 large language models and vision-only models, and are able to learn from and

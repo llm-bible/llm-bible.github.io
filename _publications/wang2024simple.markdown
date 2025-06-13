@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10718"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Existing agents based on large language models (LLMs) demonstrate robust
 problem-solving capabilities by integrating LLMs' inherent knowledge, strong

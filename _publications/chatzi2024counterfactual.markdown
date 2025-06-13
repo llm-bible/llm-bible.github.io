@@ -7,7 +7,7 @@ year: 2024
 bibkey: chatzi2024counterfactual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.17027"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 "Sure, I am happy to generate a story for you: Captain Lyra stood at the helm
 of her trusty ship, the Maelstrom's Fury, gazing out at the endless sea. [...]

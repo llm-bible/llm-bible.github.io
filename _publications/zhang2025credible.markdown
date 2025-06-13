@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025credible
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16787"}
-tags: ['RAG', 'Applications', 'Survey Paper', 'Tools']
+tags: ['RAG', 'Tools', 'Survey Paper', 'Applications']
 ---
 Multi-hop question answering (QA) presents a considerable challenge for
 Retrieval-Augmented Generation (RAG), requiring the structured decomposition of

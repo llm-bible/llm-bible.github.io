@@ -7,7 +7,7 @@ year: 2024
 bibkey: koutcheme2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.05253"}
-tags: ['Ethics and Bias', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown great potential for the automatic
 generation of feedback in a wide range of computing contexts. However, concerns

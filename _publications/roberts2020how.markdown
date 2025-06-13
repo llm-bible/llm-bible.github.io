@@ -8,7 +8,7 @@ bibkey: roberts2020how
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2002.08910v4"}
   - {name: "Code", url: "https://goo.gle/t5-cbqa"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 It has recently been observed that neural language models trained on
 unstructured text can implicitly store and retrieve knowledge using natural

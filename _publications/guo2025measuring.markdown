@@ -8,7 +8,7 @@ bibkey: guo2025measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06994"}
   - {name: "Code", url: "https://xhguo7.github.io/SyncMind/"}
-tags: ['Agentic', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Has Code', 'Reinforcement Learning']
 ---
 Software engineering (SE) is increasingly collaborative, with developers
 working together on shared complex codebases. Effective collaboration in shared

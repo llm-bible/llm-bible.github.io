@@ -8,7 +8,7 @@ bibkey: yüksel2024measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12402"}
   - {name: "Code", url: "https://github.com/ArdaYueksel/TurkishMMLU"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Ethics and Bias', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Has Code', 'Few-Shot']
 ---
 Multiple choice question answering tasks evaluate the reasoning,
 comprehension, and mathematical abilities of Large Language Models (LLMs).

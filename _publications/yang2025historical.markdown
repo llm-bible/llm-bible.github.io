@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025historical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09488"}
-tags: ['Agentic', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Applications', 'Reinforcement Learning']
 ---
 The capabilities of the latest large language models (LLMs) have been
 extended from pure natural language understanding to complex reasoning tasks.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: cui2024theoretical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16540"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Few-shot Chain-of-Thought (CoT) prompting has demonstrated strong performance
 in improving the reasoning capabilities of large language models (LLMs). While

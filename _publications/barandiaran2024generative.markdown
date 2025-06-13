@@ -7,7 +7,7 @@ year: 2024
 bibkey: barandiaran2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06812"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 This paper introduces the concept of ``generative midtended cognition'',
 exploring the integration of generative AI with human cognition. The term

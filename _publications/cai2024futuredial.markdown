@@ -7,7 +7,7 @@ year: 2024
 bibkey: cai2024futuredial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13084"}
-tags: ['SLT', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'SLT', 'Reinforcement Learning']
 ---
 Recently, increasing research interests have focused on retrieval augmented
 generation (RAG) to mitigate hallucination for large language models (LLMs).

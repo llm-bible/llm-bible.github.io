@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08420"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Visual explanation (attention)-guided learning uses not only labels but also
 explanations to guide model reasoning process. While visual attention-guided

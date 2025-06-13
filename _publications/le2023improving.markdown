@@ -7,7 +7,7 @@ year: 2023
 bibkey: le2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.13372"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Effective evaluation methods remain a significant challenge for research on
 open-domain conversational dialogue systems. Explicit satisfaction ratings can

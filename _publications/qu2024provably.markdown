@@ -7,7 +7,7 @@ year: 2024
 bibkey: qu2024provably
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16820"}
-tags: ['Security', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Security', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities of
 generating texts resembling human language. However, they can be misused by

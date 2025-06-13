@@ -7,7 +7,7 @@ year: 2025
 bibkey: nazarov2025rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01464"}
-tags: ['Training Techniques', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning of Large Language Models (LLMs) for downstream tasks, performed
 on domain-specific data has shown significant promise. However, commercial use

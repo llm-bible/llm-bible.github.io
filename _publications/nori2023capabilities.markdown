@@ -7,7 +7,7 @@ year: 2023
 bibkey: nori2023capabilities
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.13375"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Interpretability and Explainability', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 natural language understanding and generation across various domains, including

@@ -7,7 +7,7 @@ year: 2023
 bibkey: zheng2023noisy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00258"}
-tags: ['Prompting', 'Security', 'Few-Shot', 'In-Context Learning']
+tags: ['Few-Shot', 'Security', 'Prompting', 'In-Context Learning']
 ---
 Recent advances in prompt engineering enable large language models (LLMs) to
 solve multi-hop logical reasoning problems with impressive accuracy. However,

@@ -8,7 +8,7 @@ bibkey: chen2023x
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10843"}
   - {name: "Code", url: "https://github.com/Schuture/Benchmarking-Awesome-Diffusion-Models"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 This paper introduces a novel explainable image quality evaluation approach
 called X-IQE, which leverages visual large language models (LLMs) to evaluate

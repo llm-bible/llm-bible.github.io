@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01713"}
-tags: ['RAG', 'Efficiency and Optimization', 'Tools']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization']
 ---
 Retrieval-augmented generation (RAG) has demonstrated significant proficiency
 in conducting question-answering (QA) tasks within a specified corpus.

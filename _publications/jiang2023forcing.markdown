@@ -7,7 +7,7 @@ year: 2023
 bibkey: jiang2023forcing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04748"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Growing applications of large language models (LLMs) trained by a third party
 raise serious concerns on the security vulnerability of LLMs.It has been

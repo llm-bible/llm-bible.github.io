@@ -7,7 +7,7 @@ year: 2024
 bibkey: glorioso2024compact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16712"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In this technical report, we present Zamba, a novel 7B SSM-transformer hybrid
 model which achieves competitive performance against leading open-weight models

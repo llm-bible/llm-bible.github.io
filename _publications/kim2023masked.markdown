@@ -7,7 +7,7 @@ year: 2023
 bibkey: kim2023masked
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12208"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 While generative modeling on multimodal image-text data has been actively
 developed with large-scale paired datasets, there have been limited attempts to

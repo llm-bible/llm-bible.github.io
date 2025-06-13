@@ -7,7 +7,7 @@ year: 2025
 bibkey: peláezgonzález2025domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04976"}
-tags: ['Prompting', 'Security', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Security', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 The study of large language models (LLMs) is a key area in open-world machine
 learning. Although LLMs demonstrate remarkable natural language processing

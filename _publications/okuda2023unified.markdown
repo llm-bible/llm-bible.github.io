@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.15645"}
   - {name: "Code", url: "https://github.com/katsumiok/ts-askit"}
   - {name: "Code", url: "https://github.com/katsumiok/pyaskit,"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) exhibit a unique phenomenon known as emergent
 abilities, demonstrating adeptness across numerous tasks, from text

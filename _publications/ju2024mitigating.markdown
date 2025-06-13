@@ -7,7 +7,7 @@ year: 2024
 bibkey: ju2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03743"}
-tags: ['Training Techniques', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Supervised fine-tuning (SFT) is crucial for adapting Large Language Models
 (LLMs) to specific tasks. In this work, we demonstrate that the order of

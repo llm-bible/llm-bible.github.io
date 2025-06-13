@@ -8,7 +8,7 @@ bibkey: jiang2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20410"}
   - {name: "Code", url: "https://github.com/YJiangcm/FollowBench"}
-tags: ['Prompting', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Has Code', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 The ability to follow instructions is crucial for Large Language Models
 (LLMs) to handle various real-world applications. Existing benchmarks primarily

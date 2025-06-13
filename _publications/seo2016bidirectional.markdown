@@ -7,7 +7,7 @@ year: 2016
 bibkey: seo2016bidirectional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1611.01603"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Machine comprehension (MC), answering a query about a given context
 paragraph, requires modeling complex interactions between the context and the

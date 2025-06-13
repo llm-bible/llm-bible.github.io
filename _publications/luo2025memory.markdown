@@ -7,7 +7,7 @@ year: 2025
 bibkey: luo2025memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12574"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLMs) demonstrate impressive
 performance in long context generation. Extending the context length has

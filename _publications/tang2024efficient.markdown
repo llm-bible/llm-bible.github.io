@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15891"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
 ---
 The memory and computational demands of Key-Value (KV) cache present
 significant challenges for deploying long-context language models. Previous

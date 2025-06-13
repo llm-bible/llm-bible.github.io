@@ -7,7 +7,7 @@ year: 2025
 bibkey: haldar2025assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03951"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 This innovative practice WIP paper describes a research study that explores
 the integration of ChatGPT into the software testing curriculum and evaluates

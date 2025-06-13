@@ -7,7 +7,7 @@ year: 2024
 bibkey: nian2024w
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08444"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 In knowledge-intensive tasks such as open-domain question answering (OpenQA),
 large language models (LLMs) often struggle to generate factual answers,

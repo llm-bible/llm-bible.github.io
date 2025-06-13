@@ -7,7 +7,7 @@ year: 2025
 bibkey: podolak2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10509"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Model Architecture', 'RAG']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Model Architecture']
 ---
 This study presents a comprehensive reproducibility and extension analysis of
 the Setwise prompting methodology for zero-shot ranking with Large Language

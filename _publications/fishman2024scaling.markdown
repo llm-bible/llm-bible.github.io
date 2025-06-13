@@ -8,7 +8,7 @@ bibkey: fishman2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12517"}
   - {name: "Code", url: "https://github.com/Anonymous1252022/Megatron-DeepSpeed"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Quantization', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Quantization']
 ---
 We train, for the first time, large language models using FP8 precision on
 datasets up to 2 trillion tokens -- a 20-fold increase over previous limits.

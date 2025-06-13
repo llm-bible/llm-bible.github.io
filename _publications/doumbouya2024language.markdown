@@ -7,7 +7,7 @@ year: 2024
 bibkey: doumbouya2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04811"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Security', 'Prompting']
 ---
 Despite their demonstrated valuable capabilities, state-of-the-art (SOTA)
 widely deployed large language models (LLMs) still have the potential to cause

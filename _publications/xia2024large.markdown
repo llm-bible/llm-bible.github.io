@@ -7,7 +7,7 @@ year: 2024
 bibkey: xia2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01133"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 Monocular depth estimation is a critical function in computer vision
 applications. This paper shows that large language models (LLMs) can

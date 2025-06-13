@@ -7,7 +7,7 @@ year: 2023
 bibkey: kasahara2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11026"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Automatic evaluation of text generation is essential for improving the
 accuracy of generation tasks. In light of the current trend towards

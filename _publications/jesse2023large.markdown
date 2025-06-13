@@ -7,7 +7,7 @@ year: 2023
 bibkey: jesse2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.11455"}
-tags: ['Prompting', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting']
 ---
 With the advent of powerful neural language models, AI-based systems to
 assist developers in coding tasks are becoming widely available; Copilot is one

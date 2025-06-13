@@ -7,7 +7,7 @@ year: 2025
 bibkey: niranjan2025limitations
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01162"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 Steering vectors are a promising approach to aligning language model behavior
 at inference time. In this paper, we propose a framework to assess the

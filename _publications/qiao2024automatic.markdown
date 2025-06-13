@@ -8,7 +8,7 @@ bibkey: qiao2024automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05268"}
   - {name: "Code", url: "https://github.com/zjunlp/AutoAct"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Language agents have achieved considerable performance on various complex
 question-answering tasks by planning with external tools. Despite the incessant

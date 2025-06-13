@@ -8,7 +8,7 @@ bibkey: muennighoff2022crosslingual
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2211.01786v2"}
   - {name: "Code", url: "https://github.com/bigscience-workshop/xmtf"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Multitask prompted finetuning (MTF) has been shown to help large language
 models generalize to new tasks in a zero-shot setting, but so far explorations

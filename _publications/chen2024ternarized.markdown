@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024ternarized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07177"}
-tags: ['Efficiency and Optimization', 'Language Modeling', 'Distillation', 'RAG', 'Quantization', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Quantization', 'Distillation']
 ---
 Large language models (LLMs) have achieved remarkable performance on Natural
 Language Processing (NLP) tasks, but they are hindered by high computational

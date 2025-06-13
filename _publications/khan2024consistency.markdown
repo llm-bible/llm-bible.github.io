@@ -7,7 +7,7 @@ year: 2024
 bibkey: khan2024consistency
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10193"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'GPT', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Multimodal Models']
 ---
 The goal of selective prediction is to allow an a model to abstain when it
 may not be able to deliver a reliable prediction, which is important in

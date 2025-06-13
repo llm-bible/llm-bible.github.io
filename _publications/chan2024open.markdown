@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11847"}
   - {name: "Code", url: "https://youtu.be/lWN9hXBOLyQ)"}
   - {name: "Code", url: "https://github.com/alan-turing-institute/prompto)"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Has Code', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Recent surge in Large Language Model (LLM) availability has opened exciting
 avenues for research. However, efficiently interacting with these models

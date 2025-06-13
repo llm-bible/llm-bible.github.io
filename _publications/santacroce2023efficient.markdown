@@ -7,7 +7,7 @@ year: 2023
 bibkey: santacroce2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.00754"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Reinforcement Learning with Human Feedback (RLHF) has revolutionized language
 modeling by aligning models with human preferences. However, the RL stage,

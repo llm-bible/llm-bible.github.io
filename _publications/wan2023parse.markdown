@@ -7,7 +7,7 @@ year: 2023
 bibkey: wan2023parse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16701"}
-tags: ['Pretraining Methods', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods']
 ---
 Syntactically controlled paraphrase generation requires language models to
 generate paraphrases for sentences according to specific syntactic structures.

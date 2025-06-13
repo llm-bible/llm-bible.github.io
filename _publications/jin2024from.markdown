@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02479"}
-tags: ['Agentic', 'Security', 'Survey Paper', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Security']
 ---
 With the rise of large language models (LLMs), researchers are increasingly
 exploring their applications in var ious vertical domains, such as software

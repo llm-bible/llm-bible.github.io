@@ -7,7 +7,7 @@ year: 2023
 bibkey: varshney2023accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18581"}
-tags: ['Language Modeling', 'Applications', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['Applications', 'Efficiency and Optimization', 'Language Modeling', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have achieved remarkable performance across a
 wide variety of natural language tasks; however, their large size makes their

@@ -8,7 +8,7 @@ bibkey: zhang2024speechgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13527"}
   - {name: "Code", url: "https://github.com/0nutation/SpeechGPT"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Has Code']
+tags: ['Efficiency and Optimization', 'GPT', 'Language Modeling', 'Model Architecture', 'Has Code', 'Pretraining Methods']
 ---
 Benefiting from effective speech modeling, current Speech Large Language
 Models (SLLMs) have demonstrated exceptional capabilities in in-context speech

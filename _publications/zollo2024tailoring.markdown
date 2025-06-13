@@ -7,7 +7,7 @@ year: 2024
 bibkey: zollo2024tailoring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.20296"}
-tags: ['Prompting', 'RAG', 'In-Context Learning', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
 ---
 As LLMs become capable of complex tasks, there is growing potential for
 personalized interactions tailored to the subtle and idiosyncratic preferences

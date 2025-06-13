@@ -7,7 +7,7 @@ year: 2024
 bibkey: jones2024toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05200"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Tools', 'Attention Mechanism', 'Model Architecture']
 ---
 This article proposes a new integration of linguistic anthropology and
 machine learning (ML) around convergent interests in both the underpinnings of

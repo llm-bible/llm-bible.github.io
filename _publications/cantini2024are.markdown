@@ -7,7 +7,7 @@ year: 2024
 bibkey: cantini2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08441"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Fairness', 'Bias Mitigation', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'Ethics and Bias', 'Bias Mitigation', 'Security', 'Training Techniques', 'Fairness', 'Prompting']
 ---
 Large Language Models (LLMs) have revolutionized artificial intelligence,
 demonstrating remarkable computational power and linguistic capabilities.

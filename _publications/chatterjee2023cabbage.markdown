@@ -7,7 +7,7 @@ year: 2023
 bibkey: chatterjee2023cabbage
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05481"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'BERT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'BERT']
 ---
 The theory of Conceptual Spaces is an influential cognitive-linguistic
 framework for representing the meaning of concepts. Conceptual spaces are

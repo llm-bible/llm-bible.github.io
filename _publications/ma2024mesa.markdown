@@ -8,7 +8,7 @@ bibkey: ma2024mesa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15859"}
   - {name: "Code", url: "https://github.com/soacker/Mesa-Extrapolation"}
-tags: ['Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Attention Mechanism']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Large language models (LLMs), although having revolutionized many fields,
 still suffer from the challenging extrapolation problem, where the inference

@@ -8,7 +8,7 @@ bibkey: tian2023evil
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11855"}
   - {name: "Code", url: "https://github.com/T1aNS1R/Evil-Geniuses"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Security', 'Has Code', 'Prompting']
 ---
 Rapid advancements in large language models (LLMs) have revitalized in
 LLM-based agents, exhibiting impressive human-like behaviors and cooperative

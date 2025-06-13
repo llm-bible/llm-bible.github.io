@@ -7,7 +7,7 @@ year: 2024
 bibkey: benara2024crafting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16714"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) have rapidly improved text embeddings for a
 growing array of natural-language processing tasks. However, their opaqueness

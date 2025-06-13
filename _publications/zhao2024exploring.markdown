@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06680"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Human cognition exhibits systematic compositionality, the algebraic ability
 to generate infinite novel combinations from finite learned components, which

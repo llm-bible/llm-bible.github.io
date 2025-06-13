@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhai2022high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.03052"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Transformers have become keystone models in natural language processing over
 the past decade. They have achieved great popularity in deep learning

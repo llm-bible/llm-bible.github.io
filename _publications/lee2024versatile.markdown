@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024versatile
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.20327"}
-tags: ['RAG', 'Distillation', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation']
 ---
 We present Gecko, a compact and versatile text embedding model. Gecko
 achieves strong retrieval performance by leveraging a key idea: distilling

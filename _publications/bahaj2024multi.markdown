@@ -7,7 +7,7 @@ year: 2024
 bibkey: bahaj2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15815"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Asthma rates have risen globally, driven by environmental and lifestyle
 factors. Access to immediate medical care is limited, particularly in

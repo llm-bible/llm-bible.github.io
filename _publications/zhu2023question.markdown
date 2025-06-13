@@ -8,7 +8,7 @@ bibkey: zhu2023question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14221"}
   - {name: "Code", url: "https://github.com/TianHongZXY/qaap"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Question answering plays a pivotal role in human daily life because it
 involves our acquisition of knowledge about the world. However, due to the

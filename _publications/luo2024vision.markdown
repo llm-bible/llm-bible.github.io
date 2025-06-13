@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22330"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Autoregressive vision-language models (VLMs) can handle many tasks within a
 single model, yet the representations that enable this capability remain

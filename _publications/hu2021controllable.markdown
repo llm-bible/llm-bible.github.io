@@ -7,7 +7,7 @@ year: 2021
 bibkey: hu2021controllable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.06717"}
-tags: ['Language Modeling', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Applications', 'Tools', 'Language Modeling', 'Reinforcement Learning']
 ---
 Controllable text generation is an appealing but challenging task, which
 allows users to specify particular attributes of the generated outputs. In this

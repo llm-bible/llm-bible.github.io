@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06232"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Multimodal Models']
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Tools']
 ---
 Chain-of-Thought (CoT) reasoning has proven effective in natural language
 tasks but remains underexplored in multimodal alignment. This study

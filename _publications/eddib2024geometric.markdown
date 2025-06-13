@@ -7,7 +7,7 @@ year: 2024
 bibkey: eddib2024geometric
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09250"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) is computationally intensive because
 it requires updating all parameters. Low-Rank Adaptation (LoRA) improves

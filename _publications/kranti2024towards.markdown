@@ -7,7 +7,7 @@ year: 2024
 bibkey: kranti2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11041"}
-tags: ['Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Prompting', 'In-Context Learning']
 ---
 While there has been a lot of research recently on robots in household
 environments, at the present time, most robots in existence can be found on

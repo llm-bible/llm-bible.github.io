@@ -7,7 +7,7 @@ year: 2023
 bibkey: parelli2023interpretable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.03726"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Transformer-based architectures have recently demonstrated remarkable
 performance in the Visual Question Answering (VQA) task. However, such models

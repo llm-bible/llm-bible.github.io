@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023fusing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.04663"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Learning paradigms for large language models (LLMs) currently tend to fall
 within either in-context learning (ICL) or full fine-tuning. Each of these

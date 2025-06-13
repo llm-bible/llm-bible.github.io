@@ -7,7 +7,7 @@ year: 2025
 bibkey: saynova2025identifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.10671"}
-tags: ['Ethics and Bias', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 In this study, we investigate whether LLMs can be used to indicate if a study
 in the behavioural social sciences is replicable. Using a dataset of 14

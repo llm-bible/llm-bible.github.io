@@ -7,7 +7,7 @@ year: 2020
 bibkey: gu2020tailored
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.13835"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'GPT', 'Pretraining Methods', 'BERT', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 The recent success of large pre-trained language models such as BERT and
 GPT-2 has suggested the effectiveness of incorporating language priors in

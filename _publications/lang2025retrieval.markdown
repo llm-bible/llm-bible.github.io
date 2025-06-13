@@ -8,7 +8,7 @@ bibkey: lang2025retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01120"}
   - {name: "Code", url: "https://github.com/Jian-Lang/RAGPT"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Multimodal learning with incomplete modality is practical and challenging.
 Recently, researchers have focused on enhancing the robustness of pre-trained

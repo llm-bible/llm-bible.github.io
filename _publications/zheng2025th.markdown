@@ -7,7 +7,7 @@ year: 2025
 bibkey: zheng2025th
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.08708"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Efficiency and Optimization']
+tags: ['Security', 'Tools', 'Efficiency and Optimization', 'Model Architecture']
 ---
 As Large Language Models (LLMs) advance, Machine-Generated Texts (MGTs) have
 become increasingly fluent, high-quality, and informative. Existing wide-range

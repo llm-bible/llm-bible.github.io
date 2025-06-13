@@ -7,7 +7,7 @@ year: 2024
 bibkey: arcan2024assessment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.04592"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Mental health challenges pose considerable global burdens on individuals and
 communities. Recent data indicates that more than 20% of adults may encounter

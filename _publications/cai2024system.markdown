@@ -7,7 +7,7 @@ year: 2024
 bibkey: cai2024system
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16964"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Solving complex mathematical problems via system-2 reasoning is a natural
 human skill, yet it remains a significant challenge for current large language

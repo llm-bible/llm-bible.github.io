@@ -7,7 +7,7 @@ year: 2023
 bibkey: yan2023ask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18127"}
-tags: ['Prompting', 'Interpretability', 'Training Techniques', 'Tools']
+tags: ['Interpretability', 'Training Techniques', 'Prompting', 'Tools']
 ---
 Large language models (LLMs) demonstrate their promise in tackling
 complicated practical challenges by combining action-based policies with chain

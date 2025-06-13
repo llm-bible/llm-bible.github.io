@@ -7,7 +7,7 @@ year: 2024
 bibkey: miao2024subject
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12164"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Text-to-image generative models have recently attracted considerable
 interest, enabling the synthesis of high-quality images from textual prompts.

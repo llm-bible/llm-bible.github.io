@@ -8,7 +8,7 @@ bibkey: wang2022boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.01813"}
   - {name: "Code", url: "https://github.com/HenryJunW/TAG"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Text-VQA aims at answering questions that require understanding the textual
 cues in an image. Despite the great progress of existing Text-VQA methods,

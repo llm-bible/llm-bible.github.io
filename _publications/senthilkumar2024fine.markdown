@@ -7,7 +7,7 @@ year: 2024
 bibkey: senthilkumar2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07826"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Language models often misinterpret human intentions due to their handling of
 ambiguity, a limitation well-recognized in NLP research. While morally clear

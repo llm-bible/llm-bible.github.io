@@ -7,7 +7,7 @@ year: 2023
 bibkey: köpf2023openassistant
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.07327"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Aligning large language models (LLMs) with human preferences has proven to
 drastically improve usability and has driven rapid adoption as demonstrated by

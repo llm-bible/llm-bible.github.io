@@ -7,7 +7,7 @@ year: 2019
 bibkey: fan2019long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.09190"}
-tags: ['Language Modeling', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'Language Modeling', 'Reinforcement Learning']
 ---
 We introduce the first large-scale corpus for long-form question answering, a
 task requiring elaborate and in-depth answers to open-ended questions. The

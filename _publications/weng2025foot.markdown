@@ -8,7 +8,7 @@ bibkey: weng2025foot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19820"}
   - {name: "Code", url: "https://github.com/Jinxiaolong1129/Foot-in-the-door-Jailbreak"}
-tags: ['Responsible AI', 'Security', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
 ---
 Ensuring AI safety is crucial as large language models become increasingly
 integrated into real-world applications. A key challenge is jailbreak, where

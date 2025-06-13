@@ -7,7 +7,7 @@ year: 2024
 bibkey: bao2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11190"}
-tags: ['Agentic', 'Ethics and Bias', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 In aligning large language models (LLMs), utilizing feedback from existing
 advanced AI rather than humans is an important method to scale supervisory

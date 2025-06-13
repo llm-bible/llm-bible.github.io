@@ -7,7 +7,7 @@ year: 2025
 bibkey: schmitt2025contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08323"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Distillation', 'Pruning', 'Quantization', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Quantization', 'Distillation']
 ---
 Context-aware compression techniques have gained increasing attention as
 model sizes continue to grow, introducing computational bottlenecks that hinder

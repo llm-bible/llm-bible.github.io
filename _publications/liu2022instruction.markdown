@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.13431"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 Humans are excellent at understanding language and vision to accomplish a
 wide range of tasks. In contrast, creating general instruction-following

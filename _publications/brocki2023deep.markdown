@@ -7,7 +7,7 @@ year: 2023
 bibkey: brocki2023deep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.09412"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Reinforcement Learning']
+tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
 ---
 Mental health counseling remains a major challenge in modern society due to
 cost, stigma, fear, and unavailability. We posit that generative artificial

@@ -8,7 +8,7 @@ bibkey: zhang2023multilevel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.05179"}
   - {name: "Code", url: "https://github.com/DAMO-NLP-SG/M3Exam"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Despite the existence of various benchmarks for evaluating natural language
 processing models, we argue that human exams are a more suitable means of

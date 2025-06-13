@@ -7,7 +7,7 @@ year: 2024
 bibkey: mai2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14049"}
-tags: ['Prompting', 'RAG', 'In-Context Learning', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
 ---
 In-context learning (ICL) is a powerful paradigm where large language models
 (LLMs) benefit from task demonstrations added to the prompt. Yet, selecting

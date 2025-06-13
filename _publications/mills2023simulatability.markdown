@@ -7,7 +7,7 @@ year: 2023
 bibkey: mills2023simulatability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12747"}
-tags: ['Responsible AI', 'Model Architecture', 'RAG', 'Interpretability', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Responsible AI', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Attention Mechanism']
 ---
 How do we measure the efficacy of language model explainability methods?
 While many explainability methods have been developed, they are typically

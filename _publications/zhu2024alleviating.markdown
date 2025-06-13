@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024alleviating
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.18476v1"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'Training Techniques', 'Multimodal Models']
 ---
 Despite achieving rapid developments and with widespread applications, Large
 Vision-Language Models (LVLMs) confront a serious challenge of being prone to

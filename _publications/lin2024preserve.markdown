@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024preserve
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06765"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
 ---
 In recent years, multimodal large language models (MLLMs) have garnered
 significant attention from both industry and academia. However, there is still

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024answer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14499"}
-tags: ['Responsible AI', 'Security', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['Responsible AI', 'GPT', 'Security', 'Pretraining Methods', 'Prompting']
 ---
 The open-ended nature of language generation makes the evaluation of
 autoregressive large language models (LLMs) challenging. One common evaluation

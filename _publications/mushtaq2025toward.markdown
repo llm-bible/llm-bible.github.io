@@ -7,7 +7,7 @@ year: 2025
 bibkey: mushtaq2025toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.03259"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 As large language models (LLMs) like GPT-4 and Llama 3 become integral to
 educational contexts, concerns are mounting over the cultural biases, power

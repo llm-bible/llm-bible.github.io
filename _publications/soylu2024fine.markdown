@@ -7,7 +7,7 @@ year: 2024
 bibkey: soylu2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10930"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Natural Language Processing (NLP) systems are increasingly taking the form of
 sophisticated modular pipelines, e.g., Retrieval Augmented Generation (RAG),

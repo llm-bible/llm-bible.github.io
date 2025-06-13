@@ -7,7 +7,7 @@ year: 2022
 bibkey: chronopoulou2022language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.15236"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large multilingual models trained with self-supervision achieve
 state-of-the-art results in a wide range of natural language processing tasks.

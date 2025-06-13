@@ -7,7 +7,7 @@ year: 2024
 bibkey: weyssow2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09032"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Evaluating the alignment of large language models (LLMs) with user-defined
 coding preferences is a challenging endeavour that requires a deep assessment

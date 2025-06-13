@@ -7,7 +7,7 @@ year: 2023
 bibkey: kang2023mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09114"}
-tags: ['Language Modeling', 'Applications', 'RAG']
+tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated remarkable proficiency in
 generating fluent text. However, they often encounter the challenge of

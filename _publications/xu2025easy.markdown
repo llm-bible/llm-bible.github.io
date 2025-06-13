@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15133"}
   - {name: "Code", url: "https://github.com/zjunlp/EasyEdit"}
   - {name: "Code", url: "https://zjunlp.github.io/project/EasyEdit2/video"}
-tags: ['Responsible AI', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Has Code']
+tags: ['Responsible AI', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 In this paper, we introduce EasyEdit2, a framework designed to enable
 plug-and-play adjustability for controlling Large Language Model (LLM)

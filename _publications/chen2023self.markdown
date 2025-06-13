@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.07742"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Large Pre-trained Transformers exhibit an intriguing capacity for in-context
 learning. Without gradient updates, these models can rapidly construct new

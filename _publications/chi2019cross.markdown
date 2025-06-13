@@ -8,7 +8,7 @@ bibkey: chi2019cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.10481"}
   - {name: "Code", url: "https://github.com/CZWin32768/xnlg"}
-tags: ['Training Techniques', 'RAG', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'RAG', 'Training Techniques', 'Has Code']
 ---
 In this work we focus on transferring supervision signals of natural language
 generation (NLG) tasks between multiple languages. We propose to pretrain the

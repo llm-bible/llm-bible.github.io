@@ -7,7 +7,7 @@ year: 2025
 bibkey: peng2025skywork
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05599"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 We introduce Skywork R1V, a multimodal reasoning model extending the an
 R1-series Large language models (LLM) to visual modalities via an efficient

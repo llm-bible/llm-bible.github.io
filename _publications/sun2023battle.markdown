@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023battle
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10190"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 The success of ChatGPT has ignited an AI race, with researchers striving to
 develop new large language models (LLMs) that can match or surpass the language

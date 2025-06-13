@@ -7,7 +7,7 @@ year: 2024
 bibkey: kodama2024japanese
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13522"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 Humans pay careful attention to the interlocutor's internal state in
 dialogues. For example, in recommendation dialogues, we make recommendations

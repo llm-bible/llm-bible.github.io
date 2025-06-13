@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024dtllm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12139"}
-tags: ['Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Prompting']
 ---
 Visual Language Tracking (VLT) enhances single object tracking (SOT) by
 integrating natural language descriptions from a video, for the precise

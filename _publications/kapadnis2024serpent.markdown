@@ -7,7 +7,7 @@ year: 2024
 bibkey: kapadnis2024serpent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.17912"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Language Modeling', 'GPT', 'Pretraining Methods']
+tags: ['Tools', 'GPT', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Radiology Report Generation (R2Gen) demonstrates how Multi-modal Large
 Language Models (MLLMs) can automate the creation of accurate and coherent

@@ -7,7 +7,7 @@ year: 2022
 bibkey: borisov2022language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.06280"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Pretraining Methods']
 ---
 Tabular data is among the oldest and most ubiquitous forms of data. However,
 the generation of synthetic samples with the original data's characteristics

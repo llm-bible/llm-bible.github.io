@@ -7,7 +7,7 @@ year: 2024
 bibkey: ali2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01288"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Pruning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have demonstrated impressive few-shot in-context
 learning (ICL) abilities. Still, we show that they are sometimes prone to a

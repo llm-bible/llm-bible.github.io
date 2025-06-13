@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024e
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10950"}
-tags: ['Prompting', 'TACL', 'ACL', 'Reinforcement Learning']
+tags: ['ACL', 'TACL', 'Prompting', 'Reinforcement Learning']
 ---
 Most large language models (LLMs) are sensitive to prompts, and another
 synonymous expression or a typo may lead to unexpected results for the model.

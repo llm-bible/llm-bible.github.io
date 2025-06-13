@@ -7,7 +7,7 @@ year: 2019
 bibkey: henderson2019efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03688"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Quantization', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization']
 ---
 General-purpose pretrained sentence encoders such as BERT are not ideal for
 real-world conversational AI applications; they are computationally heavy,

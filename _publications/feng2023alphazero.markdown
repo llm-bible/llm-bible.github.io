@@ -7,7 +7,7 @@ year: 2023
 bibkey: feng2023alphazero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.17179"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'RAG', 'Tools', 'Prompting']
 ---
 Recent works like Tree-of-Thought (ToT) and Reasoning via Planning (RAP) aim
 to augment the reasoning capabilities of LLMs by using tree-search algorithms

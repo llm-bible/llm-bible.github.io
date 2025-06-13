@@ -7,7 +7,7 @@ year: 2024
 bibkey: basmov2024reading
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06283"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 The task of reading comprehension (RC), often implemented as context-based
 question answering (QA), provides a primary means to assess language models'

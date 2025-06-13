@@ -7,7 +7,7 @@ year: 2023
 bibkey: perez2023training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.17224"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'GPT', 'Model Architecture']
 ---
 FP8 formats are gaining popularity to boost the computational efficiency for
 training and inference of large deep learning models. Their main challenge is

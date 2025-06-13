@@ -7,7 +7,7 @@ year: 2024
 bibkey: liao2024extending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14932"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are pivotal in advancing natural language
 processing but often struggle with complex reasoning tasks due to inefficient

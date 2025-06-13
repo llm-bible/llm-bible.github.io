@@ -7,7 +7,7 @@ year: 2023
 bibkey: gupta2023coverage
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14907"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Model Architecture', 'Training Techniques', 'BERT', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL), the ability of large language models to perform
 novel tasks by conditioning on a prompt with a few task examples, requires

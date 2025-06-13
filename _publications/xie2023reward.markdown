@@ -8,7 +8,7 @@ bibkey: xie2023reward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11489"}
   - {name: "Code", url: "https://text-to-reward.github.io/"}
-tags: ['Agentic', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Has Code', 'Reinforcement Learning']
 ---
 Designing reward functions is a longstanding challenge in reinforcement
 learning (RL); it requires specialized knowledge or domain data, leading to

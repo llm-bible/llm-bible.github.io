@@ -7,7 +7,7 @@ year: 2024
 bibkey: junior2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06596"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 A Language Model is a term that encompasses various types of models designed
 to understand and generate human communication. Large Language Models (LLMs)

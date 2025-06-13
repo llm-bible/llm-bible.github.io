@@ -7,7 +7,7 @@ year: 2025
 bibkey: pipatanakul2025adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09056"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Merging']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Merging']
 ---
 This paper investigates data selection and model merging methodologies aimed
 at incorporating advanced reasoning capabilities such as those of DeepSeek R1

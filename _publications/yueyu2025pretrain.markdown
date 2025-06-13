@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15570"}
   - {name: "Code", url: "https://github.com/yynil/RWKVInside}{https://github.com/yynil/RWKVInside},"}
   - {name: "Code", url: "https://huggingface.co/RWKV-Red-Team/ARWKV-7B-Preview-0.1}{https://huggingface.co/RWKV-Red-Team/ARWKV-7B-Preview-0.1"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Distillation']
 ---
 As is known, hybrid quadratic and subquadratic attention models in multi-head
 architectures have surpassed both Transformer and Linear RNN models , with

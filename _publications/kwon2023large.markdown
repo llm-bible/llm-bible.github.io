@@ -7,7 +7,7 @@ year: 2023
 bibkey: kwon2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07399"}
-tags: ['Prompting', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Machine reasoning has made great progress in recent years owing to large
 language models (LLMs). In the clinical domain, however, most NLP-driven

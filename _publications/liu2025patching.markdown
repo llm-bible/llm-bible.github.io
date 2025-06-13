@@ -8,7 +8,7 @@ bibkey: liu2025patching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19794"}
   - {name: "Code", url: "https://github.com/dragonlzm/PAVE"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Pre-trained video large language models (Video LLMs) exhibit remarkable
 reasoning capabilities, yet adapting these models to new tasks involving

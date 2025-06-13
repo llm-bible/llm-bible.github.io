@@ -7,7 +7,7 @@ year: 2025
 bibkey: thakur2025support
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15205"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias']
+tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) enables large language models (LLMs) to
 generate answers with citations from source documents containing "ground

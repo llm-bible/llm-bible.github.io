@@ -7,7 +7,7 @@ year: 2024
 bibkey: cai2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17236"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Web agents have emerged as a promising direction to automate Web task
 completion based on user instructions, significantly enhancing user experience.

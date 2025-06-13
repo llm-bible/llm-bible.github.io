@@ -7,7 +7,7 @@ year: 2023
 bibkey: xie2023wall
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05351"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Recently, large language models (LLMs) like ChatGPT have demonstrated
 remarkable performance across a variety of natural language processing tasks.

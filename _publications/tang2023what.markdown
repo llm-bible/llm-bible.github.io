@@ -8,7 +8,7 @@ bibkey: tang2023what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.18812"}
   - {name: "Code", url: "https://github.com/castorini/biasprobe"}
-tags: ['Training Techniques', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Do large language models (LLMs) exhibit sociodemographic biases, even when
 they decline to respond? To bypass their refusal to "speak," we study this

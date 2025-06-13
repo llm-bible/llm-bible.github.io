@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03272"}
-tags: ['Agentic', 'RAG', 'Multimodal Models', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Multimodal information, together with our knowledge, help us to understand
 the complex and dynamic world. Large language models (LLM) and large multimodal

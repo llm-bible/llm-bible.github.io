@@ -7,7 +7,7 @@ year: 2024
 bibkey: sant2024power
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18786"}
-tags: ['Prompting', 'Ethics and Bias', 'Applications']
+tags: ['Applications', 'Prompting', 'Ethics and Bias']
 ---
 This paper studies gender bias in machine translation through the lens of
 Large Language Models (LLMs). Four widely-used test sets are employed to

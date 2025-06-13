@@ -7,7 +7,7 @@ year: 2023
 bibkey: madaan2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.17651"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Like humans, large language models (LLMs) do not always generate the best
 output on their first try. Motivated by how humans refine their written text,

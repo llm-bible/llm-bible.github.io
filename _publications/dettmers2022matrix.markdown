@@ -7,7 +7,7 @@ year: 2022
 bibkey: dettmers2022matrix
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.07339"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Quantization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
 ---
 Large language models have been widely adopted but require significant GPU
 memory for inference. We develop a procedure for Int8 matrix multiplication for

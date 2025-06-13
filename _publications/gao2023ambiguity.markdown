@@ -7,7 +7,7 @@ year: 2023
 bibkey: gao2023ambiguity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.07900"}
-tags: ['Training Techniques', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) i.e. showing LLMs only a few task-specific
 demonstrations has led to downstream gains with no task-specific fine-tuning

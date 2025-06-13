@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.07427"}
-tags: ['RecSys', 'Efficiency and Optimization', 'Model Architecture', 'Applications']
+tags: ['Efficiency and Optimization', 'RecSys', 'Applications', 'Model Architecture']
 ---
 Sequential recommender systems (SRS) predict the next items that users may
 prefer based on user historical interaction sequences. Inspired by the rise of

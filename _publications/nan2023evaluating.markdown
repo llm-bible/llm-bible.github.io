@@ -7,7 +7,7 @@ year: 2023
 bibkey: nan2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09721"}
-tags: ['Agentic', 'Model Architecture', 'Survey Paper', 'Tools', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Survey Paper', 'Model Architecture']
 ---
 This study introduces a new long-form database question answering dataset
 designed to evaluate how Large Language Models (LLMs) interact with a SQL

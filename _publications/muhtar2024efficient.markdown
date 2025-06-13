@@ -7,7 +7,7 @@ year: 2024
 bibkey: muhtar2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.09289"}
-tags: ['Prompting', 'Model Architecture', 'In-Context Learning']
+tags: ['Prompting', 'In-Context Learning', 'Model Architecture']
 ---
 In-context learning (ICL) allows large language models (LLMs) to adapt to new
 tasks directly from the given demonstrations without requiring gradient

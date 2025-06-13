@@ -7,7 +7,7 @@ year: 2025
 bibkey: calderon2025alternative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10970"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 The "LLM-as-a-judge" paradigm employs Large Language Models (LLMs) as
 annotators and evaluators in tasks traditionally performed by humans. LLM

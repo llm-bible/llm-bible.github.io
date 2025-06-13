@@ -7,7 +7,7 @@ year: 2025
 bibkey: ye2025infinite
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12962"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Limited by the context window size of Large Language Models(LLMs), handling
 various tasks with input tokens exceeding the upper limit has been challenging,

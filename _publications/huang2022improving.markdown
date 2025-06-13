@@ -7,7 +7,7 @@ year: 2022
 bibkey: huang2022improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.06840"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Prompting', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Recently, prompt tuning (PT) has gained increasing attention as a
 parameter-efficient way of tuning pre-trained language models (PLMs). Despite

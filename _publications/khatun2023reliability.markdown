@@ -8,7 +8,7 @@ bibkey: khatun2023reliability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06199"}
   - {name: "Code", url: "https://github.com/tanny411/GPT3-Reliability-Check"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have become mainstream technology with their
 versatile use cases and impressive performance. Despite the countless

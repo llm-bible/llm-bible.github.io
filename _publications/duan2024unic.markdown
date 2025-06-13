@@ -7,7 +7,7 @@ year: 2024
 bibkey: duan2024unic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18928"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Recently, text-to-image generation models have achieved remarkable
 advancements, particularly with diffusion models facilitating high-quality

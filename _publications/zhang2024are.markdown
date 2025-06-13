@@ -8,7 +8,7 @@ bibkey: zhang2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19216"}
   - {name: "Code", url: "https://github.com/ict-bigdatalab/utility_judgments"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 Retrieval-augmented generation (RAG) is considered to be a promising approach
 to alleviate the hallucination issue of large language models (LLMs), and it

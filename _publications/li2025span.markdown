@@ -8,7 +8,7 @@ bibkey: li2025span
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12331"}
   - {name: "Code", url: "https://github.com/zxgnlp/InstruDa-LLM"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Span-level emotion-cause-category triplet extraction represents a novel and
 complex challenge within emotion cause analysis. This task involves identifying

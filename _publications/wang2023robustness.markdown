@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023robustness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.12095"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Survey Paper', 'GPT', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Responsible AI', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Security', 'Attention Mechanism']
 ---
 ChatGPT is a recent chatbot service released by OpenAI and is receiving
 increasing attention over the past few months. While evaluations of various

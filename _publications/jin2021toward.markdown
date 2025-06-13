@@ -7,7 +7,7 @@ year: 2021
 bibkey: jin2021toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.05924"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Previous work in slogan generation focused on utilising slogan skeletons
 mined from existing slogans. While some generated slogans can be catchy, they

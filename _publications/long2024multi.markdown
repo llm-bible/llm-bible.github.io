@@ -7,7 +7,7 @@ year: 2024
 bibkey: long2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00492"}
-tags: ['Responsible AI', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Prompting']
 ---
 We present Multi-expert Prompting, a novel enhancement of ExpertPrompting (Xu
 et al., 2023), designed to improve the large language model (LLM) generation.

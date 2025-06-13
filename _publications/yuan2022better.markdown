@@ -7,7 +7,7 @@ year: 2022
 bibkey: yuan2022better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.08853"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Language models with the Transformers structure have shown great performance
 in natural language processing. However, there still poses problems when

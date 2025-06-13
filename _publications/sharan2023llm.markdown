@@ -8,7 +8,7 @@ bibkey: sharan2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00125"}
   - {name: "Code", url: "https://llmassist.github.io"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Has Code']
+tags: ['RAG', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Although planning is a crucial component of the autonomous driving stack,
 researchers have yet to develop robust planning algorithms that are capable of

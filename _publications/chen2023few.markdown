@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13691"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Few-shot learning for open domain multi-hop question answering typically
 relies on the incontext learning capability of large language models (LLMs).

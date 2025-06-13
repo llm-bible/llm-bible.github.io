@@ -7,7 +7,7 @@ year: 2021
 bibkey: sun2021multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.05256"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Can pre-trained BERT for one language and GPT for another be glued together
 to translate texts? Self-supervised training using only monolingual data has

@@ -7,7 +7,7 @@ year: 2021
 bibkey: sun2021do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.09115"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Language models are generally trained on short, truncated input sequences,
 which limits their ability to use discourse-level information present in

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024red
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.12915"}
-tags: ['Responsible AI', 'Multimodal Models', 'Training Techniques', 'Fairness', 'Model Architecture', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Fairness', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 VLMs (Vision-Language Models) extend the capabilities of LLMs (Large Language
 Models) to accept multimodal inputs. Since it has been verified that LLMs can

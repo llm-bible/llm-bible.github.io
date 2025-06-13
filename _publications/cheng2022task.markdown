@@ -8,7 +8,7 @@ bibkey: cheng2022task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.05156"}
   - {name: "Code", url: "https://github.com/microsoft/taser"}
-tags: ['Model Architecture', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Given its effectiveness on knowledge-intensive natural language processing
 tasks, dense retrieval models have become increasingly popular. Specifically,

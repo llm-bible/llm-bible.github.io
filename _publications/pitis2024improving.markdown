@@ -7,7 +7,7 @@ year: 2024
 bibkey: pitis2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.14916"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 While finetuning language models from pairwise preferences has proven
 remarkably effective, the underspecified nature of natural language presents

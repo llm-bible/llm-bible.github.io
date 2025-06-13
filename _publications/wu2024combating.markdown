@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024combating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11124"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent advancements in multimodal large language models (MLLMs) have shown
 unprecedented capabilities in advancing various vision-language tasks. However,

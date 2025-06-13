@@ -7,7 +7,7 @@ year: 2024
 bibkey: cherian2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15736"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent years have seen a significant progress in the general-purpose problem
 solving abilities of large vision and language models (LVLMs), such as ChatGPT,

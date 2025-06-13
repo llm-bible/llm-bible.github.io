@@ -7,7 +7,7 @@ year: 2025
 bibkey: nathani2025new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14499"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 We introduce Meta MLGym and MLGym-Bench, a new framework and benchmark for
 evaluating and developing LLM agents on AI research tasks. This is the first

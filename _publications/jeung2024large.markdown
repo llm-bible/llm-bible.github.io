@@ -7,7 +7,7 @@ year: 2024
 bibkey: jeung2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17519"}
-tags: ['Model Architecture', 'Fairness', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Fairness', 'Prompting']
 ---
 Existing fairness benchmarks for large language models (LLMs) primarily focus
 on simple tasks, such as multiple-choice questions, overlooking biases that may

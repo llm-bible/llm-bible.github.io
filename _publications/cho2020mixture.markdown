@@ -7,7 +7,7 @@ year: 2020
 bibkey: cho2020mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2008.08273"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Recently, self-attention based models have achieved state-of-the-art
 performance in sequential recommendation task. Following the custom from

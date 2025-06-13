@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12223"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 We empirically investigate proper pre-training methods to build good visual
 tokenizers, making Large Language Models (LLMs) powerful Multimodal Large

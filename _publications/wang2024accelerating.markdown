@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01523"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Large-Scale Training']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques']
 ---
 Extending the context length (i.e., the maximum supported sequence length) of
 LLMs is of paramount significance. To facilitate long context training of LLMs,

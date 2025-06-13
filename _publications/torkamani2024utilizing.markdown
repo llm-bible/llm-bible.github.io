@@ -7,7 +7,7 @@ year: 2024
 bibkey: torkamani2024utilizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16927"}
-tags: ['Arxiv', 'Few-Shot', 'Tools', 'RAG', 'Prompting']
+tags: ['Tools', 'RAG', 'Few-Shot', 'Prompting', 'Arxiv']
 ---
 Production assertions are statements embedded in the code to help developers
 validate their assumptions about the code. They assist developers in debugging,

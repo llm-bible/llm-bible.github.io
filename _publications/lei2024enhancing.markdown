@@ -8,7 +8,7 @@ bibkey: lei2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14906"}
   - {name: "Code", url: "https://github.com/bin123apple/AutoCoder"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 We introduce AutoCoder, the first Large Language Model to surpass GPT-4 Turbo
 (April 2024) and GPT-4o in pass@1 on the Human Eval benchmark test

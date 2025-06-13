@@ -7,7 +7,7 @@ year: 2023
 bibkey: tu2023efficiently
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.01295"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Cross-lingual transfer of language models trained on high-resource languages
 like English has been widely studied for many NLP tasks, but focus on

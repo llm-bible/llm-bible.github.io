@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025reusing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04357"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) have made substantial strides in structured
 tasks through Reinforcement Learning (RL), demonstrating proficiency in

@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhao2022general
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.08626"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'BERT']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'BERT']
 ---
 Dialog systems have achieved significant progress and have been widely used
 in various scenarios. The previous researches mainly focused on designing

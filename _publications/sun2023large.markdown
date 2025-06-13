@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07552"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Prompting']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Prompting']
 ---
 Intent-aware session recommendation (ISR) is pivotal in discerning user
 intents within sessions for precise predictions. Traditional approaches,

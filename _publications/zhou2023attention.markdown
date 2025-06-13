@@ -8,7 +8,7 @@ bibkey: zhou2023attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.09419"}
   - {name: "Code", url: "https://github.com/AIM-SE/AC-TSR"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Transformer-based sequential recommendation (SR) has been booming in recent
 years, with the self-attention mechanism as its key component. Self-attention

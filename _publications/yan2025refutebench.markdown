@@ -8,7 +8,7 @@ bibkey: yan2025refutebench
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18308"}
   - {name: "Code", url: "https://github.com/ElliottYan/RefuteBench-2.0"}
-tags: ['Agentic', 'Model Architecture', 'RAG', 'Has Code', 'Attention Mechanism']
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code']
 ---
 In the multi-turn interaction schema, large language models (LLMs) can
 leverage user feedback to enhance the quality and relevance of their responses.

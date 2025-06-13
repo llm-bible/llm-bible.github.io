@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.19420"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In this paper, we conduct a comprehensive study of In-Context Learning (ICL)
 by addressing several open questions: (a) What type of ICL estimator is learned

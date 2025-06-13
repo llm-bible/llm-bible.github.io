@@ -7,7 +7,7 @@ year: 2024
 bibkey: costajussà2024long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08268"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture']
 ---
 This paper presents the Long Context and Form Output (LCFO) benchmark, a
 novel evaluation framework for assessing gradual summarization and summary

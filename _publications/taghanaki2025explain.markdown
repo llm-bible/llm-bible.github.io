@@ -8,7 +8,7 @@ bibkey: taghanaki2025explain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.11721"}
   - {name: "Code", url: "https://github.com/asgsaeid/EQT"}
-tags: ['Has Code', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Has Code']
 ---
 Large language models (LLMs) have demonstrated remarkable proficiency in
 generating detailed and coherent explanations of complex concepts. However, the

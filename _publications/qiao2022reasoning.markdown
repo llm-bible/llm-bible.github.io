@@ -8,7 +8,7 @@ bibkey: qiao2022reasoning
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2212.09597v8"}
   - {name: "Code", url: "https://github.com/zjunlp/Prompt4ReasoningPapers"}
-tags: ['Survey Paper', 'Reinforcement Learning', 'Merging', 'Has Code', 'Prompting', 'Applications']
+tags: ['Survey Paper', 'Applications', 'Merging', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Reasoning, as an essential ability for complex problem-solving, can provide
 back-end support for various real-world applications, such as medical

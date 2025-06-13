@@ -7,7 +7,7 @@ year: 2024
 bibkey: ganon2024diesel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19038"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 In recent years, large language models (LLMs) have had great success in tasks
 such as casual conversation, contributing to significant advancements in

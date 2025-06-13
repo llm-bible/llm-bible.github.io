@@ -8,7 +8,7 @@ bibkey: kazemi2024dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09175"}
   - {name: "Code", url: "https://huggingface.co/datasets/mehrankazemi/ReMI"}
-tags: ['Merging', 'Has Code']
+tags: ['Has Code', 'Merging']
 ---
 With the continuous advancement of large language models (LLMs), it is
 essential to create new benchmarks to effectively evaluate their expanding

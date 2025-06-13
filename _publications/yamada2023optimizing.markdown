@@ -7,7 +7,7 @@ year: 2023
 bibkey: yamada2023optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.01391"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 This paper explores the influence of integrating the purpose of the
 translation and the target audience into prompts on the quality of translations

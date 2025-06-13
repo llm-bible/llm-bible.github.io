@@ -7,7 +7,7 @@ year: 2023
 bibkey: broekens2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.01664"}
-tags: ['Agentic', 'Model Architecture', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Prompting']
 ---
 Large language models, in particular generative pre-trained transformers
 (GPTs), show impressive results on a wide variety of language-related tasks. In

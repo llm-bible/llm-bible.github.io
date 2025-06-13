@@ -7,7 +7,7 @@ year: 2025
 bibkey: sel2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13545"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated significant capabilities in
 natural language processing and reasoning, yet their effectiveness in

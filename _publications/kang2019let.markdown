@@ -7,7 +7,7 @@ year: 2019
 bibkey: kang2019let
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.13794"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Question Generation (QG) is a Natural Language Processing (NLP) task that
 aids advances in Question Answering (QA) and conversational assistants.

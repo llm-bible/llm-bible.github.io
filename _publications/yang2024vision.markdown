@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06084"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'TACL', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'ACL', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'TACL', 'Model Architecture', 'ACL', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 3D Vision-Language Pre-training (3D-VLP) aims to provide a pre-train model
 which can bridge 3D scenes with natural language, which is an important

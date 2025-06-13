@@ -7,7 +7,7 @@ year: 2019
 bibkey: schwartz2019inducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03268"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Progress in natural language processing (NLP) models that estimate
 representations of word sequences has recently been leveraged to improve the

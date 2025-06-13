@@ -7,7 +7,7 @@ year: 2024
 bibkey: lyu2024tell
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17520"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Multimodal Models']
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Large language models (LLMs) exhibit a variety of promising capabilities in
 robotics, including long-horizon planning and commonsense reasoning. However,

@@ -7,7 +7,7 @@ year: 2025
 bibkey: chandra2025applications
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11989"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Distillation', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing
 through their state of art reasoning capabilities. This paper explores the

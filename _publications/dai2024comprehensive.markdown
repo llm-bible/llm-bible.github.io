@@ -8,7 +8,7 @@ bibkey: dai2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16546"}
   - {name: "Code", url: "https://github.com/KID-22/Cocktail"}
-tags: ['Ethics and Bias', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Applications', 'Has Code', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 The proliferation of Large Language Models (LLMs) has led to an influx of
 AI-generated content (AIGC) on the internet, transforming the corpus of

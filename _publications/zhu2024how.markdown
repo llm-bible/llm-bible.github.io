@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.16416"}
-tags: ['Prompting', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Conversational Recommender System (CRS) interacts with users through natural
 language to understand their preferences and provide personalized

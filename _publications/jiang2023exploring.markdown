@@ -7,7 +7,7 @@ year: 2023
 bibkey: jiang2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11473"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have recently soared in popularity due to their
 ease of access and the unprecedented ability to synthesize text responses to

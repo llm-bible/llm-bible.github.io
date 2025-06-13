@@ -8,7 +8,7 @@ bibkey: wei2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16450"}
   - {name: "Code", url: "https://github.com/CLAIRE-Labo/StructuredFFN/tree/main"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 State-of-the-art results in large language models (LLMs) often rely on scale,
 which becomes computationally expensive. This has sparked a research agenda to

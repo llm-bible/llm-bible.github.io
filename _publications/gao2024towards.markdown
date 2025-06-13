@@ -8,7 +8,7 @@ bibkey: gao2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05861"}
   - {name: "Code", url: "https://github.com/gpengzhi/CrossConST-LLM"}
-tags: ['Prompting', 'Training Techniques', 'Applications', 'Has Code']
+tags: ['Training Techniques', 'Has Code', 'Prompting', 'Applications']
 ---
 The training paradigm for machine translation has gradually shifted, from
 learning neural machine translation (NMT) models with extensive parallel

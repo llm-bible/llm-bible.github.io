@@ -8,7 +8,7 @@ bibkey: ran2024capturing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18921"}
   - {name: "Code", url: "https://github.com/alienet1109/RolePersonality}{this"}
-tags: ['Agentic', 'RAG', 'Has Code', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Has Code', 'Reinforcement Learning']
 ---
 Role-playing agents (RPA) have been a popular application area for large
 language models (LLMs), attracting significant interest from both industry and

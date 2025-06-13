@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhu2020reading
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2001.09415"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 Multi-choice Machine Reading Comprehension (MRC) requires model to decide the
 correct answer from a set of answer options when given a passage and a

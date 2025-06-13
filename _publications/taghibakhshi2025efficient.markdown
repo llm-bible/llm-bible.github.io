@@ -7,7 +7,7 @@ year: 2025
 bibkey: taghibakhshi2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11409"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'Pruning', 'Quantization', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Quantization', 'Distillation']
 ---
 Hybrid LLM architectures that combine Attention and State Space Models (SSMs)
 achieve state-of-the-art accuracy and runtime performance. Recent work has

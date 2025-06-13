@@ -7,7 +7,7 @@ year: 2022
 bibkey: awasthi2022maximizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.14206"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Language models have become increasingly popular in recent years for tasks
 like information retrieval. As use-cases become oriented toward specific

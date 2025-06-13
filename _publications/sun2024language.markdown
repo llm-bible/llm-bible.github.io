@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02876"}
-tags: ['Merging', 'Applications', 'Tools']
+tags: ['Tools', 'Applications', 'Merging']
 ---
 Multilingual neural machine translation models generally distinguish
 translation directions by the language tag (LT) in front of the source or

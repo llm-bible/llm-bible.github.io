@@ -7,7 +7,7 @@ year: 2025
 bibkey: suh2025just
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12424"}
-tags: ['Ethics and Bias', 'Training Techniques', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Interpretability', 'Ethics and Bias']
 ---
 This position paper highlights a growing trend in Explainable AI (XAI)
 research where Large Language Models (LLMs) are used to translate outputs from

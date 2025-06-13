@@ -8,7 +8,7 @@ bibkey: dunlap2024discover
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12851"}
   - {name: "Code", url: "https://bench-mark.org/"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) often exhibit subtle yet distinctive
 characteristics in their outputs that users intuitively recognize, but struggle

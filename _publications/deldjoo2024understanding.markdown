@@ -8,7 +8,7 @@ bibkey: deldjoo2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10545"}
   - {name: "Code", url: "https://github.com/yasdel/Benchmark_RecLLM_Fairness"}
-tags: ['Model Architecture', 'Fairness', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Bias Mitigation', 'RecSys', 'Ethics and Bias', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Has Code', 'Few-Shot', 'Fairness', 'Prompting', 'In-Context Learning']
 ---
 This paper explores the biases in ChatGPT-based recommender systems, focusing
 on provider fairness (item-side fairness). Through extensive experiments and

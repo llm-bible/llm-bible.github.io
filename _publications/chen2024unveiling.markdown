@@ -8,7 +8,7 @@ bibkey: chen2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14660"}
   - {name: "Code", url: "https://github.com/hfutml/Calibration-MLLM"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Multimodal large language models (MLLMs) combine visual and textual data for
 tasks such as image captioning and visual question answering. Proper

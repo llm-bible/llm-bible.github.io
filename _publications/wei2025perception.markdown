@@ -7,7 +7,7 @@ year: 2025
 bibkey: wei2025perception
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07165"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 We present a perception in reflection paradigm designed to transcend the
 limitations of current large vision-language models (LVLMs), which are expected

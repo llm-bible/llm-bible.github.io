@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024pragmatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04509"}
-tags: ['Prompting', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Sarcasm detection is a significant challenge in sentiment analysis due to the
 nuanced and context-dependent nature of verbiage. We introduce Pragmatic

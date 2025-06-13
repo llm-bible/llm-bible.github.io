@@ -7,7 +7,7 @@ year: 2025
 bibkey: mishra2025jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01395"}
-tags: ['Security', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Security', 'Tools', 'GPT', 'Model Architecture']
 ---
 The rapid advancements in generative AI models, such as ChatGPT, have
 introduced both significant benefits and new risks within the cybersecurity

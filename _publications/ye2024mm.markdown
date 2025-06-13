@@ -7,7 +7,7 @@ year: 2024
 bibkey: ye2024mm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07177"}
-tags: ['Multimodal Models', 'Model Architecture', 'Bias Mitigation', 'Ethics and Bias', 'Prompting']
+tags: ['Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 This research aims to comprehensively explore building a multimodal
 foundation model for egocentric video understanding. To achieve this goal, we

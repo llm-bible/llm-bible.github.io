@@ -7,7 +7,7 @@ year: 2024
 bibkey: stanić2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.01974"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Prompting']
 ---
 Visual reasoning is dominated by end-to-end neural networks scaled to
 billions of model parameters and training examples. However, even the largest

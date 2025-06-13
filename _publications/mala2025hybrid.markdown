@@ -7,7 +7,7 @@ year: 2025
 bibkey: mala2025hybrid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05324"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) excel in language comprehension and generation
 but are prone to hallucinations, producing factually incorrect or unsupported

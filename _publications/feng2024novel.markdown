@@ -8,7 +8,7 @@ bibkey: feng2024novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14751"}
   - {name: "Code", url: "https://github.com/bytarnish/AGILE"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 We introduce a novel reinforcement learning framework of LLM agents named
 AGILE (AGent that Interacts and Learns from Environments) designed to perform

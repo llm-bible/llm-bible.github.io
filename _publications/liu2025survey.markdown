@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13299"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models (LLMs) based on Transformer have been widely applied in
 the filed of natural language processing (NLP), demonstrating strong

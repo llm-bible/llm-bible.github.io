@@ -7,7 +7,7 @@ year: 2023
 bibkey: noever2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10603"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Using a novel professional certification survey, the study focuses on
 assessing the vocational skills of two highly cited AI models, GPT-3 and

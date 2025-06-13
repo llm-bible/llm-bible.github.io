@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhuo2024interleaved
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.07920"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 We propose ProtLLM, a versatile cross-modal large language model (LLM) for
 both protein-centric and protein-language tasks. ProtLLM features a unique

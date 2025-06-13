@@ -7,7 +7,7 @@ year: 2024
 bibkey: hsu2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.11779"}
-tags: ['Prompting', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Prompting', 'Reinforcement Learning']
 ---
 Objectives: Despite the recent adoption of large language models (LLMs) for
 biomedical information extraction, challenges in prompt engineering and

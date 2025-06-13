@@ -7,7 +7,7 @@ year: 2025
 bibkey: ng2025sea
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05747"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, Large Language Models (LLMs) have dominated much of the artificial
 intelligence scene with their ability to process and generate natural

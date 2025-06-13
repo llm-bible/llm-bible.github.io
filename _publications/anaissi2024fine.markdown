@@ -7,7 +7,7 @@ year: 2024
 bibkey: anaissi2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16088"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 We present an advanced approach to medical question-answering (QA) services,
 using fine-tuned Large Language Models (LLMs) to improve the accuracy and

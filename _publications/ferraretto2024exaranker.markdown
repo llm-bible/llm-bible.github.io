@@ -8,7 +8,7 @@ bibkey: ferraretto2024exaranker
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06334"}
   - {name: "Code", url: "https://github.com/unicamp-dl/ExaRanker"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Has Code', 'Interpretability and Explainability', 'Applications']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code']
 ---
 ExaRanker recently introduced an approach to training information retrieval
 (IR) models, incorporating natural language explanations as additional labels.

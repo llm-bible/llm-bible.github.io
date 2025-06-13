@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024llava
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.07981"}
-tags: ['Multimodal Models', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Multimodal Models']
 ---
 Multimodal large language models (LLMs) have achieved notable success across
 various domains, while research in the medical field has largely focused on

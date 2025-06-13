@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03283"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
 ---
 Recent advancements have highlighted that Large Language Models (LLMs) are
 prone to hallucinations when solving complex reasoning problems, leading to

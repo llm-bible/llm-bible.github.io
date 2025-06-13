@@ -7,7 +7,7 @@ year: 2023
 bibkey: sridhar2023hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14257"}
-tags: ['Prompting', 'Interpretability', 'Reinforcement Learning']
+tags: ['Interpretability', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) struggle on processing complicated observations
 in interactive decision making tasks. To alleviate this issue, we propose a

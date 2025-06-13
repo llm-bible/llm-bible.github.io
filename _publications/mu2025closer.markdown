@@ -7,7 +7,7 @@ year: 2025
 bibkey: mu2025closer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12197"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 System prompts have emerged as a critical control surface for specifying the
 behavior of LLMs in chat and agent settings. Developers depend on system

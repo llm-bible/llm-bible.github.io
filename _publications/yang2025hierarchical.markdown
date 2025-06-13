@@ -8,7 +8,7 @@ bibkey: yang2025hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06772"}
   - {name: "Code", url: "https://github.com/Gen-Verse/ReasonFlux"}
-tags: ['RAG', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code']
 ---
 We present that hierarchical LLM reasoning via scaling thought templates can
 effectively optimize the reasoning search space and outperform the mathematical

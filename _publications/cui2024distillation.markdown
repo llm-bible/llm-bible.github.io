@@ -7,7 +7,7 @@ year: 2024
 bibkey: cui2024distillation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00338"}
-tags: ['RAG', 'Distillation', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation']
 ---
 Owing to their powerful semantic reasoning capabilities, Large Language
 Models (LLMs) have been effectively utilized as recommenders, achieving

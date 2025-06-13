@@ -7,7 +7,7 @@ year: 2023
 bibkey: yan2023understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00297"}
-tags: ['Prompting', 'Language Modeling', 'Applications', 'In-Context Learning']
+tags: ['In-Context Learning', 'Applications', 'Prompting', 'Language Modeling']
 ---
 This paper explores the elusive mechanism underpinning in-context learning in
 Large Language Models (LLMs). Our work provides a novel perspective by

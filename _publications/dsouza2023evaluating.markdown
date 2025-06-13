@@ -7,7 +7,7 @@ year: 2023
 bibkey: dsouza2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12900"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 There have been many recent investigations into prompt-based training of
 transformer language models for new text genres in low-resource settings. The

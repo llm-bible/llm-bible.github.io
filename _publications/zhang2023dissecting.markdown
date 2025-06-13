@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023dissecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.03687"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
 ---
 Large Language Models (LLMs) have seen great advance in both academia and
 industry, and their popularity results in numerous open-source frameworks and

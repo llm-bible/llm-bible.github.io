@@ -7,7 +7,7 @@ year: 2018
 bibkey: chung2018semi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.10128"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Tools']
 ---
 Although end-to-end text-to-speech (TTS) models such as Tacotron have shown
 excellent results, they typically require a sizable set of high-quality <text,

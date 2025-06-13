@@ -7,7 +7,7 @@ year: 2025
 bibkey: laiyk2025instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13647"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Instruction tuning in low-resource languages remains underexplored due to
 limited text data, particularly in government and cultural domains. To address

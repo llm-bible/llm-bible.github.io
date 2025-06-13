@@ -7,7 +7,7 @@ year: 2023
 bibkey: gandhi2023natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.03460"}
-tags: ['Tools', 'RAG', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Prompting']
 ---
 We present Semantic Interpreter, a natural language-friendly AI system for
 productivity software such as Microsoft Office that leverages large language

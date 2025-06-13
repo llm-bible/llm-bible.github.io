@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024item
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18892"}
-tags: ['Prompting', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting']
 ---
 As Large Language Models (LLMs) grow increasingly adept at managing complex
 tasks, the evaluation set must keep pace with these advancements to ensure it

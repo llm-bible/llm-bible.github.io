@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15202"}
-tags: ['Responsible AI', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Applications', 'Responsible AI', 'Reinforcement Learning']
 ---
 Recent studies reveal that Large Language Models (LLMs) face challenges in
 balancing safety with utility, particularly when processing long texts for NLP

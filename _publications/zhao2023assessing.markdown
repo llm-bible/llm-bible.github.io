@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20170"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have exhibited impressive generation
 capabilities, but they suffer from hallucinations when solely relying on their

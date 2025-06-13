@@ -7,7 +7,7 @@ year: 2022
 bibkey: feng2022learn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.01546"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The Transformer architecture has led to significant gains in machine
 translation. However, most studies focus on only sentence-level translation

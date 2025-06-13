@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025robustness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09818"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Multimodal Models', 'Prompting']
 ---
 Although vision-language models (VLMs) have achieved significant success in
 various applications such as visual question answering, their resilience to

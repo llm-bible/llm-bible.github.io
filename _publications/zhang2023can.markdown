@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07763"}
-tags: ['Prompting', 'In-Context Learning', 'Tools']
+tags: ['Tools', 'Prompting', 'In-Context Learning']
 ---
 The meaning of complex phrases in natural language is composed of their
 individual components. The task of compositional generalization evaluates a

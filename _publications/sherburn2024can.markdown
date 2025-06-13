@@ -7,7 +7,7 @@ year: 2024
 bibkey: sherburn2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07436"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Interpretability and Explainability']
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot']
 ---
 Large language models (LLMs) perform well at a myriad of tasks, but
 explaining the processes behind this performance is a challenge. This paper

@@ -7,7 +7,7 @@ year: 2024
 bibkey: schneider2024diverse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03791"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Since the release of ChatGPT, the field of Natural Language Processing has
 experienced rapid advancements, particularly in Large Language Models (LLMs)

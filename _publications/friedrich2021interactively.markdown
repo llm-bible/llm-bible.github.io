@@ -7,7 +7,7 @@ year: 2021
 bibkey: friedrich2021interactively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.02058"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
 ---
 Transformer language models are state of the art in a multitude of NLP tasks.
 Despite these successes, their opaqueness remains problematic. Recent methods

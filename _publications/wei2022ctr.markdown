@@ -7,7 +7,7 @@ year: 2022
 bibkey: wei2022ctr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.08943"}
-tags: ['Training Techniques', 'Tools', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper focuses on automatically generating the text of an ad, and the
 goal is that the generated text can capture user interest for achieving higher

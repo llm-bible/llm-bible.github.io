@@ -7,7 +7,7 @@ year: 2025
 bibkey: geh2025adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02174"}
-tags: ['Responsible AI', 'Tokenization', 'Security', 'Training Techniques']
+tags: ['Responsible AI', 'Security', 'Training Techniques', 'Tokenization']
 ---
 Current LLM pipelines account for only one possible tokenization for a given
 string, ignoring exponentially many alternative tokenizations during training

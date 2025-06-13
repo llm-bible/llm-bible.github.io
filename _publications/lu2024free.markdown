@@ -8,7 +8,7 @@ bibkey: lu2024free
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11811"}
   - {name: "Code", url: "https://github.com/LuJunru/FIPO_Project"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 When the quality of naive prompts is carefully optimized by human experts,
 the task performance of large language models (LLMs) can be significantly

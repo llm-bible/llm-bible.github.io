@@ -7,7 +7,7 @@ year: 2021
 bibkey: lyu2021goal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.13189"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The knowledge of scripts, common chains of events in stereotypical scenarios,
 is a valuable asset for task-oriented natural language understanding systems.

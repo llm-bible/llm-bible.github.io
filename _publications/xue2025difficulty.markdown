@@ -7,7 +7,7 @@ year: 2025
 bibkey: xue2025difficulty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09029"}
-tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 Present Large Language Models (LLM) self-training methods always under-sample
 on challenging queries, leading to inadequate learning on difficult problems

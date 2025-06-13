@@ -7,7 +7,7 @@ year: 2024
 bibkey: verma2024adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.10870"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer architectures are the backbone of the modern AI revolution.
 However, they are based on simply stacking the same blocks in dozens of layers

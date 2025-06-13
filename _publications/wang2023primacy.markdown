@@ -8,7 +8,7 @@ bibkey: wang2023primacy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13206"}
   - {name: "Code", url: "https://github.com/wangywUST/PrimacyEffectGPT"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Instruction-tuned large language models (LLMs), such as ChatGPT, have led to
 promising zero-shot performance in discriminative natural language

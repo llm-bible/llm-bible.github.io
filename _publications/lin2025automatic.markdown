@@ -8,7 +8,7 @@ bibkey: lin2025automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11436"}
   - {name: "Code", url: "https://anonymous.4open.science/r/ADO-6BC5/"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Has Code']
+tags: ['Efficiency and Optimization', 'Has Code', 'Prompting']
 ---
 This study explores a novel approach to enhance the performance of Large
 Language Models (LLMs) through the optimization of input data within prompts.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: vennam2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06371"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 We present a method to compress the final linear layer of language models,
 reducing memory usage by up to 3.4x without significant performance loss. By

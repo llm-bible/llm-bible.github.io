@@ -8,7 +8,7 @@ bibkey: rozanov2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02810"}
   - {name: "Code", url: "https://github.com/ai-nikolai/stateact"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Agent', 'Reinforcement Learning', 'Has Code', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) are increasingly used as autonomous agents,
 tackling tasks from robotics to web navigation. Their performance depends on

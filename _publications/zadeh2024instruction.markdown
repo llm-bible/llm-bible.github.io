@@ -8,7 +8,7 @@ bibkey: zadeh2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04064"}
   - {name: "Code", url: "https://github.com/fatemehpesaran310/Text2Chart31"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated strong capabilities across
 various language tasks, notably through instruction-tuning methods. However,

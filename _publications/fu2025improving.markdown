@@ -8,7 +8,7 @@ bibkey: fu2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20612"}
   - {name: "Code", url: "https://github.com/FerdinandZJU/IAP"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Recent pre-trained vision-language models (PT-VLMs) often face a Multi-Domain
 Class-Incremental Learning (MCIL) scenario in practice, where several classes

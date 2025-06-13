@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023search
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15225"}
-tags: ['Training Techniques', 'Tools', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Applications', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have been significantly improved by instruction
 fine-tuning, but still lack transparency and the ability to utilize up-to-date

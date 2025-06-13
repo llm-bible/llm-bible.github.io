@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07580"}
-tags: ['Multimodal Models', 'Tools']
+tags: ['Tools', 'Multimodal Models']
 ---
 Comprehending natural language instructions is a charming property for both
 2D and 3D layout synthesis systems. Existing methods implicitly model object

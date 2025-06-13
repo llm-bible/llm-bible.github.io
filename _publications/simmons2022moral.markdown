@@ -7,7 +7,7 @@ year: 2022
 bibkey: simmons2022moral
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.12106"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in
 generating fluent text, as well as tendencies to reproduce undesirable social

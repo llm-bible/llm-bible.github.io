@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024retaining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07077"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 The advancement of vision-language models, particularly the Contrastive
 Language-Image Pre-training (CLIP) model, has revolutionized the field of

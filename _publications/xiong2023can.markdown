@@ -7,7 +7,7 @@ year: 2023
 bibkey: xiong2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.13063"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Empowering large language models to accurately express confidence in their
 answers is essential for trustworthy decision-making. Previous confidence

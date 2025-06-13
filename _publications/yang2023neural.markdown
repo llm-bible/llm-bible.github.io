@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.05779"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
 ---
 Neural models have revolutionized the field of machine translation, but
 creating parallel corpora is expensive and time-consuming. We investigate an

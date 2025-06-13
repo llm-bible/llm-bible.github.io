@@ -7,7 +7,7 @@ year: 2023
 bibkey: jentzsch2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.04563"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 Humor is a central aspect of human communication that has not been solved for
 artificial agents so far. Large language models (LLMs) are increasingly able to

@@ -7,7 +7,7 @@ year: 2023
 bibkey: koshti2023interaction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07150"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper aims to address a critical challenge in robotics, which is
 enabling them to operate seamlessly in human environments through natural

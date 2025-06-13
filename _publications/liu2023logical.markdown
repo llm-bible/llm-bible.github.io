@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023logical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12147"}
-tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 Generative Pre-trained Transformer 4 (GPT-4) demonstrates impressive
 chain-of-thought reasoning ability. Recent work on self-instruction tuning,

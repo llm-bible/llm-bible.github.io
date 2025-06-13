@@ -7,7 +7,7 @@ year: 2024
 bibkey: lai2024residual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17343"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 In this study, we uncover the unexpected efficacy of residual-based large
 language models (LLMs) as part of encoders for biomedical imaging tasks, a

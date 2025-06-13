@@ -8,7 +8,7 @@ bibkey: xiao2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15614"}
   - {name: "Code", url: "https://github.com/Justherozen/FreeAL"}
-tags: ['Training Techniques', 'Tools', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Collecting high-quality labeled data for model training is notoriously
 time-consuming and labor-intensive for various NLP tasks. While copious

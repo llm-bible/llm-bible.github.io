@@ -7,7 +7,7 @@ year: 2025
 bibkey: dahlke2025mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11096"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We present the Mixture-of-Tunable-Experts (MoTE), a method that extends the
 Mixture-of-Experts architecture of Large Language Models (LLMs). Without

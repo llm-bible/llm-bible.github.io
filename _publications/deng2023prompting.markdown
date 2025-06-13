@@ -7,7 +7,7 @@ year: 2023
 bibkey: deng2023prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13626"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Prompting', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Conversational systems based on Large Language Models (LLMs), such as
 ChatGPT, show exceptional proficiency in context understanding and response

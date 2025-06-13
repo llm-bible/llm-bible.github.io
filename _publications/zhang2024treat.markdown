@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024treat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06169"}
-tags: ['Multimodal Models', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Pruning', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 By treating visual tokens from visual encoders as text tokens, Multimodal
 Large Language Models (MLLMs) have achieved remarkable progress across diverse

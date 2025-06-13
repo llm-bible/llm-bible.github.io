@@ -7,7 +7,7 @@ year: 2016
 bibkey: firat2016multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1601.01073"}
-tags: ['WMT', 'Model Architecture', 'Reinforcement Learning', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'WMT', 'Attention Mechanism']
 ---
 We propose multi-way, multilingual neural machine translation. The proposed
 approach enables a single neural translation model to translate between

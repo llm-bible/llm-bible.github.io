@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03130"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The retrieval model is an indispensable component for real-world
 knowledge-intensive tasks, e.g., open-domain question answering (ODQA). As

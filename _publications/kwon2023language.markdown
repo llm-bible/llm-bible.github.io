@@ -8,7 +8,7 @@ bibkey: kwon2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11604"}
   - {name: "Code", url: "https://www.robot-learning.uk/language-models-trajectory-generators"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have recently shown promise as high-level
 planners for robots when given access to a selection of low-level skills.

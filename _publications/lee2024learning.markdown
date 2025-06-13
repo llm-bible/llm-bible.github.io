@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14195"}
-tags: ['Prompting', 'Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have been widely used as general-purpose AI
 agents showing comparable performance on many downstream tasks. However,

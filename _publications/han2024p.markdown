@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024p
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09207"}
-tags: ['Prompting', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 Existing methods on understanding the capabilities of LLMs in logical
 reasoning rely on binary entailment classification or synthetically derived

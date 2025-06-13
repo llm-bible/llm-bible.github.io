@@ -8,7 +8,7 @@ bibkey: muñoz2025low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.16372"}
   - {name: "Code", url: "https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The rapid expansion of Large Language Models (LLMs) has posed significant
 challenges regarding the computational resources required for fine-tuning and

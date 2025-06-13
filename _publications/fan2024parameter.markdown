@@ -7,7 +7,7 @@ year: 2024
 bibkey: fan2024parameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.11707"}
-tags: ['Training Techniques', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 By adapting Large Language Models (LLMs) to domain-specific tasks or
 enriching them with domain-specific knowledge, we can fully harness the

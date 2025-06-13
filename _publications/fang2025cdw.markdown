@@ -7,7 +7,7 @@ year: 2025
 bibkey: fang2025cdw
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12226"}
-tags: ['Prompting', 'RAG', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Large Language Models (LLMs) have recently achieved impressive results in
 complex reasoning tasks through Chain of Thought (CoT) prompting. However, most

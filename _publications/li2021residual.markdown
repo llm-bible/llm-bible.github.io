@@ -7,7 +7,7 @@ year: 2021
 bibkey: li2021residual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.14590"}
-tags: ['WMT', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'WMT', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Although attention-based Neural Machine Translation has achieved remarkable
 progress in recent layers, it still suffers from issue of making insufficient

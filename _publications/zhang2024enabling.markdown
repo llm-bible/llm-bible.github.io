@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02897"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture']
 ---
 Though current long-context large language models (LLMs) have demonstrated
 impressive capacities in answering user questions based on extensive text, the

@@ -7,7 +7,7 @@ year: 2025
 bibkey: ravichander2025fantastic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.08292"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Despite their impressive ability to generate high-quality and fluent text,
 generative large language models (LLMs) also produce hallucinations: statements

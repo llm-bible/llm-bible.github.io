@@ -7,7 +7,7 @@ year: 2025
 bibkey: soni2025evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00124"}
-tags: ['Pretraining Methods', 'RAG', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
 ---
 Like most of NLP, models for human-centered NLP tasks -- tasks attempting to
 assess author-level information -- predominantly use representations derived

@@ -8,7 +8,7 @@ bibkey: chai2024ma
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02743"}
   - {name: "Code", url: "https://github.com/ernie-research/MA-RLHF"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Reinforcement learning from human feedback (RLHF) has demonstrated
 effectiveness in aligning large language models (LLMs) with human preferences.

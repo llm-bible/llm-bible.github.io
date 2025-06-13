@@ -7,7 +7,7 @@ year: 2025
 bibkey: haghighi2025ontologies
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03029"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting']
+tags: ['Agentic', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Amid the recent uptake of Generative AI, sociotechnical scholars and critics
 have traced a multitude of resulting harms, with analyses largely focused on

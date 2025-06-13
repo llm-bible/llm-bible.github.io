@@ -7,7 +7,7 @@ year: 2016
 bibkey: jabri2016revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1606.08390"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Visual question answering (VQA) is an interesting learning setting for
 evaluating the abilities and shortcomings of current systems for image

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05700"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in open-source code large language models (LLMs) have
 been driven by fine-tuning on the data generated from powerful closed-source

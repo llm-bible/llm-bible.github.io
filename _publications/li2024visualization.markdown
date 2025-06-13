@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024visualization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10996"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The recent introduction of multimodal large language models (MLLMs) combine
 the inherent power of large language models (LLMs) with the renewed

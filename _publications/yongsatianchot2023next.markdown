@@ -7,7 +7,7 @@ year: 2023
 bibkey: yongsatianchot2023next
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18322"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLM) have recently been shown to perform well at
 various tasks from language understanding, reasoning, storytelling, and

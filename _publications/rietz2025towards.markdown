@@ -7,7 +7,7 @@ year: 2025
 bibkey: rietz2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06358"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Pre-Training', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Prompting has emerged as the dominant paradigm for adapting large,
 pre-trained transformer-based models to downstream tasks. The Prompting

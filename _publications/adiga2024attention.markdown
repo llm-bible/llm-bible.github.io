@@ -7,7 +7,7 @@ year: 2024
 bibkey: adiga2024attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22517"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
+tags: ['GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 We explore the internal mechanisms of how bias emerges in large language
 models (LLMs) when provided with ambiguous comparative prompts: inputs that

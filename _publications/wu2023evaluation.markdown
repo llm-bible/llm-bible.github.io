@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14520"}
-tags: ['Language Modeling', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Language Modeling', 'Reinforcement Learning']
 ---
 Questions Under Discussion (QUD) is a versatile linguistic framework in which
 discourse progresses as continuously asking questions and answering them.

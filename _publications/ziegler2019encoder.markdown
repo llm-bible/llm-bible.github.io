@@ -7,7 +7,7 @@ year: 2019
 bibkey: ziegler2019encoder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.06938"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large pretrained language models have changed the way researchers approach
 discriminative natural language understanding tasks, leading to the dominance

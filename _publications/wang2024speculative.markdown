@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024speculative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08223"}
-tags: ['Ethics and Bias', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Ethics and Bias']
 ---
 Retrieval augmented generation (RAG) combines the generative abilities of
 large language models (LLMs) with external knowledge sources to provide more

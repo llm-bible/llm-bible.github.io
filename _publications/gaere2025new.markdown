@@ -7,7 +7,7 @@ year: 2025
 bibkey: gaere2025new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16155"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 This paper introduces DATETIME, a new high-quality benchmark designed to
 evaluate the translation and reasoning abilities of a Large Language Model

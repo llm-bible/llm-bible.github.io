@@ -7,7 +7,7 @@ year: 2025
 bibkey: scivetti2025assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04661"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large Language Models, despite their significant capabilities, are known to
 fail in surprising and unpredictable ways. Evaluating their true

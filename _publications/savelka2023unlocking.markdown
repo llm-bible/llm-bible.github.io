@@ -7,7 +7,7 @@ year: 2023
 bibkey: savelka2023unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.04417"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods']
 ---
 We evaluated the capability of a state-of-the-art generative pre-trained
 transformer (GPT) model to perform semantic annotation of short text snippets

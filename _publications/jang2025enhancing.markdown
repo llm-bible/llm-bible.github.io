@@ -7,7 +7,7 @@ year: 2025
 bibkey: jang2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16022"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 OpenNotes enables patients to access EHR notes, but medical jargon can hinder
 comprehension. To improve understanding, we evaluated closed- and open-source

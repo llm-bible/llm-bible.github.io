@@ -8,7 +8,7 @@ bibkey: zhang2024balancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10306"}
   - {name: "Code", url: "https://github.com/rattlesnakey/CoFiTune"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Aligned Large Language Models (LLMs) showcase remarkable versatility, capable
 of handling diverse real-world tasks. Meanwhile, aligned LLMs are also expected

@@ -7,7 +7,7 @@ year: 2024
 bibkey: shi2024adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15188"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present LMFusion, a framework for empowering pretrained text-only large
 language models (LLMs) with multimodal generative capabilities, enabling them

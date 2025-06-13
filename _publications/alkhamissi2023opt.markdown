@@ -7,7 +7,7 @@ year: 2023
 bibkey: alkhamissi2023opt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12001"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 In this paper, we conduct a thorough investigation into the reasoning
 capabilities of Large Language Models (LLMs), focusing specifically on the Open

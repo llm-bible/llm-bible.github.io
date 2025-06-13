@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhang2022robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.07837"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Data augmentations (DA) are the cores to achieving robust
 sequence-to-sequence learning on various natural language processing (NLP)

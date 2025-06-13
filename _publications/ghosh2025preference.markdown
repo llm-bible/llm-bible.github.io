@@ -7,7 +7,7 @@ year: 2025
 bibkey: ghosh2025preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01616"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Preference-based reinforcement learning (RL) offers a promising approach for
 aligning policies with human intent but is often constrained by the high cost

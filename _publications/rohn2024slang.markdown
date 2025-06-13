@@ -8,7 +8,7 @@ bibkey: rohn2024slang
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15818"}
   - {name: "Code", url: "https://github.com/YesianRohn/DuanzAI"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Language's complexity is evident in the rich tapestry of slang expressions,
 often laden with humor and cultural nuances. This linguistic phenomenon has

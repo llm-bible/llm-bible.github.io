@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21057"}
-tags: ['Prompting', 'Language Modeling', 'Applications', 'Tools']
+tags: ['Language Modeling', 'Tools', 'Prompting', 'Applications']
 ---
 While large language models are rapidly moving towards consumer-facing
 applications, they are often still prone to factual errors and hallucinations.

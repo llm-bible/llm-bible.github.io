@@ -7,7 +7,7 @@ year: 2024
 bibkey: yoon2024forecasting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04668"}
-tags: ['Agentic', 'Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Pretraining Methods']
 ---
 Customers reach out to online live chat agents with various intents, such as
 asking about product details or requesting a return. In this paper, we propose

@@ -8,7 +8,7 @@ bibkey: coalson2023bert
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19152"}
   - {name: "Code", url: "https://github.com/ztcoalson/WAFFLE"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'BERT', 'Has Code']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'BERT']
 ---
 In this paper, we systematically evaluate the robustness of multi-exit
 language models against adversarial slowdown. To audit their robustness, we

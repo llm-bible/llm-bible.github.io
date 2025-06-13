@@ -7,7 +7,7 @@ year: 2023
 bibkey: su2023semantic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.02731"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 ChatGPT has garnered significant interest due to its impressive performance;
 however, there is growing concern about its potential risks, particularly in

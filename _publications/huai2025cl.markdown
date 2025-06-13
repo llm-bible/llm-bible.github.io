@@ -7,7 +7,7 @@ year: 2025
 bibkey: huai2025cl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00413"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) have garnered widespread attention
 from researchers due to their remarkable understanding and generation

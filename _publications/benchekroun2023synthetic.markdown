@@ -7,7 +7,7 @@ year: 2023
 bibkey: benchekroun2023synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15930"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 We propose WorldSense, a benchmark designed to assess the extent to which
 LLMs are consistently able to sustain tacit world models, by testing how they

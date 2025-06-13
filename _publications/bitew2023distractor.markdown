@@ -7,7 +7,7 @@ year: 2023
 bibkey: bitew2023distractor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.16338"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting', 'Attention Mechanism']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLMs) such as ChatGPT have demonstrated remarkable
 performance across various tasks and have garnered significant attention from

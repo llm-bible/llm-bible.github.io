@@ -7,7 +7,7 @@ year: 2025
 bibkey: linhardt2025alignment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07965"}
-tags: ['Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Small and mid-sized generative language models have gained increasing
 attention. Their size and availability make them amenable to being analyzed at

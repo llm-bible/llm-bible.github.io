@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16976"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer models have achieved remarkable success in various machine
 learning tasks but suffer from high computational complexity and resource

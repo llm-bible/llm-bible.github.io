@@ -8,7 +8,7 @@ bibkey: garg2024target
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07083"}
   - {name: "Code", url: "https://github.com/kgarg8/Stanceformer"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 The task of Stance Detection involves discerning the stance expressed in a
 text towards a specific subject or target. Prior works have relied on existing

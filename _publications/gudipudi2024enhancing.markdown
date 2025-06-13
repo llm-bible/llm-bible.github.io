@@ -7,7 +7,7 @@ year: 2024
 bibkey: gudipudi2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06208"}
-tags: ['Responsible AI', 'Training Techniques', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'RAG', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Instruction fine-tuning of large language models (LLMs) is a powerful method
 for improving task-specific performance, but it can inadvertently lead to a

@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07301"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Humans often interact with large language models (LLMs) in multi-turn
 interaction to obtain desired answers or more information. However, most

@@ -7,7 +7,7 @@ year: 2024
 bibkey: srinivasan2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18215"}
-tags: ['Security', 'Model Architecture', 'Applications', 'RAG']
+tags: ['RAG', 'Security', 'Applications', 'Model Architecture']
 ---
 This position paper proposes a novel approach to advancing NLP security by
 leveraging Large Language Models (LLMs) as engines for generating diverse

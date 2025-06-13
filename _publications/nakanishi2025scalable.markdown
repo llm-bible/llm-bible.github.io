@@ -7,7 +7,7 @@ year: 2025
 bibkey: nakanishi2025scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.19399"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The maximum element of the vector output by the Softmax function approaches
 zero as the input vector size increases. Transformer-based language models rely

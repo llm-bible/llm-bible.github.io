@@ -8,7 +8,7 @@ bibkey: chen2024gui
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10819"}
   - {name: "Code", url: "https://gui-world.github.io"}
-tags: ['Agentic', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Agentic', 'RAG', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Recently, Multimodal Large Language Models (MLLMs) have been used as agents
 to control keyboard and mouse inputs by directly perceiving the Graphical User

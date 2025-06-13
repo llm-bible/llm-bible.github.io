@@ -7,7 +7,7 @@ year: 2022
 bibkey: yan2022generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.17322"}
-tags: ['Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 Vision-language pre-training (VLP) has attracted increasing attention
 recently. With a large amount of image-text pairs, VLP models trained with

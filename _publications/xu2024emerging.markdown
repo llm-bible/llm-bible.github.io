@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024emerging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02760"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Merging', 'GPT', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'Survey Paper', 'Model Architecture', 'Merging', 'RecSys', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 With the boom of e-commerce and web applications, recommender systems have
 become an important part of our daily lives, providing personalized

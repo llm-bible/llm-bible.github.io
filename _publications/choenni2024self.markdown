@@ -7,7 +7,7 @@ year: 2024
 bibkey: choenni2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16482"}
-tags: ['Prompting', 'Survey Paper', 'In-Context Learning']
+tags: ['Survey Paper', 'Prompting', 'In-Context Learning']
 ---
 Improving the alignment of Large Language Models (LLMs) with respect to the
 cultural values that they encode has become an increasingly important topic. In

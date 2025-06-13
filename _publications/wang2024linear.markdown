@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024linear
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00039"}
-tags: ['Pretraining Methods', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) has become essential for adapting
 pretrained models to specific downstream tasks. In this paper, we propose

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024federated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09959"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'LREC', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'LREC', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have empowered generative recommendation systems
 through fine-tuning user behavior data. However, utilizing the user data may

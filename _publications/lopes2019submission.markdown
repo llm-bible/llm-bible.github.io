@@ -7,7 +7,7 @@ year: 2019
 bibkey: lopes2019submission
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.13068"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Tools', 'BERT', 'Applications']
+tags: ['Tools', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'BERT']
 ---
 This paper describes Unbabel's submission to the WMT2019 APE Shared Task for
 the English-German language pair. Following the recent rise of large, powerful,

@@ -8,7 +8,7 @@ bibkey: yoon2024hero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12377"}
   - {name: "Code", url: "https://github.com/ssu-humane/HerO"}
-tags: ['Prompting', 'Has Code', 'Reinforcement Learning']
+tags: ['Has Code', 'Prompting', 'Reinforcement Learning']
 ---
 To tackle the AVeriTeC shared task hosted by the FEVER-24, we introduce a
 system that only employs publicly available large language models (LLMs) for

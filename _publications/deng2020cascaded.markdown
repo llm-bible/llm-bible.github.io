@@ -7,7 +7,7 @@ year: 2020
 bibkey: deng2020cascaded
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2006.01112"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The two dominant approaches to neural text generation are fully
 autoregressive models, using serial beam search decoding, and

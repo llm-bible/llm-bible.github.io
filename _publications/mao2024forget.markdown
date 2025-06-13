@@ -7,7 +7,7 @@ year: 2024
 bibkey: mao2024forget
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16030"}
-tags: ['Agentic', 'Security', 'Efficiency and Optimization', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Security']
 ---
 While Reinforcement Learning from Human Feedback (RLHF) significantly
 enhances the generation quality of Large Language Models (LLMs), recent studies

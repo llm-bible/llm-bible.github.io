@@ -7,7 +7,7 @@ year: 2020
 bibkey: santra2020hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.08067"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Generative models for dialog systems have gained much interest because of the
 recent success of RNN and Transformer based models in tasks like question

@@ -8,7 +8,7 @@ bibkey: guo2024api
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09615"}
   - {name: "Code", url: "https://github.com/zguo0525/API-Pack"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We introduce API Pack, a massive multi-programming language dataset
 containing over one million instruction-API calls for improving the API call

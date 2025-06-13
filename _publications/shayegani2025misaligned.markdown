@@ -7,7 +7,7 @@ year: 2025
 bibkey: shayegani2025misaligned
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03735"}
-tags: ['Masked Language Model', 'Security', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Merging', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Merging', 'Security', 'Training Techniques', 'Attention Mechanism', 'Masked Language Model', 'Multimodal Models', 'Prompting']
 ---
 Multimodal Language Models (MMLMs) typically undergo post-training alignment
 to prevent harmful content generation. However, these alignment stages focus

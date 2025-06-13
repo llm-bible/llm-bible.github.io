@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024parallel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12022"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models (LLMs) have recently shown remarkable performance
 across a wide range of tasks. However, the substantial number of parameters in

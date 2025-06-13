@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024tp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18071"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Recently, multimodal large language models (MLLMs) have received much
 attention for their impressive capabilities. The evaluation of MLLMs is

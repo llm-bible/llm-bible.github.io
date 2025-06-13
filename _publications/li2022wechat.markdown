@@ -7,7 +7,7 @@ year: 2022
 bibkey: li2022wechat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.15022"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper introduces WeChat's participation in WMT 2022 shared biomedical
 translation task on Chinese to English. Our systems are based on the

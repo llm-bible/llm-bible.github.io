@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024reinforced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02659"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Prompting']
 ---
 Retrieval-augmented large language models (LLMs) leverage relevant content
 retrieved by information retrieval systems to generate correct responses,

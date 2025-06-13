@@ -8,7 +8,7 @@ bibkey: park2022relation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.00975"}
   - {name: "Code", url: "http://github.com/mlvlab/QAT"}
-tags: ['Multimodal Models', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Question Answering (QA) is a task that entails reasoning over natural
 language contexts, and many relevant works augment language models (LMs) with

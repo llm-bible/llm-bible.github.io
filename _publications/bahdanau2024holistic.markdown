@@ -7,7 +7,7 @@ year: 2024
 bibkey: bahdanau2024holistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08445"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We present TapeAgents, an agent framework built around a granular, structured
 log tape of the agent session that also plays the role of the session's

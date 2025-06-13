@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025repository
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08862"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 As an essential part of modern hardware design, manually writing Register
 Transfer Level (RTL) code such as Verilog is often labor-intensive. Following

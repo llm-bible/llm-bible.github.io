@@ -7,7 +7,7 @@ year: 2024
 bibkey: godbole2024analysis
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10490"}
-tags: ['Language Modeling', 'Applications', 'RAG']
+tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 In text generation, hallucinations refer to the generation of seemingly
 coherent text that contradicts established knowledge. One compelling hypothesis

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024goal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17089"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 The advent of ChatGPT and similar large language models (LLMs) has
 revolutionized the human-AI interaction and information-seeking process.

@@ -8,7 +8,7 @@ bibkey: begin2025pause
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20405"}
   - {name: "Code", url: "https://anonymous.4open.science/r/LITM-PauseTokens-7357"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 LLMs have demonstrated remarkable proficiency in understanding tasks but
 continue to struggle with long-context comprehension, particularly with content

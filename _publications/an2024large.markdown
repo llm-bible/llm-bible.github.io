@@ -7,7 +7,7 @@ year: 2024
 bibkey: an2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12959"}
-tags: ['Few-Shot', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 Commonsense knowledge is essential for machines to reason about the world.
 Large language models (LLMs) have demonstrated their ability to perform almost

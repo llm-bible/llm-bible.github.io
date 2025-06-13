@@ -7,7 +7,7 @@ year: 2024
 bibkey: pang2024knowledgeable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09248"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning']
 ---
 Reinforcement learning (RL) trains agents to accomplish complex tasks through
 environmental interaction data, but its capacity is also limited by the scope

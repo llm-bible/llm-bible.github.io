@@ -8,7 +8,7 @@ bibkey: sun2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14112"}
   - {name: "Code", url: "https://github.com/opendatalab/CHARM"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Has Code']
+tags: ['Efficiency and Optimization', 'Has Code', 'Prompting']
 ---
 We introduce CHARM, the first benchmark for comprehensively and in-depth
 evaluating the commonsense reasoning ability of large language models (LLMs) in

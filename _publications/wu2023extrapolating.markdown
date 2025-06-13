@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023extrapolating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13140"}
-tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Multilingual understanding models (or encoder-based), pre-trained via masked
 language modeling, have achieved promising results on many language

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wright2024revealing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19238"}
-tags: ['Prompting', 'Ethics and Bias', 'Survey Paper']
+tags: ['Survey Paper', 'Prompting', 'Ethics and Bias']
 ---
 Uncovering latent values and opinions embedded in large language models
 (LLMs) can help identify biases and mitigate potential harm. Recently, this has

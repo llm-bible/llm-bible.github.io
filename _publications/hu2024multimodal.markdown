@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06309"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Multimodal Models']
 ---
 Mobile applications (Apps) could expose children to inappropriate themes such
 as sexual content, violence, and drug use. Maturity rating offers a quick and

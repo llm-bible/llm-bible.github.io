@@ -7,7 +7,7 @@ year: 2025
 bibkey: liang2025dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.14204"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'GPT', 'Pruning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision-Language Models (VLMs) have achieved notable success in multimodal
 tasks but face practical limitations due to the quadratic complexity of decoder

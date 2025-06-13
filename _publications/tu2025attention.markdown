@@ -7,7 +7,7 @@ year: 2025
 bibkey: tu2025attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.08342"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 Multi-Modal Large Language Models (MLLMs) stand out in various tasks but
 still struggle with hallucinations. While recent training-free mitigation

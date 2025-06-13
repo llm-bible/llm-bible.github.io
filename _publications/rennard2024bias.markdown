@@ -7,7 +7,7 @@ year: 2024
 bibkey: rennard2024bias
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13517"}
-tags: ['Ethics and Bias', 'Security', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Security', 'Training Techniques', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large language models (LLMs) inherit biases from their training data and
 alignment processes, influencing their responses in subtle ways. While many

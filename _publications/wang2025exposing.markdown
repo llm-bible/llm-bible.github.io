@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025exposing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02865"}
-tags: ['Security', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Security', 'Prompting']
 ---
 As Large Language Models (LLMs) continue to advance, they are increasingly
 relied upon as real-time sources of information by non-expert users. To ensure

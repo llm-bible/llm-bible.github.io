@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024tip
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.04709"}
-tags: ['Responsible AI', 'Model Architecture', 'Merging', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Responsible AI', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Prompting']
 ---
 Video generation models are revolutionizing content creation, with
 image-to-video models drawing increasing attention due to their enhanced

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024constrained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13490"}
-tags: ['Prompting', 'Ethics and Bias', 'RAG']
+tags: ['RAG', 'Prompting', 'Ethics and Bias']
 ---
 Theory-of-Mind (ToM) ability possessed by Large Language Models (LLMs) has
 been shown to be limited. Most existing methods for improving ToM in LLMs adopt

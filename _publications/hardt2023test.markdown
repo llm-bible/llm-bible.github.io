@@ -7,7 +7,7 @@ year: 2023
 bibkey: hardt2023test
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18466"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Many recent efforts augment language models with retrieval, by adding
 retrieved data to the input context. For this approach to succeed, the

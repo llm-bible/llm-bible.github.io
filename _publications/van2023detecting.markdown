@@ -7,7 +7,7 @@ year: 2023
 bibkey: van2023detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06737"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 Recently, large language models (LLMs) have taken the spotlight in natural
 language processing. Further, integrating LLMs with vision enables the users to

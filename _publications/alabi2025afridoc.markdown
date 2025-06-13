@@ -7,7 +7,7 @@ year: 2025
 bibkey: alabi2025afridoc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06374"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper introduces AFRIDOC-MT, a document-level multi-parallel translation
 dataset covering English and five African languages: Amharic, Hausa, Swahili,

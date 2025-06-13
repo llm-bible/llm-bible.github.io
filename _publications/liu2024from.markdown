@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14321"}
-tags: ['Security', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs) have shown remarkable potential in code
 generation, making them increasingly important in the field. However, the

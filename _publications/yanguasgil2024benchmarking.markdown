@@ -7,7 +7,7 @@ year: 2024
 bibkey: yanguasgil2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10477"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 In this work we introduce an open-ended question benchmark, ALDbench, to
 evaluate the performance of large language models (LLMs) in materials

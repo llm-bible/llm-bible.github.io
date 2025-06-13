@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024sop
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03884"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Dialogue agents powered by Large Language Models (LLMs) show superior
 performance in various tasks. Despite the better user understanding and

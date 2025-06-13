@@ -7,7 +7,7 @@ year: 2024
 bibkey: jia2024visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01733"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Understanding visual semantics embedded in consecutive characters is a
 crucial capability for both large language models (LLMs) and multi-modal large

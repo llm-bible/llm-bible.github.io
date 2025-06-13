@@ -7,7 +7,7 @@ year: 2024
 bibkey: khurana2024why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08030"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Large Language Model (LLM) assistants, such as ChatGPT, have emerged as
 potential alternatives to search methods for helping users navigate complex,

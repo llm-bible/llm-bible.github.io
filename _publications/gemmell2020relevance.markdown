@@ -7,7 +7,7 @@ year: 2020
 bibkey: gemmell2020relevance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.02609"}
-tags: ['Model Architecture', 'Tools', 'Merging', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Tools capable of automatic code generation have the potential to augment
 programmer's capabilities. While straightforward code retrieval is incorporated

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13443"}
-tags: ['Prompting', 'RAG', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Gradient-free prompt optimization methods have made significant strides in
 enhancing the performance of closed-source Large Language Models (LLMs) across

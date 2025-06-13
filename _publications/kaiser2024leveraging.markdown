@@ -7,7 +7,7 @@ year: 2024
 bibkey: kaiser2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.08563"}
-tags: ['Prompting', 'RAG', 'Training Techniques']
+tags: ['RAG', 'Training Techniques', 'Prompting']
 ---
 Food consumption and production contribute significantly to global greenhouse
 gas emissions, making them crucial entry points for mitigating climate change

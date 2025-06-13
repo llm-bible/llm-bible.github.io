@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15285"}
-tags: ['Prompting', 'RAG', 'Agentic', 'Tools']
+tags: ['RAG', 'Agentic', 'Prompting', 'Tools']
 ---
 The advancements in cloud-based Large Languages Models (LLMs) have
 revolutionized AI-assisted programming. However, their integration into certain

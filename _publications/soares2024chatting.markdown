@@ -7,7 +7,7 @@ year: 2024
 bibkey: soares2024chatting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00347"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'TACL', 'GPT', 'ACL']
+tags: ['Agentic', 'GPT', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques']
 ---
 Obtaining data in the medical field is challenging, making the adoption of AI
 technology within the space slow and high-risk. We evaluate whether we can

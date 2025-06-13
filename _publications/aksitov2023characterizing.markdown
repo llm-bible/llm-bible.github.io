@@ -7,7 +7,7 @@ year: 2023
 bibkey: aksitov2023characterizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.05578"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Despite recent progress, it has been difficult to prevent semantic
 hallucinations in generative Large Language Models. One common solution to this

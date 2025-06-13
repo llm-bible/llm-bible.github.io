@@ -7,7 +7,7 @@ year: 2020
 bibkey: gonen2020not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.08275"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Recent works have demonstrated that multilingual BERT (mBERT) learns rich
 cross-lingual representations, that allow for transfer across languages. We

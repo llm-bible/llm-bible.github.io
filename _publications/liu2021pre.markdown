@@ -7,7 +7,7 @@ year: 2021
 bibkey: liu2021pre
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2107.13586v1"}
-tags: ['Survey Paper', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Tools', 'Survey Paper', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 This paper surveys and organizes research works in a new paradigm in natural
 language processing, which we dub "prompt-based learning". Unlike traditional

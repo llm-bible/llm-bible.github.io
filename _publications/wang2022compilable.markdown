@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022compilable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.05132"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Automatically generating compilable programs with (or without) natural
 language descriptions has always been a touchstone problem for computational

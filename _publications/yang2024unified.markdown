@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20916"}
   - {name: "Code", url: "https://github.com/NeuSpeech/NeuGPT}{NeuSpeech/NeuGPT"}
   - {name: "Code", url: "https://github.com/NeuSpeech/NeuGPT)"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Has Code']
+tags: ['RAG', 'GPT', 'Has Code', 'Model Architecture']
 ---
 This paper introduces NeuGPT, a groundbreaking multi-modal language
 generation model designed to harmonize the fragmented landscape of neural

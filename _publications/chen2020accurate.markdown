@@ -7,7 +7,7 @@ year: 2020
 bibkey: chen2020accurate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.14837"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Despite its original goal to jointly learn to align and translate, prior
 researches suggest that Transformer captures poor word alignments through its

@@ -8,7 +8,7 @@ bibkey: gu2025steel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06635"}
   - {name: "Code", url: "https://github.com/zhanshijinwat/Steel-LLM"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Has Code']
+tags: ['Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code']
 ---
 Steel-LLM is a Chinese-centric language model developed from scratch with the
 goal of creating a high-quality, open-source model despite limited

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024defining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16283"}
-tags: ['Prompting', 'RAG', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Large language models (LLMs) are now at the core of conversational AI
 services such as real-time translation and chatbots, which provide live user

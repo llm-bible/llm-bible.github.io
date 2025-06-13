@@ -8,7 +8,7 @@ bibkey: kobalczyk2024few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13998"}
   - {name: "Code", url: "https://github.com/kasia-kobalczyk/few-shot-steerable-alignment"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
 ---
 As large language models (LLMs) become increasingly embedded in everyday
 applications, ensuring their alignment with the diverse preferences of

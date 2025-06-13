@@ -7,7 +7,7 @@ year: 2023
 bibkey: jin2023augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09667"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 While large language models (LLMs) have been successfully applied to various
 tasks, they still face challenges with hallucinations. Augmenting LLMs with

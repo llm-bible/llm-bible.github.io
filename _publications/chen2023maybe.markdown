@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023maybe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.09246"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Instruction tuning for large language models (LLMs) has gained attention from
 researchers due to its ability to unlock the potential of LLMs in following

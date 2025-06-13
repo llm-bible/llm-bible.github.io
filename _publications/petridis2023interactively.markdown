@@ -7,7 +7,7 @@ year: 2023
 bibkey: petridis2023interactively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15428"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language model (LLM) prompting is a promising new approach for users to
 create and customize their own chatbots. However, current methods for steering

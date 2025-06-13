@@ -8,7 +8,7 @@ bibkey: shen2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00132"}
   - {name: "Code", url: "https://github.com/EachSheep/ShortcutsBench"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Recent advancements in integrating large language models (LLMs) with
 application programming interfaces (APIs) have gained significant interest in

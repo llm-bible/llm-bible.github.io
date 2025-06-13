@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17952"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Prompting']
 ---
 Retrieval-augmented generation (RAG) enhances the question-answering (QA)
 abilities of large language models (LLMs) by integrating external knowledge.

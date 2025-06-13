@@ -7,7 +7,7 @@ year: 2025
 bibkey: heakl2025arabic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00094"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Multimodal Models']
 ---
 Amid the swift progress of large language models (LLMs) and their evolution
 into large multimodal models (LMMs), significant strides have been made in

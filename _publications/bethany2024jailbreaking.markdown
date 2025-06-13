@@ -7,7 +7,7 @@ year: 2024
 bibkey: bethany2024jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11445"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'RAG', 'Prompting']
+tags: ['Responsible AI', 'RAG', 'Security', 'Training Techniques', 'Prompting']
 ---
 Recent advancements in AI safety have led to increased efforts in training
 and red-teaming large language models (LLMs) to mitigate unsafe content

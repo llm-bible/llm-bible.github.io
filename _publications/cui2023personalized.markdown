@@ -7,7 +7,7 @@ year: 2023
 bibkey: cui2023personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09397"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Integrating large language models (LLMs) in autonomous vehicles enables
 conversation with AI systems to drive the vehicle. However, it also emphasizes

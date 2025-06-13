@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22995"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Although previous research on large language models (LLMs) and large
 multi-modal models (LMMs) has systematically explored mathematical

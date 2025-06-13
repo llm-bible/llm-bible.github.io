@@ -7,7 +7,7 @@ year: 2022
 bibkey: si2022prompting
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.09150v2"}
-tags: ['Responsible AI', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) show impressive abilities via few-shot
 prompting. Commercialized APIs such as OpenAI GPT-3 further increase their use

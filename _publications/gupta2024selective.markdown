@@ -7,7 +7,7 @@ year: 2024
 bibkey: gupta2024selective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.04787"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning Large Language Models (LLMs) on specific datasets is a common
 practice to improve performance on target tasks. However, this performance gain

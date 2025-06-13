@@ -7,7 +7,7 @@ year: 2025
 bibkey: shao2025division
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04392"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'RAG', 'Agentic', 'Tools']
 ---
 The rapid expansion of web content has made on-device AI assistants
 indispensable for helping users manage the increasing complexity of online

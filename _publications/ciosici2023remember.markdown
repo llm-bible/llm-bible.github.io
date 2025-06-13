@@ -7,7 +7,7 @@ year: 2023
 bibkey: ciosici2023remember
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01468"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 We explore using a moderately sized large language model (GPT-J 6B
 parameters) to create a plan for a simulated robot to achieve 30 classes of

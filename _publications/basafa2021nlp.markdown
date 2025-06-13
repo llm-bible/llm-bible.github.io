@@ -7,7 +7,7 @@ year: 2021
 bibkey: basafa2021nlp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.03775"}
-tags: ['Pretraining Methods', 'BERT', 'Transformer', 'Model Architecture']
+tags: ['BERT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper presents a technical report of our submission to the 4th task of
 SemEval-2021, titled: Reading Comprehension of Abstract Meaning. In this task,

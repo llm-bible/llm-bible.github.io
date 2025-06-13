@@ -7,7 +7,7 @@ year: 2021
 bibkey: jiang2021improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.11115"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 While pre-trained language models have achieved great success on various
 natural language understanding tasks, how to effectively leverage them into

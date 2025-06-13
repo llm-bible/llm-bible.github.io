@@ -8,7 +8,7 @@ bibkey: lee2025sequential
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17587"}
   - {name: "Code", url: "https://github.com/LiuzLab/consol,"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Interpretability', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Has Code']
 ---
 Recent advancements in large language models (LLMs) integrating explicit
 reasoning, such as OpenAI's o3-mini, DeepSeek-R1, and QWQ-32B, enable smaller

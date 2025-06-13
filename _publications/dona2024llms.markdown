@@ -7,7 +7,7 @@ year: 2024
 bibkey: dona2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12580"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
 ---
 Today's Large Language Models (LLMs) have showcased exemplary capabilities,
 ranging from simple text generation to advanced image processing. Such models

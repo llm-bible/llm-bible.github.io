@@ -8,7 +8,7 @@ bibkey: du2023guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.06692"}
   - {name: "Code", url: "https://github.com/yuqingd/ellm"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Reinforcement learning algorithms typically struggle in the absence of a
 dense, well-shaped reward function. Intrinsically motivated exploration methods

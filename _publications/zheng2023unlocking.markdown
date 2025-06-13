@@ -7,7 +7,7 @@ year: 2023
 bibkey: zheng2023unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13596"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 Large language models (LLMs), such as ChatGPT/GPT-4, have proven to be
 powerful tools in promoting the user experience as an AI assistant. The

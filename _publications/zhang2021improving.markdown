@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhang2021improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.13073"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Context: Stack Overflow is very helpful for software developers who are
 seeking answers to programming problems. Previous studies have shown that a

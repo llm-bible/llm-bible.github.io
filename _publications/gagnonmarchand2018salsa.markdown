@@ -7,7 +7,7 @@ year: 2018
 bibkey: gagnonmarchand2018salsa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.11155"}
-tags: ['Security', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Security', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Inspired by the success of self attention mechanism and Transformer
 architecture in sequence transduction and image generation applications, we

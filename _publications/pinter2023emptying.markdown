@@ -7,7 +7,7 @@ year: 2023
 bibkey: pinter2023emptying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11958"}
-tags: ['Model Architecture', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability']
 ---
 We call into question the recently popularized method of direct model editing
 as a means of correcting factual errors in LLM generations. We contrast model

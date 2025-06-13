@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.14364"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'GPT', 'Prompting']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'Distillation']
 ---
 A wave of new task-based virtual assistants has been fueled by increasingly
 powerful large language models (LLMs), such as GPT-4 (OpenAI, 2023). A major

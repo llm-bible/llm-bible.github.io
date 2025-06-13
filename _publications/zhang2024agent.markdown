@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024agent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17574"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) exhibit robust problem-solving capabilities for
 diverse tasks. However, most LLM-based agents are designed as specific task

@@ -7,7 +7,7 @@ year: 2025
 bibkey: matarazzo2025survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04040"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 The rapid advancement of artificial intelligence, particularly with the
 development of Large Language Models (LLMs) built on the transformer

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024l
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02115"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 Long-context models (LCMs) have made remarkable strides in recent years,
 offering users great convenience for handling tasks that involve long context,

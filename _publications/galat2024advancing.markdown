@@ -7,7 +7,7 @@ year: 2024
 bibkey: galat2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.19076"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 The recent proliferation of AI-generated content has prompted significant
 interest in developing reliable detection methods. This study explores

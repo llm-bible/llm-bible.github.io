@@ -7,7 +7,7 @@ year: 2025
 bibkey: bhattacharyya2025finescope
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00624"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'RAG', 'Distillation', 'Pruning']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Security', 'Training Techniques', 'Distillation']
 ---
 Training large language models (LLMs) from scratch requires significant
 computational resources, driving interest in developing smaller,

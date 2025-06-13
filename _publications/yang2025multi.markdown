@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.07487"}
-tags: ['Agentic', 'RAG', 'Tools']
+tags: ['RAG', 'Agentic', 'Tools']
 ---
 Recent advancement in code understanding and generation demonstrates that
 code LLMs fine-tuned on a high-quality instruction dataset can gain powerful

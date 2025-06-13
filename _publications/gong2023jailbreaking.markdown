@@ -8,7 +8,7 @@ bibkey: gong2023jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05608"}
   - {name: "Code", url: "https://github.com/ThuCCSLab/FigStep"}
-tags: ['Responsible AI', 'Security', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Large Vision-Language Models (LVLMs) signify a groundbreaking paradigm shift
 within the Artificial Intelligence (AI) community, extending beyond the

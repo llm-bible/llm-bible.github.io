@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11525"}
-tags: ['Agentic', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Applications', 'Reinforcement Learning']
 ---
 Faithfulness, expressiveness, and elegance is the constant pursuit in machine
 translation. However, traditional metrics like \textit\{BLEU\} do not strictly

@@ -7,7 +7,7 @@ year: 2024
 bibkey: beyer2024clembench
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20859"}
-tags: ['Agentic', 'Prompting', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Reinforcement Learning', 'Prompting', 'Tools']
 ---
 It has been established in recent work that Large Language Models (LLMs) can
 be prompted to "self-play" conversational games that probe certain capabilities

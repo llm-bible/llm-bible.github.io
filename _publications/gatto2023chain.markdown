@@ -7,7 +7,7 @@ year: 2023
 bibkey: gatto2023chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19750"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'BERT', 'Prompting']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'BERT', 'Prompting']
 ---
 Stance detection on social media is challenging for Large Language Models
 (LLMs), as emerging slang and colloquial language in online conversations often

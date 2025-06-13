@@ -7,7 +7,7 @@ year: 2024
 bibkey: mendoza2024adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16973"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have revolutionized how we interact with
 technology, but their personalization to individual user preferences remains a

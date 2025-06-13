@@ -7,7 +7,7 @@ year: 2022
 bibkey: sandler2022fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.15243"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 In this paper we propose augmenting Vision Transformer models with learnable
 memory tokens. Our approach allows the model to adapt to new tasks, using few

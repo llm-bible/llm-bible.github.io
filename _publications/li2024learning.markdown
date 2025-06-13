@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.19637"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 In text-to-image (T2I) generation applications, negative embeddings have
 proven to be a simple yet effective approach for enhancing generation quality.

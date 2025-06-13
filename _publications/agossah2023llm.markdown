@@ -7,7 +7,7 @@ year: 2023
 bibkey: agossah2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09064"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture']
 ---
 In the past years, AI has seen many advances in the field of NLP. This has
 led to the emergence of LLMs, such as the now famous GPT-3.5, which

@@ -7,7 +7,7 @@ year: 2024
 bibkey: thirukovalluru2024harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14635"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Prompting']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Training-free embedding methods directly leverage pretrained large language
 models (LLMs) to embed text, bypassing the costly and complex procedure of

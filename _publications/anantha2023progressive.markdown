@@ -7,7 +7,7 @@ year: 2023
 bibkey: anantha2023progressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10332"}
-tags: ['Pretraining Methods', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs) are increasingly employed for complex multi-step
 planning tasks, where the tool retrieval (TR) step is crucial for achieving

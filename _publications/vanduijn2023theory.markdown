@@ -7,7 +7,7 @@ year: 2023
 bibkey: vanduijn2023theory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20320"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Prompting']
 ---
 To what degree should we ascribe cognitive capacities to Large Language
 Models (LLMs), such as the ability to reason about intentions and beliefs known

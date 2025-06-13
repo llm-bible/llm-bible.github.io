@@ -7,7 +7,7 @@ year: 2024
 bibkey: iravani2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12878"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'BERT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Prompting', 'In-Context Learning']
 ---
 Table processing, a key task in natural language processing, has
 significantly benefited from recent advancements in language models (LMs).

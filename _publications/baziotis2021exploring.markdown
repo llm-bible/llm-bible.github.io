@@ -7,7 +7,7 @@ year: 2021
 bibkey: baziotis2021exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.05634"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Applications']
+tags: ['Applications', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods']
 ---
 Unsupervised cross-lingual pretraining has achieved strong results in neural
 machine translation (NMT), by drastically reducing the need for large parallel

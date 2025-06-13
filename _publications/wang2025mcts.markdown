@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025mcts
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12468"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Scaling Laws', 'Reinforcement Learning', 'RAG', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Scaling Laws']
 ---
 The LLM-as-a-Judge paradigm shows promise for evaluating generative content
 but lacks reliability in reasoning-intensive scenarios, such as programming.

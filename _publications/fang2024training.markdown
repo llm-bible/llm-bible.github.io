@@ -7,7 +7,7 @@ year: 2024
 bibkey: fang2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.20995"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) demonstrate exceptional performance across a
 variety of tasks, yet they are often affected by hallucinations and the

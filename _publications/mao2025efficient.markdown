@@ -8,7 +8,7 @@ bibkey: mao2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06474"}
   - {name: "Code", url: "https://github.com/showlab/UniMoD"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Pruning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Unified multimodal transformers, which handle both generation and
 understanding tasks within a shared parameter space, have received increasing

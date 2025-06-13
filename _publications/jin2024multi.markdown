@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11842"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In this work, we upgrade the multi-head attention mechanism, the core of the
 Transformer model, to improve efficiency while maintaining or surpassing the

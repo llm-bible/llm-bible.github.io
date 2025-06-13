@@ -7,7 +7,7 @@ year: 2024
 bibkey: juseondo2024length
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11097"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Extractive summarization can produce faithful summaries but often requires
 additional constraints such as a desired summary length. Traditional sentence

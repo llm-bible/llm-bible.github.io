@@ -7,7 +7,7 @@ year: 2024
 bibkey: kumar2024amplegcg
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22143"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Although large language models (LLMs) are typically aligned, they remain
 vulnerable to jailbreaking through either carefully crafted prompts in natural

@@ -8,7 +8,7 @@ bibkey: chen2023genspectrum
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13821"}
   - {name: "Code", url: "https://cov-spectrum.org/chat)"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Introduction: The COVID-19 pandemic highlighted the importance of making
 epidemiological data and scientific insights easily accessible and explorable

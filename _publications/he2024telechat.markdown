@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024telechat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.03804"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In this technical report, we present TeleChat, a collection of large language
 models (LLMs) with parameters of 3 billion, 7 billion and 12 billion. It

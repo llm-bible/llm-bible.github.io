@@ -7,7 +7,7 @@ year: 2023
 bibkey: kim2023solar
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15166"}
-tags: ['Pretraining Methods', 'Training Techniques']
+tags: ['Training Techniques', 'Pretraining Methods']
 ---
 We introduce SOLAR 10.7B, a large language model (LLM) with 10.7 billion
 parameters, demonstrating superior performance in various natural language

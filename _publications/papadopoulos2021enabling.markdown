@@ -7,7 +7,7 @@ year: 2021
 bibkey: papadopoulos2021enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.15075"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'ACL', 'Applications', 'EACL']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'ACL', 'Pretraining Methods', 'EACL']
 ---
 In this paper we present our submission for the EACL 2021 SRW; a methodology
 that aims at bridging the gap between high and low-resource languages in the

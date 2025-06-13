@@ -8,7 +8,7 @@ bibkey: taylor2022clinical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.05535"}
   - {name: "Code", url: "https://github.com/NtaylorOX/Public_Clinical_Prompt"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Prompt learning is a new paradigm in the Natural Language Processing (NLP)
 field which has shown impressive performance on a number of natural language

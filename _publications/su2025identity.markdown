@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025identity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.10668"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The rapid advancement of Large Language Models (LLMs) has increased the
 complexity and cost of fine-tuning, leading to the adoption of API-based

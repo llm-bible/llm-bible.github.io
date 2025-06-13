@@ -7,7 +7,7 @@ year: 2023
 bibkey: yuan2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.01240"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Few-Shot']
+tags: ['Fine-Tuning', 'Few-Shot', 'Training Techniques', 'Pretraining Methods']
 ---
 In this work, we evaluate 10 open-source instructed LLMs on four
 representative code comprehension and generation tasks. We have the following

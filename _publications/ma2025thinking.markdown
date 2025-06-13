@@ -8,7 +8,7 @@ bibkey: ma2025thinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23803"}
   - {name: "Code", url: "https://github.com/yingweima2022/SWE-Reasoner"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Recent advancements in software engineering agents have demonstrated
 promising capabilities in automating program improvements. However, their

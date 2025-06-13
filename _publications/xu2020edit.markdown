@@ -7,7 +7,7 @@ year: 2020
 bibkey: xu2020edit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.06868"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'ACL', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'ACL', 'Pretraining Methods']
 ---
 We introduce an Edit-Based Transformer with Repositioning (EDITOR), which
 makes sequence generation flexible by seamlessly allowing users to specify

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024bi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13170"}
-tags: ['Model Architecture', 'Tools', 'Merging', 'GPT', 'Pretraining Methods', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) inherently use autoregressive decoding, which
 lacks parallelism in inference and results in significantly slow inference

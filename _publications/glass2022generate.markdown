@@ -8,7 +8,7 @@ bibkey: glass2022generate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.06300"}
   - {name: "Code", url: "https://github.com/IBM/kgi-slot-filling/tree/re2g"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Distillation', 'GPT', 'Merging', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Has Code', 'Pretraining Methods', 'Distillation']
 ---
 As demonstrated by GPT-3 and T5, transformers grow in capability as parameter
 spaces become larger and larger. However, for tasks that require a large amount

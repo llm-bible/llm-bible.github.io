@@ -8,7 +8,7 @@ bibkey: nicolicioiu2024design
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10994"}
   - {name: "Code", url: "https://github.com/IST-DASLab/PanzaMail"}
-tags: ['Security', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'RAG', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The availability of powerful open-source large language models (LLMs) opens
 exciting use-cases, such as using personal data to fine-tune these models to

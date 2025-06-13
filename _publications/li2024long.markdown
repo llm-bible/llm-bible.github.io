@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01880"}
-tags: ['RAG', 'Applications', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
 ---
 Extending context windows (i.e., Long Context, LC) and using retrievers to
 selectively access relevant information (i.e., Retrieval-Augmented Generation,

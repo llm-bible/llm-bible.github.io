@@ -7,7 +7,7 @@ year: 2024
 bibkey: lim2024framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14255"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism']
 ---
 Improving the accessibility of psychotherapy with the aid of Large Language
 Models (LLMs) is garnering a significant attention in recent years. Recognizing

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.20895"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 So far, efficient fine-tuning has become a popular strategy for enhancing the
 capabilities of foundation models on downstream tasks by learning plug-and-play

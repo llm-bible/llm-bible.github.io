@@ -7,7 +7,7 @@ year: 2024
 bibkey: low2024answering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00541"}
-tags: ['Agentic', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Evidence to guide healthcare decisions is often limited by a lack of relevant
 and trustworthy literature as well as difficulty in contextualizing existing

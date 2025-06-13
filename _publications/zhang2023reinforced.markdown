@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023reinforced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04716"}
-tags: ['Agentic', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 Recent popularity of Large Language Models (LLMs) has opened countless
 possibilities in automating numerous AI tasks by connecting LLMs to various

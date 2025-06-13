@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023recommendation
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.07001v1"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'RecSys', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Attention Mechanism']
 ---
 In the past decades, recommender systems have attracted much attention in
 both research and industry communities, and a large number of studies have been

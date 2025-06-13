@@ -8,7 +8,7 @@ bibkey: ni2022expanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.02816"}
   - {name: "Code", url: "https://aka.ms/X-CLIP"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Contrastive language-image pretraining has shown great success in learning
 visual-textual joint representation from web-scale data, demonstrating

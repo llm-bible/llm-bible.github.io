@@ -7,7 +7,7 @@ year: 2022
 bibkey: meng2022controllable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.14219"}
-tags: ['Language Modeling', 'Applications', 'ACL', 'Tools']
+tags: ['ACL', 'Language Modeling', 'Tools', 'Applications']
 ---
 We propose a general and efficient framework to control auto-regressive
 generation models with NeurAlly-Decomposed Oracle (NADO). Given a pre-trained

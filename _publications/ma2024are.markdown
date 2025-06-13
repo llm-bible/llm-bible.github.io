@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02101"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting']
+tags: ['Efficiency and Optimization', 'Survey Paper', 'Ethics and Bias', 'Reinforcement Learning', 'Prompting']
 ---
 LLM-based Automatic Prompt Optimization, which typically utilizes LLMs as
 Prompt Optimizers to self-reflect and refine prompts, has shown promising

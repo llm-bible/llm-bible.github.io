@@ -7,7 +7,7 @@ year: 2024
 bibkey: kwok2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06929"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 The success of Large Language Models (LLMs) in multicultural environments
 hinges on their ability to understand users' diverse cultural backgrounds. We

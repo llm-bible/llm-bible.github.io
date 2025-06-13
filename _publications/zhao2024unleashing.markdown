@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.00363"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Masked Language Model', 'Training Techniques']
 ---
 Model fusing has always been an important topic, especially in an era where
 large language models (LLM) and multi-modal language models (MLM) with

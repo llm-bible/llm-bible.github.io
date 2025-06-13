@@ -7,7 +7,7 @@ year: 2023
 bibkey: brown2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13657"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Quantization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Quantization', 'Distillation']
 ---
 As pretrained transformer language models continue to achieve
 state-of-the-art performance, the Natural Language Processing community has

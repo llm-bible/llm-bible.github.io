@@ -8,7 +8,7 @@ bibkey: zhang2020large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.00413"}
   - {name: "Code", url: "https://github.com/TsinghuaAI/CPM-Generate"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Few-Shot']
 ---
 Pre-trained Language Models (PLMs) have proven to be beneficial for various
 downstream NLP tasks. Recently, GPT-3, with 175 billion parameters and 570GB

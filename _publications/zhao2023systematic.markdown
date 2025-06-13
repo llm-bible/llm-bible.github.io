@@ -8,7 +8,7 @@ bibkey: zhao2023systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.14321"}
   - {name: "Code", url: "https://github.com/yilunzhao/RobuT"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Few-Shot']
 ---
 Despite significant progress having been made in question answering on
 tabular data (Table QA), it's unclear whether, and to what extent existing

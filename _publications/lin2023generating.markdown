@@ -8,7 +8,7 @@ bibkey: lin2023generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.19187"}
   - {name: "Code", url: "https://github.com/zlin7/UQ-NLG"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 Large language models (LLMs) specializing in natural language generation
 (NLG) have recently started exhibiting promising capabilities across a variety

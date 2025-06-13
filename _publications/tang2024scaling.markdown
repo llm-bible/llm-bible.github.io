@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02884"}
-tags: ['RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 problem-solving. However, their proficiency in solving mathematical problems

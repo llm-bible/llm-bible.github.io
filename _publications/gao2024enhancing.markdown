@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10091"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Predicting emotions elicited by news headlines can be challenging as the task
 is largely influenced by the varying nature of people's interpretations and

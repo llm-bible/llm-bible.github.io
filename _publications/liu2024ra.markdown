@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024ra
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06840"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 Large language models (LLMs) demonstrate exceptional performance in numerous
 tasks but still heavily rely on knowledge stored in their parameters. Moreover,

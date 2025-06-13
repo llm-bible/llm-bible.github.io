@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.04515"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Natural languages are believed to be (mildly) context-sensitive. Despite
 underpinning remarkably capable large language models, transformers are unable

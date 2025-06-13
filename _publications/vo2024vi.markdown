@@ -7,7 +7,7 @@ year: 2024
 bibkey: vo2024vi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15470"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism']
 ---
 The advancement of Large Language Models (LLMs) has significantly transformed
 the field of natural language processing, although the focus on English-centric

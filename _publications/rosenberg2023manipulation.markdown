@@ -7,7 +7,7 @@ year: 2023
 bibkey: rosenberg2023manipulation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.11748"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Merging']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Merging']
 ---
 The technology of Conversational AI has made significant advancements over
 the last eighteen months. As a consequence, conversational agents are likely to

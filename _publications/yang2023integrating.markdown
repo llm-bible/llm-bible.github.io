@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02778"}
-tags: ['Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Ethics and Bias', 'BERT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Language Modeling', 'BERT']
 ---
 Large language models (LLMs) have demonstrated powerful text generation
 capabilities, bringing unprecedented innovation to the healthcare field. While

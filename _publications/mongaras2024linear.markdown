@@ -7,7 +7,7 @@ year: 2024
 bibkey: mongaras2024linear
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18747"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Attention mechanisms, particularly softmax attention, have been instrumental
 in the success of transformer-based models such as GPT. However, the quadratic

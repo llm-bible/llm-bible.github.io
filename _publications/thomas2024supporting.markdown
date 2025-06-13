@@ -7,7 +7,7 @@ year: 2024
 bibkey: thomas2024supporting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12800"}
-tags: ['Prompting', 'RAG', 'Survey Paper', 'Reinforcement Learning']
+tags: ['RAG', 'Survey Paper', 'Prompting', 'Reinforcement Learning']
 ---
 In this paper, we explore the feasibility of leveraging large language models
 (LLMs) to automate or otherwise assist human raters with identifying harmful

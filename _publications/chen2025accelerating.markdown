@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.14794"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 With the rapid advancement of artificial intelligence technologies such as
 ChatGPT, AI agents and video generation,contemporary mobile systems have begun

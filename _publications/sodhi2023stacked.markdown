@@ -8,7 +8,7 @@ bibkey: sodhi2023stacked
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03720"}
   - {name: "Code", url: "https://asappresearch.github.io/webagents-step"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Performing tasks on the web presents fundamental challenges to large language
 models (LLMs), including combinatorially large open-world tasks and variations

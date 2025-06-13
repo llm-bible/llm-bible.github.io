@@ -7,7 +7,7 @@ year: 2023
 bibkey: soman2023biomedical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17330"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) are being adopted at an unprecedented rate, yet
 still face challenges in knowledge-intensive domains like biomedicine.

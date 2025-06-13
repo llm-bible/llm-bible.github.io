@@ -7,7 +7,7 @@ year: 2024
 bibkey: wan2024emotional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08782"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
+tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability']
 ---
 Designing emotionally intelligent conversational systems to provide comfort
 and advice to people experiencing distress is a compelling area of research.

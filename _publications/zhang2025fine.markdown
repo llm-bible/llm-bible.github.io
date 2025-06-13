@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20964"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Multimodal Models']
 ---
 Visual Question Answering (VQA) focuses on providing answers to natural
 language questions by utilizing information from images. Although cutting-edge

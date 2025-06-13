@@ -7,7 +7,7 @@ year: 2024
 bibkey: hou2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15491"}
-tags: ['RAG', 'Model Architecture', 'Attention Mechanism', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
 ---
 Large Language Models (LLMs) have garnered widespread attention due to their
 remarkable performance across various tasks. However, to mitigate the issue of

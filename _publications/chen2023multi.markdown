@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08067"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 The large language model (LLM) based agents have demonstrated their capacity
 to automate and expedite software development processes. In this paper, we

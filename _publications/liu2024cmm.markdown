@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024cmm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02834"}
-tags: ['Multimodal Models', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large language models (LLMs) have obtained promising results in mathematical
 reasoning, which is a foundational skill for human intelligence. Most previous

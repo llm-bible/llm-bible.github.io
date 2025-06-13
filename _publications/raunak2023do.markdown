@@ -7,7 +7,7 @@ year: 2023
 bibkey: raunak2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16806"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) such as GPT-3 have emerged as general-purpose
 language models capable of addressing many natural language generation or

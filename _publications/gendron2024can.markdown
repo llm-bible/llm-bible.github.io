@@ -7,7 +7,7 @@ year: 2024
 bibkey: gendron2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02636"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite impressive performance on language modelling and complex reasoning
 tasks, Large Language Models (LLMs) fall short on the same tasks in uncommon

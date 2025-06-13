@@ -7,7 +7,7 @@ year: 2024
 bibkey: fazili2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10245"}
-tags: ['Security', 'Tools', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Security', 'Prompting']
 ---
 Retrieval augmented generation (RAG) with large language models (LLMs) for
 Question Answering (QA) entails furnishing relevant context within the prompt

@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025between
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00127"}
-tags: ['Efficiency and Optimization', 'Merging', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Merging']
 ---
 Large language models (LLMs) are increasingly optimized for long reasoning,
 under the assumption that more reasoning leads to better performance. However,

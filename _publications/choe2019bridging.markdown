@@ -7,7 +7,7 @@ year: 2019
 bibkey: choe2019bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.10322"}
-tags: ['Model Architecture', 'Tokenization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Tokenization', 'Pretraining Methods']
 ---
 Purely character-based language models (LMs) have been lagging in quality on
 large scale datasets, and current state-of-the-art LMs rely on word

@@ -7,7 +7,7 @@ year: 2024
 bibkey: su2024demonstration
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01224"}
-tags: ['Few-Shot', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'RAG', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated an impressive capability known
 as In-context Learning (ICL), which enables them to acquire knowledge from

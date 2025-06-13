@@ -7,7 +7,7 @@ year: 2019
 bibkey: huang2019sentence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03892"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Missing sentence generation (or sentence infilling) fosters a wide range of
 applications in natural language generation, such as document auto-completion

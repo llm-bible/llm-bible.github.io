@@ -7,7 +7,7 @@ year: 2024
 bibkey: wenyi2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09652"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+tags: ['RAG', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Contemporary language models are increasingly multilingual, but Chinese LLM
 developers must navigate complex political and business considerations of

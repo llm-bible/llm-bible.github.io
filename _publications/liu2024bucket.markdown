@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024bucket
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07495"}
-tags: ['Pretraining Methods', 'Efficiency and Optimization', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'Pre-Training', 'Efficiency and Optimization', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated exceptional performance across
 various natural language processing tasks. However, the conventional

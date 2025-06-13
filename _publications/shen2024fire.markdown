@@ -7,7 +7,7 @@ year: 2024
 bibkey: shen2024fire
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14318"}
-tags: ['Prompting', 'Applications', 'Tools']
+tags: ['Tools', 'Prompting', 'Applications']
 ---
 The rapid adoption of online chatbots represents a significant advancement in
 artificial intelligence. However, this convenience brings considerable privacy

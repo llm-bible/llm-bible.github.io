@@ -7,7 +7,7 @@ year: 2024
 bibkey: ji2024analytical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20315"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
 ---
 Reducing the `\\(\textit\{hallucination\}\\)' problem of Large Language Models
 (LLMs) is crucial for their wide applications. A comprehensive and fine-grained

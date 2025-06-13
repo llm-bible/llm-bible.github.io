@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023reason
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17126"}
-tags: ['Model Architecture', 'RAG', 'Merging', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Prompting']
 ---
 Recent advancements in text-to-image (T2I) generative models have shown
 remarkable capabilities in producing diverse and imaginative visuals based on

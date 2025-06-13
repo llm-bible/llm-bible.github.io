@@ -7,7 +7,7 @@ year: 2021
 bibkey: moradi2021gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.02555"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot']
 ---
 Deep neural language models have set new breakthroughs in many tasks of
 Natural Language Processing (NLP). Recent work has shown that deep transformer

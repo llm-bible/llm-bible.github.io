@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024programming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.05907"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization', 'Prompting']
 ---
 LLMs have shown remarkable capabilities, but precisely controlling their
 response behavior remains challenging. Existing activation steering methods

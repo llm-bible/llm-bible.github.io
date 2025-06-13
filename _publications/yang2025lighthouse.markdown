@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025lighthouse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16024"}
-tags: ['Agentic', 'Agent', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Agent']
 ---
 Large language models (LLMs) have recently transformed from text-based
 assistants to autonomous agents capable of planning, reasoning, and iteratively

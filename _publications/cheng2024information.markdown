@@ -8,7 +8,7 @@ bibkey: cheng2024information
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13985"}
   - {name: "Code", url: "https://github.com/hustcxx/InfoRE"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pruning', 'Has Code']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Has Code']
 ---
 Improving the reasoning capabilities of large language models (LLMs) has
 attracted considerable interest. Recent approaches primarily focus on improving

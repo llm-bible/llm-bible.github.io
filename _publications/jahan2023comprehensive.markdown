@@ -7,7 +7,7 @@ year: 2023
 bibkey: jahan2023comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04270"}
-tags: ['Pretraining Methods', 'Training Techniques']
+tags: ['Training Techniques', 'Pretraining Methods']
 ---
 Recently, Large Language Models (LLM) have demonstrated impressive capability
 to solve a wide range of tasks. However, despite their success across various

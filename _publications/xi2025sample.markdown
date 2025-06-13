@@ -7,7 +7,7 @@ year: 2025
 bibkey: xi2025sample
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01506"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Pre-Training', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pre-Training', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Existing pretraining data mixing methods for large language models (LLMs)
 typically follow a domain-wise methodology, a top-down process that first

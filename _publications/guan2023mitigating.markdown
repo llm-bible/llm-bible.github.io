@@ -7,7 +7,7 @@ year: 2023
 bibkey: guan2023mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13314"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Incorporating factual knowledge in knowledge graph is regarded as a promising
 approach for mitigating the hallucination of large language models (LLMs).

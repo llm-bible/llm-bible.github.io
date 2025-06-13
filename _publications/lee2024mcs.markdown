@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024mcs
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07467"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent advancements in large language models (LLMs) have enabled in-context
 learning (ICL)-based methods that significantly outperform fine-tuning

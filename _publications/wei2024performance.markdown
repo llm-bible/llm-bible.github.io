@@ -7,7 +7,7 @@ year: 2024
 bibkey: wei2024performance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15862"}
-tags: ['Responsible AI', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated potential applications in
 medicine, yet data privacy and computational burden limit their deployment in

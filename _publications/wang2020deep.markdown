@@ -7,7 +7,7 @@ year: 2020
 bibkey: wang2020deep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.10957"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Pre-trained language models (e.g., BERT (Devlin et al., 2018) and its
 variants) have achieved remarkable success in varieties of NLP tasks. However,

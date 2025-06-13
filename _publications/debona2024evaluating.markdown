@@ -7,7 +7,7 @@ year: 2024
 bibkey: debona2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17781"}
-tags: ['Ethics and Bias', 'Interpretability', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Tools', 'Interpretability', 'Ethics and Bias']
 ---
 As AI becomes fundamental in sectors like healthcare, explainable AI (XAI)
 tools are essential for trust and transparency. However, traditional user

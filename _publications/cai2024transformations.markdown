@@ -7,7 +7,7 @@ year: 2024
 bibkey: cai2024transformations
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16377"}
-tags: ['Prompting', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Despite the general capabilities of pre-trained large language models (LLMs),
 they still need further adaptation to better serve practical applications. In

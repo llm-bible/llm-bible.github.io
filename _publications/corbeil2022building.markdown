@@ -7,7 +7,7 @@ year: 2022
 bibkey: corbeil2022building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.12886"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 For companies with customer service, mapping intents inside their
 conversational data is crucial in building applications based on natural

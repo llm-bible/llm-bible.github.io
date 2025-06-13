@@ -7,7 +7,7 @@ year: 2024
 bibkey: le2024reward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15230"}
-tags: ['Ethics and Bias', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 While astonishingly capable, large Language Models (LLM) can sometimes
 produce outputs that deviate from human expectations. Such deviations

@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12959"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 The advent of Large Language Models (LLMs) has paved the way for AI search
 engines, e.g., SearchGPT, showcasing a new paradigm in human-internet

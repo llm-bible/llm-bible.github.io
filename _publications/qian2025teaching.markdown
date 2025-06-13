@@ -7,7 +7,7 @@ year: 2025
 bibkey: qian2025teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03129"}
-tags: ['Applications', 'Tools']
+tags: ['Tools', 'Applications']
 ---
 Number-focused headline generation is a summarization task requiring both
 high textual quality and precise numerical accuracy, which poses a unique

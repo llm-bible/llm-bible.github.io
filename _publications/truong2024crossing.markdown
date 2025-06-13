@@ -7,7 +7,7 @@ year: 2024
 bibkey: truong2024crossing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02715"}
-tags: ['Training Techniques', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) have underscored their
 importance in the evolution of artificial intelligence. However, despite

@@ -7,7 +7,7 @@ year: 2024
 bibkey: an2024golden
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00798"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper introduces Golden-Retriever, designed to efficiently navigate vast
 industrial knowledge bases, overcoming challenges in traditional LLM

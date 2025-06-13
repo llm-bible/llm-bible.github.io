@@ -7,7 +7,7 @@ year: 2023
 bibkey: noever2023numeracy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.13382"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
 ---
 Large language models (LLM) such as OpenAI's ChatGPT and GPT-3 offer unique
 testbeds for exploring the translation challenges of turning literacy into

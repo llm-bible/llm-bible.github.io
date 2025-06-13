@@ -7,7 +7,7 @@ year: 2025
 bibkey: paul2025powering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00019"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'GPT', 'Pretraining Methods', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'Tools', 'Training Techniques', 'Pretraining Methods']
 ---
 Language models (LMs) have become a staple of the code-writing toolbox. Their
 pre-training recipe has, however, remained stagnant over recent years, barring

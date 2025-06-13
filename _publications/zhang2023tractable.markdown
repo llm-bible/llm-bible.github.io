@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023tractable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.07438"}
-tags: ['Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
 ---
 Despite the success of autoregressive large language models in text
 generation, it remains a major challenge to generate text that satisfies

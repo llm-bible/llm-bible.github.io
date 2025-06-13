@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024contextually
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.08250"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
 ---
 People often capture memories through photos, screenshots, and videos. While
 existing AI-based tools enable querying this data using natural language, they

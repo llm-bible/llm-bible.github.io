@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10650"}
-tags: ['Language Modeling', 'Applications', 'Tools']
+tags: ['Applications', 'Tools', 'Language Modeling']
 ---
 Compositional generalization is an important ability of language models and
 has many different manifestations. For data-to-text generation, previous

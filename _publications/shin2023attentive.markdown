@@ -8,7 +8,7 @@ bibkey: shin2023attentive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10325"}
   - {name: "Code", url: "https://github.com/yehjin-shin/BSARec"}
-tags: ['Model Architecture', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Sequential recommendation (SR) models based on Transformers have achieved
 remarkable successes. The self-attention mechanism of Transformers for computer

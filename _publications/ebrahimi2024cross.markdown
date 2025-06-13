@@ -7,7 +7,7 @@ year: 2024
 bibkey: ebrahimi2024cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06610"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) demonstrate remarkable
 image-language capabilities, but their widespread use faces challenges in

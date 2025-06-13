@@ -7,7 +7,7 @@ year: 2024
 bibkey: cui2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00128"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Artificial Intelligence (AI) is increasingly being integrated into scientific
 research, particularly in the social sciences, where understanding human

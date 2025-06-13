@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14973"}
-tags: ['Security', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Prompting', 'In-Context Learning']
 ---
 The remarkable performance of pre-trained large language models has
 revolutionised various natural language processing applications. Due to huge

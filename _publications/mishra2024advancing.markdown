@@ -7,7 +7,7 @@ year: 2024
 bibkey: mishra2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18669"}
-tags: ['WMT', 'Model Architecture', 'Tools', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'WMT', 'Interpretability', 'Attention Mechanism']
 ---
 Neural Machine Translation (NMT) models have shown remarkable performance but
 remain largely opaque in their decision making processes. The interpretability

@@ -7,7 +7,7 @@ year: 2025
 bibkey: ugarte2025automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17132"}
-tags: ['Responsible AI', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'In-Context Learning', 'GPT', 'ACL', 'Prompting', 'Attention Mechanism']
+tags: ['Responsible AI', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have recently gained attention due to their
 ability to understand and generate sophisticated human-like content. However,

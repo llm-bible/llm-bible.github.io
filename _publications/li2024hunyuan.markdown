@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024hunyuan
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.08748"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Merging', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present Hunyuan-DiT, a text-to-image diffusion transformer with
 fine-grained understanding of both English and Chinese. To construct

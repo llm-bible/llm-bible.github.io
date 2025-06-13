@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024integrate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02056"}
-tags: ['Model Architecture', 'RAG', 'Merging', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Merging']
 ---
 Self-consistency (SC), leveraging multiple samples from LLMs, shows
 significant gains on various reasoning tasks but struggles with free-form

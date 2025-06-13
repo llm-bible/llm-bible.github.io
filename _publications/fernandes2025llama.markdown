@@ -7,7 +7,7 @@ year: 2025
 bibkey: fernandes2025llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04945"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Legal reasoning tasks present unique challenges for large language models
 (LLMs) due to the complexity of domain-specific knowledge and reasoning

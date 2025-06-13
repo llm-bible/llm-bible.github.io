@@ -7,7 +7,7 @@ year: 2022
 bibkey: hu2022empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.08380"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT']
 ---
 Answering open-domain questions requires world knowledge about in-context
 entities. As pre-trained Language Models (LMs) lack the power to store all

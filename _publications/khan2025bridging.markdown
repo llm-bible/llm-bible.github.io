@@ -7,7 +7,7 @@ year: 2025
 bibkey: khan2025bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15392"}
-tags: ['Efficiency and Optimization', 'Tools', 'Multimodal Models']
+tags: ['Tools', 'Multimodal Models', 'Efficiency and Optimization']
 ---
 Recent multimodal foundation models are primarily trained on English or high
 resource European language data, which hinders their applicability to other

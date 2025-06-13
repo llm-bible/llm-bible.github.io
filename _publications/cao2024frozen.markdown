@@ -8,7 +8,7 @@ bibkey: cao2024frozen
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.11927"}
   - {name: "Code", url: "https://github.com/MIV-XJTU/FLAME"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Transformer', 'Has Code', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting', 'Distillation']
 ---
 Language-image pre-training faces significant challenges due to limited data
 in specific formats and the constrained capacities of text encoders. While

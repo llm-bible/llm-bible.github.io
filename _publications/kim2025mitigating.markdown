@@ -7,7 +7,7 @@ year: 2025
 bibkey: kim2025mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17390"}
-tags: ['Training Techniques', 'Fairness', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Training Techniques', 'Pretraining Methods', 'Fairness']
 ---
 In retrieval augmented generation (RAG) systems, each individual component --
 the LLM, embedder, and corpus -- could introduce biases in the form of skews

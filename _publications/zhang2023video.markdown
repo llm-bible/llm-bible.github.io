@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023video
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02858"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Language Modeling', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Multimodal Models']
 ---
 We present Video-LLaMA a multi-modal framework that empowers Large Language
 Models (LLMs) with the capability of understanding both visual and auditory

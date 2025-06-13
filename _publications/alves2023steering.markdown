@@ -7,7 +7,7 @@ year: 2023
 bibkey: alves2023steering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13448"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) are a promising avenue for machine translation
 (MT). However, current LLM-based MT systems are brittle: their effectiveness

@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15957"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Memory plays a key role in enhancing LLMs' performance when deployed to
 real-world applications. Existing solutions face trade-offs: explicit memory

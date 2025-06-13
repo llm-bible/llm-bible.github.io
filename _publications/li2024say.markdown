@@ -8,7 +8,7 @@ bibkey: li2024say
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16058"}
   - {name: "Code", url: "https://github.com/OpenMatch/Gist-COCO"}
-tags: ['Prompting', 'Has Code', 'Tools']
+tags: ['Tools', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) require lengthy prompts as the input context to
 produce output aligned with user intentions, a process that incurs extra costs

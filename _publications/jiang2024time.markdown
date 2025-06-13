@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024time
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12486"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have revolutionized text comprehension, leading
 to State-of-the-Art (SOTA) news recommendation models that utilize LLMs for

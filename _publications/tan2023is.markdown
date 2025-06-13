@@ -7,7 +7,7 @@ year: 2023
 bibkey: tan2023is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16301"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have emerged as influential instruments within
 the realm of natural language processing; nevertheless, their capacity to

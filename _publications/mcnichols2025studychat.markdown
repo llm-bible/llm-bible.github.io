@@ -7,7 +7,7 @@ year: 2025
 bibkey: mcnichols2025studychat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07928"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The widespread availability of large language models (LLMs), such as ChatGPT,
 has significantly impacted education, raising both opportunities and

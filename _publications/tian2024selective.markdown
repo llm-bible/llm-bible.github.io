@@ -8,7 +8,7 @@ bibkey: tian2024selective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09121"}
   - {name: "Code", url: "https://github.com/magic-YuanTian/Selective-Prompt-Anchoring"}
-tags: ['Model Architecture', 'Has Code', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Recent advances in large language models (LLMs) have transformed software
 development by automatically generating code from natural language. Yet

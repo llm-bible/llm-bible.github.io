@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04670"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 Leveraging external knowledge is crucial for achieving high performance in
 knowledge-intensive tasks, such as question answering. The retrieve-and-read

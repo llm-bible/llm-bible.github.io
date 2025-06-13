@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.10681"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The Structured Dialogue System, referred to as SuDoSys, is an innovative
 Large Language Model (LLM)-based chatbot designed to provide psychological

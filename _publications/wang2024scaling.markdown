@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05661"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Scaling Laws', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
 ---
 The scaling of large language models (LLMs) is a critical research area for
 the efficiency and effectiveness of model training and deployment. Our work

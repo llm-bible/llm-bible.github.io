@@ -7,7 +7,7 @@ year: 2024
 bibkey: youssef2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12586"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism', 'Prompting']
 ---
 In-context knowledge editing (IKE) enables efficient modification of large
 language model (LLM) outputs without parameter changes and at zero-cost.

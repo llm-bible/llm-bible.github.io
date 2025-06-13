@@ -7,7 +7,7 @@ year: 2024
 bibkey: dhole2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03746"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Query Reformulation(QR) is a set of techniques used to transform a user's
 original search query to a text that better aligns with the user's intent and

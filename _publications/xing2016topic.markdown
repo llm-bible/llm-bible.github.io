@@ -7,7 +7,7 @@ year: 2016
 bibkey: xing2016topic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1606.08340"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'Ethics and Bias', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 We consider incorporating topic information into the sequence-to-sequence
 framework to generate informative and interesting responses for chatbots. To

@@ -7,7 +7,7 @@ year: 2023
 bibkey: lu2023chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.06575"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown surprisingly good performance in
 multilingual neural machine translation (MNMT) even when trained without

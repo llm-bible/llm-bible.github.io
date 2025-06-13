@@ -7,7 +7,7 @@ year: 2024
 bibkey: grzybowski2024polish
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.00559"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated significant potential in
 handling specialized tasks, including medical problem-solving. However, most

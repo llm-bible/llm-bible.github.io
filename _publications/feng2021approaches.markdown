@@ -7,7 +7,7 @@ year: 2021
 bibkey: feng2021approaches
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.06643"}
-tags: ['Language Modeling', 'Applications']
+tags: ['Applications', 'Language Modeling']
 ---
 We motivate and propose a suite of simple but effective improvements for
 concept-to-text generation called SAPPHIRE: Set Augmentation and Post-hoc

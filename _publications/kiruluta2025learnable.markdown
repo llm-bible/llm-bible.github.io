@@ -7,7 +7,7 @@ year: 2025
 bibkey: kiruluta2025learnable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08801"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer architectures, underpinned by the self-attention mechanism, have
 achieved state-of-the-art results across numerous natural language processing

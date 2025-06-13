@@ -7,7 +7,7 @@ year: 2023
 bibkey: goli2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.02531"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 We explore the viability of Large Language Models (LLMs), specifically
 OpenAI's GPT-3.5 and GPT-4, in emulating human survey respondents and eliciting

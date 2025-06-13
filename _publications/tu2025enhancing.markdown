@@ -7,7 +7,7 @@ year: 2025
 bibkey: tu2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.12854"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recent advancements in post-training methodologies for large language models
 (LLMs) have highlighted reinforcement learning (RL) as a critical component for

@@ -7,7 +7,7 @@ year: 2021
 bibkey: lin2021multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.05759"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision-and-Language Navigation (VLN) is a task that an agent is required to
 follow a language instruction to navigate to the goal position, which relies on

@@ -7,7 +7,7 @@ year: 2021
 bibkey: lamypoirier2021layered
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.02679"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Large-Scale Training', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
 ---
 The advent of the transformer has sparked a quick growth in the size of
 language models, far outpacing hardware improvements. (Dense) transformers are

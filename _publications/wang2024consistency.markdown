@@ -8,7 +8,7 @@ bibkey: wang2024consistency
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12735"}
   - {name: "Code", url: "https://github.com/Raibows/CREAM"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Recent self-rewarding large language models (LLM) have successfully applied
 LLM-as-a-Judge to iteratively improve the alignment performance without the

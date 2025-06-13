@@ -7,7 +7,7 @@ year: 2024
 bibkey: chukwuere2024developing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19303"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'TACL', 'GPT', 'ACL']
+tags: ['Tools', 'GPT', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Security']
 ---
 This research explores the quickly changing field of generative artificial
 intelligence (GAI) chatbots in higher education, an industry that is undergoing

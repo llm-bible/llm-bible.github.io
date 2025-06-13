@@ -8,7 +8,7 @@ bibkey: kim2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08718"}
   - {name: "Code", url: "https://github.com/jwkim-chat/A-Data-Augmentation-Pipeline-Leveraging-Large-Language-Models-for-Counseling-Conversations"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot']
 ---
 We introduce a pipeline that leverages Large Language Models (LLMs) to
 transform single-turn psychotherapy counseling sessions into multi-turn

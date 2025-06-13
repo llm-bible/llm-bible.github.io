@@ -7,7 +7,7 @@ year: 2023
 bibkey: cheng2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15596"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Agent', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Agent', 'Multimodal Models']
 ---
 Vision-language models (VLMs) have recently shown promising results in
 traditional downstream tasks. Evaluation studies have emerged to assess their

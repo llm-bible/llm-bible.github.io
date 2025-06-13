@@ -7,7 +7,7 @@ year: 2025
 bibkey: pond2025teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22853"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 This study evaluates the baseline capabilities of Large Language Models
 (LLMs) like ChatGPT, Claude, and Gemini to learn concepts in music theory

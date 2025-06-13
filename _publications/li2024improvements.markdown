@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024improvements
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08309"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Reinforcement Learning from AI Feedback (RLAIF) has the advantages of shorter
 annotation cycles and lower costs over Reinforcement Learning from Human

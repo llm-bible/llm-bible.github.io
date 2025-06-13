@@ -7,7 +7,7 @@ year: 2024
 bibkey: beck2024extended
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.04517"}
-tags: ['Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In the 1990s, the constant error carousel and gating were introduced as the
 central ideas of the Long Short-Term Memory (LSTM). Since then, LSTMs have

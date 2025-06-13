@@ -7,7 +7,7 @@ year: 2022
 bibkey: creswell2022selection
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2205.09712v1"}
-tags: ['Responsible AI', 'Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Large language models (LLMs) have been shown to be capable of impressive
 few-shot generalisation to new tasks. However, they still tend to perform

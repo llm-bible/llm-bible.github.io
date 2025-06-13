@@ -7,7 +7,7 @@ year: 2019
 bibkey: zhou2019multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.11813"}
-tags: ['Language Modeling', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Language Modeling', 'Model Architecture']
 ---
 This paper explores the task of answer-aware questions generation. Based on
 the attention-based pointer generator model, we propose to incorporate an

@@ -7,7 +7,7 @@ year: 2025
 bibkey: atanas2025modular
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17645"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs) exhibit impressive capabilities but struggle
 with reasoning errors due to hallucinations and flawed logic. To investigate

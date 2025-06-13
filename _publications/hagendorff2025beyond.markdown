@@ -7,7 +7,7 @@ year: 2025
 bibkey: hagendorff2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10615"}
-tags: ['Responsible AI', 'Model Architecture', 'Merging', 'GPT', 'Prompting']
+tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Merging', 'Prompting']
 ---
 Large language models (LLMs) can perform reasoning computations both
 internally within their latent space and externally by generating explicit

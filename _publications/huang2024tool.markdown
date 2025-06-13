@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024tool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.17897"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Distillation']
 ---
 Large-scale language models (LLMs) have achieved remarkable success across
 various language tasks but suffer from hallucinations and temporal

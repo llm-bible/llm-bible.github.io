@@ -7,7 +7,7 @@ year: 2018
 bibkey: fan2018can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1807.09433"}
-tags: ['WMT', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'WMT', 'Pretraining Methods', 'BERT']
 ---
 Recent advances in statistical machine translation via the adoption of neural
 sequence-to-sequence models empower the end-to-end system to achieve

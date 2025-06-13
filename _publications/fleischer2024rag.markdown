@@ -8,7 +8,7 @@ bibkey: fleischer2024rag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02545"}
   - {name: "Code", url: "https://github.com/IntelLabs/RAGFoundry"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Implementing Retrieval-Augmented Generation (RAG) systems is inherently
 complex, requiring deep understanding of data, use cases, and intricate design

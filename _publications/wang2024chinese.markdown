@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024chinese
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09177"}
-tags: ['Prompting', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Metaphors are common in everyday language, and the identification and
 understanding of metaphors are facilitated by models to achieve a better

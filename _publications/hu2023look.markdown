@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023look
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17842"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 In this study, we are interested in imbuing robots with the capability of
 physically-grounded task planning. Recent advancements have shown that large

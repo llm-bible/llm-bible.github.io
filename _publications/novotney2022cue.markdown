@@ -7,7 +7,7 @@ year: 2022
 bibkey: novotney2022cue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.08774"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'ACL']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'ACL', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 We propose a framework to modularize the training of neural language models
 that use diverse forms of sentence-external context (including metadata) by

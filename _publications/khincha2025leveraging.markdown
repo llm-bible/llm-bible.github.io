@@ -7,7 +7,7 @@ year: 2025
 bibkey: khincha2025leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02559"}
-tags: ['Prompting', 'RAG', 'Model Architecture', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 The vast amount of online information today poses challenges for non-English
 speakers, as much of it is concentrated in high-resource languages such as

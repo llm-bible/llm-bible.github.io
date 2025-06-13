@@ -8,7 +8,7 @@ bibkey: zeng2024token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11999"}
   - {name: "Code", url: "https://github.com/Vance0124/Token-level-Direct-Preference-Optimization"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Fine-tuning pre-trained Large Language Models (LLMs) is essential to align
 them with human values and intentions. This process often utilizes methods like

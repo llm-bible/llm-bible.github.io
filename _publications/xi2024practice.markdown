@@ -7,7 +7,7 @@ year: 2024
 bibkey: xi2024practice
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.06624"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLM) often needs to be Continual Pre-Trained (CPT) to
 obtain the unfamiliar language skill or adapt into new domains. The huge

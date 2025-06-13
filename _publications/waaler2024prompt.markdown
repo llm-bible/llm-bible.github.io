@@ -7,7 +7,7 @@ year: 2024
 bibkey: waaler2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12848"}
-tags: ['Responsible AI', 'Agentic', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Patients with schizophrenia often present with cognitive impairments that may
 hinder their ability to learn about their condition. These individuals could

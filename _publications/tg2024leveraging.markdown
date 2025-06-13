@@ -7,7 +7,7 @@ year: 2024
 bibkey: tg2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.12619"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 This paper presents a new approach to multiple language learning, with Hindi
 the language to be learnt in our case, by using the integration of virtual

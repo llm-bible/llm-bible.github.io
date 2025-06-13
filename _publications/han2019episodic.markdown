@@ -7,7 +7,7 @@ year: 2019
 bibkey: han2019episodic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1903.06164"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We consider a novel question answering (QA) task where the machine needs to
 read from large streaming data (long documents or videos) without knowing when

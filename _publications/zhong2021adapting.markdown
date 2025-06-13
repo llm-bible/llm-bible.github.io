@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhong2021adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.04670"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large pre-trained language models (LMs) such as GPT-3 have acquired a
 surprising ability to perform zero-shot learning. For example, to classify

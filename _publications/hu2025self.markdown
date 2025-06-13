@@ -7,7 +7,7 @@ year: 2025
 bibkey: hu2025self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07745"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Video-based Large Language Models (Video-LLMs) have witnessed substantial
 advancements in recent years, propelled by the advancement in multi-modal LLMs.

@@ -7,7 +7,7 @@ year: 2019
 bibkey: srinivasan2019natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.11404"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 We propose an approach towards natural language generation using a
 bidirectional encoder-decoder which incorporates external rewards through

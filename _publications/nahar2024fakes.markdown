@@ -8,7 +8,7 @@ bibkey: nahar2024fakes
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03745"}
   - {name: "Code", url: "https://github.com/MahjabinNahar/fakes-of-varying-shades-survey-materials"}
-tags: ['Survey Paper', 'Has Code', 'Tools']
+tags: ['Tools', 'Survey Paper', 'Has Code']
 ---
 The widespread adoption and transformative effects of large language models
 (LLMs) have sparked concerns regarding their capacity to produce inaccurate and

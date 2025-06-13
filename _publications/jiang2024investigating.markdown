@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06059"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Language models pre-trained on web-scale corpora demonstrate impressive
 capabilities on diverse downstream tasks. However, there is increasing concern

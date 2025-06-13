@@ -8,7 +8,7 @@ bibkey: yang2024factorized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10119"}
   - {name: "Code", url: "https://github.com/yangxy/Factorized-Dreamer/"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Text-to-video (T2V) generation has gained significant attention due to its
 wide applications to video generation, editing, enhancement and translation,

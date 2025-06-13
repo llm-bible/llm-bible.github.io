@@ -7,7 +7,7 @@ year: 2024
 bibkey: salemi2024comparing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.09510"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Privacy-preserving methods for personalizing large language models (LLMs) are
 relatively under-explored. There are two schools of thought on this topic: (1)

@@ -7,7 +7,7 @@ year: 2024
 bibkey: qu2024unsupervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01306"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 Within the context of reading comprehension, the task of Distractor
 Generation (DG) aims to generate several incorrect options to confuse readers.

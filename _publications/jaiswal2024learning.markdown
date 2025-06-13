@@ -7,7 +7,7 @@ year: 2024
 bibkey: jaiswal2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.13754"}
-tags: ['Multimodal Models', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Complex visual reasoning and question answering (VQA) is a challenging task
 that requires compositional multi-step processing and higher-level reasoning

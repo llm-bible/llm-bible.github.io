@@ -7,7 +7,7 @@ year: 2024
 bibkey: liao2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.19820"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent low-rank training methods, such as GaLore, have significantly reduced
 the memory required to optimize large language models (LLMs). However, these

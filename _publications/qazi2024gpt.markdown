@@ -7,7 +7,7 @@ year: 2024
 bibkey: qazi2024gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.07321"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 As natural language models like ChatGPT become increasingly prevalent in
 applications and services, the need for robust and accurate methods to detect

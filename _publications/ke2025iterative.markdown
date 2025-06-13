@@ -7,7 +7,7 @@ year: 2025
 bibkey: ke2025iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20320"}
-tags: ['Prompting', 'Security', 'Model Architecture', 'GPT']
+tags: ['Security', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) are designed to align with human values in their
 responses. This study exploits LLMs with an iterative prompting technique where

@@ -7,7 +7,7 @@ year: 2023
 bibkey: peters2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08631"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) demonstrate increasingly human-like abilities
 across a wide variety of tasks. In this paper, we investigate whether LLMs like

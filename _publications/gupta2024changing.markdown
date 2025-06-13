@@ -7,7 +7,7 @@ year: 2024
 bibkey: gupta2024changing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19470"}
-tags: ['Security', 'Applications', 'RAG']
+tags: ['RAG', 'Security', 'Applications']
 ---
 As large language models (LLMs) have grown in prevalence, particular
 benchmarks have become essential for the evaluation of these models and for

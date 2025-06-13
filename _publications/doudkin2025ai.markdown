@@ -7,7 +7,7 @@ year: 2025
 bibkey: doudkin2025ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02067"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 Pro-environmental behavior (PEB) is vital to combat climate change, yet
 turning awareness into intention and action remains elusive. We explore large

@@ -7,7 +7,7 @@ year: 2025
 bibkey: arumugam2025toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20997"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'TACL', 'Fine-Tuning', 'ACL', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'TACL', 'Reinforcement Learning', 'ACL']
 ---
 A burgeoning area within reinforcement learning (RL) is the design of
 sequential decision-making agents centered around large language models (LLMs).

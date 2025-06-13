@@ -7,7 +7,7 @@ year: 2025
 bibkey: honig2025better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06730"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Prompt compression is a promising approach to speeding up language model
 inference without altering the generative model. Prior works compress prompts

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ferdaus2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13934"}
-tags: ['Responsible AI', 'Security', 'Survey Paper', 'Tools', 'TACL', 'Ethics and Bias', 'Interpretability', 'ACL', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Survey Paper', 'Applications', 'Ethics and Bias', 'TACL', 'ACL', 'Interpretability', 'Security']
 ---
 The rapid progress in Large Language Models (LLMs) could transform many
 fields, but their fast development creates significant challenges for

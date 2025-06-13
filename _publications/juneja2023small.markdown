@@ -7,7 +7,7 @@ year: 2023
 bibkey: juneja2023small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18338"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) prompted to generate chain-of-thought (CoT)
 exhibit impressive reasoning capabilities. Recent attempts at prompt

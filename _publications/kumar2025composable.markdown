@@ -7,7 +7,7 @@ year: 2025
 bibkey: kumar2025composable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09398"}
-tags: ['BERT', 'Model Architecture', 'Applications', 'Reinforcement Learning']
+tags: ['BERT', 'Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 There has been a lot of progress towards building NLP models that scale to
 multiple tasks. However, real-world systems contain multiple components and it

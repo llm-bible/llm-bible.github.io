@@ -7,7 +7,7 @@ year: 2023
 bibkey: shashidhar2023democratizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07611"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture']
 ---
 The dominance of proprietary LLMs has led to restricted access and raised
 information privacy concerns. High-performing open-source alternatives are

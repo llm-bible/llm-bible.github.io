@@ -7,7 +7,7 @@ year: 2025
 bibkey: shen2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22230"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Reinforcement Learning from Human Feedback (RLHF) is crucial for aligning
 large language models with human preferences. While recent research has focused

@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025uncovering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07761"}
-tags: ['RecSys', 'RAG', 'Prompting', 'Reinforcement Learning']
+tags: ['RAG', 'RecSys', 'Prompting', 'Reinforcement Learning']
 ---
 Cross-Domain Recommendation (CDR) seeks to enhance item retrieval in
 low-resource domains by transferring knowledge from high-resource domains.

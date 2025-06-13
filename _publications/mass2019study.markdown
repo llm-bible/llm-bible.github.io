@@ -7,7 +7,7 @@ year: 2019
 bibkey: mass2019study
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.06780"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 We study the use of BERT for non-factoid question-answering, focusing on the
 passage re-ranking task under varying passage lengths. To this end, we explore

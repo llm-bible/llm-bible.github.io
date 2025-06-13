@@ -7,7 +7,7 @@ year: 2024
 bibkey: siddiq2024fault
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10155"}
-tags: ['Prompting', 'Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) are gaining popularity among software engineers.
 A crucial aspect of developing effective code generation LLMs is to evaluate

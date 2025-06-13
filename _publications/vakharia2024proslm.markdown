@@ -7,7 +7,7 @@ year: 2024
 bibkey: vakharia2024proslm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11589"}
-tags: ['Security', 'Applications', 'Tools']
+tags: ['Security', 'Tools', 'Applications']
 ---
 Neurosymbolic approaches can add robustness to opaque neural systems by
 incorporating explainable symbolic representations. However, previous

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01767"}
-tags: ['RAG', 'Merging', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Merging', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) has rapidly advanced the language model
 field, particularly in question-answering (QA) systems. By integrating external

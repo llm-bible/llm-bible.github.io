@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024steering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.09969"}
-tags: ['RAG', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'RAG', 'Tools', 'Reinforcement Learning']
 ---
 Digital media platforms (e.g., social media, science blogs) offer
 opportunities to communicate scientific content to general audiences at scale.

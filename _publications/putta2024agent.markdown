@@ -7,7 +7,7 @@ year: 2024
 bibkey: putta2024agent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.07199"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Agent', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in natural
 language tasks requiring complex reasoning, yet their application in agentic,

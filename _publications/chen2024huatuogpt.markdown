@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024huatuogpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19280"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Tools']
+tags: ['GPT', 'Tools', 'Multimodal Models', 'Model Architecture']
 ---
 The rapid development of multimodal large language models (MLLMs), such as
 GPT-4V, has led to significant advancements. However, these models still face

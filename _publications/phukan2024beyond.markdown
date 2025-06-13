@@ -7,7 +7,7 @@ year: 2024
 bibkey: phukan2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19187"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Multimodal Models']
 ---
 The rapid development of Large Multimodal Models (LMMs) has significantly
 advanced multimodal understanding by harnessing the language abilities of Large

@@ -8,7 +8,7 @@ bibkey: yoffe2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06426"}
   - {name: "Code", url: "https://github.com/lukeyoffe/debunc"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Multi-agent debates have been introduced to improve the accuracy of Large
 Language Models (LLMs) by having multiple agents discuss solutions to a problem

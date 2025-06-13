@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024embracing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18708"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Survey Paper']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 The impressive essay writing and problem-solving capabilities of large
 language models (LLMs) like OpenAI's ChatGPT have opened up new avenues in

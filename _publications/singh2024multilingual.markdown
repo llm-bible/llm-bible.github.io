@@ -7,7 +7,7 @@ year: 2024
 bibkey: singh2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16816"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
 ---
 As large language models (LLMs) see increasing adoption across the globe, it
 is imperative for LLMs to be representative of the linguistic diversity of the

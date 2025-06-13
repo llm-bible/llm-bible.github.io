@@ -7,7 +7,7 @@ year: 2022
 bibkey: han2022interpreting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.12600"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Prompting']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Large pretrained language models have been performing increasingly well in a
 variety of downstream tasks via prompting. However, it remains unclear from

@@ -8,7 +8,7 @@ bibkey: zhu2024halueval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04307"}
   - {name: "Code", url: "https://github.com/HaluEval-Wild/HaluEval-Wild"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code']
 ---
 Hallucinations pose a significant challenge to the reliability of large
 language models (LLMs) in critical domains. Recent benchmarks designed to

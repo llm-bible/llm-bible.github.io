@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16201"}
-tags: ['Multimodal Models', 'Training Techniques', 'RAG', 'Interpretability and Explainability', 'Pre-Training']
+tags: ['Pre-Training', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Multimodal Models']
 ---
 Recent advances in image tokenizers, such as VQ-VAE, have enabled
 text-to-image generation using auto-regressive methods, similar to language

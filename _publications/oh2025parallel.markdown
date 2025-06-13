@@ -7,7 +7,7 @@ year: 2025
 bibkey: oh2025parallel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.07523"}
-tags: ['Security', 'Tools', 'RAG', 'Merging', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Merging', 'Security']
 ---
 Recent advancements in Large Language Models (LLMs) underscore the necessity
 of Retrieval Augmented Generation (RAG) to leverage external information.

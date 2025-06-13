@@ -7,7 +7,7 @@ year: 2023
 bibkey: lu2023evaluation
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2309.04041v2"}
-tags: ['Responsible AI', 'Security', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning']
+tags: ['Responsible AI', 'Survey Paper', 'Reinforcement Learning', 'Security', 'Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) offer remarkable benefits for a variety
 of vision-language tasks. However, a challenge hindering their application in

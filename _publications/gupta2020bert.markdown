@@ -7,7 +7,7 @@ year: 2020
 bibkey: gupta2020bert
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2006.01432"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Multilingual Machine Comprehension (MMC) is a Question-Answering (QA)
 sub-task that involves quoting the answer for a question from a given snippet,

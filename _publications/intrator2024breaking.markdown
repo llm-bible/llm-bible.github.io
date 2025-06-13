@@ -7,7 +7,7 @@ year: 2024
 bibkey: intrator2024breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04792"}
-tags: ['Pre-Training', 'Ethics and Bias', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Pre-Training', 'Ethics and Bias', 'Applications']
 ---
 Large language models hold significant promise in multilingual applications.
 However, inherent biases stemming from predominantly English-centric

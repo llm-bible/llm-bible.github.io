@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024moe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12013"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Pruning']
+tags: ['Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Distillation']
 ---
 Mixture-of-Experts (MoE) architectures face challenges such as high memory
 consumption and redundancy in experts. Pruning MoE can reduce network weights

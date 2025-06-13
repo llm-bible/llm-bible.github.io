@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhou2020improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00932"}
-tags: ['WMT', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'RAG', 'Distillation', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'WMT', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Non-autoregressive (NAR) neural machine translation is usually done via
 knowledge distillation from an autoregressive (AR) model. Under this framework,

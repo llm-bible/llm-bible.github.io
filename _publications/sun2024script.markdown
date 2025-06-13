@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024script
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06723"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Chatbots or conversational agents (CAs) are increasingly used to improve
 access to digital psychotherapy. Many current systems rely on rigid, rule-based

@@ -7,7 +7,7 @@ year: 2021
 bibkey: huang2021transfer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.14809"}
-tags: ['WMT', 'Model Architecture', 'Tools', 'Transformer', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'Model Architecture', 'WMT', 'Attention Mechanism']
 ---
 Multi-source sequence generation (MSG) is an important kind of sequence
 generation tasks that takes multiple sources, including automatic post-editing,

@@ -7,7 +7,7 @@ year: 2023
 bibkey: depadua2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.13617"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Financial analysis is an important tool for evaluating company performance.
 Practitioners work to answer financial questions to make profitable investment

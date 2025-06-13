@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024sequence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00162"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Aligning the behavior of Large language models (LLMs) with human intentions
 and values remains a critical challenge. Reinforcement learning from human

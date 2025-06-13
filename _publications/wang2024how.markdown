@@ -8,7 +8,7 @@ bibkey: wang2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03810"}
   - {name: "Code", url: "https://github.com/banksy23/XCoder"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pruning', 'Has Code']
+tags: ['Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Recently, there has been a growing interest in studying how to construct
 better code instruction tuning data. However, we observe Code models trained

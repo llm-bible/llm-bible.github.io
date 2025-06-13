@@ -7,7 +7,7 @@ year: 2025
 bibkey: djuhera2025preserving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17239"}
-tags: ['Responsible AI', 'Training Techniques', 'Tools', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) on downstream tasks can
 inadvertently erode their safety alignment, even for benign fine-tuning

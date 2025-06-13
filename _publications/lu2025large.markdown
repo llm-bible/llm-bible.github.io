@@ -7,7 +7,7 @@ year: 2025
 bibkey: lu2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17101"}
-tags: ['Quantization', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Quantization', 'Efficiency and Optimization', 'Tools']
 ---
 In this paper, we tackle the critical challenge of compressing large language
 models (LLMs) to facilitate their practical deployment and broader adoption. We

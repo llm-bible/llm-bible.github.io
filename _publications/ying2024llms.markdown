@@ -8,7 +8,7 @@ bibkey: ying2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00497"}
   - {name: "Code", url: "https://yingjiahao14.github.io/LLMs-as-Instructors-pages/"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Has Code']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 This paper introduces the innovative "LLMs-as-Instructors" framework, which
 leverages the advanced Large Language Models (LLMs) to autonomously enhance the

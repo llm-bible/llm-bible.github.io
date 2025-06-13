@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022pay
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10190"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Attention Mechanism']
+tags: ['GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 We introduce \textsc\{PoliteRewrite\} -- a dataset for polite language rewrite
 which is a novel sentence rewrite task. Compared with previous text style

@@ -8,7 +8,7 @@ bibkey: bai2024recipe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.18058"}
   - {name: "Code", url: "https://github.com/THUDM/LongAlign"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Extending large language models to effectively handle long contexts requires
 instruction fine-tuning on input sequences of similar length. To address this,

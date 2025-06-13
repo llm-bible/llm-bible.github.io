@@ -7,7 +7,7 @@ year: 2025
 bibkey: jeong2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23363"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'GPT', 'Prompting', 'Model Architecture']
 ---
 The advancement of Large Language Models (LLMs) has greatly improved our
 ability to process complex language. However, accurately detecting logical

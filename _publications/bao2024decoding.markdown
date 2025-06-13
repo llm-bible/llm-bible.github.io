@@ -8,7 +8,7 @@ bibkey: bao2024decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14900"}
   - {name: "Code", url: "https://github.com/SAI990323/DecodingMatters"}
-tags: ['Ethics and Bias', 'RAG', 'Has Code', 'Reinforcement Learning']
+tags: ['RAG', 'Has Code', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Adapting Large Language Models (LLMs) for recommendation requires careful
 consideration of the decoding process, given the inherent differences between

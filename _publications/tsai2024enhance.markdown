@@ -7,7 +7,7 @@ year: 2024
 bibkey: tsai2024enhance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09798"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Converting different modalities into generalized text, which then serves as
 input prompts for large language models (LLMs), is a common approach for

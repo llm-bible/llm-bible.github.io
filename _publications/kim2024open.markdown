@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09246"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Merging', 'Quantization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Quantization']
 ---
 Large policies pretrained on a combination of Internet-scale vision-language
 data and diverse robot demonstrations have the potential to change how we teach

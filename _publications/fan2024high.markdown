@@ -8,7 +8,7 @@ bibkey: fan2024high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10630"}
   - {name: "Code", url: "https://github.com/awslabs/HLAT)"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Large-Scale Training', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Large-Scale Training', 'Training Techniques', 'Has Code']
 ---
 Getting large language models (LLMs) to perform well on the downstream tasks
 requires pre-training over trillions of tokens. This typically demands a large

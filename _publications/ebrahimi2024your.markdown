@@ -7,7 +7,7 @@ year: 2024
 bibkey: ebrahimi2024your
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05506"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Despite their recent successes, Transformer-based large language models show
 surprising failure modes. A well-known example of such failure modes is their

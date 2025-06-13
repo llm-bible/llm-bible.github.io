@@ -7,7 +7,7 @@ year: 2018
 bibkey: kundu2018question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1801.08290"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Neural network models recently proposed for question answering (QA) primarily
 focus on capturing the passage-question relation. However, they have minimal

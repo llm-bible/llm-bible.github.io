@@ -8,7 +8,7 @@ bibkey: hu2023deploying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11183"}
   - {name: "Code", url: "https://amrl.cs.utexas.edu/codebotler/"}
-tags: ['Security', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Reinforcement Learning', 'Security', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements in large language models (LLMs) have spurred interest in
 using them for generating robot programs from natural language, with promising

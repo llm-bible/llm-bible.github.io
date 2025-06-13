@@ -8,7 +8,7 @@ bibkey: santosh2024lexsumm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09527"}
   - {name: "Code", url: "https://github.com/TUMLegalTech/LexSumm-LexT5"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 In the evolving NLP landscape, benchmarks serve as yardsticks for gauging
 progress. However, existing Legal NLP benchmarks only focus on predictive

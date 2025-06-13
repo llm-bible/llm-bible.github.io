@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhong2021multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.10661"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 Existing work in language grounding typically study single environments. How
 do we build unified models that apply across multiple environments? We propose

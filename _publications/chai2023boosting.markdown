@@ -7,7 +7,7 @@ year: 2023
 bibkey: chai2023boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05845"}
-tags: ['TACL', 'RAG', 'ACL']
+tags: ['ACL', 'RAG', 'TACL']
 ---
 The advancement of Large Language Models (LLMs) has remarkably pushed the
 boundaries towards artificial general intelligence (AGI), with their

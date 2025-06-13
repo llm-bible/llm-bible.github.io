@@ -7,7 +7,7 @@ year: 2025
 bibkey: feng2025democratizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13555"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Data augmentation is necessary for graph representation learning due to the
 scarcity and noise present in graph data. Most of the existing augmentation

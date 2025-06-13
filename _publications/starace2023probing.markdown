@@ -7,7 +7,7 @@ year: 2023
 bibkey: starace2023probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18696"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Tools', 'Interpretability and Explainability', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) exhibit impressive performance on a range of NLP
 tasks, due to the general-purpose linguistic knowledge acquired during

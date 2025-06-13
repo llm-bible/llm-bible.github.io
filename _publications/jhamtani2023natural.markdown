@@ -7,7 +7,7 @@ year: 2023
 bibkey: jhamtani2023natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.08677"}
-tags: ['Prompting', 'In-Context Learning', 'Training Techniques', 'Few-Shot']
+tags: ['Few-Shot', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Designing natural language interfaces has historically required collecting
 supervised data to translate user requests into carefully designed intent

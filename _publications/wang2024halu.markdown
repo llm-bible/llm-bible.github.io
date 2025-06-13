@@ -8,7 +8,7 @@ bibkey: wang2024halu
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12943"}
   - {name: "Code", url: "https://github.com/GAIR-NLP/factool"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Interpretability and Explainability']
+tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) frequently generate non-factual content, known
 as hallucinations. Existing retrieval-augmented-based hallucination detection

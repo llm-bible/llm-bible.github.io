@@ -7,7 +7,7 @@ year: 2021
 bibkey: fang2021compressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.02096"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 Despite exciting progress in pre-training for visual-linguistic (VL)
 representations, very few aspire to a small VL model. In this paper, we study

@@ -8,7 +8,7 @@ bibkey: toh2024not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12608"}
   - {name: "Code", url: "https://github.com/declare-lab/prove"}
-tags: ['RAG', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code']
 ---
 Large language models (LLMs) have shown increasing competence in solving
 mathematical reasoning problems. However, many open-source LLMs still struggle

@@ -7,7 +7,7 @@ year: 2025
 bibkey: he2025investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14219"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Fairness', 'Bias Mitigation']
+tags: ['Bias Mitigation', 'Fairness', 'Ethics and Bias', 'Model Architecture']
 ---
 Large Language Models (LLMs) are increasingly used in decision-making, yet
 their susceptibility to cognitive biases remains a pressing challenge. This

@@ -7,7 +7,7 @@ year: 2024
 bibkey: singh2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10657"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) can be leveraged to help with writing formulas
 in spreadsheets, but resources on these formulas are scarce, impacting both the

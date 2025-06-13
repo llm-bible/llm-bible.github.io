@@ -7,7 +7,7 @@ year: 2022
 bibkey: pfeiffer2022lifting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.06266"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Multilingual pre-trained models are known to suffer from the curse of
 multilinguality, which causes per-language performance to drop as they cover

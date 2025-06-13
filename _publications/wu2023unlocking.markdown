@@ -8,7 +8,7 @@ bibkey: wu2023unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02207"}
   - {name: "Code", url: "https://ga642381.github.io/SpeechPrompt/speechgen"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) have gained considerable attention for
 Artificial Intelligence Generated Content (AIGC), particularly with the

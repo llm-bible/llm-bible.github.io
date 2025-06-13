@@ -7,7 +7,7 @@ year: 2021
 bibkey: kovaleva2021bert
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.06990"}
-tags: ['Masked Language Model', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'GPT', 'Pruning', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Multiple studies have shown that Transformers are remarkably robust to
 pruning. Contrary to this received wisdom, we demonstrate that pre-trained

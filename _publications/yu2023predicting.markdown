@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023predicting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.07185"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Autoregressive transformers are spectacular models for short sequences but
 scale poorly to long sequences such as high-resolution images, podcasts, code,

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04782"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'In-Context Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In recent years, large-scale language models (LLMs) have gained attention for
 their impressive text generation capabilities. However, these models often face

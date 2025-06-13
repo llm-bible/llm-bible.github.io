@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00289"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'GPT', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Multimodal Models']
 ---
 Diffusion models have gained tremendous success in text-to-image generation,
 yet still lag behind with visual understanding tasks, an area dominated by

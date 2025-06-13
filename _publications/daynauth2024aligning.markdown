@@ -7,7 +7,7 @@ year: 2024
 bibkey: daynauth2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12847"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning']
 ---
 The SLAM paper demonstrated that on-device Small Language Models (SLMs) are a
 viable and cost-effective alternative to API-based Large Language Models

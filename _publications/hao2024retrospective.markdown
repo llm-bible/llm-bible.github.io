@@ -7,7 +7,7 @@ year: 2024
 bibkey: hao2024retrospective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18290"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 In-basket message interactions play a crucial role in physician-patient
 communication, occurring during all phases (pre-, during, and post) of a

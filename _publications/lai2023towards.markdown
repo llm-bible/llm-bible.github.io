@@ -7,7 +7,7 @@ year: 2023
 bibkey: lai2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13594"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Pretraining Methods']
 ---
 Natural language explanation in visual question answer (VQA-NLE) aims to
 explain the decision-making process of models by generating natural language

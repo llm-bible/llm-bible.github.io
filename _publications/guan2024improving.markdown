@@ -7,7 +7,7 @@ year: 2024
 bibkey: guan2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08063"}
-tags: ['Efficiency and Optimization', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in
 code completion tasks, where they assist developers by predicting and

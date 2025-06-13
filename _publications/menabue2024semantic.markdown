@@ -8,7 +8,7 @@ bibkey: menabue2024semantic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06870"}
   - {name: "Code", url: "https://github.com/aimagelab/mammoth"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Prompt-tuning methods for Continual Learning (CL) freeze a large pre-trained
 model and train a few parameter vectors termed prompts. Most of these methods

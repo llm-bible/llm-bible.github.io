@@ -7,7 +7,7 @@ year: 2023
 bibkey: gao2023closed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10908"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Utilizing large language models (LLMs) to compose off-the-shelf visual tools
 represents a promising avenue of research for developing robust visual

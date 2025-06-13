@@ -7,7 +7,7 @@ year: 2023
 bibkey: fang2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13517"}
-tags: ['Training Techniques', 'Applications', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
 ---
 Open intent detection, a crucial aspect of natural language understanding,
 involves the identification of previously unseen intents in user-generated

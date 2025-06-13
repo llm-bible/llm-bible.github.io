@@ -8,7 +8,7 @@ bibkey: decarvalho2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11068"}
   - {name: "Code", url: "https://github.com/BlueVelvetSackOfGoldPotatoes/child-play}{{ChildPlay"}
-tags: ['Model Architecture', 'GPT', 'Has Code', 'Reinforcement Learning']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 We developed a benchmark set to assess the generalization of state-of-the-art
 large language models on problems beyond linguistic tasks and evaluate it on a

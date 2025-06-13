@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05858"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 On-device inference for Large Language Models (LLMs), driven by increasing
 privacy concerns and advancements of mobile-sized models, has gained

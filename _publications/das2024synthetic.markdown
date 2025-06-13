@@ -7,7 +7,7 @@ year: 2024
 bibkey: das2024synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06285"}
-tags: ['Prompting', 'Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
 ---
 Medical dialogue systems (MDS) enhance patient-physician communication,
 improve healthcare accessibility, and reduce costs. However, acquiring suitable

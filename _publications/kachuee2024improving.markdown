@@ -7,7 +7,7 @@ year: 2024
 bibkey: kachuee2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03573"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Using tools by Large Language Models (LLMs) is a promising avenue to extend
 their reach beyond language or conversational settings. The number of tools can

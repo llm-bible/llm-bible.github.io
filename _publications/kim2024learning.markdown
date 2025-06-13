@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18695"}
-tags: ['Efficiency and Optimization', 'Training Techniques']
+tags: ['Training Techniques', 'Efficiency and Optimization']
 ---
 An open challenge in recent machine learning is about how to improve the
 reasoning capability of large language models (LLMs) in a black-box setting,

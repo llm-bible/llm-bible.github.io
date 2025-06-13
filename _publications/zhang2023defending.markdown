@@ -8,7 +8,7 @@ bibkey: zhang2023defending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09096"}
   - {name: "Code", url: "https://github.com/thu-coai/JailbreakDefense_GoalPriority"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Attention Mechanism']
+tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 While significant attention has been dedicated to exploiting weaknesses in
 LLMs through jailbreaking attacks, there remains a paucity of effort in

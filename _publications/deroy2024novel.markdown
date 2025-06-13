@@ -7,7 +7,7 @@ year: 2024
 bibkey: deroy2024novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12893"}
-tags: ['Model Architecture', 'Survey Paper', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Automatic question generation is a critical task that involves evaluating
 question quality by considering factors such as engagement, pedagogical value,

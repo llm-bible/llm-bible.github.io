@@ -8,7 +8,7 @@ bibkey: wang2023improved
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.01489"}
   - {name: "Code", url: "https://github.com/idstcv/TeS"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Fine-tuning a visual pre-trained model can leverage the semantic information
 from large-scale pre-training data and mitigate the over-fitting problem on

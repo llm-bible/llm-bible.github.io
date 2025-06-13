@@ -7,7 +7,7 @@ year: 2023
 bibkey: hartmann2023political
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.01768"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'BERT', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT', 'Prompting']
 ---
 Conversational artificial intelligence (AI) disrupts how humans interact with
 technology. Recently, OpenAI introduced ChatGPT, a state-of-the-art dialogue

@@ -7,7 +7,7 @@ year: 2023
 bibkey: depaoli2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13014"}
-tags: ['Arxiv', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Arxiv']
 ---
 Large Language Models (LLMs) have emerged as powerful generative Artificial
 Intelligence solutions which can be applied to several fields and areas of

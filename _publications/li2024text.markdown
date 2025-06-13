@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14132"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Generative artificial intelligence (GenAI) has made significant progress in
 understanding world knowledge and generating content from human languages

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhen2025taming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19720"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'RAG', 'Merging', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) for Generative AI have achieved remarkable
 progress, evolving into sophisticated and versatile tools widely adopted across

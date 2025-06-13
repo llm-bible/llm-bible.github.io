@@ -7,7 +7,7 @@ year: 2023
 bibkey: si2023prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.03558"}
-tags: ['Security', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Prompting']
 ---
 The Machine Learning as a Service (MLaaS) market is rapidly expanding and
 becoming more mature. For example, OpenAI's ChatGPT is an advanced large

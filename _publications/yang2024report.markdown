@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024report
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00844"}
-tags: ['Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Tools']
 ---
 The rapid development and dynamic nature of large language models (LLMs) make
 it difficult for conventional quantitative benchmarks to accurately assess

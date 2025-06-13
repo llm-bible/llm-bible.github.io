@@ -8,7 +8,7 @@ bibkey: liu2024lumina
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02657"}
   - {name: "Code", url: "https://github.com/Alpha-VLLM/Lumina-mGPT"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present Lumina-mGPT, a family of multimodal autoregressive models capable
 of various vision and language tasks, particularly excelling in generating

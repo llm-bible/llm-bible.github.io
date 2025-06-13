@@ -7,7 +7,7 @@ year: 2024
 bibkey: dehaven2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03171"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'KDD', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'KDD']
 ---
 In this paper we present a multi-adapter retrieval augmented generation
 system (MARAGS) for Meta's Comprehensive RAG (CRAG) competition for KDD CUP

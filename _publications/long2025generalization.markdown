@@ -7,7 +7,7 @@ year: 2025
 bibkey: long2025generalization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00832"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The advancement of large language models (LLMs) has opened new frontiers in
 natural language processing, particularly in specialized domains like

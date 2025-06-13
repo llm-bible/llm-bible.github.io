@@ -7,7 +7,7 @@ year: 2024
 bibkey: ouyang2024token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00722"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Query generation is a critical task for web search engines (e.g. Google,
 Bing) and recommendation systems. Recently, state-of-the-art query generation

@@ -8,7 +8,7 @@ bibkey: mandikal2024ancient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11903"}
   - {name: "Code", url: "https://sites.google.com/view/vedantany-10m"}
-tags: ['RAG', 'Applications', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code', 'Applications']
 ---
 LLMs have revolutionized the landscape of information retrieval and knowledge
 dissemination. However, their application in specialized areas is often

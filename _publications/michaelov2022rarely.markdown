@@ -7,7 +7,7 @@ year: 2022
 bibkey: michaelov2022rarely
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.08700"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 How well do language models deal with quantification? In this study, we focus
 on 'few'-type quantifiers, as in 'few children like toys', which might pose a

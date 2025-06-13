@@ -7,7 +7,7 @@ year: 2025
 bibkey: schmied2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16078"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The success of Large Language Models (LLMs) has sparked interest in various
 agentic applications. A key hypothesis is that LLMs, leveraging common sense

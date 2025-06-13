@@ -7,7 +7,7 @@ year: 2024
 bibkey: sinha2024marvel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.17945"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Prompting']
 ---
 Generating high-fidelity 3D content from text prompts remains a significant
 challenge in computer vision due to the limited size, diversity, and annotation

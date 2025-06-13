@@ -7,7 +7,7 @@ year: 2024
 bibkey: rai2024investigation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12288"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) have shown strong arithmetic reasoning
 capabilities when prompted with Chain-of-Thought (CoT) prompts. However, we

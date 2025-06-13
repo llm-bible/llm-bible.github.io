@@ -7,7 +7,7 @@ year: 2024
 bibkey: singh2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18831"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 As interest in "reformulating" the 3D Visual Question Answering (VQA) problem
 in the context of foundation models grows, it is imperative to assess how these

@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024bootstrap
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19414"}
-tags: ['Model Architecture', 'Tools', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Prompting']
 ---
 Medical dialogue generation (MDG) has gained increasing attention due to its
 substantial practical value. Previous works typically employ a

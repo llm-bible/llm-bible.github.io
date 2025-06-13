@@ -7,7 +7,7 @@ year: 2024
 bibkey: pang2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05000"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Recent advances in text-to-image models have enabled high-quality
 personalized image synthesis of user-provided concepts with flexible textual

@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhuang2022local
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.08645"}
-tags: ['Agentic', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Vision-and-language navigation (VLN), a frontier study aiming to pave the way
 for general-purpose robots, has been a hot topic in the computer vision and

@@ -8,7 +8,7 @@ bibkey: ji2024say
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00718"}
   - {name: "Code", url: "https://github.com/cistineup/CantCounter"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Ensuring the resilience of Large Language Models (LLMs) against malicious
 exploitation is paramount, with recent focus on mitigating offensive responses.

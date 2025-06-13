@@ -7,7 +7,7 @@ year: 2024
 bibkey: bombieri2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14931"}
-tags: ['Prompting', 'Security', 'Model Architecture', 'GPT']
+tags: ['Security', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 diverse natural language processing tasks, yet their ability to memorize

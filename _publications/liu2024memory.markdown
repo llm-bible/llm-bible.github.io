@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15274"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Traditional enterprises face significant challenges in processing business
 documents, where tasks like extracting transport references from invoices

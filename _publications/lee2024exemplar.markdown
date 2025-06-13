@@ -8,7 +8,7 @@ bibkey: lee2024exemplar
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09549"}
   - {name: "Code", url: "https://github.com/YiLunLee/Exemplar_Masking_MCIL"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal incremental learning needs to digest the information from multiple
 modalities while concurrently learning new knowledge without forgetting the

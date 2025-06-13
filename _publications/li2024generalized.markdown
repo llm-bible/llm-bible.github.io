@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024generalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03094"}
-tags: ['Arxiv', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Arxiv']
 ---
 Prompt compression is crucial for enhancing inference speed, reducing costs,
 and improving user experience. However, current methods face challenges such as

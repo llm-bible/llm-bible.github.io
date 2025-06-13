@@ -7,7 +7,7 @@ year: 2023
 bibkey: eldan2023harry
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02238"}
-tags: ['Prompting', 'RAG', 'Training Techniques']
+tags: ['RAG', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) are trained on massive internet corpora that
 often contain copyrighted content. This poses legal and ethical challenges for

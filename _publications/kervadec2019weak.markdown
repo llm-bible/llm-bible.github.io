@@ -7,7 +7,7 @@ year: 2019
 bibkey: kervadec2019weak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1912.03063"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 The large adoption of the self-attention (i.e. transformer model) and
 BERT-like training principles has recently resulted in a number of high

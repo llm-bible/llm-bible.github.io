@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025best
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04194"}
-tags: ['Security', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 High-quality supervised fine-tuning (SFT) data are crucial for eliciting
 strong capabilities from pretrained large language models (LLMs). Typically,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: xia2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19813"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 The Retrieval-Augmented Language Model (RALM) has shown remarkable
 performance on knowledge-intensive tasks by incorporating external knowledge

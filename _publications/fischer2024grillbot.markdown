@@ -7,7 +7,7 @@ year: 2024
 bibkey: fischer2024grillbot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07647"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 We tackle the challenge of building real-world multimodal assistants for
 complex real-world tasks. We describe the practicalities and challenges of

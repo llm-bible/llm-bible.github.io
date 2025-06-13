@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13540"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) have demonstrated remarkable performance
 across diverse tasks. Despite great success, recent studies show that LVLMs

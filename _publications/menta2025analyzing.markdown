@@ -7,7 +7,7 @@ year: 2025
 bibkey: menta2025analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.05078"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are prevalent in modern applications but often
 memorize training data, leading to privacy breaches and copyright issues.

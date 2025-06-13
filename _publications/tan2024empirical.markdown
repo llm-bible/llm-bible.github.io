@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12914"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 One critical prerequisite for faithful text-to-image generation is the
 accurate understanding of text inputs. Existing methods leverage the text

@@ -7,7 +7,7 @@ year: 2022
 bibkey: villalobos2022will
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.04325"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 We investigate the potential constraints on LLM scaling posed by the
 availability of public human-generated text data. We forecast the growing

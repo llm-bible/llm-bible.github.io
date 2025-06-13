@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.11061"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 The impressive performance of large language models (LLMs) has led to their
 consideration as models of human language processing. Instead, we suggest that

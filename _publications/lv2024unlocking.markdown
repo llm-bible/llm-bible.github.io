@@ -7,7 +7,7 @@ year: 2024
 bibkey: lv2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.09425"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'RecSys', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Training Techniques', 'RecSys', 'Large-Scale Training', 'Scaling Laws']
 ---
 Scaling-law has guided the language model designing for past years, however,
 it is worth noting that the scaling laws of NLP cannot be directly applied to

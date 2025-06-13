@@ -8,7 +8,7 @@ bibkey: hsu2024safe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16833"}
   - {name: "Code", url: "https://github.com/IBM/SafeLoRA"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 While large language models (LLMs) such as Llama-2 or GPT-4 have shown
 impressive zero-shot performance, fine-tuning is still necessary to enhance

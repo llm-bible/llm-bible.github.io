@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024attribute
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10086"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 In Multimodal Language Models (MLMs), the cost of manually annotating
 high-quality image-text pair data for fine-tuning and alignment is extremely

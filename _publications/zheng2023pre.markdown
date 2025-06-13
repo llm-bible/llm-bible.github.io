@@ -8,7 +8,7 @@ bibkey: zheng2023pre
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.17568v2"}
   - {name: "Code", url: "https://github.com/THUDM/CodeGeeX"}
-tags: ['Efficiency and Optimization', 'Applications', 'Has Code', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization', 'Has Code', 'Applications']
 ---
 Large pre-trained code generation models, such as OpenAI Codex, can generate
 syntax- and function-correct code, making the coding of programmers more

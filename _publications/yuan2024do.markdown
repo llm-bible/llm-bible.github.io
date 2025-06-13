@@ -8,7 +8,7 @@ bibkey: yuan2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13343"}
   - {name: "Code", url: "https://github.com/yyhappier/ShortcutSuite.git"}
-tags: ['Security', 'Few-Shot', 'Reinforcement Learning', 'Ethics and Bias', 'Has Code', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Security', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in various
 natural language processing tasks. However, LLMs may rely on dataset biases as

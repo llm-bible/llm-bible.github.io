@@ -7,7 +7,7 @@ year: 2024
 bibkey: lad2024remarkable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19384"}
-tags: ['Security', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Security', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
 ---
 We demonstrate and investigate the remarkable robustness of Large Language
 Models by deleting and swapping adjacent layers. We find that deleting and

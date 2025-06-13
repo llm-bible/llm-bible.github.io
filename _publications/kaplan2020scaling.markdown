@@ -7,7 +7,7 @@ year: 2020
 bibkey: kaplan2020scaling
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2001.08361v1"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
 ---
 We study empirical scaling laws for language model performance on the
 cross-entropy loss. The loss scales as a power-law with model size, dataset

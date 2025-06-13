@@ -7,7 +7,7 @@ year: 2024
 bibkey: qiu2024interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15787"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Virtual counselors powered by large language models (LLMs) aim to create
 interactive support systems that effectively assist clients struggling with

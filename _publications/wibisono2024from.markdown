@@ -7,7 +7,7 @@ year: 2024
 bibkey: wibisono2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00131"}
-tags: ['Training Techniques', 'Model Architecture', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) like transformers demonstrate impressive
 in-context learning (ICL) capabilities, allowing them to make predictions for

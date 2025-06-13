@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024iter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12130"}
-tags: ['Pretraining Methods', 'Security', 'Applications', 'RAG']
+tags: ['RAG', 'Security', 'Applications', 'Pretraining Methods']
 ---
 The development of Large Language Models (LLMs) has significantly advanced
 various AI applications in commercial and scientific research fields, such as

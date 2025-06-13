@@ -7,7 +7,7 @@ year: 2024
 bibkey: rajani2024family
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13749"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Although powerful, current cutting-edge LLMs may not fulfil the needs of
 highly specialised sectors. We introduce KodeXv0.1, a family of large language

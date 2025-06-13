@@ -8,7 +8,7 @@ bibkey: le2024mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14124"}
   - {name: "Code", url: "https://github.com/Minhchuyentoancbn/MoE_PromptCL"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Exploiting the power of pre-trained models, prompt-based approaches stand out
 compared to other continual learning solutions in effectively preventing

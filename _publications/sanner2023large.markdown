@@ -7,7 +7,7 @@ year: 2023
 bibkey: sanner2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.14225"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'RecSys', 'Ethics and Bias', 'Prompting']
+tags: ['Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Few-Shot', 'Prompting']
 ---
 Traditional recommender systems leverage users' item preference history to
 recommend novel content that users may like. However, modern dialog interfaces

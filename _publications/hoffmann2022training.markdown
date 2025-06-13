@@ -7,7 +7,7 @@ year: 2022
 bibkey: hoffmann2022training
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2203.15556v1"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 We investigate the optimal model size and number of tokens for training a
 transformer language model under a given compute budget. We find that current

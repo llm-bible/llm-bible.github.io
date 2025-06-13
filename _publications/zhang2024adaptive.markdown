@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14846"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 The Large Vision-Language Model (LVLM) integrates computer vision and natural
 language processing techniques, offering substantial application potential.

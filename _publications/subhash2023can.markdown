@@ -7,7 +7,7 @@ year: 2023
 bibkey: subhash2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.10291"}
-tags: ['Security', 'Model Architecture', 'GPT', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Security', 'Attention Mechanism']
 ---
 Pretrained large language models (LLMs) are becoming increasingly powerful
 and ubiquitous in mainstream applications such as being a personal assistant, a

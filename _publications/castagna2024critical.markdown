@@ -7,7 +7,7 @@ year: 2024
 bibkey: castagna2024critical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15177"}
-tags: ['Prompting', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Studies have underscored how, regardless of the recent breakthrough and swift
 advances in AI research, even state-of-the-art Large Language models (LLMs)

@@ -8,7 +8,7 @@ bibkey: zhang2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16123"}
   - {name: "Code", url: "https://github.com/zjunlp/EasyEdit"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Knowledge editing for large language models can offer an efficient solution
 to alter a model's behavior without negatively impacting the overall

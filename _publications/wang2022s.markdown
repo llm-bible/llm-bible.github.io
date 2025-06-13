@@ -8,7 +8,7 @@ bibkey: wang2022s
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.12819"}
   - {name: "Code", url: "https://github.com/iamwangyabin/S-Prompts"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 State-of-the-art deep neural networks are still struggling to address the
 catastrophic forgetting problem in continual learning. In this paper, we

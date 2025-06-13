@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.08103"}
   - {name: "Code", url: "https://github.com/moymix/TaskMatrix/tree/main/LowCodeLLM"}
   - {name: "Code", url: "https://www.youtube.com/watch?v=jb2C1vaeO3E"}
-tags: ['Prompting', 'Applications', 'Has Code', 'Tools']
+tags: ['Tools', 'Has Code', 'Prompting', 'Applications']
 ---
 Utilizing Large Language Models (LLMs) for complex tasks is challenging,
 often involving a time-consuming and uncontrollable prompt engineering process.

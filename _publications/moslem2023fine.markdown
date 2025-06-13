@@ -7,7 +7,7 @@ year: 2023
 bibkey: moslem2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12740"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 This paper presents the outcomes of fine-tuning Mistral 7B, a general-purpose
 large language model (LLM), for adaptive machine translation (MT). The

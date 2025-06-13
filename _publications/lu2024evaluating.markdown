@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11069"}
-tags: ['Responsible AI', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Recent breakthroughs in vision-language models (VLMs) emphasize the necessity
 of benchmarking human preferences in real-world multimodal interactions. To

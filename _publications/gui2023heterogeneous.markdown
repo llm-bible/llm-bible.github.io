@@ -7,7 +7,7 @@ year: 2023
 bibkey: gui2023heterogeneous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05884"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pruning', 'RecSys', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'RecSys', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Learning feature interaction is the critical backbone to building recommender
 systems. In web-scale applications, learning feature interaction is extremely

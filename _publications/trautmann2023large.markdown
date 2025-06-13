@@ -7,7 +7,7 @@ year: 2023
 bibkey: trautmann2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04138"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Prompting is used to guide or steer a language model in generating an
 appropriate response that is consistent with the desired outcome. Chaining is a

@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024non
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00096"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Instruction fine-tuning is crucial for today's large language models (LLMs)
 to learn to follow instructions and align with human preferences.

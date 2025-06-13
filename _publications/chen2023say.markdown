@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023say
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.05976"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Ethics and Bias', 'Pre-Training']
+tags: ['Pre-Training', 'Ethics and Bias', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have been widely studied for their ability to
 store and utilize positive knowledge. However, negative knowledge, such as

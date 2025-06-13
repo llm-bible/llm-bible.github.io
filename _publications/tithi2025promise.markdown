@@ -7,7 +7,7 @@ year: 2025
 bibkey: tithi2025promise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.04736"}
-tags: ['Prompting', 'Interpretability and Explainability', 'Reinforcement Learning']
+tags: ['Interpretability and Explainability', 'Prompting', 'Reinforcement Learning']
 ---
 Intelligent tutoring systems have demonstrated effectiveness in teaching
 formal propositional logic proofs, but their reliance on template-based

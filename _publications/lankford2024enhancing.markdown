@@ -7,7 +7,7 @@ year: 2024
 bibkey: lankford2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01580"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 In the current machine translation (MT) landscape, the Transformer
 architecture stands out as the gold standard, especially for high-resource

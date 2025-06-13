@@ -7,7 +7,7 @@ year: 2025
 bibkey: le2025reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02273"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent advances in fine-tuning large language models (LLMs) with
 reinforcement learning (RL) have shown promising improvements in complex

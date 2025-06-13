@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15769"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Survey Paper', 'Tools', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Survey Paper', 'Model Architecture', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) mimic human perception and reasoning
 system by integrating powerful Large Language Models (LLMs) with various

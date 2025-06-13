@@ -7,7 +7,7 @@ year: 2024
 bibkey: jia2024task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16682"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Large Language Model (LLM) agents are increasingly being deployed as
 conversational assistants capable of performing complex real-world tasks

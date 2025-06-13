@@ -7,7 +7,7 @@ year: 2025
 bibkey: kang2025see
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03321"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large multimodal models (LMMs) "see" images by leveraging the attention
 mechanism between text and visual tokens in the transformer decoder. Ideally,

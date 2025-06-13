@@ -7,7 +7,7 @@ year: 2023
 bibkey: vishnu2023memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08123"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Training Memory-based transformers can require a large amount of memory and
 can be quite inefficient. We propose a novel two-phase training mechanism and a

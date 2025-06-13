@@ -8,7 +8,7 @@ bibkey: yamada2024facilitating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11485"}
   - {name: "Code", url: "https://github.com/studio-ousia/leia"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Adapting English-based large language models (LLMs) to other languages has
 become increasingly popular due to the efficiency and potential of

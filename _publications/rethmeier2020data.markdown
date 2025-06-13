@@ -7,7 +7,7 @@ year: 2020
 bibkey: rethmeier2020data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.01061"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Fairness', 'Few-Shot', 'Model Architecture', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Fairness']
 ---
 For natural language processing `text-to-text' tasks, the prevailing
 approaches heavily rely on pretraining large self-supervised models on

@@ -7,7 +7,7 @@ year: 2025
 bibkey: rehman2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19339"}
-tags: ['BERT', 'Applications', 'Tools', 'Model Architecture']
+tags: ['BERT', 'Tools', 'Applications', 'Model Architecture']
 ---
 Text summarization plays a crucial role in natural language processing by
 condensing large volumes of text into concise and coherent summaries. As

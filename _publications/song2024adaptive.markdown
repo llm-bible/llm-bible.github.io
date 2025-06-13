@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19425"}
-tags: ['Agentic', 'Agent', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Agent', 'Prompting']
 ---
 Leveraging multiple large language model (LLM) agents has shown to be a
 promising approach for tackling complex tasks, while the effective design of

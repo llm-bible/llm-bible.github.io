@@ -8,7 +8,7 @@ bibkey: an2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17463"}
   - {name: "Code", url: "https://github.com/HKUNLP/ChunkLlama"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Has Code', 'Attention Mechanism']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 The ability of Large Language Models (LLMs) to process and generate coherent
 text is markedly weakened when the number of input tokens exceeds their

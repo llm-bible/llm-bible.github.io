@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhao2025accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17139"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Code generation is a latency-sensitive task that demands high timeliness, but
 the autoregressive decoding mechanism of Large Language Models (LLMs) leads to

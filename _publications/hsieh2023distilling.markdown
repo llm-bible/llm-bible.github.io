@@ -8,7 +8,7 @@ bibkey: hsieh2023distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.02301"}
   - {name: "Code", url: "https://github.com/google-research/distilling-step-by-step"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Distillation', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting', 'Distillation']
 ---
 Deploying large language models (LLMs) is challenging because they are memory
 inefficient and compute-intensive for practical applications. In reaction,

@@ -7,7 +7,7 @@ year: 2018
 bibkey: zhao2018phrase
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.09960"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Neural Machine Translation (NMT) has drawn much attention due to its
 promising translation performance recently. However, several studies indicate

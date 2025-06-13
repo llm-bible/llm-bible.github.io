@@ -7,7 +7,7 @@ year: 2022
 bibkey: fung2022multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.08604"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Prompting']
 ---
 Norm discovery is important for understanding and reasoning about the
 acceptable behaviors and potential violations in human communication and

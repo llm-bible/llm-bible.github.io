@@ -7,7 +7,7 @@ year: 2025
 bibkey: shi2025direct
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03075"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Retrieval-augmented generation (RAG) integrates large language models ( LLM
 s) with retrievers to access external knowledge, improving the factuality of

@@ -8,7 +8,7 @@ bibkey: xi2024efficiency
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05676"}
   - {name: "Code", url: "https://github.com/YunjiaXi/LASER"}
-tags: ['Efficiency and Optimization', 'RAG', 'GPT', 'RecSys', 'Pretraining Methods', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'RecSys', 'Has Code', 'Pretraining Methods']
 ---
 The past few years have witnessed a growing interest in LLM-based recommender
 systems (RSs), although their industrial deployment remains in a preliminary

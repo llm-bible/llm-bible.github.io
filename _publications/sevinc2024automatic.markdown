@@ -8,7 +8,7 @@ bibkey: sevinc2024automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06975"}
   - {name: "Code", url: "https://github.com/miralab-ai/autoreason"}
-tags: ['Few-Shot', 'Has Code', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Applications', 'Interpretability and Explainability', 'Has Code', 'Few-Shot', 'Prompting']
 ---
 Chain of Thought (CoT) was introduced in recent research as a method for
 improving step-by-step reasoning in Large Language Models. However, CoT has

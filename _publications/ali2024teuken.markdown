@@ -7,7 +7,7 @@ year: 2024
 bibkey: ali2024teuken
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03730"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 We present two multilingual LLMs designed to embrace Europe's linguistic
 diversity by supporting all 24 official languages of the European Union.

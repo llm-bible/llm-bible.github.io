@@ -7,7 +7,7 @@ year: 2024
 bibkey: woo2024effects
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.07302"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Prompt engineering is critical for effective interaction with large language
 models (LLMs) such as ChatGPT. However, efforts to teach this skill to students

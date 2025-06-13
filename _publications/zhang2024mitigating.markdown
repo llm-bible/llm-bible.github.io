@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.20052"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'RecSys', 'Ethics and Bias']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'RecSys']
 ---
 The rapid development of Large Language Models (LLMs) creates new
 opportunities for recommender systems, especially by exploiting the side

@@ -7,7 +7,7 @@ year: 2025
 bibkey: cai2025training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09802"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Distillation']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Distillation']
 ---
 The reasoning capabilities of large language models (LLMs), such as OpenAI's
 o1 and DeepSeek-R1, have seen substantial advancements through deep thinking.

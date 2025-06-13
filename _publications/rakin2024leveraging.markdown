@@ -7,7 +7,7 @@ year: 2024
 bibkey: rakin2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17783"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 While ongoing advancements in Large Language Models have demonstrated
 remarkable success across various NLP tasks, Retrieval Augmented Generation

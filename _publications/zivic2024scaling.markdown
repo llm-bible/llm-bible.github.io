@@ -8,7 +8,7 @@ bibkey: zivic2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07585"}
   - {name: "Code", url: "https://github.com/mercadolibre/srt"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'RAG', 'RecSys', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'RecSys', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Scaling Laws']
 ---
 Modeling user preferences has been mainly addressed by looking at users'
 interaction history with the different elements available in the system.

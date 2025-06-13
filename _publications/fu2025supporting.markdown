@@ -7,7 +7,7 @@ year: 2025
 bibkey: fu2025supporting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13900"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 With the rapid adoption of AI tools in learning contexts, it is vital to
 understand how these systems shape users' reading processes and cognitive

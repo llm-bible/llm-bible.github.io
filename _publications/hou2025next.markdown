@@ -7,7 +7,7 @@ year: 2025
 bibkey: hou2025next
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04596"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Agent', 'Efficiency and Optimization', 'Tools', 'RAG', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Agent']
 ---
 Large Language Model (LLM) applications, including LLM app stores and
 autonomous agents, are shaping the future of AI ecosystems. However, platform

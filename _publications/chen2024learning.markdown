@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15226"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 This study investigates the potential of using ChatGPT as a teachable agent
 to support students' learning by teaching process, specifically in programming

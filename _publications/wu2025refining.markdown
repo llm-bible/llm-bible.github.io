@@ -8,7 +8,7 @@ bibkey: wu2025refining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17888"}
   - {name: "Code", url: "https://github.com/NEUIR/RankCoT"}
-tags: ['Training Techniques', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Retrieval-Augmented Generation (RAG) enhances the performance of Large
 Language Models (LLMs) by incorporating external knowledge. However, LLMs still

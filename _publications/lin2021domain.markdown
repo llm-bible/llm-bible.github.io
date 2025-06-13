@@ -7,7 +7,7 @@ year: 2021
 bibkey: lin2021domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.08838"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Dialogue policy optimisation via reinforcement learning requires a large
 number of training interactions, which makes learning with real users time

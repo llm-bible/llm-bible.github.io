@@ -7,7 +7,7 @@ year: 2021
 bibkey: jayarao2021retraining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.15737"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Applications']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT']
 ---
 In this work, we retrained the distilled BERT language model for Walmart's
 voice shopping assistant on retail domain-specific data. We also injected

@@ -8,7 +8,7 @@ bibkey: wang2025entropy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05732"}
   - {name: "Code", url: "https://github.com/thunlp/LLMxMapReduce"}
-tags: ['Model Architecture', 'Survey Paper', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Survey Paper', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code']
 ---
 Long-form generation is crucial for a wide range of practical applications,
 typically categorized into short-to-long and long-to-long generation. While

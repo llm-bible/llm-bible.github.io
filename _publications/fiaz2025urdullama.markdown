@@ -7,7 +7,7 @@ year: 2025
 bibkey: fiaz2025urdullama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16961"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Applications']
 ---
 Multilingual Large Language Models (LLMs) often provide suboptimal
 performance on low-resource languages like Urdu. This paper introduces

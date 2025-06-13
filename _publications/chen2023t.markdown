@@ -8,7 +8,7 @@ bibkey: chen2023t
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14033"}
   - {name: "Code", url: "https://github.com/open-compass/T-Eval"}
-tags: ['Survey Paper', 'Applications', 'Has Code', 'Tools']
+tags: ['Tools', 'Survey Paper', 'Has Code', 'Applications']
 ---
 Large language models (LLM) have achieved remarkable performance on various
 NLP tasks and are augmented by tools for broader applications. Yet, how to

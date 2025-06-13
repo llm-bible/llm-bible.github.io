@@ -7,7 +7,7 @@ year: 2024
 bibkey: bucher2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08660"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Generative AI offers a simple, prompt-based alternative to fine-tuning
 smaller BERT-style LLMs for text classification tasks. This promises to

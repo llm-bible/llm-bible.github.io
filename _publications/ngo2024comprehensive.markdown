@@ -7,7 +7,7 @@ year: 2024
 bibkey: ngo2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.09213"}
-tags: ['Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 Retrieval-augmented generation (RAG) has emerged as a promising approach to
 enhance the performance of large language models (LLMs) in knowledge-intensive

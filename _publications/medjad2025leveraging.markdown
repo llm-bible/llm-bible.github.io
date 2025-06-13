@@ -7,7 +7,7 @@ year: 2025
 bibkey: medjad2025leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.11977"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Prompting']
 ---
 Training task-oriented dialogue systems is both costly and time-consuming,
 due to the need for high-quality datasets encompassing diverse intents.

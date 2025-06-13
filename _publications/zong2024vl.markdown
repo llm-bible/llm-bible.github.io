@@ -8,7 +8,7 @@ bibkey: zong2024vl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13164"}
   - {name: "Code", url: "https://github.com/ys-zong/VL-ICL"}
-tags: ['Multimodal Models', 'Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) famously exhibit emergent in-context learning
 (ICL) -- the ability to rapidly adapt to new tasks using few-shot examples

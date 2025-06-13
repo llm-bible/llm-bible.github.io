@@ -7,7 +7,7 @@ year: 2024
 bibkey: hamdi2024reshaping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15254"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have significantly advanced natural language
 processing, excelling in areas like text generation, summarization, and

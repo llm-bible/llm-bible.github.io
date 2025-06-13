@@ -7,7 +7,7 @@ year: 2022
 bibkey: ye2022complementary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.13892"}
-tags: ['Prompting', 'Interpretability and Explainability', 'In-Context Learning', 'Reinforcement Learning']
+tags: ['Interpretability and Explainability', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have exhibited remarkable capabilities in
 learning from explanations in prompts, but there has been limited understanding

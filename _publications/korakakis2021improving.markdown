@@ -7,7 +7,7 @@ year: 2021
 bibkey: korakakis2021improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.06308"}
-tags: ['WMT', 'Training Techniques', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Applications', 'SLT']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'WMT', 'Training Techniques', 'Pretraining Methods', 'SLT']
 ---
 Despite strong performance in many sequence-to-sequence tasks, autoregressive
 models trained with maximum likelihood estimation suffer from exposure bias,

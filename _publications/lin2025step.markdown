@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025step
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10799"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) have recently demonstrated remarkable success in
 mathematical reasoning. Despite progress in methods like chain-of-thought

@@ -7,6 +7,6 @@ year: 2025
 bibkey: ko2025distillm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07067"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Reinforcement Learning', 'Distillation', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Multimodal Models', 'Distillation']
 ---
 Despite the success of distillation in large language models (LLMs), most prior work applies identical loss functions to both teacher- and student-generated data. These strategies overlook the synergy between loss formulations and data types, leading to a suboptimal performance boost in student models. To address this, we propose DistiLLM-2, a contrastive approach that simultaneously increases the likelihood of teacher responses and decreases that of student responses by harnessing this synergy. Our extensive experiments show that DistiLLM-2 not only builds high-performing student models across a wide range of tasks, including instruction-following and code generation, but also supports diverse applications, such as preference alignment and vision-language extensions. These findings highlight the potential of a contrastive approach to enhance the efficacy of LLM distillation by effectively aligning teacher and student models across varied data types.

@@ -7,7 +7,7 @@ year: 2019
 bibkey: xiao2019sharing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1906.11024"}
-tags: ['WMT', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recently, the Transformer machine translation system has shown strong results
 by stacking attention layers on both the source and target-language sides. But

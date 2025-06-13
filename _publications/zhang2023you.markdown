@@ -8,7 +8,7 @@ bibkey: zhang2023you
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11436"}
   - {name: "Code", url: "https://github.com/cooelf/Auto-GUI"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Multimodal Models', 'Tools', 'RAG', 'Has Code']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Has Code', 'Multimodal Models']
 ---
 Autonomous graphical user interface (GUI) agents aim to facilitate task
 automation by interacting with the user interface without manual intervention.

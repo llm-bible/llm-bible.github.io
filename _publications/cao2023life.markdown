@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023life
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.07616"}
-tags: ['Survey Paper', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Survey Paper', 'Model Architecture']
 ---
 Knowledge plays a critical role in artificial intelligence. Recently, the
 extensive success of pre-trained language models (PLMs) has raised significant

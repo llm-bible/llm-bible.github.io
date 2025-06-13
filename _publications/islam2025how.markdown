@@ -7,7 +7,7 @@ year: 2025
 bibkey: islam2025how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12769"}
-tags: ['Prompting', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Prompting', 'Applications']
 ---
 In the age of misinformation, hallucination -- the tendency of Large Language
 Models (LLMs) to generate non-factual or unfaithful responses -- represents the

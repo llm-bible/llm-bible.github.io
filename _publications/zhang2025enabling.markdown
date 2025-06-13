@@ -8,7 +8,7 @@ bibkey: zhang2025enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20690"}
   - {name: "Code", url: "https://river-zhang.github.io/ICEdit-gh-pages/"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Instruction-based image editing enables robust image modification via natural
 language prompts, yet current methods face a precision-efficiency tradeoff.

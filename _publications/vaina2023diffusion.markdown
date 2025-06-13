@@ -7,7 +7,7 @@ year: 2023
 bibkey: vaina2023diffusion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10818"}
-tags: ['Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Diffusion Language models (DLMs) are a promising avenue for text generation
 due to their practical properties on tractable controllable generation. They

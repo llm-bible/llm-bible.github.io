@@ -8,7 +8,7 @@ bibkey: xiong2025reducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00439"}
   - {name: "Code", url: "https://github.com/Bostoncake/UniAttn"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Post-training is essential for adapting Large Language Models (LLMs) to
 real-world applications. Deploying post-trained models faces significant

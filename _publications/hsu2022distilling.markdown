@@ -7,7 +7,7 @@ year: 2022
 bibkey: hsu2022distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.07316"}
-tags: ['Security', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Transformer-based models are widely used in natural language understanding
 (NLU) tasks, and multimodal transformers have been effective in visual-language

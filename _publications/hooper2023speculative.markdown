@@ -7,7 +7,7 @@ year: 2023
 bibkey: hooper2023speculative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12072"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Generative Large Language Models (LLMs) based on the Transformer architecture
 have recently emerged as a dominant foundation model for a wide range of

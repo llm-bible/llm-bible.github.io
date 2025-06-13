@@ -8,7 +8,7 @@ bibkey: zhu2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06532"}
   - {name: "Code", url: "https://github.com/DaoD/INTERS"}
-tags: ['Prompting', 'Has Code', 'Applications', 'Few-Shot']
+tags: ['Few-Shot', 'Has Code', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 various natural language processing tasks. Despite this, their application to

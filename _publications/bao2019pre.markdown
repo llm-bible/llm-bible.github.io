@@ -7,7 +7,7 @@ year: 2019
 bibkey: bao2019pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.07931"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Pre-training models have been proved effective for a wide range of natural
 language processing tasks. Inspired by this, we propose a novel dialogue

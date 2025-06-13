@@ -7,7 +7,7 @@ year: 2022
 bibkey: yin2022categorizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.06709"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Modern neural machine translation (NMT) models have achieved competitive
 performance in standard benchmarks. However, they have recently been shown to

@@ -8,7 +8,7 @@ bibkey: jiang2023compressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05736"}
   - {name: "Code", url: "https://aka.ms/LLMLingua"}
-tags: ['Arxiv', 'Model Architecture', 'GPT', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Has Code', 'Prompting', 'In-Context Learning', 'Arxiv']
 ---
 Large language models (LLMs) have been applied in various applications due to
 their astonishing capabilities. With advancements in technologies such as

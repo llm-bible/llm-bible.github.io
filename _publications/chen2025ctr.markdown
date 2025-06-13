@@ -8,7 +8,7 @@ bibkey: chen2025ctr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06823"}
   - {name: "Code", url: "https://github.com/Chenguoz/CAIG"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 In web data, advertising images are crucial for capturing user attention and
 improving advertising effectiveness. Most existing methods generate background

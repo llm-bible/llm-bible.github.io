@@ -7,7 +7,7 @@ year: 2024
 bibkey: cai2024simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10774"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 Large Language Models (LLMs) employ auto-regressive decoding that requires
 sequential computation, with each step reliant on the previous one's output.

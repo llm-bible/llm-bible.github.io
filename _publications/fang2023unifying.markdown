@@ -8,7 +8,7 @@ bibkey: fang2023unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.18835"}
   - {name: "Code", url: "https://github.com/rongyaofang/InstructSeq"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Empowering models to dynamically accomplish tasks specified through natural
 language instructions represents a promising path toward more capable and

@@ -7,7 +7,7 @@ year: 2023
 bibkey: pan2023reinforce
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05821"}
-tags: ['Agentic', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning']
 ---
 While recent advances have boosted LM proficiency in linguistic benchmarks,
 LMs consistently struggle to reason correctly on complex tasks like

@@ -7,7 +7,7 @@ year: 2025
 bibkey: kartáč2025explainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11858"}
-tags: ['Training Techniques', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated great potential as evaluators
 of NLG systems, allowing for high-quality, reference-free, and multi-aspect

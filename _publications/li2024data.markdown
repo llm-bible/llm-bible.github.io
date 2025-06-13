@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12813"}
-tags: ['Prompting', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Prompting', 'Applications']
 ---
 Using Large Language Models (LLMs) to generate synthetic data for model
 training has become increasingly popular in recent years. While LLMs are

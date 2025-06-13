@@ -8,7 +8,7 @@ bibkey: kuo2024rad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12558"}
   - {name: "Code", url: "https://github.com/mtkresearch/RAD-Bench"}
-tags: ['RAG', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['RAG', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 In real-world applications with Large Language Models (LLMs), external
 retrieval mechanisms - such as Search-Augmented Generation (SAG), tool

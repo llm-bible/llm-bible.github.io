@@ -7,7 +7,7 @@ year: 2025
 bibkey: lan2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13145"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown tremendous potential as agents,
 excelling at tasks that require multiple rounds of reasoning and interactions.

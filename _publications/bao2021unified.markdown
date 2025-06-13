@@ -8,7 +8,7 @@ bibkey: bao2021unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.02358"}
   - {name: "Code", url: "https://aka.ms/vlmo"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Merging', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present a unified Vision-Language pretrained Model (VLMo) that jointly
 learns a dual encoder and a fusion encoder with a modular Transformer network.

@@ -7,7 +7,7 @@ year: 2025
 bibkey: magdy2025multidialectal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00231"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in instruction fine-tuning, alignment methods such as
 reinforcement learning from human feedback (RLHF), and optimization techniques

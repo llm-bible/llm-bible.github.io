@@ -8,7 +8,7 @@ bibkey: dong2024internlm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06512"}
   - {name: "Code", url: "https://github.com/InternLM/InternLM-XComposer"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 The Large Vision-Language Model (LVLM) field has seen significant
 advancements, yet its progression has been hindered by challenges in

@@ -7,7 +7,7 @@ year: 2021
 bibkey: bao2021non
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.11405"}
-tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
 ---
 Non-autoregressive Transformer is a promising text generation model. However,
 current non-autoregressive models still fall behind their autoregressive

@@ -7,7 +7,7 @@ year: 2024
 bibkey: miah2024chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02816"}
-tags: ['Model Architecture', 'GPT', 'Survey Paper', 'Reinforcement Learning']
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 In recent years, advanced artificial intelligence technologies, such as
 ChatGPT, have significantly impacted various fields, including education and

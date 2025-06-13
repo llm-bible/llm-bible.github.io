@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03209"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 Reinforcement learning from expert demonstrations has long remained a
 challenging research problem, and existing state-of-the-art methods using

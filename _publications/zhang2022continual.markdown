@@ -8,7 +8,7 @@ bibkey: zhang2022continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.10652"}
   - {name: "Code", url: "https://github.com/GT-SALT/Adaptive-Compositional-Modules"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
 ---
 Continual learning is essential for real-world deployment when there is a
 need to quickly adapt the model to new tasks without forgetting knowledge of

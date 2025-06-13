@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiang2025holistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18810"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 In recent years, Large Language Models (LLMs) have faced increasing demands
 to selectively remove sensitive information, protect privacy, and comply with

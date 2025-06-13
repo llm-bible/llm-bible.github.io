@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22948"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have transformed natural language processing by
 learning from massive datasets, yet this rapid progress has also drawn legal

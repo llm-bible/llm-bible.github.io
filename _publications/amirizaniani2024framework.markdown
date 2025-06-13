@@ -7,7 +7,7 @@ year: 2024
 bibkey: amirizaniani2024framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09346"}
-tags: ['Prompting', 'Ethics and Bias', 'Interpretability', 'Tools']
+tags: ['Interpretability', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 As Large Language Models (LLMs) become more pervasive across various users
 and scenarios, identifying potential issues when using these models becomes

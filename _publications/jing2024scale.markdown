@@ -7,7 +7,7 @@ year: 2024
 bibkey: jing2024scale
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12222"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Interpretability and Explainability', 'Applications']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning']
 ---
 Hallucination has been a popular topic in natural language generation (NLG).
 In real-world applications, unfaithful content can result in poor data quality

@@ -7,7 +7,7 @@ year: 2023
 bibkey: xiong2023effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16039"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods']
+tags: ['GPT', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We present a series of long-context LLMs that support effective context
 windows of up to 32,768 tokens. Our model series are built through continual

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023document
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.08079"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Existing work in document-level neural machine translation commonly
 concatenates several consecutive sentences as a pseudo-document, and then

@@ -8,7 +8,7 @@ bibkey: gong2022sequence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.08933"}
   - {name: "Code", url: "https://github.com/Shark-NLP/DiffuSeq"}
-tags: ['Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Merging', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
 ---
 Recently, diffusion models have emerged as a new paradigm for generative
 models. Despite the success in domains using continuous signals such as vision

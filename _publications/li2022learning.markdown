@@ -8,7 +8,7 @@ bibkey: li2022learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.01543"}
   - {name: "Code", url: "https://github.com/RUCAIBox/Transfer-Prompts-for-Text-Generation"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Pretrained language models (PLMs) have made remarkable progress in text
 generation tasks via fine-tuning. While, it is challenging to fine-tune PLMs in

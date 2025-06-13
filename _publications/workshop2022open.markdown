@@ -7,7 +7,7 @@ year: 2022
 bibkey: workshop2022open
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2211.05100v4"}
-tags: ['Responsible AI', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have been shown to be able to perform new tasks
 based on a few demonstrations or natural language instructions. While these

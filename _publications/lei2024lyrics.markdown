@@ -7,7 +7,7 @@ year: 2024
 bibkey: lei2024lyrics
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.06029"}
-tags: ['Prompting', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Music is an integral part of human culture, embodying human intelligence and
 creativity, of which songs compose an essential part. While various aspects of

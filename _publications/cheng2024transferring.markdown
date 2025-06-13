@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheng2024transferring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09878"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Distillation', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Security', 'Attention Mechanism', 'Distillation']
 ---
 Backdoor Attacks have been a serious vulnerability against Large Language
 Models (LLMs). However, previous methods only reveal such risk in specific

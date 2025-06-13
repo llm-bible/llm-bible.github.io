@@ -7,7 +7,7 @@ year: 2023
 bibkey: niszczota2023judgments
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11873"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 The introduction of ChatGPT has fuelled a public debate on the use of
 generative AI (large language models; LLMs), including its use by researchers.

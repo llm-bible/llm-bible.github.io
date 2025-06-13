@@ -8,7 +8,7 @@ bibkey: leszczynski2025bt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02779"}
   - {name: "Code", url: "https://github.com/1Eggbert7/BT_LLM"}
-tags: ['Model Architecture', 'RAG', 'BERT', 'Has Code', 'Prompting']
+tags: ['RAG', 'Model Architecture', 'Has Code', 'BERT', 'Prompting']
 ---
 Natural language instructions are often abstract and complex, requiring
 robots to execute multiple subtasks even for seemingly simple queries. For

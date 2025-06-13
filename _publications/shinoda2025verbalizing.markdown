@@ -7,7 +7,7 @@ year: 2025
 bibkey: shinoda2025verbalizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.08838"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Existing Theory of Mind (ToM) benchmarks diverge from real-world scenarios in
 three aspects: 1) they assess a limited range of mental states such as beliefs,

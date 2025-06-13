@@ -7,7 +7,7 @@ year: 2019
 bibkey: long2019multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.09438"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Interpretability', 'Applications', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Attention Mechanism']
 ---
 Reading Comprehension has received significant attention in recent years as
 high quality Question Answering (QA) datasets have become available. Despite

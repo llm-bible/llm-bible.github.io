@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06668"}
-tags: ['Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) demonstrate emergent in-context learning
 capabilities, where they adapt to new tasks based on example demonstrations.

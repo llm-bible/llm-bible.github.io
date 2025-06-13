@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15569"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Vision-language models (VLMs) like CLIP have demonstrated remarkable
 applicability across a variety of downstream tasks, including zero-shot image

@@ -8,7 +8,7 @@ bibkey: xi2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16579"}
   - {name: "Code", url: "https://mathcritique.github.io/}{https://mathcritique.github.io/"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Training large language models (LLMs) to spend more time thinking and
 reflection before responding is crucial for effectively solving complex

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024general
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15736"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Few-Shot']
 ---
 The substantial interest in updating Large Language Models (LLMs) without
 retraining from scratch is accompanied by several challenges. This is

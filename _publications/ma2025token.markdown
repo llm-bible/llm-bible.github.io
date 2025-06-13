@@ -7,7 +7,7 @@ year: 2025
 bibkey: ma2025token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.17789"}
-tags: ['Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'GPT', 'Merging', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Autoregressive (AR) models, long dominant in language generation, are
 increasingly applied to image synthesis but are often considered less

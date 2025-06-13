@@ -7,7 +7,7 @@ year: 2017
 bibkey: salant2017contextualized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1712.03609"}
-tags: ['Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Reading a document and extracting an answer to a question about its content
 has attracted substantial attention recently. While most work has focused on

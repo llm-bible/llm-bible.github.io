@@ -8,7 +8,7 @@ bibkey: huang2024implementation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17031"}
   - {name: "Code", url: "https://github.com/vwxyzjn/summarize_from_feedback_details})"}
-tags: ['Agentic', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Agentic', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 This work is the first to openly reproduce the Reinforcement Learning from
 Human Feedback (RLHF) scaling behaviors reported in OpenAI's seminal TL;DR

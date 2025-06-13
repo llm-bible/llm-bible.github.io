@@ -7,7 +7,7 @@ year: 2025
 bibkey: qu2025progressively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19844"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models']
+tags: ['Training Techniques', 'Multimodal Models', 'Prompting', 'Efficiency and Optimization']
 ---
 Vision-language models (VLMs) have made significant progress in image
 classification by training with large-scale paired image-text data. Their

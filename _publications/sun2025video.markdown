@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025video
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11775"}
-tags: ['Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 While recent advancements in reasoning optimization have significantly
 enhanced the capabilities of large language models (LLMs), existing efforts to

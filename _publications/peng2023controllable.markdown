@@ -7,7 +7,7 @@ year: 2023
 bibkey: peng2023controllable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.07099"}
-tags: ['Training Techniques', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Prompting large language models (LLMs) for data augmentation has recently
 become a common practice in few-shot NLP tasks. In this paper, we propose

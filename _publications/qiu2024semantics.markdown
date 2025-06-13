@@ -7,7 +7,7 @@ year: 2024
 bibkey: qiu2024semantics
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.10760"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Emojis have become an integral part of digital communication, enriching text
 by conveying emotions, tone, and intent. Existing emoji recommendation methods

@@ -7,7 +7,7 @@ year: 2024
 bibkey: deng2024enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01964"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Legal judgment prediction is essential for enhancing judicial efficiency. In
 this work, we identify that existing large language models (LLMs) underperform

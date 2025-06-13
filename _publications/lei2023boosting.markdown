@@ -7,7 +7,7 @@ year: 2023
 bibkey: lei2023boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08614"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Recent advancements in large-scale models, such as GPT-4, have showcased
 remarkable capabilities in addressing standard queries. However, when facing

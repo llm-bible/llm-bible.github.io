@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023linear
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11135"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Efficient attentions have greatly improved the computational efficiency of
 Transformers. However, most existing linear attention mechanisms suffer from an

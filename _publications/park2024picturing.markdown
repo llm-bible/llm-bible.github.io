@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024picturing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16277"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Multimodal Models', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable success in tasks
 like the Winograd Schema Challenge (WSC), showcasing advanced textual

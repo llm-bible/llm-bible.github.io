@@ -7,7 +7,7 @@ year: 2025
 bibkey: frikha2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11232"}
-tags: ['Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability']
+tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 natural language processing but also pose significant privacy risks by

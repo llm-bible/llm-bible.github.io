@@ -8,7 +8,7 @@ bibkey: xu2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00088"}
   - {name: "Code", url: "https://github.com/NexaAI/Awesome-LLMs-on-device"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Distillation', 'Pruning', 'Quantization', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'Survey Paper', 'Applications', 'Pruning', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Quantization', 'Distillation']
 ---
 The advent of large language models (LLMs) revolutionized natural language
 processing applications, and running LLMs on edge devices has become

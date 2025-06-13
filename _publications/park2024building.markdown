@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04650"}
-tags: ['Responsible AI', 'Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
 ---
 Objective: This study aims to develop and validate an evaluation framework to
 ensure the safety and reliability of mental health chatbots, which are

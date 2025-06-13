@@ -7,7 +7,7 @@ year: 2023
 bibkey: alper2023is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12513"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Applications']
+tags: ['Applications', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Most humans use visual imagination to understand and reason about language,
 but models such as BERT reason about language using knowledge acquired during

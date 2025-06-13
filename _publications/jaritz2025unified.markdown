@@ -7,7 +7,7 @@ year: 2025
 bibkey: jaritz2025unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08254"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Multimodal retrieval methods have limitations in handling complex,
 compositional queries that require reasoning about the visual content of both

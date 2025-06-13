@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025utilizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06989"}
-tags: ['Responsible AI', 'Security', 'Efficiency and Optimization', 'Multimodal Models', 'Prompting']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Security', 'Multimodal Models', 'Prompting']
 ---
 Recently, Multimodal Large Language Models (MLLMs) have demonstrated their
 superior ability in understanding multimodal contents. However, they remain

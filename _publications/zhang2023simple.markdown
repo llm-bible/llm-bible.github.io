@@ -8,7 +8,7 @@ bibkey: zhang2023simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17235"}
   - {name: "Code", url: "https://github.com/CeeZh/LLoVi"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Has Code', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 We present LLoVi, a language-based framework for long-range video
 question-answering (LVQA). Unlike prior long-range video understanding methods,

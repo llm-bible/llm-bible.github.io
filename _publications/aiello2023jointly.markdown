@@ -7,7 +7,7 @@ year: 2023
 bibkey: aiello2023jointly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15564"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 In recent years, advances in the large-scale pretraining of language and
 text-to-image models have revolutionized the field of machine learning. Yet,

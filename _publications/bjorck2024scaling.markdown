@@ -7,7 +7,7 @@ year: 2024
 bibkey: bjorck2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19913"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
 ---
 State-of-the-art LLMs are powered by scaling -- scaling model size, dataset
 size and cluster size. It is economically infeasible to extensively tune

@@ -8,7 +8,7 @@ bibkey: zheng2025curiosity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02997"}
   - {name: "Code", url: "https://github.com/x-zheng16/CALM.git"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Ethics and Bias', 'Has Code', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Auditing Large Language Models (LLMs) is a crucial and challenging task. In
 this study, we focus on auditing black-box LLMs without access to their

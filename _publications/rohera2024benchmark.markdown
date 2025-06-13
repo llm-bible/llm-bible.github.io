@@ -8,7 +8,7 @@ bibkey: rohera2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.08706"}
   - {name: "Code", url: "https://github.com/l3cube-pune/indic-nlp"}
-tags: ['Applications', 'Has Code']
+tags: ['Has Code', 'Applications']
 ---
 Large Language Models (LLMs) have made significant progress in incorporating
 Indic languages within multilingual models. However, it is crucial to

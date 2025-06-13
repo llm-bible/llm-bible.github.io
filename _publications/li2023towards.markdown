@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15759"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Multimodal Models']
 ---
 Recent advancements in multimodal large language models (MLLMs) have achieved
 significant multimodal generation capabilities, akin to GPT-4. These models

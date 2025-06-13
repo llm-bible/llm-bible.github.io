@@ -8,7 +8,7 @@ bibkey: pham2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19371"}
   - {name: "Code", url: "https://github.com/chtmp223/suri"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Existing research on instruction following largely focuses on tasks with
 simple instructions and short responses. In this work, we explore

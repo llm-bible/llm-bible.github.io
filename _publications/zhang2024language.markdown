@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08164"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 With the advancement in generative language models, the selection of prompts
 has gained significant attention in recent years. A prompt is an instruction or

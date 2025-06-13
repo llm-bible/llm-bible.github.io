@@ -7,7 +7,7 @@ year: 2024
 bibkey: feng2024keypoint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16064"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Distillation']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Distillation']
 ---
 Chain-of-thought distillation is a powerful technique for transferring
 reasoning abilities from large language models (LLMs) to smaller student

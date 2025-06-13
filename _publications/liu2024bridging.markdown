@@ -8,7 +8,7 @@ bibkey: liu2024bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01671"}
   - {name: "Code", url: "https://github.com/OceannTwT/LQCA"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Large language models (LLMs) have shown remarkable capabilities in natural
 language processing; however, they still face difficulties when tasked with

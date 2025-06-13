@@ -7,7 +7,7 @@ year: 2025
 bibkey: alfageeh2025from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18691"}
-tags: ['Prompting', 'Merging', 'Tools', 'Reinforcement Learning']
+tags: ['Merging', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Background and Context. The increasing integration of large language models
 (LLMs) in computing education presents an emerging challenge in understanding

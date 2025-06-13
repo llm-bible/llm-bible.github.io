@@ -7,7 +7,7 @@ year: 2023
 bibkey: herreraberg2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14422"}
-tags: ['Agentic', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 Recent advancements in natural language processing by large language models
 (LLMs), such as GPT-4, have been suggested to approach Artificial General

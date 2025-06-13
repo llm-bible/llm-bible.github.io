@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024reverse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19865"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Reverse thinking plays a crucial role in human reasoning. Humans can reason
 not only from a problem to a solution but also in reverse, i.e., start from the

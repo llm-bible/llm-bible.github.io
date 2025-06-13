@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023co
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00268"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Pretrained large-scale vision-language models such as CLIP have demonstrated
 excellent generalizability over a series of downstream tasks. However, they are

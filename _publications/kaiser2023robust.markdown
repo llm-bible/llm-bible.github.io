@@ -7,7 +7,7 @@ year: 2023
 bibkey: kaiser2023robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13505"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 Models for conversational question answering (ConvQA) over knowledge graphs
 (KGs) are usually trained and tested on benchmarks of gold QA pairs. This

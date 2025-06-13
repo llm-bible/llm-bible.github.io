@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025plan
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.21087"}
-tags: ['Agentic', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown impressive abilities in answering
 questions across various domains, but they often encounter hallucination issues

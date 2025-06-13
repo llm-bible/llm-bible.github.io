@@ -7,7 +7,7 @@ year: 2020
 bibkey: shalyminov2020data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.02929"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Conversational User Interface (CUI) has become ubiquitous in everyday life,
 in consumer-focused products like Siri and Alexa or business-oriented

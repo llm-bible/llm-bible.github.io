@@ -7,7 +7,7 @@ year: 2023
 bibkey: teterwak2023contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.01629"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Large language models (LLMs) have emerged as powerful general-purpose
 interfaces for many machine learning problems. Recent work has adapted LLMs to

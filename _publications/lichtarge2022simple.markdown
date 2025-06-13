@@ -7,7 +7,7 @@ year: 2022
 bibkey: lichtarge2022simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.04683"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Ethics and Bias', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent trends towards training ever-larger language models have substantially
 improved machine learning performance across linguistic tasks. However, the

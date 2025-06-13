@@ -7,7 +7,7 @@ year: 2025
 bibkey: song2025how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13669"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) exhibit strong general language capabilities.
 However, fine-tuning these models on domain-specific tasks often leads to

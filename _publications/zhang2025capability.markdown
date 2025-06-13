@@ -8,7 +8,7 @@ bibkey: zhang2025capability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17282"}
   - {name: "Code", url: "https://github.com/Now-Join-Us/CIT-LLM-Routing"}
-tags: ['Prompting', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Has Code', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated human-like
 instruction-following abilities, particularly those exceeding 100 billion

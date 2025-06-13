@@ -7,7 +7,7 @@ year: 2024
 bibkey: fränken2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14313"}
-tags: ['Prompting', 'Ethics and Bias', 'Training Techniques', 'Applications']
+tags: ['Applications', 'Training Techniques', 'Prompting', 'Ethics and Bias']
 ---
 When prompting a language model (LM), users often expect the model to adhere
 to a set of behavioral principles across diverse tasks, such as producing

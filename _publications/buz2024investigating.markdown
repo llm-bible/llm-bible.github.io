@@ -7,7 +7,7 @@ year: 2024
 bibkey: buz2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01660"}
-tags: ['BERT', 'RAG', 'Model Architecture', 'GPT']
+tags: ['BERT', 'RAG', 'GPT', 'Model Architecture']
 ---
 Recent Large Language Models (LLMs) have shown the ability to generate
 content that is difficult or impossible to distinguish from human writing. We

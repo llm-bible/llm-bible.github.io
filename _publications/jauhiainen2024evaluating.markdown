@@ -7,7 +7,7 @@ year: 2024
 bibkey: jauhiainen2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.05444"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Evaluating open-ended written examination responses from students is an
 essential yet time-intensive task for educators, requiring a high degree of

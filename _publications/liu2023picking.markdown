@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023picking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09541"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pruning', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The Transformer-based models with the multi-head self-attention mechanism are
 widely used in natural language processing, and provide state-of-the-art

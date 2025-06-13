@@ -8,7 +8,7 @@ bibkey: łajszczak2024base
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08093"}
   - {name: "Code", url: "https://amazon-ltts-paper.com/"}
-tags: ['Model Architecture', 'Tokenization', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Tokenization', 'Has Code', 'Pretraining Methods']
 ---
 We introduce a text-to-speech (TTS) model called BASE TTS, which stands for
 \\(\textbf\{B\}\\)ig \\(\textbf\{A\}\\)daptive \\(\textbf\{S\}\\)treamable TTS with

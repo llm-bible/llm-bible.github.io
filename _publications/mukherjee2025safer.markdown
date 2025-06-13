@@ -7,7 +7,7 @@ year: 2025
 bibkey: mukherjee2025safer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13654"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) are widely used for automated code generation.
 Their reliance on infrequently updated pretraining data leaves them unaware of

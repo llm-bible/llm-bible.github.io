@@ -7,7 +7,7 @@ year: 2025
 bibkey: fereidouni2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13298"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Task-oriented dialog (TOD) systems facilitate users in accomplishing complex,
 multi-turn tasks through natural language. While traditional approaches rely on

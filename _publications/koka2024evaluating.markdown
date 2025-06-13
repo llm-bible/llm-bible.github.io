@@ -7,7 +7,7 @@ year: 2024
 bibkey: koka2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06584"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 In an era increasingly influenced by artificial intelligence, the detection
 of fake news is crucial, especially in contexts like election seasons where

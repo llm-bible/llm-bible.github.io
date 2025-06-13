@@ -8,7 +8,7 @@ bibkey: ma2025iv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15415"}
   - {name: "Code", url: "https://github.com/multimodal-art-projection/IV-Bench"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Existing evaluation frameworks for Multimodal Large Language Models (MLLMs)
 primarily focus on image reasoning or general video understanding tasks,

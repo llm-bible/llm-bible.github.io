@@ -7,7 +7,7 @@ year: 2024
 bibkey: niu2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13037"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Dialogue State Tracking (DST) is designed to monitor the evolving dialogue
 state in the conversations and plays a pivotal role in developing task-oriented

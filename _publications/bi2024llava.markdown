@@ -7,7 +7,7 @@ year: 2024
 bibkey: bi2024llava
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12359"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Multimodal Large Language Models (MLLMs) have significantly advanced visual
 tasks by integrating visual representations into large language models (LLMs).

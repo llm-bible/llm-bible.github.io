@@ -8,7 +8,7 @@ bibkey: zhang2024catastrophic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16454"}
   - {name: "Code", url: "https://github.com/zzwjames/FailureLLMUnlearning}{https://github.com/zzwjames/FailureLLMUnlearning"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Quantization', 'Has Code', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Quantization']
 ---
 Large language models (LLMs) have shown remarkable proficiency in generating
 text, benefiting from extensive training on vast textual corpora. However, LLMs

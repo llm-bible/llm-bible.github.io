@@ -7,7 +7,7 @@ year: 2025
 bibkey: pinachodavidson2025proposal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.04784"}
-tags: ['Agentic', 'Security', 'Tools', 'RAG', 'Prompting', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Security', 'Prompting']
 ---
 The emergence of Generative AI (Gen AI) and Large Language Models (LLMs) has
 enabled more advanced chatbots capable of human-like interactions. However,

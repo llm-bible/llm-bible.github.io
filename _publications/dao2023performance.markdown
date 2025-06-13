@@ -7,7 +7,7 @@ year: 2023
 bibkey: dao2023performance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.02288"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 This paper presents a performance comparison of three large language models
 (LLMs), namely OpenAI ChatGPT, Microsoft Bing Chat (BingChat), and Google Bard,

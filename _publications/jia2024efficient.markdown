@@ -7,7 +7,7 @@ year: 2024
 bibkey: jia2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03752"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'Attention Mechanism', 'INTERSPEECH']
+tags: ['INTERSPEECH', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Recent works have shown that prompting large language models with audio
 encodings can unlock speech recognition capabilities. However, existing

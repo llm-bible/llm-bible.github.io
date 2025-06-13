@@ -7,7 +7,7 @@ year: 2023
 bibkey: mañas2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02567"}
-tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 8 years after the visual question answering (VQA) task was proposed, accuracy
 remains the primary metric for automatic evaluation. VQA Accuracy has been

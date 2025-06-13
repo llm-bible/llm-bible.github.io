@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024collu
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09997"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Despite their success, large language models (LLMs) face the critical
 challenge of hallucinations, generating plausible but incorrect content. While

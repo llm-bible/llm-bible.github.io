@@ -8,7 +8,7 @@ bibkey: kong2024customizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10159"}
   - {name: "Code", url: "https://github.com/AkaliKong/iLoRA"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Sequential recommendation systems predict the next interaction item based on
 users' past interactions, aligning recommendations with individual preferences.

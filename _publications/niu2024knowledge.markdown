@@ -7,7 +7,7 @@ year: 2024
 bibkey: niu2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07611"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Distillation']
 ---
 Interpretation is critical for disease diagnosis, but existing models
 struggle to balance predictive accuracy with human-understandable rationales.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11917"}
-tags: ['Multimodal Models', 'Training Techniques', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['Interpretability and Explainability', 'Interpretability', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Accurately describing images with text is a foundation of explainable AI.
 Vision-Language Models (VLMs) like CLIP have recently addressed this by

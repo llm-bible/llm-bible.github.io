@@ -8,7 +8,7 @@ bibkey: he2024distill
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18798"}
   - {name: "Code", url: "https://github.com/hewei2001/ReachQA"}
-tags: ['Multimodal Models', 'Training Techniques', 'Has Code']
+tags: ['Training Techniques', 'Multimodal Models', 'Has Code']
 ---
 Solving complex chart Q&A tasks requires advanced visual reasoning abilities
 in multimodal large language models (MLLMs). Recent studies highlight that

@@ -7,7 +7,7 @@ year: 2023
 bibkey: petrak2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15758"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Learning from free-text human feedback is essential for dialog systems, but
 annotated data is scarce and usually covers only a small fraction of error

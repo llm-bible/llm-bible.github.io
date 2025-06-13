@@ -7,7 +7,7 @@ year: 2023
 bibkey: nguyen2023seallms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.00738"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques']
 ---
 Despite the remarkable achievements of large language models (LLMs) in
 various tasks, there remains a linguistic bias that favors high-resource

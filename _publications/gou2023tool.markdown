@@ -7,7 +7,7 @@ year: 2023
 bibkey: gou2023tool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.17452"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture']
 ---
 Large language models have made significant progress in various language
 tasks, yet they still struggle with complex mathematics. In this paper, we

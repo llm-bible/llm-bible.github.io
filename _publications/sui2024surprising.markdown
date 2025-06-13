@@ -7,7 +7,7 @@ year: 2024
 bibkey: sui2024surprising
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04175"}
-tags: ['Language Modeling', 'Applications']
+tags: ['Applications', 'Language Modeling']
 ---
 This paper presents a systematic defense of large language model (LLM)
 hallucinations or 'confabulations' as a potential resource instead of a

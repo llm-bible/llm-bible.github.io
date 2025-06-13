@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025quantized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12346"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Quantization', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Language Models (LLMs) are often quantized to lower precision to reduce the
 memory cost and latency in inference. However, quantization often degrades

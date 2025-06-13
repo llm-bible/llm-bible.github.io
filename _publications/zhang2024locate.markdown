@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024locate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06331"}
-tags: ['Prompting', 'RAG', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Prompting']
 ---
 The locate-then-edit paradigm has shown significant promise for knowledge
 editing (KE) in Large Language Models (LLMs). While previous methods perform

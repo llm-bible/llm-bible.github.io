@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeng2024adaptable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15660"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Enterprises possess a vast array of API assets scattered across various
 functions, forming the backbone of existing business processes. By leveraging

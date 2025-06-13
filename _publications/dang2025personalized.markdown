@@ -7,7 +7,7 @@ year: 2025
 bibkey: dang2025personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06655"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Few-Shot', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models']
 ---
 RLHF techniques like DPO can significantly improve the generation quality of
 text-to-image diffusion models. However, these methods optimize for a single

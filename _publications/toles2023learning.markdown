@@ -7,7 +7,7 @@ year: 2023
 bibkey: toles2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11571"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Real-life tasks such as giving legal or technical advice often lack complete
 context at the outset and can have disparate answers depending thereon. The

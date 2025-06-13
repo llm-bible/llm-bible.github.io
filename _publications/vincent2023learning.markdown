@@ -7,7 +7,7 @@ year: 2023
 bibkey: vincent2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15904"}
-tags: ['Security', 'Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Few-Shot']
 ---
 Efficient utilisation of both intra- and extra-textual context remains one of
 the critical gaps between machine and human translation. Existing research has

@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024m
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18299"}
-tags: ['Prompting', 'RAG', 'Applications']
+tags: ['RAG', 'Prompting', 'Applications']
 ---
 With the widespread application of Large Language Models (LLMs) in the field
 of Natural Language Processing (NLP), enhancing their performance has become a

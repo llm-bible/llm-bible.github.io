@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025less
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02160"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Multimodal Models']
 ---
 Although subject-driven generation has been extensively explored in image
 generation due to its wide applications, it still has challenges in data

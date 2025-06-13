@@ -7,7 +7,7 @@ year: 2023
 bibkey: naihin2023testing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10538"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Agent', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Agent']
 ---
 A prerequisite for safe autonomy-in-the-wild is safe testing-in-the-wild. Yet
 real-world autonomous tests face several unique safety challenges, both due to

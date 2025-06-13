@@ -7,7 +7,7 @@ year: 2025
 bibkey: federiakin2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17200"}
-tags: ['RAG', 'Survey Paper', 'Tools']
+tags: ['RAG', 'Tools', 'Survey Paper']
 ---
 The rapid development of large language models (LLMs) has necessitated the
 creation of benchmarks to evaluate their performance. These benchmarks resemble

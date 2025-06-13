@@ -7,7 +7,7 @@ year: 2024
 bibkey: ke2024development
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01733"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture']
 ---
 Purpose: Large Language Models (LLMs) hold significant promise for medical
 applications. Retrieval Augmented Generation (RAG) emerges as a promising

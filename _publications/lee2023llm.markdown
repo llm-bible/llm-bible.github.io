@@ -8,7 +8,7 @@ bibkey: lee2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11490"}
   - {name: "Code", url: "https://github.com/hyn2028/llm-cxr"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Following the impressive development of LLMs, vision-language alignment in
 LLMs is actively being researched to enable multimodal reasoning and visual IO.

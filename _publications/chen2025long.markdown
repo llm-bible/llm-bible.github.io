@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02502"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Long-context modeling has drawn more and more attention in the area of Large
 Language Models (LLMs). Continual training with long-context data becomes the

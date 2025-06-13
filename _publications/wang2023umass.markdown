@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023umass
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.16931"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 This paper presents UMASS_BioNLP team participation in the MEDIQA-Chat 2023
 shared task for Task-A and Task-C. We focus especially on Task-C and propose a

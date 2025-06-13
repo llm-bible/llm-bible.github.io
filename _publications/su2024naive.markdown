@@ -8,7 +8,7 @@ bibkey: su2024naive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17552"}
   - {name: "Code", url: "https://github.com/amurtadha/NBCE-master"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have shown promising in-context learning
 abilities. However, conventional In-Context Learning (ICL) approaches are often

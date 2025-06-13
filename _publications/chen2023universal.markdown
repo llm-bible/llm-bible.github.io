@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023universal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17311"}
-tags: ['Prompting', 'RAG', 'Applications']
+tags: ['RAG', 'Prompting', 'Applications']
 ---
 Self-consistency with chain-of-thought prompting (CoT) has demonstrated
 remarkable performance gains on various challenging tasks, by utilizing

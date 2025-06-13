@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.13845"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Current end-to-end retrieval-based dialogue systems are mainly based on
 Recurrent Neural Networks or Transformers with attention mechanisms. Although

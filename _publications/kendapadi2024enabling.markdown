@@ -7,6 +7,6 @@ year: 2024
 bibkey: kendapadi2024enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11388"}
-tags: ['Security', 'Model Architecture', 'Tools']
+tags: ['Security', 'Tools', 'Model Architecture']
 ---
 Large language models (LLMs) excel at answering questions but remain passive learners-absorbing static data without the ability to question and refine knowledge. This paper explores how LLMs can transition to interactive, question-driven learning through student-teacher dialogues. We introduce INTERACT (INTERactive learning for Adaptive Concept Transfer), a framework in which a "student" LLM engages a "teacher" LLM through iterative inquiries to acquire knowledge across 1,347 contexts, including song lyrics, news articles, movie plots, academic papers, and images. Our experiments show that across a wide range of scenarios and LLM architectures, interactive learning consistently enhances performance, achieving up to a 25% improvement, with 'cold-start' student models matching static learning baselines in as few as five dialogue turns. Interactive setups can also mitigate the disadvantages of weaker teachers, showcasing the robustness of question-driven learning.

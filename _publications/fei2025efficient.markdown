@@ -7,7 +7,7 @@ year: 2025
 bibkey: fei2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12959"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Although applications involving long-context inputs are crucial for the
 effective utilization of large language models (LLMs), they also result in

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ji2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00606"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 In the quest for super-human performance, Large Language Models (LLMs) have
 traditionally been tethered to human-annotated datasets and predefined training

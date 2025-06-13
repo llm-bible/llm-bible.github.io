@@ -7,7 +7,7 @@ year: 2024
 bibkey: erak2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11775"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'ACL']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent studies show that large language models (LLMs) struggle with technical
 standards in telecommunications. We propose a fine-tuned retrieval-augmented

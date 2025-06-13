@@ -7,7 +7,7 @@ year: 2023
 bibkey: ribeiro2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.06729"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We introduce STREET, a unified multi-task and multi-domain natural language
 reasoning and explanation benchmark. Unlike most existing question-answering

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024aligned
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.10571"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Direct Preference Optimization (DPO) is a method for enhancing model
 performance by directly optimizing for the preferences or rankings of outcomes,

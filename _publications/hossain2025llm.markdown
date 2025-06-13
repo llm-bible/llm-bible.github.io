@@ -7,7 +7,7 @@ year: 2025
 bibkey: hossain2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04355"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 The rapid advancement of large language models has opened new avenues for
 automating complex problem-solving tasks such as algorithmic coding and

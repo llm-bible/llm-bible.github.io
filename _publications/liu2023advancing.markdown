@@ -8,7 +8,7 @@ bibkey: liu2023advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10774"}
   - {name: "Code", url: "https://github.com/FuxiaoLiu/MMC"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 With the rapid development of large language models (LLMs) and their
 integration into large multimodal models (LMMs), there has been impressive

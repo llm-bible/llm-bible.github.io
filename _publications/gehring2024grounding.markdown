@@ -7,7 +7,7 @@ year: 2024
 bibkey: gehring2024grounding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02089"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning']
 ---
 Large language models (LLMs) deployed as agents solve user-specified tasks
 over multiple steps while keeping the required manual engagement to a minimum.

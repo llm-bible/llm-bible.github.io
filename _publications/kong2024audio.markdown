@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01831"}
   - {name: "Code", url: "https://audioflamingo.github.io/"}
   - {name: "Code", url: "https://github.com/NVIDIA/audio-flamingo"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Augmenting large language models (LLMs) to understand audio -- including
 non-speech sounds and non-verbal speech -- is critically important for diverse

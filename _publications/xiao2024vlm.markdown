@@ -8,7 +8,7 @@ bibkey: xiao2024vlm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03561"}
   - {name: "Code", url: "https://github.com/ExplainableML/flair"}
-tags: ['Has Code', 'Multimodal Models', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Multimodal Models', 'Has Code', 'Model Architecture']
 ---
 CLIP has shown impressive results in aligning images and texts at scale.
 However, its ability to capture detailed visual features remains limited

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02279"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
 ---
 Recently, Large Language Models (LLMs) have garnered increasing attention in
 the field of natural language processing, revolutionizing numerous downstream

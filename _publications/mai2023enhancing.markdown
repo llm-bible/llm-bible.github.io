@@ -7,7 +7,7 @@ year: 2023
 bibkey: mai2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.09744"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 The integration of natural language processing (NLP) technologies into
 educational applications has shown promising results, particularly in the

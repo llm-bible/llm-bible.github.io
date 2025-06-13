@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16454"}
-tags: ['Few-Shot', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) are known to struggle with complicated reasoning
 tasks such as math word problems (MWPs). In this paper, we present how analogy

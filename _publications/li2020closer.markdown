@@ -7,7 +7,7 @@ year: 2020
 bibkey: li2020closer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.08673"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Survey Paper', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Survey Paper', 'Model Architecture', 'Security', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Large-scale pre-trained multimodal transformers, such as ViLBERT and UNITER,
 have propelled the state of the art in vision-and-language (V+L) research to a

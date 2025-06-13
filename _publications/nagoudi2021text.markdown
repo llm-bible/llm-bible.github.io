@@ -8,7 +8,7 @@ bibkey: nagoudi2021text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.12068"}
   - {name: "Code", url: "https://github.com/UBC-NLP/araT5"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
 ---
 Transfer learning with a unified Transformer framework (T5) that converts all
 language problems into a text-to-text format was recently proposed as a simple

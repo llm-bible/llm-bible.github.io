@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15141"}
-tags: ['Multimodal Models', 'Tools']
+tags: ['Tools', 'Multimodal Models']
 ---
 High-throughput reaction condition (RC) screening is fundamental to chemical
 synthesis. However, current RC screening suffers from laborious and costly

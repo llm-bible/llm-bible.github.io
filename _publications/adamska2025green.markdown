@@ -7,7 +7,7 @@ year: 2025
 bibkey: adamska2025green
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.10666"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have become widely used across various domains
 spanning search engines, code generation, and text creation. However, a major

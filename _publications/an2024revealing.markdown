@@ -7,7 +7,7 @@ year: 2024
 bibkey: an2024revealing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02465"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Pre-Training', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Instruction tuning -- supervised fine-tuning using instruction-response pairs
 -- is a key step in making pre-trained large language models (LLMs)

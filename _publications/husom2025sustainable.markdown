@@ -7,7 +7,7 @@ year: 2025
 bibkey: husom2025sustainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03360"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Quantization']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Quantization']
 ---
 Deploying Large Language Models (LLMs) on edge devices presents significant
 challenges due to computational constraints, memory limitations, inference

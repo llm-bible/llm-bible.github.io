@@ -7,7 +7,7 @@ year: 2023
 bibkey: bonillasalvador2023dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.05349"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 In the domain of vision-language integration, generating detailed image
 captions poses a significant challenge due to the lack of curated and rich

@@ -7,7 +7,7 @@ year: 2021
 bibkey: liu2021three
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.04096"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Neural conversation models have shown great potentials towards generating
 fluent and informative responses by introducing external background knowledge.

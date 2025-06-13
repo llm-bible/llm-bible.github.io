@@ -7,7 +7,7 @@ year: 2024
 bibkey: sobrínhidalgo2024explaining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.04206"}
-tags: ['Interpretability and Explainability', 'Interpretability', 'RAG', 'Reinforcement Learning']
+tags: ['Interpretability and Explainability', 'RAG', 'Interpretability', 'Reinforcement Learning']
 ---
 This paper introduces a system designed to generate explanations for the
 actions performed by an autonomous robot in Human-Robot Interaction (HRI).

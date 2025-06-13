@@ -7,7 +7,7 @@ year: 2023
 bibkey: fu2023chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17306"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 As large language models (LLMs) are continuously being developed, their
 evaluation becomes increasingly important yet challenging. This work proposes

@@ -7,7 +7,7 @@ year: 2023
 bibkey: ren2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09300"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Safe deployment of large language models (LLMs) may benefit from a reliable
 method for assessing their generated content to determine when to abstain or to

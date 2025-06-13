@@ -8,7 +8,7 @@ bibkey: nagrani2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00681"}
   - {name: "Code", url: "https://github.com/google-deepmind/neptune?tab=readme-ov-file\#minerva"}
-tags: ['Ethics and Bias', 'Multimodal Models', 'Has Code', 'Reinforcement Learning']
+tags: ['Multimodal Models', 'Has Code', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Multimodal LLMs are turning their focus to video benchmarks, however most
 video benchmarks only provide outcome supervision, with no intermediate or

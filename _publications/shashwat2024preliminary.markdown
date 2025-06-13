@@ -7,7 +7,7 @@ year: 2024
 bibkey: shashwat2024preliminary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.17459"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLM) are perceived to offer promising potentials for
 automating security tasks, such as those found in security operation centers

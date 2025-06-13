@@ -7,7 +7,7 @@ year: 2024
 bibkey: schmidt2024detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.04889"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Conversational search engines such as YouChat and Microsoft Copilot use large
 language models (LLMs) to generate responses to queries. It is only a small

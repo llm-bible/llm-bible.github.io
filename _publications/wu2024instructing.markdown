@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024instructing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12744"}
-tags: ['Model Architecture', 'Few-Shot', 'Merging', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Merging', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Math word problem (MWP) solving requires generating a reasoning path based on
 a given problem description that often contains irrelevant conditions. Existing

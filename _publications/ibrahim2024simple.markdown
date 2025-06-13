@@ -7,7 +7,7 @@ year: 2024
 bibkey: ibrahim2024simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08763"}
-tags: ['RAG', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'RAG', 'Pre-Training']
 ---
 Large language models (LLMs) are routinely pre-trained on billions of tokens,
 only to start the process over again once new data becomes available. A much

@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhong2022encoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.14912"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques']
+tags: ['RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Sequence-to-sequence (seq2seq) learning is a popular fashion for large-scale
 pretraining language models. However, the prior seq2seq pretraining models

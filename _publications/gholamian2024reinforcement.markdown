@@ -7,7 +7,7 @@ year: 2024
 bibkey: gholamian2024reinforcement
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18638"}
-tags: ['Prompting', 'RAG', 'Agentic', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) encapsulate an extensive amount of world
 knowledge, and this has enabled their application in various domains to improve

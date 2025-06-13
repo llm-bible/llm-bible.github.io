@@ -7,7 +7,7 @@ year: 2024
 bibkey: breuer2024data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.03881"}
-tags: ['Prompting', 'Merging', 'Applications']
+tags: ['Prompting', 'Applications', 'Merging']
 ---
 Considering query variance in information retrieval (IR) experiments is
 beneficial for retrieval effectiveness. Especially ranking ensembles based on

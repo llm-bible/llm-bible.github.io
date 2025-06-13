@@ -7,7 +7,7 @@ year: 2024
 bibkey: frisch2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02896"}
-tags: ['Agentic', 'Prompting', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Prompting', 'Model Architecture']
 ---
 While both agent interaction and personalisation are vibrant topics in
 research on large language models (LLMs), there has been limited focus on the

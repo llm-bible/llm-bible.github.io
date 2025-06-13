@@ -7,7 +7,7 @@ year: 2024
 bibkey: alves2024me
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.17855"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 The impact of Large Language Models (LLMs) like GPT-3, GPT-4, and Bard in
 computer science (CS) education is expected to be profound. Students now have

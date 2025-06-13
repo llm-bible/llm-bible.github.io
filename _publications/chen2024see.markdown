@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024see
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08978"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The impressive performance of Large Language Models (LLMs) has consistently
 surpassed numerous human-designed benchmarks, presenting new challenges in

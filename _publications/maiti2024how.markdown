@@ -7,7 +7,7 @@ year: 2024
 bibkey: maiti2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17429"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Jill Watson, a virtual teaching assistant powered by LLMs, answers student
 questions and engages them in extended conversations on courseware provided by

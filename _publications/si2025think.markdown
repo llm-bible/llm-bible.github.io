@@ -7,7 +7,7 @@ year: 2025
 bibkey: si2025think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17882"}
-tags: ['Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent advancements in large language models (LLMs) have demonstrated that
 fine-tuning and human alignment can render LLMs harmless. In practice, such

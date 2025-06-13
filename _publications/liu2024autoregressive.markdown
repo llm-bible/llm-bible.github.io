@@ -8,7 +8,7 @@ bibkey: liu2024autoregressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02370"}
   - {name: "Code", url: "https://github.com/thuml/AutoTimes"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Foundation models of time series have not been fully developed due to the
 limited availability of time series corpora and the underexploration of

@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025crossing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23829"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Reinforcement learning with verifiable rewards (RLVR) has demonstrated
 significant success in enhancing mathematical reasoning and coding performance

@@ -7,7 +7,7 @@ year: 2024
 bibkey: martínez2024beware
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15518"}
-tags: ['Model Architecture', 'GPT', 'Attention Mechanism', 'Tools']
+tags: ['Tools', 'GPT', 'Attention Mechanism', 'Model Architecture']
 ---
 The performance of conversational Large Language Models (LLMs) in general,
 and of ChatGPT in particular, is currently being evaluated on many different

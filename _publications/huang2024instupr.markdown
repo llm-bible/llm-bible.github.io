@@ -8,7 +8,7 @@ bibkey: huang2024instupr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.16435"}
   - {name: "Code", url: "https://github.com/MiuLab/InstUPR"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 This paper introduces InstUPR, an unsupervised passage reranking method based
 on large language models (LLMs). Different from existing approaches that rely

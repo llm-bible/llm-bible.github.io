@@ -7,7 +7,7 @@ year: 2023
 bibkey: ram2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.06218"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 In this paper, we analyze the performance of a multitask end-to-end
 transformer model on the task of conversational recommendations, which aim to

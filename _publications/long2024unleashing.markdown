@@ -7,7 +7,7 @@ year: 2024
 bibkey: long2024unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.13415"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 Group Point-of-Interest (POI) recommendations aim to predict the next POI
 that satisfies the diverse preferences of a group of users. This task is more

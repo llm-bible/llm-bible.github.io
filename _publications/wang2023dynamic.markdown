@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11336"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 The rise of Large Language Models (LLMs) has sparked interest in their
 application to sequential recommendation tasks as they can provide supportive

@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024nus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17261"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Multimodal Models']
 ---
 This paper describes the architecture of our system developed for Task 3 of
 SemEval-2024: Multimodal Emotion-Cause Analysis in Conversations. Our project

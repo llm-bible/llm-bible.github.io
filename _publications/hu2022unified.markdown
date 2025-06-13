@@ -7,7 +7,7 @@ year: 2022
 bibkey: hu2022unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.14842"}
-tags: ['Multimodal Models', 'Model Architecture', 'Attention Mechanism', 'Merging']
+tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture', 'Merging']
 ---
 The recently developed discrete diffusion models perform extraordinarily well
 in the text-to-image task, showing significant promise for handling the

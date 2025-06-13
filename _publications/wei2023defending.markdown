@@ -7,7 +7,7 @@ year: 2023
 bibkey: wei2023defending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13904"}
-tags: ['Security', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Security', 'Pretraining Methods', 'Prompting']
 ---
 Prompt-tuning has emerged as an attractive paradigm for deploying large-scale
 language models due to its strong downstream task performance and efficient

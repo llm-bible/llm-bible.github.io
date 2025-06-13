@@ -7,7 +7,7 @@ year: 2024
 bibkey: si2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03163"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 Generative AI has made rapid advancements in recent years, achieving
 unprecedented capabilities in multimodal understanding and code generation.

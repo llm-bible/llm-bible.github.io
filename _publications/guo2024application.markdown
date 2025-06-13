@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024application
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16322"}
-tags: ['Survey Paper', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
+tags: ['Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 Mental health issues significantly impact individuals' daily lives, yet many
 do not receive the help they need even with available online resources. This

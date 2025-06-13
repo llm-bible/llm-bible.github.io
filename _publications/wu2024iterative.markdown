@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12022"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, large language models (LLMs) have demonstrated excellent
 performance, inspiring researchers to explore their use in automating register

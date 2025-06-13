@@ -8,7 +8,7 @@ bibkey: pan2023tokenize
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09128"}
   - {name: "Code", url: "https://github.com/baaivision/tokenize-anything"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Has Code', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Has Code', 'Prompting', 'Reinforcement Learning']
 ---
 We present a unified, promptable model capable of simultaneously segmenting,
 recognizing, and captioning anything. Unlike SAM, we aim to build a versatile

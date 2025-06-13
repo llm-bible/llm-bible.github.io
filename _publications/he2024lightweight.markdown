@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07584"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 Evaluation is pivotal for refining Large Language Models (LLMs), pinpointing
 their capabilities, and guiding enhancements. The rapid development of LLMs

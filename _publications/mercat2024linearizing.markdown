@@ -8,7 +8,7 @@ bibkey: mercat2024linearizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06640"}
   - {name: "Code", url: "https://github.com/TRI-ML/linear_open_lm"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Linear transformers have emerged as a subquadratic-time alternative to
 softmax attention and have garnered significant interest due to their

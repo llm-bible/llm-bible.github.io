@@ -7,7 +7,7 @@ year: 2024
 bibkey: barua2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04442"}
-tags: ['Agentic', 'Multimodal Models', 'Agent', 'Tools', 'Prompting', 'In-Context Learning']
+tags: ['Agentic', 'Tools', 'Agent', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) are transforming artificial intelligence,
 enabling autonomous agents to perform diverse tasks across various domains.

@@ -8,7 +8,7 @@ bibkey: li2025priv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13564"}
   - {name: "Code", url: "https://github.com/ligw1998/PRIV-QA"}
-tags: ['Applications', 'Has Code', 'Tools']
+tags: ['Tools', 'Has Code', 'Applications']
 ---
 The rapid development of large language models (LLMs) is redefining the
 landscape of human-computer interaction, and their integration into various

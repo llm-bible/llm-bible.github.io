@@ -7,7 +7,7 @@ year: 2024
 bibkey: agrawal2024give
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05915"}
-tags: ['Prompting', 'Security', 'Few-Shot']
+tags: ['Few-Shot', 'Security', 'Prompting']
 ---
 While state-of-the-art LLMs have shown poor logical and basic mathematical
 reasoning, recent works try to improve their problem-solving abilities using

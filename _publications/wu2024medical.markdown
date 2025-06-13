@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024medical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06611"}
-tags: ['Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 With appropriate data selection and training techniques, Large Language
 Models (LLMs) have demonstrated exceptional success in various medical

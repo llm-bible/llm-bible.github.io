@@ -8,7 +8,7 @@ bibkey: xiang2025self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06855"}
   - {name: "Code", url: "https://github.com/geekan/MetaGPT/blob/main/examples/spo"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Well-designed prompts are crucial for enhancing Large language models' (LLMs)
 reasoning capabilities while aligning their outputs with task requirements

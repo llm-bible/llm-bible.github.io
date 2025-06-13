@@ -7,7 +7,7 @@ year: 2023
 bibkey: he2023using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07556"}
-tags: ['Security', 'Model Architecture', 'GPT', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Security', 'Prompting', 'In-Context Learning']
 ---
 Recent studies demonstrated that large language models (LLMs) can excel in
 many tasks via in-context learning (ICL). However, recent works show that

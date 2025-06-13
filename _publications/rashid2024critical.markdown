@@ -7,7 +7,7 @@ year: 2024
 bibkey: rashid2024critical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07780"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) can be improved by aligning with human
 preferences through fine-tuning -- the so-called reinforcement learning from

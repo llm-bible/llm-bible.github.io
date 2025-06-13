@@ -7,7 +7,7 @@ year: 2025
 bibkey: ferreira2025truthful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05294"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability and Explainability']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning']
 ---
 Chain-of-thought explanations are widely used to inspect the decision process
 of large language models (LLMs) and to evaluate the trustworthiness of model

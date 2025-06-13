@@ -7,7 +7,7 @@ year: 2024
 bibkey: iyer2024quality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12780"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite the recent popularity of Large Language Models (LLMs) in Machine
 Translation (MT), their performance in low-resource languages (LRLs) still lags

@@ -8,7 +8,7 @@ bibkey: zhao2024fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01342"}
   - {name: "Code", url: "https://github.com/OpenGVLab/DiffAgent"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'RAG', 'Fine-Tuning', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Text-to-image (T2I) generative models have attracted significant attention
 and found extensive applications within and beyond academic research. For

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tran2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23526"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown remarkable capabilities in various
 natural language processing tasks, yet they often struggle with maintaining

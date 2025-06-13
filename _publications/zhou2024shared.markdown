@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024shared
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16604"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Despite the recent proliferation of large language models (LLMs), their
 training recipes -- model architecture, pre-training data and optimization

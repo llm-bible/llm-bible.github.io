@@ -7,7 +7,7 @@ year: 2025
 bibkey: fu2025same
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01345"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Insensitivity to semantically-preserving variations of prompts (paraphrases)
 is crucial for reliable behavior and real-world deployment of large language

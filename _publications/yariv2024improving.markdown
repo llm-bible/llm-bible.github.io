@@ -8,7 +8,7 @@ bibkey: yariv2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13621"}
   - {name: "Code", url: "https://github.com/guyyariv/vLMIG"}
-tags: ['Multimodal Models', 'Language Modeling', 'Merging', 'Has Code', 'Prompting']
+tags: ['Language Modeling', 'Merging', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Commonsense reasoning is fundamentally based on multimodal knowledge.
 However, existing large language models (LLMs) are primarily trained using

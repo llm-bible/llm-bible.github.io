@@ -7,7 +7,7 @@ year: 2024
 bibkey: restrepo2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14304"}
-tags: ['Agentic', 'Ethics and Bias', 'RAG', 'Bias Mitigation']
+tags: ['RAG', 'Agentic', 'Bias Mitigation', 'Ethics and Bias']
 ---
 Current ophthalmology clinical workflows are plagued by over-referrals, long
 waits, and complex and heterogeneous medical records. Large language models

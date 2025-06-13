@@ -7,7 +7,7 @@ year: 2025
 bibkey: feng2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00028"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 In recent years, end-to-end speech-to-speech (S2S) dialogue systems have
 garnered increasing research attention due to their advantages over traditional

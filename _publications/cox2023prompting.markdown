@@ -7,7 +7,7 @@ year: 2023
 bibkey: cox2023prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13479"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) are increasingly capable and prevalent, and can
 be used to produce creative content. The quality of content is influenced by

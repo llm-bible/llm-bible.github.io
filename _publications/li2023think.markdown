@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10679"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture']
 ---
 Code generation aims to automatically generate source code from high-level
 task specifications, which can significantly increase productivity of software

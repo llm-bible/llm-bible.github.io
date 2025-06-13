@@ -8,7 +8,7 @@ bibkey: ramprasad2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03509"}
   - {name: "Code", url: "https://github.com/sanjanaramprasad/zero_shot_faceval_domains"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications', 'Has Code']
+tags: ['Training Techniques', 'Has Code', 'Applications', 'Pretraining Methods']
 ---
 Recent work has shown that large language models (LLMs) are capable of
 generating summaries zero-shot (i.e., without explicit supervision) that, under

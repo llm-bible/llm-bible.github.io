@@ -8,7 +8,7 @@ bibkey: fang2024mmbench
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14515"}
   - {name: "Code", url: "https://github.com/open-compass/VLMEvalKit"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Multimodal Models']
 ---
 The advent of large vision-language models (LVLMs) has spurred research into
 their applications in multi-modal contexts, particularly in video

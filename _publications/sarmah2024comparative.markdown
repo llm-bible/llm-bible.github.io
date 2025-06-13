@@ -7,7 +7,7 @@ year: 2024
 bibkey: sarmah2024comparative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15298"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization', 'Prompting']
 ---
 We argue that the Declarative Self-improving Python (DSPy) optimizers are a
 way to align the large language model (LLM) prompts and their evaluations to

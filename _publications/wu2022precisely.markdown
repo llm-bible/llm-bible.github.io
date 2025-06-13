@@ -7,7 +7,7 @@ year: 2022
 bibkey: wu2022precisely
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.12367"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Language Modeling', 'Applications']
+tags: ['Tools', 'Applications', 'Language Modeling', 'Security', 'Training Techniques']
 ---
 Though model robustness has been extensively studied in language
 understanding, the robustness of Seq2Seq generation remains understudied. In

@@ -7,7 +7,7 @@ year: 2023
 bibkey: he2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.14822"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Training Techniques']
 ---
 Nowadays, powerful large language models (LLMs) such as ChatGPT have
 demonstrated revolutionary power in a variety of tasks. Consequently, the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12835"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 While Large language models (LLMs) have demonstrated considerable
 capabilities across various natural language tasks, they often fall short of

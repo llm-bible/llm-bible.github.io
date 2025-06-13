@@ -7,7 +7,7 @@ year: 2025
 bibkey: safaei2025filter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07591"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Visual instruction tuning (VIT) for large vision-language models (LVLMs)
 requires training on expansive datasets of image-instruction pairs, which can

@@ -8,7 +8,7 @@ bibkey: yan2025diff
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.21423"}
   - {name: "Code", url: "https://github.com/Kelvin-ywc/diff-prompt"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Prompt learning has demonstrated promising results in fine-tuning pre-trained
 multimodal models. However, the performance improvement is limited when applied

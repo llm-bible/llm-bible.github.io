@@ -8,7 +8,7 @@ bibkey: das2024tool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17231"}
   - {name: "Code", url: "https://github.com/Debrup-61/MathSensei"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Tool-augmented Large Language Models (TALMs) are known to enhance the
 skillset of large language models (LLMs), thereby, leading to their improved

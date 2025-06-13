@@ -7,7 +7,7 @@ year: 2024
 bibkey: crumrine2024transforming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00628"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have revolutionized how we interact with
 machines. However, this technological advancement has been paralleled by the

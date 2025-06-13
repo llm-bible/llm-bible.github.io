@@ -7,7 +7,7 @@ year: 2023
 bibkey: lorandi2023data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.09957"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 LLMs like GPT are great at tasks involving English which dominates in their
 training data. In this paper, we look at how they cope with tasks involving

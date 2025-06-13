@@ -7,7 +7,7 @@ year: 2024
 bibkey: deng2024jailbreak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08416"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Large Language Models~(LLMs) have gained immense popularity and are being
 increasingly applied in various domains. Consequently, ensuring the security of

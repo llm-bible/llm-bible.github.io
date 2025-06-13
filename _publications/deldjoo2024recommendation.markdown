@@ -7,7 +7,7 @@ year: 2024
 bibkey: deldjoo2024recommendation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15173"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'RAG', 'GPT', 'RecSys', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'RecSys', 'Pretraining Methods', 'Multimodal Models']
 ---
 Generative models are a class of AI models capable of creating new instances
 of data by learning and sampling from their statistical distributions. In

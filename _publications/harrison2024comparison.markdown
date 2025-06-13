@@ -7,7 +7,7 @@ year: 2024
 bibkey: harrison2024comparison
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09656"}
-tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Prompting']
 ---
 Random Number Generation Tasks (RNGTs) are used in psychology for examining
 how humans generate sequences devoid of predictable patterns. By adapting an

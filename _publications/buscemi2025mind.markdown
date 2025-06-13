@@ -7,7 +7,7 @@ year: 2025
 bibkey: buscemi2025mind
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18560"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) have exhibited impressive natural language
 processing capabilities but often perpetuate social biases inherent in their

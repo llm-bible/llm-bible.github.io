@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14202"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot']
 ---
 While large language models (LLMs) can answer many questions correctly, they
 can also hallucinate and give wrong answers. Wikidata, with its over 12 billion

@@ -7,7 +7,7 @@ year: 2023
 bibkey: ziheng2023one
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.05503"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We introduce Aligner, a novel Parameter-Efficient Fine-Tuning (PEFT) method
 for aligning multi-billion-parameter-sized Large Language Models (LLMs).

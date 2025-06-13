@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024counting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11802"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Despite recent efforts to develop large language models with robust
 long-context capabilities, the lack of long-context benchmarks means that

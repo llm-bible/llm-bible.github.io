@@ -7,7 +7,7 @@ year: 2021
 bibkey: ferrando2021attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.05853"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 This work proposes an extensive analysis of the Transformer architecture in
 the Neural Machine Translation (NMT) setting. Focusing on the encoder-decoder

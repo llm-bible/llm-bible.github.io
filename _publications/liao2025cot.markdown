@@ -7,7 +7,7 @@ year: 2025
 bibkey: liao2025cot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07234"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
 ---
 Accurate motion forecasting is crucial for safe autonomous driving (AD). This
 study proposes CoT-Drive, a novel approach that enhances motion forecasting by

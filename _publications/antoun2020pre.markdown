@@ -7,7 +7,7 @@ year: 2020
 bibkey: antoun2020pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.15520"}
-tags: ['Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Pretraining Methods']
 ---
 Recently, pre-trained transformer-based architectures have proven to be very
 efficient at language modeling and understanding, given that they are trained

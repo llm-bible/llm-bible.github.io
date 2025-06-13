@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025galore
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20437"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Quantization', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Large-Scale Training', 'Training Techniques', 'Quantization']
 ---
 Large language models (LLMs) have revolutionized natural language
 understanding and generation but face significant memory bottlenecks during

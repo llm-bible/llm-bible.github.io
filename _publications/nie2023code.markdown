@@ -8,7 +8,7 @@ bibkey: nie2023code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.04695"}
   - {name: "Code", url: "https://github.com/Arthurizijar/KB-Coder"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Has Code', 'Prompting', 'Pre-Training', 'Applications', 'In-Context Learning']
+tags: ['Pre-Training', 'Tools', 'Applications', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Current methods for Knowledge-Based Question Answering (KBQA) usually rely on
 complex training techniques and model frameworks, leading to many limitations

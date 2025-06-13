@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11379"}
-tags: ['Masked Language Model', 'Responsible AI', 'Security', 'Efficiency and Optimization', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Prompting']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Reinforcement Learning', 'Masked Language Model', 'Security', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Despite explicit alignment efforts for large language models (LLMs), they can
 still be exploited to trigger unintended behaviors, a phenomenon known as

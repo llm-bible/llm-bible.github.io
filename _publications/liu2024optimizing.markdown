@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14905"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 This paper addresses the growing need for efficient large language models
 (LLMs) on mobile devices, driven by increasing cloud costs and latency

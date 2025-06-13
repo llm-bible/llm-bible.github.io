@@ -7,7 +7,7 @@ year: 2020
 bibkey: wu2020towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.03097"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Distillation', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Recently, BERT has become an essential ingredient of various NLP deep models
 due to its effectiveness and universal-usability. However, the online

@@ -8,7 +8,7 @@ bibkey: ma2021encoder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.13736"}
   - {name: "Code", url: "https://aka.ms/deltalm"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 While pretrained encoders have achieved success in various natural language
 understanding (NLU) tasks, there is a gap between these pretrained encoders and

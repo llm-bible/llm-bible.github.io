@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21438"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 By pretraining on trillions of tokens, an LLM gains the capability of text
 generation. However, to enhance its utility and reduce potential harm, SFT and

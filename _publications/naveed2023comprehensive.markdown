@@ -7,7 +7,7 @@ year: 2023
 bibkey: naveed2023comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.06435"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Tools', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have recently demonstrated remarkable
 capabilities in natural language processing tasks and beyond. This success of

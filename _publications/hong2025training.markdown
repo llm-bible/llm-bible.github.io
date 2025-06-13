@@ -7,7 +7,7 @@ year: 2025
 bibkey: hong2025training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07807"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Distillation']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Distillation']
 ---
 Speculative decoding is an effective method for accelerating inference of
 large language models (LLMs) by employing a small draft model to predict the

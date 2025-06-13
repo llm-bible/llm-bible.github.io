@@ -7,7 +7,7 @@ year: 2024
 bibkey: cambrin2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13641"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated impressive performance across
 various tasks. However, current training approaches combine standard

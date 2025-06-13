@@ -7,7 +7,7 @@ year: 2025
 bibkey: shen2025heterogeneous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13737"}
-tags: ['Prompting', 'Applications', 'ACL', 'Reinforcement Learning']
+tags: ['ACL', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 In this paper, we consider a mixed-prompt scenario for a large language model
 (LLM) inference serving system that supports diverse applications with both

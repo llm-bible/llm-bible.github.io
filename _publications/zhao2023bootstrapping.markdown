@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023bootstrapping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.09474"}
-tags: ['Multimodal Models', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 Human-AI interactivity is a critical aspect that reflects the usability of
 multimodal large language models (MLLMs). However, existing end-to-end MLLMs

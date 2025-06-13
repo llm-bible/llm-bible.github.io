@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14491"}
-tags: ['Survey Paper', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 The rapid evolution of large language models (LLMs) and their capacity to
 simulate human cognition and behavior has given rise to LLM-based frameworks

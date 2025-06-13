@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024pushing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.20185"}
-tags: ['Quantization', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Quantization', 'Reinforcement Learning']
 ---
 Quantization of Large Language Models (LLMs) has recently gained popularity,
 particularly for on-device settings with limited hardware resources. While

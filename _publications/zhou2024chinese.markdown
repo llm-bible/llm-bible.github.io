@@ -8,7 +8,7 @@ bibkey: zhou2024chinese
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04614"}
   - {name: "Code", url: "https://github.com/pengxiao-song/LaWGPT"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs), including both proprietary and open-source
 models, have showcased remarkable capabilities in addressing a wide range of

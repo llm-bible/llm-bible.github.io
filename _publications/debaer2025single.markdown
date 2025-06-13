@@ -7,7 +7,7 @@ year: 2025
 bibkey: debaer2025single
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18650"}
-tags: ['Agentic', 'Prompting', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Optimizing language models for use in conversational agents requires large
 quantities of example dialogues. Increasingly, these dialogues are

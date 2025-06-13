@@ -8,7 +8,7 @@ bibkey: pei2024cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04652"}
   - {name: "Code", url: "https://github.com/TerryPei/CSP"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pruning', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 KV cache pruning has emerged as a promising technique for reducing memory and
 computation costs in long-context auto-regressive generation. Existing methods

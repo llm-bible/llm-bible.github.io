@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13859"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Despite the significant progress in multimodal large language models (MLLMs),
 their high computational cost remains a barrier to real-world deployment.

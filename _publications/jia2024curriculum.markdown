@@ -7,7 +7,7 @@ year: 2024
 bibkey: jia2024curriculum
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02956"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, utilizing large language models (LLMs) for metaphor detection has
 achieved promising results. However, these methods heavily rely on the

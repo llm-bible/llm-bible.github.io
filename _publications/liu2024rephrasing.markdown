@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024rephrasing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18940"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Applications']
+tags: ['Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Clinical language models are important for many applications in healthcare,
 but their development depends on access to extensive clinical text for

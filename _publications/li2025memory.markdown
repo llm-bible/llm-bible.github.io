@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14519"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
 ---
 Pipeline Parallelism (PP) serves as a crucial technique for training Large
 Language Models (LLMs), owing to its capability to alleviate memory pressure

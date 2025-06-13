@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025inference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02495"}
-tags: ['Agentic', 'Ethics and Bias', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Agentic', 'Training Techniques', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Reinforcement learning (RL) has been widely adopted in post-training for
 large language models (LLMs) at scale. Recently, the incentivization of

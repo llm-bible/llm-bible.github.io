@@ -8,7 +8,7 @@ bibkey: liu2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06550"}
   - {name: "Code", url: "https://www.llm360.ai)"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Has Code']
+tags: ['Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code']
 ---
 The recent surge in open-source Large Language Models (LLMs), such as LLaMA,
 Falcon, and Mistral, provides diverse options for AI practitioners and

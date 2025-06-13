@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14650"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Large Language Models (LLMs) exhibit substantial promise in enhancing
 task-planning capabilities within embodied agents due to their advanced

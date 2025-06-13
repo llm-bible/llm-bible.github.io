@@ -8,7 +8,7 @@ bibkey: shrivastava2022repository
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.12839"}
   - {name: "Code", url: "https://github.com/shrivastavadisha/repo_level_prompt_generation"}
-tags: ['Tools', 'Reinforcement Learning', 'Has Code', 'ACL', 'Prompting']
+tags: ['Tools', 'Reinforcement Learning', 'ACL', 'Has Code', 'Prompting']
 ---
 With the success of large language models (LLMs) of code and their use as
 code assistants (e.g. Codex used in GitHub Copilot), techniques for introducing

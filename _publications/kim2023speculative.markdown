@@ -7,7 +7,7 @@ year: 2023
 bibkey: kim2023speculative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.07863"}
-tags: ['WMT', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Applications', 'SLT']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Language Modeling', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'SLT']
 ---
 The recent emergence of Large Language Models based on the Transformer
 architecture has enabled dramatic advancements in the field of Natural Language

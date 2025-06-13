@@ -7,7 +7,7 @@ year: 2024
 bibkey: john2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06676"}
-tags: ['RecSys', 'Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning']
+tags: ['Survey Paper', 'RecSys', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Recommendation systems are ubiquitous, from Spotify playlist suggestions to
 Amazon product suggestions. Nevertheless, depending on the methodology or the

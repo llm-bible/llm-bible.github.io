@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025teleporting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20228"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Tools', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Security']
 ---
 Mitigating Trojans in Large Language Models (LLMs) is one of many tasks where
 alignment data is LLM specific, as different LLMs have different Trojan

@@ -8,7 +8,7 @@ bibkey: feng2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09098"}
   - {name: "Code", url: "https://scimind.ai/sciknoweval"}
-tags: ['Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) have gained increasing prominence in scientific
 research, but there is a lack of comprehensive benchmarks to fully evaluate

@@ -7,7 +7,7 @@ year: 2023
 bibkey: post2023escaping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.12959"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 It is well-known that document context is vital for resolving a range of
 translation ambiguities, and in fact the document setting is the most natural

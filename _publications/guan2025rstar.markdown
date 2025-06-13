@@ -8,7 +8,7 @@ bibkey: guan2025rstar
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04519"}
   - {name: "Code", url: "https://github.com/microsoft/rStar"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Distillation', 'Has Code']
+tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Distillation']
 ---
 We present rStar-Math to demonstrate that small language models (SLMs) can
 rival or even surpass the math reasoning capability of OpenAI o1, without

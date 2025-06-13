@@ -8,7 +8,7 @@ bibkey: xue2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.04114"}
   - {name: "Code", url: "https://github.com/NinjaTech-AI/MPLE"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) have significantly improved code generation,
 particularly in one-pass code generation. However, most existing approaches

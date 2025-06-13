@@ -7,7 +7,7 @@ year: 2023
 bibkey: miao2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15234"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Tools', 'Reinforcement Learning']
+tags: ['Survey Paper', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 In the rapidly evolving landscape of artificial intelligence (AI), generative
 large language models (LLMs) stand at the forefront, revolutionizing how we

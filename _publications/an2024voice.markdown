@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04051"}
   - {name: "Code", url: "https://fun-audio-llm.github.io,"}
   - {name: "Code", url: "https://github.com/FunAudioLLM"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications', 'INTERSPEECH']
+tags: ['Fine-Tuning', 'INTERSPEECH', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 This report introduces FunAudioLLM, a model family designed to enhance
 natural voice interactions between humans and large language models (LLMs). At

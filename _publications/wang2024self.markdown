@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.00487"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Distillation']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Distillation']
 ---
 Despite significant advancements in large language models (LLMs), the rapid
 and frequent integration of small-scale experiences, such as interactions with

@@ -8,7 +8,7 @@ bibkey: li2025lost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04369"}
   - {name: "Code", url: "https://github.com/yafuly/LLM_Translationese"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved remarkable success in machine
 translation, demonstrating impressive performance across diverse languages.

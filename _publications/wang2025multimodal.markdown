@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.12605"}
-tags: ['Multimodal Models', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
 ---
 By extending the advantage of chain-of-thought (CoT) reasoning in human-like
 step-by-step processes to multimodal contexts, multimodal CoT (MCoT) reasoning

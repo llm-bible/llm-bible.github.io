@@ -8,7 +8,7 @@ bibkey: zheng2025spot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02029"}
   - {name: "Code", url: "https://github.com/Ziwei-Zheng/SAHs"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Responsible AI', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 With the integration of an additional modality, large vision-language models
 (LVLMs) exhibit greater vulnerability to safety risks (e.g., jailbreaking)

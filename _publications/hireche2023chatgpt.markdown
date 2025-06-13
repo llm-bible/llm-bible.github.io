@@ -7,7 +7,7 @@ year: 2023
 bibkey: hireche2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06640"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The integration of large language models (LLMs) with social robots has
 emerged as a promising avenue for enhancing human-robot interactions at a time

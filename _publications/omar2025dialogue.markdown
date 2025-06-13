@@ -7,7 +7,7 @@ year: 2025
 bibkey: omar2025dialogue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.09928"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Dialogue benchmarks are crucial in training and evaluating chatbots engaging
 in domain-specific conversations. Knowledge graphs (KGs) represent semantically

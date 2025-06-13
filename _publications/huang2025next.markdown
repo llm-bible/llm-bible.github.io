@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025next
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10157"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Scaling Laws', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Large-Scale Training', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Attention Mechanism', 'Pretraining Methods', 'Scaling Laws']
 ---
 We introduce SessionRec, a novel next-session prediction paradigm (NSPP) for
 generative sequential recommendation, addressing the fundamental misalignment

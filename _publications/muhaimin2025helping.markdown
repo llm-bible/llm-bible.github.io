@@ -7,7 +7,7 @@ year: 2025
 bibkey: muhaimin2025helping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01315"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The recent growth in the use of Large Language Models has made them
 vulnerable to sophisticated adversarial assaults, manipulative prompts, and

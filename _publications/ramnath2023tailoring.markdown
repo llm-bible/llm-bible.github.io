@@ -7,7 +7,7 @@ year: 2023
 bibkey: ramnath2023tailoring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.02805"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Large language models (LMs) are capable of generating free-text rationales to
 aid question answering. However, prior work 1) suggests that useful

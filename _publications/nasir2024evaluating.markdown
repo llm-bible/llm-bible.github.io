@@ -8,7 +8,7 @@ bibkey: nasir2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07765"}
   - {name: "Code", url: "https://github.com/umair-nasir14/Game-Traversal-Benchmark"}
-tags: ['Model Architecture', 'GPT', 'Has Code']
+tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) have recently demonstrated great success in
 generating and understanding natural language. While they have also shown

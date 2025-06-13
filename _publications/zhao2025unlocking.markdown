@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhao2025unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09158"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Merging', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Multimodal Models']
 ---
 Video-based multimodal large language models (VMLLMs) have demonstrated
 remarkable potential in cross-modal video understanding. However, their

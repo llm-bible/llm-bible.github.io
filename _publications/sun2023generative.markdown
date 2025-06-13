@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13286"}
-tags: ['Multimodal Models', 'Few-Shot', 'Merging', 'GPT', 'Pretraining Methods', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'Merging', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 The human ability to easily solve multimodal tasks in context (i.e., with
 only a few demonstrations or simple instructions), is what current multimodal

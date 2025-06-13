@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024translate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13164"}
-tags: ['Prompting', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Imposing constraints on machine translation systems presents a challenging
 issue because these systems are not trained to make use of constraints in

@@ -8,7 +8,7 @@ bibkey: pu2025judge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17489"}
   - {name: "Code", url: "https://urrealhero.github.io/judgeanythingweb/"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Has Code']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Evaluating generative foundation models on open-ended multimodal
 understanding (MMU) and generation (MMG) tasks across diverse modalities (e.g.,

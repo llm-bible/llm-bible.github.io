@@ -7,7 +7,7 @@ year: 2025
 bibkey: huynh2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19910"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Merging']
+tags: ['Tools', 'RAG', 'Merging', 'Training Techniques', 'Multimodal Models']
 ---
 Composed Image Retrieval (CIR) is a complex task that aims to retrieve images
 based on a multimodal query. Typical training data consists of triplets

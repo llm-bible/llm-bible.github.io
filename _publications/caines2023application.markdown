@@ -7,7 +7,7 @@ year: 2023
 bibkey: caines2023application
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.08393"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 The recent release of very large language models such as PaLM and GPT-4 has
 made an unprecedented impact in the popular media and public consciousness,

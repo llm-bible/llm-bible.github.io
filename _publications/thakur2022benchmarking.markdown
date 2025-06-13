@@ -8,7 +8,7 @@ bibkey: thakur2022benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.11140"}
   - {name: "Code", url: "https://github.com/shailja-thakur/VGen"}
-tags: ['Training Techniques', 'Tools', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Automating hardware design could obviate a significant amount of human error
 from the engineering process and lead to fewer errors. Verilog is a popular

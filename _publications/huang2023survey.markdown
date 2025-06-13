@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05232"}
-tags: ['Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The emergence of large language models (LLMs) has marked a significant
 breakthrough in natural language processing (NLP), fueling a paradigm shift in

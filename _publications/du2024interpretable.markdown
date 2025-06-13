@@ -7,7 +7,7 @@ year: 2024
 bibkey: du2024interpretable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15397"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'RAG', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Pre-trained vision-language models like CLIP have remarkably adapted to
 various downstream tasks. Nonetheless, their performance heavily depends on the

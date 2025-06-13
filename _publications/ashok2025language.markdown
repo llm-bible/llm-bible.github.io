@@ -7,7 +7,7 @@ year: 2025
 bibkey: ashok2025language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13329"}
-tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['GPT', 'RAG', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 Autoregressive Language Models output text by sequentially predicting the
 next token to generate, with modern methods like Chain-of-Thought (CoT)

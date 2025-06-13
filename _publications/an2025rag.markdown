@@ -7,7 +7,7 @@ year: 2025
 bibkey: an2025rag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18041"}
-tags: ['Responsible AI', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Efforts to ensure the safety of large language models (LLMs) include safety
 fine-tuning, evaluation, and red teaming. However, despite the widespread use

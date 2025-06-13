@@ -7,7 +7,7 @@ year: 2024
 bibkey: ganguly2024proof
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.17270"}
-tags: ['Responsible AI', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing,
 yet they struggle with inconsistent reasoning, particularly in novel domains

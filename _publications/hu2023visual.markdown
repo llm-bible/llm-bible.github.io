@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.03052"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Distillation', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Multimodal Models', 'Distillation']
 ---
 Solving complex visual tasks such as "Who invented the musical instrument on
 the right?" involves a composition of skills: understanding space, recognizing

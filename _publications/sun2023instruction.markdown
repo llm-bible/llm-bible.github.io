@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01555"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'GPT', 'Prompting']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Prompting', 'Distillation']
 ---
 Recent studies have demonstrated the great potential of Large Language Models
 (LLMs) serving as zero-shot relevance rankers. The typical approach involves

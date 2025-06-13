@@ -7,7 +7,7 @@ year: 2024
 bibkey: sharma2024og
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15235"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper presents OG-RAG, an Ontology-Grounded Retrieval Augmented
 Generation method designed to enhance LLM-generated responses by anchoring

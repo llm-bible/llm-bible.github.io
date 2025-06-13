@@ -7,7 +7,7 @@ year: 2024
 bibkey: derczynski2024framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11036"}
-tags: ['Applications', 'Security', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Security', 'Tools', 'Applications']
 ---
 As Large Language Models (LLMs) are deployed and integrated into thousands of
 applications, the need for scalable evaluation of how models respond to

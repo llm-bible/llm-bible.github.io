@@ -7,7 +7,7 @@ year: 2024
 bibkey: sutanto2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09807"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Distillation', 'BERT', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Few-Shot', 'Distillation']
 ---
 Multiple Choice Question Answering (MCQA) is an important problem with
 numerous real-world applications, such as medicine, law, and education. The

@@ -7,7 +7,7 @@ year: 2022
 bibkey: borzunov2022collaborative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.01188"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Many NLP tasks benefit from using large language models (LLMs) that often
 have more than 100 billion parameters. With the release of BLOOM-176B and

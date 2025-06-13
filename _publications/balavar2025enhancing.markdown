@@ -7,7 +7,7 @@ year: 2025
 bibkey: balavar2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.02849"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Recent advancements in artificial intelligence (AI) and machine learning have
 reignited interest in their impact on Computer-based Learning (CBL). AI-driven

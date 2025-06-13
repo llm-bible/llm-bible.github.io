@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023sci
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04679"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Distillation', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques', 'Prompting', 'Distillation']
 ---
 Large Language Models (LLMs) have shown outstanding performance across wide
 range of downstream tasks. This competency is attributed to their substantial

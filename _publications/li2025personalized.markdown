@@ -7,6 +7,6 @@ year: 2025
 bibkey: li2025personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.14106"}
-tags: ['Prompting', 'Language Modeling', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'Prompting', 'Language Modeling', 'Reinforcement Learning']
 ---
 We present PersonaConvBench, a large-scale benchmark for evaluating personalized reasoning and generation in multi-turn conversations with large language models (LLMs). Unlike existing work that focuses on either personalization or conversational structure in isolation, PersonaConvBench integrates both, offering three core tasks: sentence classification, impact regression, and user-centric text generation across ten diverse Reddit-based domains. This design enables systematic analysis of how personalized conversational context shapes LLM outputs in realistic multi-user scenarios. We benchmark several commercial and open-source LLMs under a unified prompting setup and observe that incorporating personalized history yields substantial performance improvements, including a 198 percent relative gain over the best non-conversational baseline in sentiment classification. By releasing PersonaConvBench with evaluations and code, we aim to support research on LLMs that adapt to individual styles, track long-term context, and produce contextually rich, engaging responses.

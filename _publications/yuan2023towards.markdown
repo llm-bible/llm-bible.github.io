@@ -7,7 +7,7 @@ year: 2023
 bibkey: yuan2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00437"}
-tags: ['Prompting', 'Security', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Security', 'Prompting']
 ---
 Significant progress has been made in automatic text evaluation with the
 introduction of large language models (LLMs) as evaluators. However, current

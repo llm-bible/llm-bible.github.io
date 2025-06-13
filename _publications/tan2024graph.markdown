@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04780"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Graphs with abundant attributes are essential in modeling interconnected
 entities and improving predictions in various real-world applications.

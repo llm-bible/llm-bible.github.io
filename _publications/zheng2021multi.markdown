@@ -7,7 +7,7 @@ year: 2021
 bibkey: zheng2021multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.07154"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Incorporating multi-modal contexts in conversation is important for
 developing more engaging dialogue systems. In this work, we explore this

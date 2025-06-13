@@ -7,7 +7,7 @@ year: 2021
 bibkey: parthasarathi2021do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.10622"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
 ---
 Predicting the next utterance in dialogue is contingent on encoding of users'
 input text to generate appropriate and relevant response in data-driven

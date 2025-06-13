@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025matryoshka
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01196"}
-tags: ['Responsible AI', 'Training Techniques', 'Reinforcement Learning', 'GPT', 'Pretraining Methods']
+tags: ['Responsible AI', 'GPT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have emerged as powerful knowledge bases yet are
 limited by static training data, leading to issues such as hallucinations and

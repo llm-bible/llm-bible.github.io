@@ -8,7 +8,7 @@ bibkey: ho2022large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2212.10071v2"}
   - {name: "Code", url: "https://github.com/itsnamgyu/reasoning-teacher"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Recent works have shown that chain-of-thought (CoT) prompting can elicit
 language models to solve complex reasoning tasks, step-by-step. However,

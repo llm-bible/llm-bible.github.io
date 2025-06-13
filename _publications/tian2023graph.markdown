@@ -8,7 +8,7 @@ bibkey: tian2023graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15427"}
   - {name: "Code", url: "https://github.com/meettyj/GNP"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Large language models (LLMs) have shown remarkable generalization capability
 with exceptional performance in various language modeling tasks. However, they

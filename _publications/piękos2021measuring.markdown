@@ -7,7 +7,7 @@ year: 2021
 bibkey: piękos2021measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.03921"}
-tags: ['Training Techniques', 'Ethics and Bias', 'BERT', 'Model Architecture']
+tags: ['BERT', 'Training Techniques', 'Ethics and Bias', 'Model Architecture']
 ---
 Imagine you are in a supermarket. You have two bananas in your basket and
 want to buy four apples. How many fruits do you have in total? This seemingly

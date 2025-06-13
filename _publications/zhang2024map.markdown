@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024map
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19327"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Interpretability', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques']
 ---
 Large Language Models (LLMs) have made great strides in recent years to
 achieve unprecedented performance across different tasks. However, due to

@@ -8,7 +8,7 @@ bibkey: ma2025seamless
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06134"}
   - {name: "Code", url: "https://github.com/OPPO-Mente-Lab/X2I"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Distillation', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 Text-to-image (T2I) models are well known for their ability to produce highly
 realistic images, while multimodal large language models (MLLMs) are renowned

@@ -7,7 +7,7 @@ year: 2024
 bibkey: gu2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06559"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Language agents based on large language models (LLMs) have demonstrated great
 promise in automating web-based tasks. Recent work has shown that incorporating

@@ -8,7 +8,7 @@ bibkey: anwar2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13682"}
   - {name: "Code", url: "https://nvidia-ai-iot.github.io/remembr"}
-tags: ['RAG', 'Applications', 'Has Code']
+tags: ['RAG', 'Has Code', 'Applications']
 ---
 Navigating and understanding complex environments over extended periods of
 time is a significant challenge for robots. People interacting with the robot

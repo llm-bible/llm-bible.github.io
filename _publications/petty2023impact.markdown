@@ -7,7 +7,7 @@ year: 2023
 bibkey: petty2023impact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19956"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 To process novel sentences, language models (LMs) must generalize
 compositionally -- combine familiar elements in new ways. What aspects of a

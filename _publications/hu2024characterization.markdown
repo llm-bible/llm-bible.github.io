@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024characterization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.07648"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Large-Scale Training']
+tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have presented impressive performance across
 several transformative tasks. However, it is non-trivial to efficiently utilize

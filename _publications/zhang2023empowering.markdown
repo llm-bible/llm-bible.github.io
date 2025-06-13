@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023empowering
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.11000v2"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multi-modal large language models are regarded as a crucial step towards
 Artificial General Intelligence (AGI) and have garnered significant interest

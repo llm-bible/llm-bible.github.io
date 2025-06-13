@@ -7,7 +7,7 @@ year: 2022
 bibkey: dohan2022language
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2207.10342v2"}
-tags: ['Prompting', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting']
 ---
 Prompted models have demonstrated impressive few-shot learning abilities.
 Repeated interactions at test-time with a single model, or the composition of

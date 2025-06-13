@@ -8,7 +8,7 @@ bibkey: lo2024closer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18219"}
   - {name: "Code", url: "https://github.com/kamanphoebe/Look-into-MoEs"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Mixture-of-experts (MoE) is gaining increasing attention due to its unique
 properties and remarkable performance, especially for language tasks. By

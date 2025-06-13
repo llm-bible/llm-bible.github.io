@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023driving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01957"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have shown promise in the autonomous driving
 sector, particularly in generalization and interpretability. We introduce a

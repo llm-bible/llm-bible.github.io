@@ -7,7 +7,7 @@ year: 2023
 bibkey: liang2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.02819"}
-tags: ['Security', 'Model Architecture', 'Fairness', 'Tools', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Fairness', 'Prompting']
 ---
 The rapid adoption of generative language models has brought about
 substantial advancements in digital communication, while simultaneously raising

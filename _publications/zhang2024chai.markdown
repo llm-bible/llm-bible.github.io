@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024chai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.09073"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 various NLP tasks but struggle with code-mixed (or code-switched) language

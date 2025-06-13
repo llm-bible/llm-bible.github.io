@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024tc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03206"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have significantly improved
 performance across various image-language applications. Recently, there has

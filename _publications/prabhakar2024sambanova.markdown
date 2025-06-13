@@ -7,7 +7,7 @@ year: 2024
 bibkey: prabhakar2024sambanova
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07518"}
-tags: ['Applications', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
 ---
 Monolithic large language models (LLMs) like GPT-4 have paved the way for
 modern generative AI applications. Training, serving, and maintaining

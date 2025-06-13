@@ -8,7 +8,7 @@ bibkey: xie2024pretraining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14332"}
   - {name: "Code", url: "https://github.com/deepglint/Croc"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Recent advances in Large Language Models (LLMs) have catalyzed the
 development of Large Multimodal Models (LMMs). However, existing research

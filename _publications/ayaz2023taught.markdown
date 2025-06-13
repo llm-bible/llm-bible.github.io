@@ -7,7 +7,7 @@ year: 2023
 bibkey: ayaz2023taught
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02428"}
-tags: ['Ethics and Bias', 'BERT', 'GPT', 'Model Architecture']
+tags: ['BERT', 'GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 This research delves into the current literature on bias in Natural Language
 Processing Models and the techniques proposed to mitigate the problem of bias,

@@ -7,7 +7,7 @@ year: 2025
 bibkey: song2025bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22547"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Pretraining Methods']
 ---
 The geometric evolution of token representations in large language models
 (LLMs) presents a fundamental paradox: while human language inherently

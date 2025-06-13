@@ -7,7 +7,7 @@ year: 2024
 bibkey: mehrotra2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06715"}
-tags: ['Prompting', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 This paper explores the enhancement of creativity in Large Language Models
 (LLMs) like vGPT-4 through associative thinking, a cognitive process where

@@ -7,7 +7,7 @@ year: 2021
 bibkey: yoshida2021reconsidering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08653"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 We present Hidden-State Optimization (HSO), a gradient-based method for
 improving the performance of transformer language models at inference time.

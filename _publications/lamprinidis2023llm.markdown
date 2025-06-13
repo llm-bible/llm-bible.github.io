@@ -7,7 +7,7 @@ year: 2023
 bibkey: lamprinidis2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.11787"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have lately been on the spotlight of
 researchers, businesses, and consumers alike. While the linguistic capabilities

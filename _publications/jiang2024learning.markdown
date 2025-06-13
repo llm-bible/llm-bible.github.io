@@ -8,7 +8,7 @@ bibkey: jiang2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11905"}
   - {name: "Code", url: "https://github.com/YJiangcm/LTE"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Has Code', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Security', 'Attention Mechanism', 'Has Code']
 ---
 Knowledge editing techniques, aiming to efficiently modify a minor proportion
 of knowledge in large language models (LLMs) without negatively impacting

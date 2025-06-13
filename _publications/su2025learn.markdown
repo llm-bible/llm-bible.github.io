@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025learn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10893"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Agent', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Prompting', 'In-Context Learning']
 ---
 Autonomous agents powered by large language models (LLMs) have the potential
 to enhance human capabilities, assisting with digital tasks from sending emails

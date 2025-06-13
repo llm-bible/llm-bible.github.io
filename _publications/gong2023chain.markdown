@@ -7,7 +7,7 @@ year: 2023
 bibkey: gong2023chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10355"}
-tags: ['Prompting', 'RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting', 'Applications']
 ---
 Recently, natural language generation (NLG) evaluation has shifted from a
 single-aspect to a multi-aspect paradigm, allowing for a more accurate

@@ -7,7 +7,7 @@ year: 2023
 bibkey: gu2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.14897"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Imagining the future trajectory is the key for robots to make sound planning
 and successfully reach their goals. Therefore, text-conditioned video

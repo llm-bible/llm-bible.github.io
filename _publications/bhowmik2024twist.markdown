@@ -7,7 +7,7 @@ year: 2024
 bibkey: bhowmik2024twist
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10491"}
-tags: ['Multimodal Models', 'Tools']
+tags: ['Tools', 'Multimodal Models']
 ---
 Spatial awareness is key to enable embodied multimodal AI systems. Yet,
 without vast amounts of spatial supervision, current Multimodal Large Language

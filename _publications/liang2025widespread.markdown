@@ -7,7 +7,7 @@ year: 2025
 bibkey: liang2025widespread
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09747"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The recent advances in large language models (LLMs) attracted significant
 public and policymaker interest in its adoption patterns. In this paper, we

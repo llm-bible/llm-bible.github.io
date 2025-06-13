@@ -7,7 +7,7 @@ year: 2024
 bibkey: monteiro2024xc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.15420"}
-tags: ['Model Architecture', 'RAG', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) approaches typically leverage prompting to
 condition decoder-only language model generation on reference information.

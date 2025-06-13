@@ -7,7 +7,7 @@ year: 2025
 bibkey: ratan2025optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.07853"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 This study explores the fine-tuning (FT) of the Open Pre-trained Transformer
 (OPT-125M) for grammatical acceptability tasks using the CoLA dataset. By

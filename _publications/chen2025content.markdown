@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025content
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10358"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recent advances in video generation have posed great challenges in the
 assessment of AI-generated content, particularly with the emergence of

@@ -7,7 +7,7 @@ year: 2025
 bibkey: weng2025do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13381"}
-tags: ['Agentic', 'Ethics and Bias', 'Agent', 'Survey Paper']
+tags: ['Agentic', 'Survey Paper', 'Agent', 'Ethics and Bias']
 ---
 Recent advancements in large language models (LLMs) revolutionize the field
 of intelligent agents, enabling collaborative multi-agent systems capable of

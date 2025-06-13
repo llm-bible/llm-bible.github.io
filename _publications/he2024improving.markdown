@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07076"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Existing large vision-language models (LVLMs) are largely limited to
 processing short, seconds-long videos and struggle with generating coherent

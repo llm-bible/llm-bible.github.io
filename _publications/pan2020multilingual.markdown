@@ -7,7 +7,7 @@ year: 2020
 bibkey: pan2020multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.12547"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT']
+tags: ['Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 We propose a simple method to align multilingual contextual embeddings as a
 post-pretraining step for improved zero-shot cross-lingual transferability of

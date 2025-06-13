@@ -8,7 +8,7 @@ bibkey: tu2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16101"}
   - {name: "Code", url: "https://github.com/UCSC-VLAA/vllm-safety-benchmark"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'GPT', 'Has Code']
+tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 This work focuses on the potential of Vision LLMs (VLLMs) in visual
 reasoning. Different from prior studies, we shift our focus from evaluating

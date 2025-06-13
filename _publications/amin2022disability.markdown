@@ -7,7 +7,7 @@ year: 2022
 bibkey: amin2022disability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.11993"}
-tags: ['Model Architecture', 'Fairness', 'GPT', 'Bias Mitigation', 'Ethics and Bias']
+tags: ['GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Fairness']
 ---
 Language models (LM) are becoming prevalent in many language-based
 application spaces globally. Although these LMs are improving our day-to-day

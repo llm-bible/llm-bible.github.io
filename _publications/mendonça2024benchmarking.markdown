@@ -7,7 +7,7 @@ year: 2024
 bibkey: mendonça2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03841"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have showcased remarkable capabilities in
 various Natural Language Processing tasks. For automatic open-domain dialogue

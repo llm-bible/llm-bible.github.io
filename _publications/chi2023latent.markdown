@@ -7,7 +7,7 @@ year: 2023
 bibkey: chi2023latent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13571"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The use of positional embeddings in transformer language models is widely
 accepted. However, recent research has called into question the necessity of

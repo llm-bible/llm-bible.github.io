@@ -7,7 +7,7 @@ year: 2025
 bibkey: dong2025accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06319"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) exhibit pronounced memory-bound characteristics
 during inference due to High Bandwidth Memory (HBM) bandwidth constraints. In

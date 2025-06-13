@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01999"}
-tags: ['Language Modeling', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture']
 ---
 Dense Retrieval (DR) is now considered as a promising tool to enhance the
 memorization capacity of Large Language Models (LLM) such as GPT3 and GPT-4 by

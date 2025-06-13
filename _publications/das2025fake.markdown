@@ -7,7 +7,7 @@ year: 2025
 bibkey: das2025fake
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.18649"}
-tags: ['Model Architecture', 'BERT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'BERT', 'Model Architecture']
 ---
 With their advanced capabilities, Large Language Models (LLMs) can generate
 highly convincing and contextually relevant fake news, which can contribute to

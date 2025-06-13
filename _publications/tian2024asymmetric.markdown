@@ -7,7 +7,7 @@ year: 2024
 bibkey: tian2024asymmetric
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19245"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Adapting Large Language Models (LLMs) to new tasks through fine-tuning has
 been made more efficient by the introduction of Parameter-Efficient Fine-Tuning

@@ -8,7 +8,7 @@ bibkey: palit2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.14179"}
   - {name: "Code", url: "https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Has Code', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Mechanistic interpretability seeks to understand the neural mechanisms that
 enable specific behaviors in Large Language Models (LLMs) by leveraging

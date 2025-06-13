@@ -7,7 +7,7 @@ year: 2024
 bibkey: kuwanto2024linguistics
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22660"}
-tags: ['Language Modeling', 'Applications', 'Tools']
+tags: ['Applications', 'Tools', 'Language Modeling']
 ---
 Code-switching, the phenomenon of alternating between two or more languages
 in a single conversation, presents unique challenges for Natural Language

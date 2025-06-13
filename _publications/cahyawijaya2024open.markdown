@@ -7,7 +7,7 @@ year: 2024
 bibkey: cahyawijaya2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06138"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) show remarkable human-like capability in various
 domains and languages. However, a notable quality gap arises in low-resource

@@ -7,7 +7,7 @@ year: 2020
 bibkey: ahuja2020accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2006.03701"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pruning', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods', 'BERT']
 ---
 Task-oriented dialog models typically leverage complex neural architectures
 and large-scale, pre-trained Transformers to achieve state-of-the-art

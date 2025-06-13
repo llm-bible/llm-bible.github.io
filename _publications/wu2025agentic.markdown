@@ -8,7 +8,7 @@ bibkey: wu2025agentic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04644"}
   - {name: "Code", url: "https://github.com/theworldofagents/Agentic-Reasoning"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 We introduce Agentic Reasoning, a framework that enhances large language
 model (LLM) reasoning by integrating external tool-using agents. Unlike

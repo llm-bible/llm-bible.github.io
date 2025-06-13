@@ -8,7 +8,7 @@ bibkey: xiao2024seeing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17871"}
   - {name: "Code", url: "https://github.com/foundation-multimodal-models/CAL"}
-tags: ['Multimodal Models', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Has Code']
+tags: ['GPT', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Existing image-text modality alignment in Vision Language Models (VLMs)
 treats each text token equally in an autoregressive manner. Despite being

@@ -7,7 +7,7 @@ year: 2024
 bibkey: nadeem2024negation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00105"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Foundational Large Language Models (LLMs) have changed the way we perceive
 technology. They have been shown to excel in tasks ranging from poem writing

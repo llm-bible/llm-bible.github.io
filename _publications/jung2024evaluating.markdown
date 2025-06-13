@@ -7,7 +7,7 @@ year: 2024
 bibkey: jung2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15326"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 The use of Large language models (LLMs) to augment clinical decision support
 systems is a topic with rapidly growing interest, but current shortcomings such

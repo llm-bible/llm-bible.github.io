@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00355"}
-tags: ['Responsible AI', 'Agentic', 'Fairness', 'Tools', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability and Explainability']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Fairness']
 ---
 From disinformation spread by AI chatbots to AI recommendations that
 inadvertently reinforce stereotypes, textual bias poses a significant challenge

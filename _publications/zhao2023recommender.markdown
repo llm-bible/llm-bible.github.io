@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023recommender
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2307.02046v6"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Merging', 'GPT', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'Survey Paper', 'Model Architecture', 'Merging', 'RecSys', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 With the prosperity of e-commerce and web applications, Recommender Systems
 (RecSys) have become an important component of our daily life, providing

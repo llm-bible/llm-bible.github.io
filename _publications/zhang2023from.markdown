@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18364"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Pre-trained language models (PLMs) have shown impressive performance in
 various language tasks. However, they are prone to spurious correlations, and

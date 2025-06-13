@@ -7,7 +7,7 @@ year: 2024
 bibkey: sreekar2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16984"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Applications', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Prompting']
 ---
 Large Language Models (LLMs) are widely used in both industry and academia
 for various tasks, yet evaluating the consistency of generated text responses

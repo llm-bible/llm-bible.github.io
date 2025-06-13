@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024inspiring
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2404.16033v1"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 With the advent of large language models(LLMs) enhanced by the
 chain-of-thought(CoT) methodology, visual reasoning problem is usually

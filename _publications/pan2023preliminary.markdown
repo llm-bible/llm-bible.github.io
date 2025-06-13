@@ -7,7 +7,7 @@ year: 2023
 bibkey: pan2023preliminary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.04256"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Attention Mechanism']
+tags: ['GPT', 'Model Architecture', 'Attention Mechanism', 'Training Techniques', 'Prompting']
 ---
 Zero-shot dialogue understanding aims to enable dialogue to track the user's
 needs without any training data, which has gained increasing attention. In this

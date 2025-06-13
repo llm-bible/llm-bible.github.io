@@ -7,7 +7,7 @@ year: 2020
 bibkey: lee2020learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.16249"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 We introduce Sentence-level Language Modeling, a new pre-training objective
 for learning a discourse language representation in a fully self-supervised

@@ -8,7 +8,7 @@ bibkey: xia2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18667"}
   - {name: "Code", url: "https://github.com/SalesforceAIResearch/FoFo"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 This paper presents FoFo, a pioneering benchmark for evaluating large
 language models' (LLMs) ability to follow complex, domain-specific formats, a

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024lingma
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00622"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advancements in LLM-based agents have led to significant progress in
 automatic software engineering, particularly in software maintenance and

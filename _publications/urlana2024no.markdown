@@ -8,7 +8,7 @@ bibkey: urlana2024no
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01444"}
   - {name: "Code", url: "https://github.com/vinayakcse/IndustrialLLMsPapers"}
-tags: ['Reinforcement Learning', 'RAG', 'Merging', 'Has Code', 'Applications']
+tags: ['Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) are playing a pivotal role in deploying
 strategic use cases across a range of organizations, from large pan-continental

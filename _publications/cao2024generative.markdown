@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21191"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 Sequential recommendation is a task to capture hidden user preferences from
 historical user item interaction data and recommend next items for the user.

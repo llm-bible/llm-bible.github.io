@@ -7,7 +7,7 @@ year: 2025
 bibkey: cantini2025benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07887"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Training Techniques', 'Fairness', 'Tools', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'Ethics and Bias', 'Applications', 'Bias Mitigation', 'Security', 'Training Techniques', 'Fairness', 'Prompting']
 ---
 Large Language Models (LLMs) have revolutionized artificial intelligence,
 driving advancements in machine translation, summarization, and conversational

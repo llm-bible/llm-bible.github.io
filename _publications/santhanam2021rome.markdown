@@ -7,7 +7,7 @@ year: 2021
 bibkey: santhanam2021rome
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.05456"}
-tags: ['Pretraining Methods', 'RAG', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
 ---
 Recently neural response generation models have leveraged large pre-trained
 transformer models and knowledge snippets to generate relevant and informative

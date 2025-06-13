@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiang2025edit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05628"}
-tags: ['Pretraining Methods', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Pretraining Methods']
 ---
 Large language models (LLMs) often produce incorrect or outdated information,
 necessitating efficient and precise knowledge updates. Current model editing

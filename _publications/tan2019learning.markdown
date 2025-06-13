@@ -8,7 +8,7 @@ bibkey: tan2019learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.07490"}
   - {name: "Code", url: "https://github.com/airsplay/lxmert"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Interpretability', 'BERT', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Language Modeling', 'Interpretability', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Vision-and-language reasoning requires an understanding of visual concepts,
 language semantics, and, most importantly, the alignment and relationships

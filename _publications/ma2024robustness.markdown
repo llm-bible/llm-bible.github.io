@@ -8,7 +8,7 @@ bibkey: ma2024robustness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05827"}
   - {name: "Code", url: "https://github.com/xbmxb/edit_analysis"}
-tags: ['Security', 'Training Techniques', 'Has Code', 'Prompting', 'Applications']
+tags: ['Applications', 'Security', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) have played a pivotal role in building
 communicative AI, yet they encounter the challenge of efficient updates. Model

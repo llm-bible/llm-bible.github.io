@@ -7,7 +7,7 @@ year: 2025
 bibkey: khan2025performance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15761"}
-tags: ['Efficiency and Optimization', 'Merging', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Merging']
 ---
 The deployment of large language models (LLMs) on extended reality (XR)
 devices has great potential to advance the field of human-AI interaction. In

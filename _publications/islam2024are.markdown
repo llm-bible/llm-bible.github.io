@@ -7,7 +7,7 @@ year: 2024
 bibkey: islam2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00257"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 Natural language is a powerful complementary modality of communication for
 data visualizations, such as bar and line charts. To facilitate chart-based

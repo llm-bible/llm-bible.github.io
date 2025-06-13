@@ -7,7 +7,7 @@ year: 2024
 bibkey: chucarroll2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08064"}
-tags: ['Efficiency and Optimization', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Since the advent of Large Language Models a few years ago, they have often
 been considered the de facto solution for many AI problems. However, in

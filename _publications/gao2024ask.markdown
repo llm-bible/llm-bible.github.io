@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024ask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12393"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Open Domain Multi-Hop Question Answering (ODMHQA) plays a crucial role in
 Natural Language Processing (NLP) by aiming to answer complex questions through

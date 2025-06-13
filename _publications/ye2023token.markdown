@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11074"}
-tags: ['RAG', 'Merging', 'Applications']
+tags: ['RAG', 'Applications', 'Merging']
 ---
 Automatically generating human-readable text describing the functionality of
 a program is the intent of source code summarization. Although neural language

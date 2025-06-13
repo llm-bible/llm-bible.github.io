@@ -8,7 +8,7 @@ bibkey: polignano2024advanced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07101"}
   - {name: "Code", url: "https://huggingface.co/swap-uniba/LLaMAntino-3-ANITA-8B-Inst-DPO-ITA"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 In the pursuit of advancing natural language processing for the Italian
 language, we introduce a state-of-the-art Large Language Model (LLM) based on

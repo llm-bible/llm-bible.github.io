@@ -7,7 +7,7 @@ year: 2020
 bibkey: bi2020pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.07159"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Self-supervised pre-training, such as BERT, MASS and BART, has emerged as a
 powerful technique for natural language understanding and generation. Existing

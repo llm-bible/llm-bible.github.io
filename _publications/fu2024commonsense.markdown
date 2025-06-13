@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024commonsense
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07546"}
-tags: ['Security', 'Model Architecture', 'Merging', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Merging', 'Security', 'Prompting']
 ---
 We present a novel task and benchmark for evaluating the ability of
 text-to-image(T2I) generation models to produce images that align with

@@ -7,7 +7,7 @@ year: 2023
 bibkey: huynh2023understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.12004"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Language models have steadily increased in size over the past few years. They
 achieve a high level of performance on various natural language processing

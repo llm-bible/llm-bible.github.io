@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025realsafe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10081"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Tools', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'Security', 'Training Techniques']
 ---
 Large Reasoning Models (LRMs), such as OpenAI o1 and DeepSeek-R1, have been
 rapidly progressing and achieving breakthrough performance on complex reasoning

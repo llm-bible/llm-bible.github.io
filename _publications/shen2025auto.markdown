@@ -8,7 +8,7 @@ bibkey: shen2025auto
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18373"}
   - {name: "Code", url: "https://github.com/lorashen/Auto-SLURP/"}
-tags: ['Agentic', 'Tools', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Has Code']
 ---
 In recent years, multi-agent frameworks powered by large language models
 (LLMs) have advanced rapidly. Despite this progress, there is still a notable

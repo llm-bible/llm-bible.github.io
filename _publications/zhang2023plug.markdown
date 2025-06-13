@@ -8,7 +8,7 @@ bibkey: zhang2023plug
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.02126"}
   - {name: "Code", url: "https://github.com/DsaltYfish/PILL"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Due to the remarkable capabilities of powerful Large Language Models (LLMs)
 in effectively following instructions, there has been a growing number of

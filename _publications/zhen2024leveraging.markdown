@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhen2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04652"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Harnessing the power of Large Language Models (LLMs), this study explores the
 use of three state-of-the-art LLMs, specifically GPT-3.5-turbo, LLaMA3-8B, and

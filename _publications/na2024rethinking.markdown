@@ -7,7 +7,7 @@ year: 2024
 bibkey: na2024rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10699"}
-tags: ['WMT', 'Training Techniques', 'Applications', 'Merging']
+tags: ['Training Techniques', 'Merging', 'Applications', 'WMT']
 ---
 Large language models (LLMs) have demonstrated promising potential in various
 downstream tasks, including machine translation. However, prior work on

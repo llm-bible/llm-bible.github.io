@@ -7,7 +7,7 @@ year: 2023
 bibkey: karthik2023vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09291"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Scaling Laws', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws', 'Multimodal Models']
 ---
 Given an image and a target modification (e.g an image of the Eiffel tower
 and the text "without people and at night-time"), Compositional Image Retrieval

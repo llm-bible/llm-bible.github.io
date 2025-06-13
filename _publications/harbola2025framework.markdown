@@ -7,7 +7,7 @@ year: 2025
 bibkey: harbola2025framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04569"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 In the evolving landscape of conversational AI, generating concise,
 context-aware, and human-like dialogue using small and medium-sized language

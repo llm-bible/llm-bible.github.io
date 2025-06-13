@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23053"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques']
 ---
 Large language models (LLMs) have shown remarkable capabilities in solving
 complex tasks. Recent work has explored decomposing such tasks into subtasks

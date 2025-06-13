@@ -8,7 +8,7 @@ bibkey: qiu2023unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10908"}
   - {name: "Code", url: "https://github.com/qiuzh20/EMoE"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Modular Neural Networks (MNNs) demonstrate various advantages over monolithic
 models. Existing MNNs are generally \\(\textit\{explicit\}\\): their modular

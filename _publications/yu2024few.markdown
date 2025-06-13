@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17233"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Few-Shot', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Preference-based reinforcement learning is an effective way to handle tasks
 where rewards are hard to specify but can be exceedingly inefficient as

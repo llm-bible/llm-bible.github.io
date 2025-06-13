@@ -7,7 +7,7 @@ year: 2025
 bibkey: qiao2025leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18151"}
-tags: ['Pretraining Methods', 'RAG', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
 ---
 Learned Sparse Retrieval (LSR) has traditionally focused on small-scale
 encoder-only transformer architectures. With the advent of large-scale

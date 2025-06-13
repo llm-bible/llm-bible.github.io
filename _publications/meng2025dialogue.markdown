@@ -7,7 +7,7 @@ year: 2025
 bibkey: meng2025dialogue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.08195"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated significant utility in a wide
 range of applications; however, their deployment is plagued by security

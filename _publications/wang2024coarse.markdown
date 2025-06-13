@@ -8,7 +8,7 @@ bibkey: wang2024coarse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16869"}
   - {name: "Code", url: "https://github.com/Gavin001201/CoF"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 The impressive performance of Large Language Model (LLM) has prompted
 researchers to develop Multi-modal LLM (MLLM), which has shown great potential

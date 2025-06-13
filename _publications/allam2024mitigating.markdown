@@ -7,7 +7,7 @@ year: 2024
 bibkey: allam2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13928"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large Language Models (LLMs) have become pivotal in advancing natural
 language processing, yet their potential to perpetuate biases poses significant

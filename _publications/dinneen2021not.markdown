@@ -7,7 +7,7 @@ year: 2021
 bibkey: dinneen2021not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.05383"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 AI language models trained on Web data generate prose that reflects human
 knowledge and public sentiments, but can also contain novel insights and

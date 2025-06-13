@@ -7,7 +7,7 @@ year: 2023
 bibkey: sridhar2023harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.17459"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting']
+tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Prompting']
 ---
 We evaluated the capability of a generative pre-trained transformer (GPT-4)
 to automatically generate high-quality learning objectives (LOs) in the context

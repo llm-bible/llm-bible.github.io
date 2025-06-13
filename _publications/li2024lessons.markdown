@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024lessons
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02783"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
 ---
 Large Language Models (LLMs) represent a significant stride toward Artificial
 General Intelligence. As scaling laws underscore the potential of increasing

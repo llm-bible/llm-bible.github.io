@@ -7,7 +7,7 @@ year: 2024
 bibkey: chelba2024coupling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17605"}
-tags: ['RAG', 'Training Techniques', 'INTERSPEECH', 'Model Architecture']
+tags: ['Training Techniques', 'RAG', 'INTERSPEECH', 'Model Architecture']
 ---
 We present a modular approach to building cascade speech translation (AST)
 models that guarantees that the resulting model performs no worse than the

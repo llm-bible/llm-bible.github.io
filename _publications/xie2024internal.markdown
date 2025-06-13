@@ -8,7 +8,7 @@ bibkey: xie2024internal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08176"}
   - {name: "Code", url: "https://github.com/xjjxmu/TextRefiner"}
-tags: ['Multimodal Models', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting']
+tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Despite the efficiency of prompt learning in transferring vision-language
 models (VLMs) to downstream tasks, existing methods mainly learn the prompts in

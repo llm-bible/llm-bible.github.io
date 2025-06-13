@@ -7,7 +7,7 @@ year: 2023
 bibkey: tomanek2023parameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14327"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Abbreviation expansion is a strategy used to speed up communication by
 limiting the amount of typing and using a language model to suggest expansions.

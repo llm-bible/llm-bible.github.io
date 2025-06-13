@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024filtering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05411"}
-tags: ['Ethics and Bias', 'Interpretability', 'Tools']
+tags: ['Interpretability', 'Tools', 'Ethics and Bias']
 ---
 Personalized algorithms can inadvertently expose users to discomforting
 recommendations, potentially triggering negative consequences. The subjectivity

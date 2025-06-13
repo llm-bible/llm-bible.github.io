@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03752"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Since the advent of ChatGPT, Large Language Models (LLMs) have excelled in
 various tasks but remain as black-box systems. Understanding the reasoning

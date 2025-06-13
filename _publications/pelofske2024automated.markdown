@@ -7,7 +7,7 @@ year: 2024
 bibkey: pelofske2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14680"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The task of accurate and efficient language translation is an extremely
 important information processing task. Machine learning enabled and automated

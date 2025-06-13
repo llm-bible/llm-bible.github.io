@@ -7,7 +7,7 @@ year: 2025
 bibkey: acikgoz2025can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08820"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) with API-calling capabilities enabled building
 effective Language Agents (LA), while also revolutionizing the conventional

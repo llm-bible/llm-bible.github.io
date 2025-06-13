@@ -8,7 +8,7 @@ bibkey: levi2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.11067"}
   - {name: "Code", url: "https://github.com/plurai-ai/intellagent"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Has Code']
 ---
 Large Language Models (LLMs) are transforming artificial intelligence,
 evolving into task-oriented systems capable of autonomous planning and

@@ -8,7 +8,7 @@ bibkey: xu2024uncovering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12038"}
   - {name: "Code", url: "https://github.com/SproutNan/AI-Safety_SCAV"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Despite careful safety alignment, current large language models (LLMs) remain
 vulnerable to various attacks. To further unveil the safety risks of LLMs, we

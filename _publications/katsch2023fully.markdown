@@ -7,7 +7,7 @@ year: 2023
 bibkey: katsch2023fully
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01927"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Linear Recurrence has proven to be a powerful tool for modeling long
 sequences efficiently. In this work, we show that existing models fail to take

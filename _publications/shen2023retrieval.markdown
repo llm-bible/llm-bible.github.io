@@ -8,7 +8,7 @@ bibkey: shen2023retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08877"}
   - {name: "Code", url: "https://github.com/shenwzh3/MK-TOD"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Developing an efficient retriever to retrieve knowledge from a large-scale
 knowledge base (KB) is critical for task-oriented dialogue systems to

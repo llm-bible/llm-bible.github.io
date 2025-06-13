@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024blinded
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11911"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Ethics and Bias']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture']
 ---
 While auxiliary information has become a key to enhancing Large Language
 Models (LLMs), relatively little is known about how LLMs merge these contexts,

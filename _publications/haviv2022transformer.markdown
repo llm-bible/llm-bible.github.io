@@ -7,7 +7,7 @@ year: 2022
 bibkey: haviv2022transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.16634"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Causal transformer language models (LMs), such as GPT-3, typically require
 some form of positional encoding, such as positional embeddings. However, we

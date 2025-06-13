@@ -7,7 +7,7 @@ year: 2025
 bibkey: lee2025agentic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10352"}
-tags: ['Agentic', 'Security', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 In this work, we tackle the challenge of disambiguating queries in
 retrieval-augmented generation (RAG) to diverse yet answerable interpretations.

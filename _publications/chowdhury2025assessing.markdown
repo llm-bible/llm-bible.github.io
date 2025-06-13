@@ -7,7 +7,7 @@ year: 2025
 bibkey: chowdhury2025assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02135"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Efficiency and Optimization']
+tags: ['Training Techniques', 'Security', 'Tools', 'Efficiency and Optimization']
 ---
 With the rapid advancement of Multi-modal Large Language Models (MLLMs),
 several diagnostic benchmarks have recently been developed to assess these

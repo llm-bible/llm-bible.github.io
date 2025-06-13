@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024web
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10742"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 The rapid advancement of autonomous web navigation has significantly
 benefited from grounding pretrained Large Language Models (LLMs) as agents.

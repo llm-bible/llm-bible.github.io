@@ -7,7 +7,7 @@ year: 2024
 bibkey: meeus2024lessons
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07633"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 While Large Language Models (LLMs) have shown remarkable capabilities in
 natural language understanding and generation, their performance often lags in

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023yuan
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15786"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In this work, we develop and release Yuan 2.0, a series of large language
 models with parameters ranging from 2.1 billion to 102.6 billion. The Localized

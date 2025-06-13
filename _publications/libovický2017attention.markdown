@@ -7,7 +7,7 @@ year: 2017
 bibkey: libovický2017attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1704.06567"}
-tags: ['WMT', 'Model Architecture', 'Multimodal Models', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'WMT', 'Attention Mechanism', 'Multimodal Models']
 ---
 Modeling attention in neural multi-source sequence-to-sequence learning
 remains a relatively unexplored area, despite its usefulness in tasks that

@@ -8,7 +8,7 @@ bibkey: li2024deciphering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11317"}
   - {name: "Code", url: "https://github.com/qizhangli/Adversarial-Prompt-Translator"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
 ---
 Automatic adversarial prompt generation provides remarkable success in
 jailbreaking safely-aligned large language models (LLMs). Existing

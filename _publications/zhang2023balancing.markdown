@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023balancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04945"}
-tags: ['Training Techniques', 'Tools', 'Ethics and Bias', 'Interpretability', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper introduces a multifaceted methodology for fine-tuning and
 evaluating large language models (LLMs) for specialized monetization tasks. The

@@ -7,7 +7,7 @@ year: 2022
 bibkey: liang2022holistic
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2211.09110v2"}
-tags: ['Security', 'Efficiency and Optimization', 'Fairness', 'Reinforcement Learning', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Reinforcement Learning', 'Interpretability', 'Security', 'Fairness', 'Prompting']
 ---
 Language models (LMs) are becoming the foundation for almost all major
 language technologies, but their capabilities, limitations, and risks are not

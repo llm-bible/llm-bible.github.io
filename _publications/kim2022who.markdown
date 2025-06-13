@@ -7,7 +7,7 @@ year: 2022
 bibkey: kim2022who
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.10017"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Mixture of Experts (MoE) models with conditional execution of sparsely
 activated layers have enabled training models with a much larger number of

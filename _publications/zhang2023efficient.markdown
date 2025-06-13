@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.08303"}
-tags: ['Prompting', 'In-Context Learning', 'Applications', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 Toxic content detection is crucial for online services to remove
 inappropriate content that violates community standards. To automate the

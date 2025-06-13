@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025full
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14356"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Direct Preference Optimization (DPO) often struggles with long-chain
 mathematical reasoning. Existing approaches, such as Step-DPO, typically

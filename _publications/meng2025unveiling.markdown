@@ -7,7 +7,7 @@ year: 2025
 bibkey: meng2025unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12658"}
-tags: ['Prompting', 'Security', 'Training Techniques', 'RAG']
+tags: ['RAG', 'Training Techniques', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs) pose significant privacy risks, potentially
 leaking training data due to implicit memorization. Existing privacy attacks

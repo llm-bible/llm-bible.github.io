@@ -7,7 +7,7 @@ year: 2024
 bibkey: vavre2024llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09952"}
-tags: ['RAG', 'Training Techniques', 'Pre-Training', 'Tools']
+tags: ['Training Techniques', 'RAG', 'Pre-Training', 'Tools']
 ---
 Scaling large language models (LLMs) significantly improves performance but
 comes with prohibitive computational costs. Mixture-of-Experts (MoE) models

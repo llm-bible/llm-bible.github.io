@@ -7,7 +7,7 @@ year: 2023
 bibkey: mao2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.06573"}
-tags: ['Security', 'Tools', 'Language Modeling', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Security', 'Prompting']
 ---
 Precisely understanding users' contextual search intent has been an important
 challenge for conversational search. As conversational search sessions are much

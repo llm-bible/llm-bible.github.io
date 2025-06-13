@@ -8,7 +8,7 @@ bibkey: cao2022understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.08104"}
   - {name: "Code", url: "https://github.com/adlnlp/Attention_VL"}
-tags: ['Training Techniques', 'Model Architecture', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Attention mechanism has been used as an important component across
 Vision-and-Language(VL) tasks in order to bridge the semantic gap between

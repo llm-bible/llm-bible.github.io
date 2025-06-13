@@ -7,7 +7,7 @@ year: 2024
 bibkey: toshniwal2024openmathinstruct
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01560"}
-tags: ['Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Reinforcement Learning']
 ---
 Mathematical reasoning continues to be a critical challenge in large language
 model (LLM) development with significant interest. However, most of the

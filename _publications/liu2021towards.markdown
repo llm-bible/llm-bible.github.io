@@ -7,7 +7,7 @@ year: 2021
 bibkey: liu2021towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.10661"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 In this experiment, a model was devised, trained, and evaluated to automate
 psychotherapist/client text conversations through the use of state-of-the-art,

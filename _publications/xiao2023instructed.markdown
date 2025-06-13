@@ -7,7 +7,7 @@ year: 2023
 bibkey: xiao2023instructed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.03250"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Generative approaches powered by large language models (LLMs) have
 demonstrated emergent abilities in tasks that require complex reasoning

@@ -7,7 +7,7 @@ year: 2025
 bibkey: yao2025how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00330"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Attention Mechanism']
+tags: ['Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 How human cognitive abilities are formed has long captivated researchers.
 However, a significant challenge lies in developing meaningful methods to

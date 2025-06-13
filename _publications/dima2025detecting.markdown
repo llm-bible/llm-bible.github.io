@@ -7,7 +7,7 @@ year: 2025
 bibkey: dima2025detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12335"}
-tags: ['Prompting', 'Security', 'Tools']
+tags: ['Security', 'Tools', 'Prompting']
 ---
 Large Language Models (LLMs) are often provided as a service via an API,
 making it challenging for developers to detect changes in their behavior. We

@@ -7,7 +7,7 @@ year: 2022
 bibkey: singh2022augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.11799"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Training Techniques']
 ---
 Recent large language models (LLMs) have demonstrated remarkable prediction
 performance for a growing array of tasks. However, their proliferation into

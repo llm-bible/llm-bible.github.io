@@ -7,7 +7,7 @@ year: 2021
 bibkey: sun2021nsp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.03564"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'BERT', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
 ---
 Using prompts to utilize language models to perform various downstream tasks,
 also known as prompt-based learning or prompt-learning, has lately gained

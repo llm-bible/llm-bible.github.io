@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024span
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02719"}
-tags: ['Security', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 We present UncertaintyRAG, a novel approach for long-context
 Retrieval-Augmented Generation (RAG) that utilizes Signal-to-Noise Ratio

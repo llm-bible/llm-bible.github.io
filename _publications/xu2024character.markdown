@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024character
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12138"}
-tags: ['Agentic', 'RAG']
+tags: ['RAG', 'Agentic']
 ---
 Can Large Language Models (LLMs) simulate humans in making important
 decisions? Recent research has unveiled the potential of using LLMs to develop

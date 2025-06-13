@@ -8,7 +8,7 @@ bibkey: chen2023breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20246"}
   - {name: "Code", url: "https://github.com/microsoft/MathOctopus"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
 ---
 Existing research predominantly focuses on developing powerful language
 learning models (LLMs) for mathematical reasoning within monolingual languages,

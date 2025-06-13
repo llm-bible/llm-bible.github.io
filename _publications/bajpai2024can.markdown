@@ -7,7 +7,7 @@ year: 2024
 bibkey: bajpai2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14037"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) and AI assistants driven by these models are
 experiencing exponential growth in usage among both expert and amateur users.

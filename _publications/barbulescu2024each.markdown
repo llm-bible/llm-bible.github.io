@@ -7,7 +7,7 @@ year: 2024
 bibkey: barbulescu2024each
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03097"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Applications', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 LLMs have been found to memorize training textual sequences and regurgitate
 verbatim said sequences during text generation time. This fact is known to be

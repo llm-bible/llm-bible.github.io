@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025replication
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06458"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Distillation', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Distillation', 'Reinforcement Learning']
 ---
 Building upon our previous investigations of O1 replication (Part 1: Journey
 Learning [Qin et al., 2024] and Part 2: Distillation [Huang et al., 2024]),

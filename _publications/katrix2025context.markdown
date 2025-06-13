@@ -7,7 +7,7 @@ year: 2025
 bibkey: katrix2025context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17386"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Security', 'Attention Mechanism']
 ---
 Context-aware processing mechanisms have increasingly become a critical area
 of exploration for improving the semantic and contextual capabilities of

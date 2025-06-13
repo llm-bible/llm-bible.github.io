@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.01003"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent research has demonstrated that the multi-task fine-tuning of
 multi-modal Large Language Models (LLMs) using an assortment of annotated

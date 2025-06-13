@@ -7,7 +7,7 @@ year: 2024
 bibkey: novelli2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07348"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Multimodal Models']
 ---
 The advent of Generative AI, particularly through Large Language Models
 (LLMs) like ChatGPT and its successors, marks a paradigm shift in the AI

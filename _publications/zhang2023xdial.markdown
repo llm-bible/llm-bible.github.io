@@ -8,7 +8,7 @@ bibkey: zhang2023xdial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08958"}
   - {name: "Code", url: "https://github.com/e0397123/xDial-Eval"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'BERT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'BERT']
 ---
 Recent advancements in reference-free learned metrics for open-domain
 dialogue evaluation have been driven by the progress in pre-trained language

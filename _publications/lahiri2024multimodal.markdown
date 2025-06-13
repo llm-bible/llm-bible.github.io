@@ -7,7 +7,7 @@ year: 2024
 bibkey: lahiri2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16701"}
-tags: ['RAG', 'Merging', 'Applications', 'Multimodal Models']
+tags: ['RAG', 'Multimodal Models', 'Applications', 'Merging']
 ---
 Recent advancements in generative AI have flourished the development of
 highly adept Large Language Models (LLMs) that integrate diverse data types to

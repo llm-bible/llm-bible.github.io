@@ -7,7 +7,7 @@ year: 2024
 bibkey: yi2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16758"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 Large language models (LLMs) have revolutionized natural language processing
 and broadened their applicability across diverse commercial applications.

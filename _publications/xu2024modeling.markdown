@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024modeling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19109"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Logical reasoning task has attracted great interest since it was proposed.
 Faced with such a task, current competitive models, even large language models

@@ -7,7 +7,7 @@ year: 2024
 bibkey: elias2024variable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21548"}
-tags: ['Training Techniques', 'Model Architecture', 'Tokenization', 'GPT', 'BERT']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Tokenization', 'BERT']
 ---
 Large language models have drastically changed the prospects of AI by
 introducing technologies for more complex natural language processing. However,

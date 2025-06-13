@@ -8,7 +8,7 @@ bibkey: su2019vl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.08530"}
   - {name: "Code", url: "https://github.com/jackroos/VL-BERT"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 We introduce a new pre-trainable generic representation for visual-linguistic
 tasks, called Visual-Linguistic BERT (VL-BERT for short). VL-BERT adopts the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024zeroth
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02913"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Zeroth-order optimization (ZO) is a memory-efficient strategy for fine-tuning
 Large Language Models using only forward passes. However, the application of ZO

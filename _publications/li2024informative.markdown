@@ -8,7 +8,7 @@ bibkey: li2024informative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13246"}
   - {name: "Code", url: "https://github.com/lizekai-richard/isqa}},"}
-tags: ['Agentic', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Agentic', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 We propose Iterative Facuality Refining on Informative Scientific
 Question-Answering (ISQA) feedback\footnote\{Code is available at

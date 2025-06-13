@@ -7,7 +7,7 @@ year: 2024
 bibkey: m2024machine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13747"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture']
 ---
 This project, titled "Machine Translation with Large Language Models:
 Decoder-only vs. Encoder-Decoder," aims to develop a multilingual machine

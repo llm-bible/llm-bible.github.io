@@ -7,7 +7,7 @@ year: 2024
 bibkey: bacciu2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19749"}
-tags: ['Prompting', 'RAG', 'Model Architecture']
+tags: ['RAG', 'Prompting', 'Model Architecture']
 ---
 Query recommendation systems are ubiquitous in modern search engines,
 assisting users in producing effective queries to meet their information needs.

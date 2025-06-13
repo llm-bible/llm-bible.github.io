@@ -7,7 +7,7 @@ year: 2024
 bibkey: rigaki2024local
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11276"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Large Language Models (LLMs) have shown remarkable potential across various
 domains, including cybersecurity. Using commercial cloud-based LLMs may be

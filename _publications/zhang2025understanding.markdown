@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.15579"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) like GPT-4 and LLaMA-3 utilize the powerful
 in-context learning (ICL) capability of Transformer architecture to learn on

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14860"}
-tags: ['Tools', 'Reinforcement Learning', 'Language Modeling', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Prompting']
 ---
 Despite their outstanding capabilities, large language models (LLMs) are
 prone to hallucination and producing factually incorrect information. This

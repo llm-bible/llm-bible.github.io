@@ -7,7 +7,7 @@ year: 2024
 bibkey: demartini2024mininggpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01189"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advancements of generative LLMs (Large Language Models) have exhibited
 human-like language capabilities but have shown a lack of domain-specific

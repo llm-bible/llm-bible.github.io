@@ -7,7 +7,7 @@ year: 2023
 bibkey: kaddour2023synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01119"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The in-context learning ability of large language models (LLMs) enables them
 to generalize to novel downstream tasks with relatively few labeled examples.

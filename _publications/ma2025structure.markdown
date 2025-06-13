@@ -7,7 +7,7 @@ year: 2025
 bibkey: ma2025structure
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.08179"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Tokenization', 'RAG']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Multimodal Models']
 ---
 Large language models have made remarkable progress in the field of molecular
 science, particularly in understanding and generating functional small

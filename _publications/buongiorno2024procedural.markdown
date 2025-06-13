@@ -7,7 +7,7 @@ year: 2024
 bibkey: buongiorno2024procedural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19721"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 This research introduces Procedural Artificial Narrative using Generative AI
 (PANGeA), a structured approach for leveraging large language models (LLMs),

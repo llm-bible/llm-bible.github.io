@@ -8,7 +8,7 @@ bibkey: wu2024deepseek
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10302"}
   - {name: "Code", url: "https://github.com/deepseek-ai/DeepSeek-VL2"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 We present DeepSeek-VL2, an advanced series of large Mixture-of-Experts (MoE)
 Vision-Language Models that significantly improves upon its predecessor,

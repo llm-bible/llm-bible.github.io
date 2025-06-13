@@ -7,7 +7,7 @@ year: 2024
 bibkey: mañas2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17804"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Impressive advances in text-to-image (T2I) generative models have yielded a
 plethora of high performing models which are able to generate aesthetically

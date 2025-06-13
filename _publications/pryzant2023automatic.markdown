@@ -7,7 +7,7 @@ year: 2023
 bibkey: pryzant2023automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03495"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large Language Models (LLMs) have shown impressive performance as general
 purpose agents, but their abilities remain highly dependent on prompts which

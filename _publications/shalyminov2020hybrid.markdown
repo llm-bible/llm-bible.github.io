@@ -7,7 +7,7 @@ year: 2020
 bibkey: shalyminov2020hybrid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.01680"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Domain adaptation has recently become a key problem in dialogue systems
 research. Deep learning, while being the preferred technique for modeling such

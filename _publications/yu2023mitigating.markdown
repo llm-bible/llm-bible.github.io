@@ -8,7 +8,7 @@ bibkey: yu2023mitigating
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2311.13614v2"}
   - {name: "Code", url: "https://github.com/Yuqifan1117/HalluciDoctor"}
-tags: ['Training Techniques', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
 ---
 Multi-modal Large Language Models (MLLMs) tuned on machine-generated
 instruction-following data have demonstrated remarkable performance in various

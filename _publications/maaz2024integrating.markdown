@@ -8,7 +8,7 @@ bibkey: maaz2024integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09418"}
   - {name: "Code", url: "https://github.com/mbzuai-oryx/VideoGPT-plus"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Has Code']
+tags: ['GPT', 'Multimodal Models', 'Has Code', 'Model Architecture']
 ---
 Building on the advances of language models, Large Multimodal Models (LMMs)
 have contributed significant improvements in video understanding. While the

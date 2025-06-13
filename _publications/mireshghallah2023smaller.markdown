@@ -7,7 +7,7 @@ year: 2023
 bibkey: mireshghallah2023smaller
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.09859"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 With the advent of fluent generative language models that can produce
 convincing utterances very similar to those written by humans, distinguishing

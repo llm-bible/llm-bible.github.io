@@ -7,7 +7,7 @@ year: 2023
 bibkey: yuan2023multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.03844"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Aiming at answering questions based on the content of remotely sensed images,
 visual question answering for remote sensing data (RSVQA) has attracted much

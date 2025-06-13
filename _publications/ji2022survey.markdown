@@ -7,7 +7,7 @@ year: 2022
 bibkey: ji2022survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.03629"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Survey Paper', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Natural Language Generation (NLG) has improved exponentially in recent years
 thanks to the development of sequence-to-sequence deep learning technologies

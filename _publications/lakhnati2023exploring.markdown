@@ -7,7 +7,7 @@ year: 2023
 bibkey: lakhnati2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07214"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In a rapidly evolving digital landscape autonomous tools and robots are
 becoming commonplace. Recognizing the significance of this development, this

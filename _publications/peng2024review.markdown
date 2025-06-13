@@ -7,7 +7,7 @@ year: 2024
 bibkey: peng2024review
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07487"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Pretraining Methods', 'Prompting']
 ---
 Product review generation is an important task in recommender systems, which
 could provide explanation and persuasiveness for the recommendation. Recently,

@@ -7,7 +7,7 @@ year: 2025
 bibkey: berti2025emergent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.05788"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Quantization', 'Prompting', 'Pre-Training']
+tags: ['Responsible AI', 'Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Quantization', 'Prompting']
 ---
 Large Language Models (LLMs) are leading a new technological revolution as
 one of the most promising research streams toward artificial general

@@ -8,7 +8,7 @@ bibkey: das2024gradients
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09722"}
   - {name: "Code", url: "https://github.com/psunlpgroup/GreaTer"}
-tags: ['Prompting', 'RAG', 'Has Code', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Has Code', 'Prompting']
 ---
 The effectiveness of large language models (LLMs) is closely tied to the
 design of prompts, making prompt optimization essential for enhancing their

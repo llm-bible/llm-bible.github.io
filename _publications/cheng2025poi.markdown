@@ -7,7 +7,7 @@ year: 2025
 bibkey: cheng2025poi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10038"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 POI representation learning plays a crucial role in handling tasks related to
 user mobility data. Recent studies have shown that enriching POI

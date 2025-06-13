@@ -7,7 +7,7 @@ year: 2019
 bibkey: sukhbaatar2019adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.07799"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We propose a novel self-attention mechanism that can learn its optimal
 attention span. This allows us to extend significantly the maximum context size

@@ -7,7 +7,7 @@ year: 2025
 bibkey: cao2025enhance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12273"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The quality of Supervised Fine-Tuning (SFT) data plays a critical role in
 enhancing the conversational capabilities of Large Language Models (LLMs).

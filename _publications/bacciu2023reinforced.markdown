@@ -7,7 +7,7 @@ year: 2023
 bibkey: bacciu2023reinforced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.12798"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 The emergence of large language models (LLMs) has revolutionized machine
 learning and related fields, showcasing remarkable abilities in comprehending,

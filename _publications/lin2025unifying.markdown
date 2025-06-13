@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.10406"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'In-Context Learning', 'Large-Scale Training', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Unifying diverse image generation tasks within a single framework remains a
 fundamental challenge in visual generation. While large language models (LLMs)

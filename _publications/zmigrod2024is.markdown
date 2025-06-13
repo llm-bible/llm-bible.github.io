@@ -7,7 +7,7 @@ year: 2024
 bibkey: zmigrod2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15484"}
-tags: ['Prompting', 'Security', 'Training Techniques', 'RAG']
+tags: ['RAG', 'Training Techniques', 'Security', 'Prompting']
 ---
 The rise of large language models (LLMs) for visually rich document
 understanding (VRDU) has kindled a need for prompt-response, document-based

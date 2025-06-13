@@ -7,7 +7,7 @@ year: 2023
 bibkey: baltaji2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16937"}
-tags: ['Training Techniques', 'Model Architecture', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have become remarkably good at improving
 developer productivity for high-resource programming languages. These models

@@ -7,7 +7,7 @@ year: 2025
 bibkey: abbas2025latent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18872"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent work has shown that language models' refusal behavior is primarily
 encoded in a single direction in their latent space, making it vulnerable to

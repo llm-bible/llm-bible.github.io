@@ -8,7 +8,7 @@ bibkey: shao2023closed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07488"}
   - {name: "Code", url: "https://github.com/opendilab/LMDrive"}
-tags: ['RAG', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code']
 ---
 Despite significant recent progress in the field of autonomous driving,
 modern methods still struggle and can incur serious accidents when encountering

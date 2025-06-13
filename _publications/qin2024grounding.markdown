@@ -7,7 +7,7 @@ year: 2024
 bibkey: qin2024grounding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05767"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 In the realm of video dialog response generation, the understanding of video
 content and the temporal nuances of conversation history are paramount. While a

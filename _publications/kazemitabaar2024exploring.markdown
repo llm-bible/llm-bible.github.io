@@ -7,7 +7,7 @@ year: 2024
 bibkey: kazemitabaar2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08922"}
-tags: ['Prompting', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Prompting']
 ---
 Novice programmers are increasingly relying on Large Language Models (LLMs)
 to generate code for learning programming concepts. However, this interaction

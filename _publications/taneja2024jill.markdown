@@ -7,7 +7,7 @@ year: 2024
 bibkey: taneja2024jill
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11070"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Conversational AI agents often require extensive datasets for training that
 are not publicly released, are limited to social chit-chat or handling a

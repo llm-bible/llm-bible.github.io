@@ -7,7 +7,7 @@ year: 2023
 bibkey: he2023economizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00134"}
-tags: ['Efficiency and Optimization', 'Training Techniques']
+tags: ['Training Techniques', 'Efficiency and Optimization']
 ---
 Training large-scale language models is increasingly critical in various
 domains, but it is hindered by frequent failures, leading to significant time

@@ -7,7 +7,7 @@ year: 2022
 bibkey: wu2022adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.12608"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Deep neural models (e.g. Transformer) naturally learn spurious features,
 which create a ``shortcut'' between the labels and inputs, thus impairing the

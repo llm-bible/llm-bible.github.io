@@ -7,7 +7,7 @@ year: 2023
 bibkey: kundu2023sensi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.11764"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Large pre-trained language models have recently gained significant traction
 due to their improved performance on various down-stream tasks like text

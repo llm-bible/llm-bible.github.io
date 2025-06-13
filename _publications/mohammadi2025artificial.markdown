@@ -7,7 +7,7 @@ year: 2025
 bibkey: mohammadi2025artificial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.24062"}
-tags: ['Prompting', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 Collecting high-quality training data is essential for fine-tuning Large
 Language Models (LLMs). However, acquiring such data is often costly and

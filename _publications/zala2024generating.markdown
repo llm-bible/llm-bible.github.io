@@ -7,7 +7,7 @@ year: 2024
 bibkey: zala2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12014"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Recent SOTA approaches for embodied learning via interaction directly employ
 large language models (LLMs) as agents to determine the next steps in an

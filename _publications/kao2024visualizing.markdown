@@ -7,7 +7,7 @@ year: 2024
 bibkey: kao2024visualizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03615"}
-tags: ['RAG', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
+tags: ['RAG', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
 ---
 Recent advancements in dialogue systems have highlighted the significance of
 integrating multimodal responses, which enable conveying ideas through diverse

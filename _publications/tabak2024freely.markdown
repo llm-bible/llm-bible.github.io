@@ -7,7 +7,7 @@ year: 2024
 bibkey: tabak2024freely
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11626"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Freely Long-Thinking Transformer (FraiLT) is an improved transformer model
 designed to enhance processing capabilities without scaling up size. It

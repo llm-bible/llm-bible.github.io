@@ -7,7 +7,7 @@ year: 2023
 bibkey: wen2023informative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13503"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 In this paper, we build a visual dialogue dataset, named InfoVisDial, which
 provides rich informative answers in each round even with external knowledge

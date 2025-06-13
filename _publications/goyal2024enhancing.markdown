@@ -8,7 +8,7 @@ bibkey: goyal2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17846"}
   - {name: "Code", url: "https://github.com/alonso130r/knowledge-distillation"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Transformer', 'Fine-Tuning', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting', 'Distillation']
 ---
 Large language models (LLMs) have demonstrated remarkable performance across
 a wide range of natural language processing (NLP) tasks. However, these models

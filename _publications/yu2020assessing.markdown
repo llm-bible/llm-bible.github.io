@@ -7,7 +7,7 @@ year: 2020
 bibkey: yu2020assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.03763"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Deep transformer models have pushed performance on NLP tasks to new limits,
 suggesting sophisticated treatment of complex linguistic inputs, such as

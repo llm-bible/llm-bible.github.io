@@ -7,7 +7,7 @@ year: 2025
 bibkey: gandhi2025cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01307"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Test-time inference has emerged as a powerful paradigm for enabling language
 models to ``think'' longer and more carefully about complex challenges, much

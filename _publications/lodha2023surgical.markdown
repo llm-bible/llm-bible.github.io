@@ -7,7 +7,7 @@ year: 2023
 bibkey: lodha2023surgical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17041"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning all the layers of a pre-trained neural language encoder (either
 using all the parameters or using parameter-efficient methods) is often the

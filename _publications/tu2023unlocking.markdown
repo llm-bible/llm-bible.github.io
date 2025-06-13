@@ -7,7 +7,7 @@ year: 2023
 bibkey: tu2023unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06149"}
-tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated a powerful ability for text
 generation. However, achieving optimal results with a given prompt or

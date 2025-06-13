@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024aggressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.20094"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pruning', 'Quantization', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Training Techniques', 'Quantization']
 ---
 The increasing size and complexity of Large Language Models (LLMs) pose
 challenges for their deployment on personal computers and mobile devices.

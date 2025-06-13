@@ -7,7 +7,7 @@ year: 2019
 bibkey: nguyen2019transformers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.05895"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism', 'SLT']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'SLT']
 ---
 We evaluate three simple, normalization-centric changes to improve
 Transformer training. First, we show that pre-norm residual connections

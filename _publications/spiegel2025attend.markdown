@@ -8,7 +8,7 @@ bibkey: spiegel2025attend
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01909"}
   - {name: "Code", url: "https://github.com/michalspiegel/AttentionSpan"}
-tags: ['Security', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Security', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Can transformers learn to perform algorithmic tasks reliably across
 previously unseen input/output domains? While pre-trained language models show

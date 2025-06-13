@@ -7,7 +7,7 @@ year: 2022
 bibkey: dakle2022understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.14865"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 We view the landscape of large language models (LLMs) through the lens of the
 recently released BLOOM model to understand the performance of BLOOM and other

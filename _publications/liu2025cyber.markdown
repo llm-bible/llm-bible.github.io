@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025cyber
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20791"}
-tags: ['Agentic', 'Security', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 The exponential growth of cyber threat knowledge, exemplified by the
 expansion of databases such as MITRE-CVE and NVD, poses significant challenges

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zan2024swe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.14354"}
-tags: ['Agentic', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Agentic', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 GitHub issue resolving is a critical task in software engineering, recently
 gaining significant attention in both industry and academia. Within this task,

@@ -7,7 +7,7 @@ year: 2021
 bibkey: quan2021neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.15272"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present an open-source toolkit for neural machine translation (NMT). The
 new toolkit is mainly based on vaulted Transformer (Vaswani et al., 2017) along

@@ -7,7 +7,7 @@ year: 2023
 bibkey: ubani2023generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.14334"}
-tags: ['Prompting', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Prompting', 'Model Architecture']
 ---
 In this paper, we investigate the use of data obtained from prompting a large
 generative language model, ChatGPT, to generate synthetic training data with

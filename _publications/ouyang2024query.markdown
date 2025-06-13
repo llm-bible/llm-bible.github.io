@@ -7,7 +7,7 @@ year: 2024
 bibkey: ouyang2024query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19316"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Extractive Question Answering (EQA) in Machine Reading Comprehension (MRC)
 often faces the challenge of dealing with semantically identical but

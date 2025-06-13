@@ -7,7 +7,7 @@ year: 2022
 bibkey: patra2022beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.14867"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we elaborate upon recipes for building multilingual
 representation models that are not only competitive with existing

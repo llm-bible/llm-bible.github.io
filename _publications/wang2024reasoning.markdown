@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17226"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have achieved remarkable performance in
 objective tasks such as open-domain question answering and mathematical

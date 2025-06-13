@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023one
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.06488"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 OpenAI has recently released GPT-4 (a.k.a. ChatGPT plus), which is
 demonstrated to be one small step for generative AI (GAI), but one giant leap

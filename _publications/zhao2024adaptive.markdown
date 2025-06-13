@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.12200"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Fine-tuning and inference with large Language Models (LM) are generally known
 to be expensive. Parameter-efficient fine-tuning over pretrained LMs reduces

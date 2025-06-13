@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024examining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.03129"}
-tags: ['Pre-Training', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Pre-Training', 'Applications']
 ---
 Recent advances in Large Language Models (LLMs) have exhibited remarkable
 proficiency across various tasks. Given the potent applications of LLMs in

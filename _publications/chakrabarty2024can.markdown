@@ -7,7 +7,7 @@ year: 2024
 bibkey: chakrabarty2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14509"}
-tags: ['Applications', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Applications', 'Model Architecture']
 ---
 LLM-based applications are helping people write, and LLM-generated text is
 making its way into social media, journalism, and our classrooms. However, the

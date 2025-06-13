@@ -7,7 +7,7 @@ year: 2024
 bibkey: devoto2024simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11430"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The deployment of large language models (LLMs) is often hindered by the
 extensive memory requirements of the Key-Value (KV) cache, especially as

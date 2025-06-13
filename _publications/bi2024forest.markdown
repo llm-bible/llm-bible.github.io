@@ -8,7 +8,7 @@ bibkey: bi2024forest
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09078"}
   - {name: "Code", url: "https://github.com/iamhankai/Forest-of-Thought"}
-tags: ['Efficiency and Optimization', 'Tools', 'RAG', 'Has Code', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable abilities across
 various language tasks, but solving complex reasoning problems remains a

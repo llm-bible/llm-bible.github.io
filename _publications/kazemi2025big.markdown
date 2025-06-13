@@ -8,7 +8,7 @@ bibkey: kazemi2025big
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19187"}
   - {name: "Code", url: "https://github.com/google-deepmind/bbeh"}
-tags: ['RAG', 'Applications', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code', 'Applications']
 ---
 Large language models (LLMs) are increasingly deployed in everyday
 applications, demanding robust general reasoning capabilities and diverse

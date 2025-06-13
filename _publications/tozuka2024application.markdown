@@ -7,7 +7,7 @@ year: 2024
 bibkey: tozuka2024application
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10869"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 Purpose: In radiology, large language models (LLMs), including ChatGPT, have
 recently gained attention, and their utility is being rapidly evaluated.

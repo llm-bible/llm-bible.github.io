@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023instructions
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14710"}
-tags: ['Security', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Security', 'Reinforcement Learning']
 ---
 We investigate security concerns of the emergent instruction tuning paradigm,
 that models are trained on crowdsourced datasets with task instructions to

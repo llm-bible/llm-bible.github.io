@@ -7,7 +7,7 @@ year: 2024
 bibkey: thatikonda2024strategies
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16461"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Logical reasoning is a fundamental task in natural language processing that
 presents significant challenges to Large Language Models (LLMs). The inherent

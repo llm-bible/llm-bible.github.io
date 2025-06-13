@@ -7,7 +7,7 @@ year: 2020
 bibkey: lin2020variational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.12738"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite the great promise of Transformers in many sequence modeling tasks
 (e.g., machine translation), their deterministic nature hinders them from

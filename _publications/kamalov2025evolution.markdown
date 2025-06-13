@@ -7,7 +7,7 @@ year: 2025
 bibkey: kamalov2025evolution
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20082"}
-tags: ['Agentic', 'Training Techniques', 'Survey Paper', 'Tools', 'Interpretability and Explainability', 'Applications']
+tags: ['Agentic', 'Tools', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'Training Techniques']
 ---
 Artificial intelligence (AI) has transformed various aspects of education,
 with large language models (LLMs) driving advancements in automated tutoring,

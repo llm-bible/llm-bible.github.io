@@ -7,7 +7,7 @@ year: 2024
 bibkey: hao2024data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13540"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Multimodal Large Language Models (MLLMs) have shown promise in a broad range
 of vision-language tasks with their strong reasoning and generalization

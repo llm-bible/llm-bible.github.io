@@ -7,7 +7,7 @@ year: 2021
 bibkey: artetxe2021efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.10684"}
-tags: ['Training Techniques', 'Few-Shot', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Mixture of Experts layers (MoEs) enable efficient scaling of language models
 through conditional computation. This paper presents a detailed empirical study

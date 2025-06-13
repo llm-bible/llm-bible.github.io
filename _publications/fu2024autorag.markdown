@@ -8,7 +8,7 @@ bibkey: fu2024autorag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19251"}
   - {name: "Code", url: "https://aka.ms/autorag"}
-tags: ['Efficiency and Optimization', 'Tools', 'RAG', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Has Code', 'Prompting']
 ---
 Recent advancements in Large Language Models have transformed ML/AI
 development, necessitating a reevaluation of AutoML principles for the

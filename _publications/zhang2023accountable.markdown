@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023accountable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.05983"}
-tags: ['Responsible AI', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Responsible AI', 'Transformer', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 The recent success of ChatGPT and GPT-4 has drawn widespread attention to
 multimodal dialogue systems. However, there is a lack of datasets in the

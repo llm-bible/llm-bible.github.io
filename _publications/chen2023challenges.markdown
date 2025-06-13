@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023challenges
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13343"}
-tags: ['Responsible AI', 'Multimodal Models', 'Training Techniques', 'Fairness', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Responsible AI', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Fairness', 'Training Techniques', 'Multimodal Models']
 ---
 With the development of large language models (LLMs) like the GPT series,
 their widespread use across various application scenarios presents a myriad of

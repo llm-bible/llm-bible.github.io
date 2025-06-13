@@ -7,7 +7,7 @@ year: 2025
 bibkey: tulchinskii2025quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17017"}
-tags: ['Security', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Security', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated impressive performance in
 various natural language processing tasks, yet their ability to perform

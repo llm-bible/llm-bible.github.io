@@ -8,7 +8,7 @@ bibkey: bai2025unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13297"}
   - {name: "Code", url: "https://github.com/TonyBY/RAMQA"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multi-modal retrieval-augmented Question Answering (MRAQA), integrating text
 and images, has gained significant attention in information retrieval (IR) and

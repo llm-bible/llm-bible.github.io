@@ -7,7 +7,7 @@ year: 2023
 bibkey: shen2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08540"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The emergence of In-Context Learning (ICL) in LLMs remains a remarkable
 phenomenon that is partially understood. To explain ICL, recent studies have

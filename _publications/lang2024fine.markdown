@@ -8,7 +8,7 @@ bibkey: lang2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19279"}
   - {name: "Code", url: "https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/rlp"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Reinforcement learning from human feedback (RLHF) has emerged as an effective
 approach to aligning large language models (LLMs) to human preferences. RLHF

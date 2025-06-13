@@ -8,7 +8,7 @@ bibkey: viswanathan2023generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12261"}
   - {name: "Code", url: "https://github.com/neulab/prompt2model"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) enable system builders today to create competent
 NLP systems through prompting, where they only need to describe the task in

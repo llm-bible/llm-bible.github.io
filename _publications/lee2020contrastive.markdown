@@ -7,7 +7,7 @@ year: 2020
 bibkey: lee2020contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.07280"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Language Modeling', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, sequence-to-sequence (seq2seq) models with the Transformer
 architecture have achieved remarkable performance on various conditional text

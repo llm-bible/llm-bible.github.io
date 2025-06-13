@@ -7,7 +7,7 @@ year: 2024
 bibkey: yue2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03864"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Enhancing the capability of large language models (LLMs) in reasoning has
 gained significant attention in recent years. Previous studies have

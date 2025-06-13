@@ -8,7 +8,7 @@ bibkey: lin2025medical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09838"}
   - {name: "Code", url: "https://github.com/DCDmllm/HealthGPT"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present HealthGPT, a powerful Medical Large Vision-Language Model
 (Med-LVLM) that integrates medical visual comprehension and generation

@@ -7,7 +7,7 @@ year: 2024
 bibkey: sheth2024neurosymbolic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18722"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Generative AI, especially via Large Language Models (LLMs), has transformed
 content creation across text, images, and music, showcasing capabilities in

@@ -7,7 +7,7 @@ year: 2022
 bibkey: keymanesh2022what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.11505"}
-tags: ['Training Techniques', 'Few-Shot', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Expressing natural language descriptions of structured facts or relations --
 data-to-text generation (D2T) -- increases the accessibility of structured

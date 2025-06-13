@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024ethical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13334"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Prompting']
 ---
 Although large language models (LLMs) demonstrate impressive proficiency in
 various tasks, they present potential safety risks, such as `jailbreaks', where

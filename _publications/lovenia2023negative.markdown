@@ -7,7 +7,7 @@ year: 2023
 bibkey: lovenia2023negative
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2310.05338v2"}
-tags: ['Security', 'Applications', 'Tools', 'Multimodal Models']
+tags: ['Security', 'Tools', 'Multimodal Models', 'Applications']
 ---
 Object hallucination poses a significant challenge in vision-language (VL)
 models, often leading to the generation of nonsensical or unfaithful responses

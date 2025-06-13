@@ -8,7 +8,7 @@ bibkey: salazar2019masked
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.14659"}
   - {name: "Code", url: "https://github.com/awslabs/mlm-scoring"}
-tags: ['Masked Language Model', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Masked Language Model', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Pretrained masked language models (MLMs) require finetuning for most NLP
 tasks. Instead, we evaluate MLMs out of the box via their pseudo-log-likelihood

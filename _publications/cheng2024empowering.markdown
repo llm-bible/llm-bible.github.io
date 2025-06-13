@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheng2024empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11027"}
-tags: ['Prompting', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 While large language models (LLMs) are successful in completing various
 language processing tasks, they easily fail to interact with the physical world

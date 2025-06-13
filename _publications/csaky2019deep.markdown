@@ -7,7 +7,7 @@ year: 2019
 bibkey: csaky2019deep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.08835"}
-tags: ['Agentic', 'Model Architecture', 'Survey Paper', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Survey Paper', 'Model Architecture', 'Pretraining Methods']
 ---
 A conversational agent (chatbot) is a piece of software that is able to
 communicate with humans using natural language. Modeling conversation is an

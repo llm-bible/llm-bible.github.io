@@ -8,7 +8,7 @@ bibkey: zheng2023judging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.05685"}
   - {name: "Code", url: "https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Has Code']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Has Code']
 ---
 Evaluating large language model (LLM) based chat assistants is challenging
 due to their broad capabilities and the inadequacy of existing benchmarks in

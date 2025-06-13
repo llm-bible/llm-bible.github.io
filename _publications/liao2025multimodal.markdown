@@ -8,7 +8,7 @@ bibkey: liao2025multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13145"}
   - {name: "Code", url: "https://github.com/hustvl/mmMamba"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 Recent Multimodal Large Language Models (MLLMs) have achieved remarkable
 performance but face deployment challenges due to their quadratic computational

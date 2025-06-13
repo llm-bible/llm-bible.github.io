@@ -7,7 +7,7 @@ year: 2022
 bibkey: li2022task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.12539"}
-tags: ['Training Techniques', 'Model Architecture', 'BERT', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'BERT', 'Prompting']
 ---
 We present a system for knowledge graph population with Language Models,
 evaluated on the Knowledge Base Construction from Pre-trained Language Models

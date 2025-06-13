@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16208"}
-tags: ['Training Techniques', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools']
 ---
 The rapid evolution of artificial intelligence in drug discovery encounters
 challenges with generalization and extensive training, yet Large Language

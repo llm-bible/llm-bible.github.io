@@ -7,7 +7,7 @@ year: 2023
 bibkey: gupta2023bias
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04892"}
-tags: ['Model Architecture', 'Fairness', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Fairness', 'Prompting']
 ---
 Recent works have showcased the ability of LLMs to embody diverse personas in
 their responses, exemplified by prompts like 'You are Yoda. Explain the Theory

@@ -7,7 +7,7 @@ year: 2025
 bibkey: peinl2025using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11104"}
-tags: ['Prompting', 'Ethics and Bias', 'Merging', 'Reinforcement Learning']
+tags: ['Merging', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 This study examines how Large Language Models (LLMs) can reduce biases in
 text-to-image generation systems by modifying user prompts. We define bias as a

@@ -7,7 +7,7 @@ year: 2025
 bibkey: besta2025reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.11223"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Tools', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Reasoning language models (RLMs), also known as Large Reasoning Models
 (LRMs), such as OpenAI's o1 and o3, DeepSeek-V3, and Alibaba's QwQ, have

@@ -8,7 +8,7 @@ bibkey: zhang2025thinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15589"}
   - {name: "Code", url: "https://github.com/zjunlp/LightThinker"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Has Code', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Large language models (LLMs) have shown remarkable performance in complex
 reasoning tasks, but their efficiency is hindered by the substantial memory and

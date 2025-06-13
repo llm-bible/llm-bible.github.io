@@ -7,7 +7,7 @@ year: 2024
 bibkey: yin2024elasticized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.09071"}
-tags: ['Agentic', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 On-device Large Language Models (LLMs) are revolutionizing mobile AI,
 enabling applications such as UI automation while addressing privacy concerns.

@@ -8,7 +8,7 @@ bibkey: hao2024memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04984"}
   - {name: "Code", url: "https://github.com/CURRENTF/MEFT"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Parameter-Efficient Fine-tuning (PEFT) facilitates the fine-tuning of Large
 Language Models (LLMs) under limited resources. However, the fine-tuning

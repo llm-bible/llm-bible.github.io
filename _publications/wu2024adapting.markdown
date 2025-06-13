@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06468"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have significantly advanced various natural
 language processing (NLP) tasks. Recent research indicates that

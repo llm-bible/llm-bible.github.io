@@ -7,7 +7,7 @@ year: 2021
 bibkey: launay2021extra
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08554"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'GPT', 'Large-Scale Training', 'BERT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'BERT', 'Scaling Laws']
 ---
 Access to large pre-trained models of varied architectures, in many different
 languages, is central to the democratization of NLP. We introduce PAGnol, a

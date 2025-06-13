@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024dictionary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01141"}
-tags: ['Prompting', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 As current training data for Large Language Models (LLMs) are dominated by
 English corpus, they are English-centric and they present impressive

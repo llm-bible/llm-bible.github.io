@@ -7,7 +7,7 @@ year: 2021
 bibkey: bhojanapalli2021leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.06821"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Pairwise dot product-based attention allows Transformers to exchange
 information between tokens in an input-dependent way, and is key to their

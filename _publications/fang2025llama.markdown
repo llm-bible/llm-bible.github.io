@@ -7,7 +7,7 @@ year: 2025
 bibkey: fang2025llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.02625"}
-tags: ['Applications', 'Pretraining Methods', 'GPT']
+tags: ['GPT', 'Applications', 'Pretraining Methods']
 ---
 Real-time, intelligent, and natural speech interaction is an essential part
 of the next-generation human-computer interaction. Recent advancements have

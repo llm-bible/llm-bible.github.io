@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025single
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14694"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) have significantly
 propelled the development of large multi-modal models (LMMs), highlighting the

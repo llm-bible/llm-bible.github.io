@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19103"}
-tags: ['Prompting', 'RAG', 'Merging', 'Reinforcement Learning']
+tags: ['Merging', 'RAG', 'Prompting', 'Reinforcement Learning']
 ---
 Prompt engineering is an effective but labor-intensive way to control
 text-to-image (T2I) generative models. Its time-intensive nature and complexity

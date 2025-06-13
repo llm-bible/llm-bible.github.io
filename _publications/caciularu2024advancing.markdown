@@ -7,7 +7,7 @@ year: 2024
 bibkey: caciularu2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03618"}
-tags: ['Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) often do not perform well on queries that
 require the aggregation of information across texts. To better evaluate this

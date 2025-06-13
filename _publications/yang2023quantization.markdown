@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023quantization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.01076"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Quantization', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Distillation']
 ---
 Fine-tuned transformer models have shown superior performances in many
 natural language tasks. However, the large model size prohibits deploying

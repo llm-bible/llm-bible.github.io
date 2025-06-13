@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07863"}
   - {name: "Code", url: "https://github.com/RLHFlow/RLHF-Reward-Modeling"}
   - {name: "Code", url: "https://github.com/RLHFlow/Online-RLHF"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We present the workflow of Online Iterative Reinforcement Learning from Human
 Feedback (RLHF) in this technical report, which is widely reported to

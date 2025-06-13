@@ -8,7 +8,7 @@ bibkey: lucas2023fighting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15515"}
   - {name: "Code", url: "https://github.com/mickeymst/F3"}
-tags: ['Model Architecture', 'RAG', 'Merging', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Merging', 'Has Code', 'Prompting']
 ---
 Recent ubiquity and disruptive impacts of large language models (LLMs) have
 raised concerns about their potential to be misused (.i.e, generating

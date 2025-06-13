@@ -8,7 +8,7 @@ bibkey: an2025systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06415"}
   - {name: "Code", url: "https://github.com/an-yongqi/systematic-outliers"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Quantization', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Quantization']
 ---
 Outliers have been widely observed in Large Language Models (LLMs),
 significantly impacting model performance and posing challenges for model

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kadhe2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11780"}
-tags: ['Responsible AI', 'RAG', 'Merging', 'Tools']
+tags: ['Responsible AI', 'RAG', 'Tools', 'Merging']
 ---
 Large language models (LLMs) have shown to pose social and ethical risks such
 as generating toxic language or facilitating malicious use of hazardous

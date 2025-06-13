@@ -7,7 +7,7 @@ year: 2024
 bibkey: yi2024generation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11809"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Training Techniques', 'Pretraining Methods']
 ---
 This research aims to accelerate the inference speed of large language models
 (LLMs) with billions of parameters. We propose \textbf\{S\}mart \textbf\{P\}arallel

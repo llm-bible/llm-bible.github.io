@@ -7,7 +7,7 @@ year: 2023
 bibkey: shnitzer2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15789"}
-tags: ['Applications', 'Tools']
+tags: ['Tools', 'Applications']
 ---
 There is a rapidly growing number of open-source Large Language Models (LLMs)
 and benchmark datasets to compare them. While some models dominate these

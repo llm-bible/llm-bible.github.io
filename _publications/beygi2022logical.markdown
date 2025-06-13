@@ -7,7 +7,7 @@ year: 2022
 bibkey: beygi2022logical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.04161"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 In recent years, large pretrained models have been used in dialogue systems
 to improve successful task completion rates. However, lack of reasoning

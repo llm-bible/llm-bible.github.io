@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11288"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent research has shown that large language models (LLMs) can achieve
 remarkable translation performance through supervised fine-tuning (SFT) using

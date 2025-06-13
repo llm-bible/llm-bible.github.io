@@ -7,7 +7,7 @@ year: 2024
 bibkey: wangni2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02791"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 This paper introduces a novel framework that leverages large language models
 (LLMs) for machine translation (MT). We start with one conjecture: an ideal

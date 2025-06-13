@@ -8,7 +8,7 @@ bibkey: federici2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01380"}
   - {name: "Code", url: "https://github.com/Qualcomm-AI-research/dynamic-sparsity"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 While mobile devices provide ever more compute power, improvements in DRAM
 bandwidth are much slower. This is unfortunate for large language model (LLM)

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zaree2025attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15334"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Prompting', 'Attention Mechanism']
+tags: ['Responsible AI', 'Model Architecture', 'Security', 'Attention Mechanism', 'Prompting']
 ---
 Recent research has shown that carefully crafted jailbreak inputs can induce
 large language models to produce harmful outputs, despite safety measures such

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wei2024emoji
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01077"}
-tags: ['Security', 'Reinforcement Learning', 'Tokenization', 'RAG', 'Ethics and Bias', 'Prompting', 'In-Context Learning']
+tags: ['Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Security', 'Tokenization', 'Prompting', 'In-Context Learning']
 ---
 Jailbreaking techniques trick Large Language Models (LLMs) into producing
 restricted outputs, posing a serious threat. One line of defense is to use

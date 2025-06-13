@@ -8,7 +8,7 @@ bibkey: jahan2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17255"}
   - {name: "Code", url: "https://github.com/ResponsibleAILab/emoji-universal-sentiment"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Multimodal Models']
 ---
 Emojis have become ubiquitous in online communication, serving as a universal
 medium to convey emotions and decorative elements. Their widespread use

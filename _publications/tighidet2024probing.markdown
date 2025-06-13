@@ -7,7 +7,7 @@ year: 2024
 bibkey: tighidet2024probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05817"}
-tags: ['Prompting', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) often encounter conflicts between their learned,
 internal (parametric knowledge, PK) and external knowledge provided during

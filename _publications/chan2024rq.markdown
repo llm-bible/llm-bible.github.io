@@ -8,7 +8,7 @@ bibkey: chan2024rq
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00610"}
   - {name: "Code", url: "https://github.com/chanchimin/RQ-RAG"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) exhibit remarkable capabilities but are prone to
 generating inaccurate or hallucinatory responses. This limitation stems from

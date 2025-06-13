@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023gemini
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17661"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 The burgeoning interest in Multimodal Large Language Models (MLLMs), such as
 OpenAI's GPT-4V(ision), has significantly impacted both academic and industrial

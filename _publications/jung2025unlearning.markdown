@@ -7,7 +7,7 @@ year: 2025
 bibkey: jung2025unlearning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15826"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 Large language models (LLMs) often retain outdated or incorrect information
 from pre-training, which undermines their reliability. While model editing

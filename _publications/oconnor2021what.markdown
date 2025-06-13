@@ -7,7 +7,7 @@ year: 2021
 bibkey: oconnor2021what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.08367"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based language models benefit from conditioning on contexts of
 hundreds to thousands of previous tokens. What aspects of these contexts

@@ -7,7 +7,7 @@ year: 2025
 bibkey: malghan2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13936"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have emerged as transformative tools in the
 healthcare sector, demonstrating remarkable capabilities in natural language

@@ -7,7 +7,7 @@ year: 2021
 bibkey: lu2021fantastically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.08786"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 When primed with only a handful of training samples, very large, pretrained
 language models such as GPT-3 have shown competitive results when compared to

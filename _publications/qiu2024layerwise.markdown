@@ -8,7 +8,7 @@ bibkey: qiu2024layerwise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06793"}
   - {name: "Code", url: "https://github.com/qiuzh20/RMoE"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Has Code']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code']
 ---
 The scaling of large language models (LLMs) has revolutionized their
 capabilities in various tasks, yet this growth must be matched with efficient

@@ -7,7 +7,7 @@ year: 2025
 bibkey: mei2025panguir
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04809"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'In-Context Learning', 'Prompting', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
 ---
 As large language models (LLMs) gain widespread attention in both academia
 and industry, it becomes increasingly critical and challenging to effectively

@@ -8,7 +8,7 @@ bibkey: zhang2024found
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04797"}
   - {name: "Code", url: "https://github.com/VITA-Group/Ms-PoE"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Merging', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Language Modeling', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 This paper aims to overcome the "lost-in-the-middle" challenge of large
 language models (LLMs). While recent advancements have successfully enabled

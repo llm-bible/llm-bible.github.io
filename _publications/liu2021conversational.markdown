@@ -7,7 +7,7 @@ year: 2021
 bibkey: liu2021conversational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.04708"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Context modeling plays a critical role in building multi-turn dialogue
 systems. Conversational Query Rewriting (CQR) aims to simplify the multi-turn

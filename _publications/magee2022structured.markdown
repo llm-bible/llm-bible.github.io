@@ -7,7 +7,7 @@ year: 2022
 bibkey: magee2022structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.05058"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Drawing from the resources of psychoanalysis and critical media studies, in
 this paper we develop an analysis of Large Language Models (LLMs) as automated

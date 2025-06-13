@@ -7,7 +7,7 @@ year: 2023
 bibkey: hou2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14491"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Attention Mechanism']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent work has shown that language models (LMs) have strong multi-step
 (i.e., procedural) reasoning capabilities. However, it is unclear whether LMs

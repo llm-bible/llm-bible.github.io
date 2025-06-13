@@ -7,7 +7,7 @@ year: 2024
 bibkey: hopp2024free
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16896"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Generative artificial intelligence (AI), and in particular Large Language
 Models (LLMs), have exploded in popularity and attention since the release to

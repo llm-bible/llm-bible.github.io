@@ -8,7 +8,7 @@ bibkey: liu2021augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.00522"}
   - {name: "Code", url: "https://github.com/DyGRec/ASReP"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Sequential Recommendation characterizes the evolving patterns by modeling
 item sequences chronologically. The essential target of it is to capture the

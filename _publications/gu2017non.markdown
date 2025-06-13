@@ -7,7 +7,7 @@ year: 2017
 bibkey: gu2017non
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1711.02281"}
-tags: ['WMT', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Distillation', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications', 'SLT']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'SLT', 'Distillation']
 ---
 Existing approaches to neural machine translation condition each output word
 on previously generated outputs. We introduce a model that avoids this

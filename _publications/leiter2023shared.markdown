@@ -7,7 +7,7 @@ year: 2023
 bibkey: leiter2023shared
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19792"}
-tags: ['Training Techniques', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 With an increasing number of parameters and pre-training data, generative
 large language models (LLMs) have shown remarkable capabilities to solve tasks

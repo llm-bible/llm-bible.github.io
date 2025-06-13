@@ -7,7 +7,7 @@ year: 2021
 bibkey: atri2021leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.09601"}
-tags: ['ICML', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'NeurIPS', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'ICML', 'Transformer', 'Applications', 'RAG', 'NeurIPS', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 In recent years, abstractive text summarization with multimodal inputs has
 started drawing attention due to its ability to accumulate information from

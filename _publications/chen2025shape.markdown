@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025shape
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04858"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Visual Language Models (LVLMs) increasingly rely on preference
 alignment to ensure reliability, which steers the model behavior via preference

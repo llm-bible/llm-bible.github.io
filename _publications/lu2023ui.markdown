@@ -7,7 +7,7 @@ year: 2023
 bibkey: lu2023ui
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15455"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Interpretability', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Prompting', 'In-Context Learning']
 ---
 The recent advances in Large Language Models (LLMs) have stimulated interest
 among researchers and industry professionals, particularly in their application

@@ -7,7 +7,7 @@ year: 2024
 bibkey: katinskaia2024probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02335"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 We investigate how pretrained language models (PLM) encode the grammatical
 category of verbal aspect in Russian. Encoding of aspect in transformer LMs has

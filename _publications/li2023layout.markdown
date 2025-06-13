@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023layout
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16476"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Merging', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Geometry problem solving (GPS) is a challenging mathematical reasoning task
 requiring multi-modal understanding, fusion, and reasoning. Existing neural

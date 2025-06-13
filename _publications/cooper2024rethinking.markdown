@@ -7,7 +7,7 @@ year: 2024
 bibkey: cooper2024rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14690"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Visual Language Models (VLMs) are now increasingly being merged with Large
 Language Models (LLMs) to enable new capabilities, particularly in terms of

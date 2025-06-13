@@ -8,7 +8,7 @@ bibkey: song2024increasing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01320"}
   - {name: "Code", url: "https://github.com/LINs-lab/CapaBoost"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Fine-tuning large pre-trained foundation models, such as the 175B GPT-3, has
 attracted more attention for downstream tasks recently. While

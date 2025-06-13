@@ -7,7 +7,7 @@ year: 2024
 bibkey: ramos2024personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05033"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Distillation', 'RecSys', 'Interpretability and Explainability', 'Prompting']
+tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'Reinforcement Learning', 'RecSys', 'Prompting', 'Distillation']
 ---
 Recently, researchers have investigated the capabilities of Large Language
 Models (LLMs) for generative recommender systems. Existing LLM-based

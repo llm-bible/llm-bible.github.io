@@ -7,7 +7,7 @@ year: 2025
 bibkey: qiu2025graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06430"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'RecSys', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'RecSys', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Conversational Recommender Systems (CRSs) have emerged as a transformative
 paradigm for offering personalized recommendations through natural language

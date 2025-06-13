@@ -8,7 +8,7 @@ bibkey: cui2024rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01851"}
   - {name: "Code", url: "https://github.com/ymcui/Chinese-Mixtral"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Mixtral, a representative sparse mixture of experts (SMoE) language model,
 has received significant attention due to its unique model design and superior

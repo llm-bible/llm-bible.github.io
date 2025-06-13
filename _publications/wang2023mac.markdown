@@ -8,7 +8,7 @@ bibkey: wang2023mac
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11242"}
   - {name: "Code", url: "https://github.com/wbbeyourself/MAC-SQL)"}
-tags: ['Agentic', 'Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Has Code', 'Few-Shot']
 ---
 Recent LLM-based Text-to-SQL methods usually suffer from significant
 performance degradation on "huge" databases and complex user questions that

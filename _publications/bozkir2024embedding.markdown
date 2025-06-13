@@ -7,7 +7,7 @@ year: 2024
 bibkey: bozkir2024embedding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03907"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Advances in artificial intelligence and human-computer interaction will
 likely lead to extended reality (XR) becoming pervasive. While XR can provide

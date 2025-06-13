@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024soft
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03160"}
-tags: ['Prompting', 'Security', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Security', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Open-source large language models (LLMs) have become increasingly popular
 among both the general public and industry, as they can be customized,

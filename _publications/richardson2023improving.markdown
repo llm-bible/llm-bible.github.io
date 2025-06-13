@@ -7,7 +7,7 @@ year: 2023
 bibkey: richardson2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10015"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Commonsense reasoning is a critical aspect of human communication. Despite
 recent advances in conversational AI driven by large language models,

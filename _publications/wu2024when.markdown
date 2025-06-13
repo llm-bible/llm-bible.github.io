@@ -8,7 +8,7 @@ bibkey: wu2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.06601"}
   - {name: "Code", url: "https://anonymous.4open.science/r/SM-1E76"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 Hallucination is a major challenge for large language models (LLMs),
 preventing their further application in some fields. The skeptical thinking of

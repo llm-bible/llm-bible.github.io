@@ -7,7 +7,7 @@ year: 2023
 bibkey: hwang2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.13986"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 With their remarkably improved text generation and prompting capabilities,
 large language models can adapt existing written information into forms that

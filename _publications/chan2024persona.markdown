@@ -7,7 +7,7 @@ year: 2024
 bibkey: chan2024persona
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04239"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 Debate is the process of exchanging viewpoints or convincing others on a
 particular issue. Recent research has provided empirical evidence that the

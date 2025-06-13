@@ -7,7 +7,7 @@ year: 2024
 bibkey: brown2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01943"}
-tags: ['Security', 'Model Architecture', 'Fairness', 'Few-Shot', 'Tools', 'Survey Paper', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Interpretability', 'Security', 'BERT', 'Few-Shot', 'Fairness']
 ---
 This paper surveys evaluation techniques to enhance the trustworthiness and
 understanding of Large Language Models (LLMs). As reliance on LLMs grows,

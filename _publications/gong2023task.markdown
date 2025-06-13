@@ -7,7 +7,7 @@ year: 2023
 bibkey: gong2023task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.00014"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Quantization', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization']
 ---
 While transformer-based pre-trained language models (PLMs) have dominated a
 number of NLP applications, these models are heavy to deploy and expensive to

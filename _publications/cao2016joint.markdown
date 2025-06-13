@@ -7,7 +7,7 @@ year: 2016
 bibkey: cao2016joint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1611.09235"}
-tags: ['Training Techniques', 'Applications', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Many natural language generation tasks, such as abstractive summarization and
 text simplification, are paraphrase-orientated. In these tasks, copying and

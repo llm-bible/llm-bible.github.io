@@ -8,7 +8,7 @@ bibkey: wu2023visual
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.04671v1"}
   - {name: "Code", url: "https://github.com/microsoft/visual-chatgpt"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 ChatGPT is attracting a cross-field interest as it provides a language
 interface with remarkable conversational competency and reasoning capabilities

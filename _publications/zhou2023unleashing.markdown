@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.13856"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'TACL', 'GPT', 'Ethics and Bias', 'ACL', 'Attention Mechanism']
+tags: ['GPT', 'Ethics and Bias', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Attention Mechanism']
 ---
 Incorporating artificial intelligence (AI) technology, particularly large
 language models (LLMs), is becoming increasingly vital for developing immersive

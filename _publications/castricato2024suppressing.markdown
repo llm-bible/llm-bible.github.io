@@ -7,7 +7,7 @@ year: 2024
 bibkey: castricato2024suppressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07896"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Existing methods for controlling language models, such as RLHF and
 Constitutional AI, involve determining which LLM behaviors are desirable and

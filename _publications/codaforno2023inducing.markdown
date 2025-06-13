@@ -7,7 +7,7 @@ year: 2023
 bibkey: codaforno2023inducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.11111"}
-tags: ['Prompting', 'Ethics and Bias', 'Tools']
+tags: ['Tools', 'Prompting', 'Ethics and Bias']
 ---
 Large language models (LLMs) are transforming research on machine learning
 while galvanizing public debates. Understanding not only when these models work

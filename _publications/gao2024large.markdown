@@ -8,7 +8,7 @@ bibkey: gao2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10223"}
   - {name: "Code", url: "https://github.com/GCYZSL/O3-LLM-UNLEARNING"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning', 'Merging', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Merging', 'Reinforcement Learning', 'Security', 'Has Code']
 ---
 While large language models have demonstrated impressive performance across
 various domains and tasks, their security issues have become increasingly

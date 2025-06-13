@@ -8,7 +8,7 @@ bibkey: zhao2022lite
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.14103"}
   - {name: "Code", url: "https://github.com/Yilin1111/poi-net"}
-tags: ['Has Code', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 As a broad and major category in machine reading comprehension (MRC), the
 generalized goal of discriminative MRC is answer prediction from the given

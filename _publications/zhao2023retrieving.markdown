@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023retrieving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.10868"}
-tags: ['Security', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability', 'Applications']
+tags: ['Survey Paper', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Security', 'Multimodal Models']
 ---
 As Large Language Models (LLMs) become popular, there emerged an important
 trend of using multimodality to augment the LLMs' generation ability, which

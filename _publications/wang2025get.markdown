@@ -8,7 +8,7 @@ bibkey: wang2025get
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11183"}
   - {name: "Code", url: "https://github.com/Soistesimmer/Fetch"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Merging', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Merging', 'Training Techniques', 'Has Code']
 ---
 Recent advancements in tree search algorithms guided by verifiers have
 significantly enhanced the reasoning capabilities of large language models

@@ -7,7 +7,7 @@ year: 2025
 bibkey: albinhassan2025semantically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01804"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Ensuring both syntactic and semantic correctness in Large Language Model
 (LLM) outputs remains a significant challenge, despite being critical for

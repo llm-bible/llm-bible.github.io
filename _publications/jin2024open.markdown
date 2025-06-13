@@ -8,7 +8,7 @@ bibkey: jin2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10872"}
   - {name: "Code", url: "https://github.com/CharlesPikachu/ToolBridge,"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Through the integration of external tools, large language models (LLMs) such
 as GPT-4o and Llama 3.1 significantly expand their functional capabilities,

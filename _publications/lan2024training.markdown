@@ -7,7 +7,7 @@ year: 2024
 bibkey: lan2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15287"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Critique ability, a meta-cognitive capability of humans, presents significant
 challenges for LLMs to improve. Recent works primarily rely on supervised

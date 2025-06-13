@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00430"}
-tags: ['Agentic', 'Training Techniques', 'Few-Shot', 'Tools']
+tags: ['Training Techniques', 'Few-Shot', 'Agentic', 'Tools']
 ---
 Agents have demonstrated their potential in scientific reasoning tasks
 through large language models. However, they often face challenges such as

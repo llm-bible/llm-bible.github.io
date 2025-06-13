@@ -7,7 +7,7 @@ year: 2025
 bibkey: abdellatif2025fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01588"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have become essential tools across various
 domains due to their impressive capabilities in understanding and generating

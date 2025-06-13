@@ -7,7 +7,7 @@ year: 2025
 bibkey: siddique2025shifting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.05371"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'RAG', 'Merging', 'Bias Mitigation', 'Ethics and Bias']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Merging']
 ---
 We present a novel approach to bias mitigation in large language models
 (LLMs) by applying steering vectors to modify model activations in forward

@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024focal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14164"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'RAG', 'Pruning', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) represent a significant advancement
 toward achieving superior multimodal capabilities by enabling powerful Large

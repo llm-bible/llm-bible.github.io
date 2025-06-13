@@ -8,7 +8,7 @@ bibkey: huang2024liberal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15461"}
   - {name: "Code", url: "https://github.com/ram2c/ram2c}{https://github.com/ram2c/ram2c"}
-tags: ['Responsible AI', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Has Code']
+tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Recently, many studies focus on utilizing large language models (LLMs) into
 educational dialogues. Especially, within liberal arts dialogues, educators

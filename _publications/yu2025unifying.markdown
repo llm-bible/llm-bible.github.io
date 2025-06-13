@@ -7,7 +7,7 @@ year: 2025
 bibkey: yu2025unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19900"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 The rapid advancement of large vision-language models (LVLMs) has driven
 significant progress in multimodal tasks, enabling models to interpret, reason,

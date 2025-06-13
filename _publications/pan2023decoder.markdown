@@ -8,7 +8,7 @@ bibkey: pan2023decoder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15539"}
   - {name: "Code", url: "https://github.com/sade-adrien/SteloCoder"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 With the recent focus on Large Language Models (LLMs), both StarCoder (Li et
 al., 2023) and Code Llama (Rozi\`ere et al., 2023) have demonstrated remarkable

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13588"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Prompting']
 ---
 As large language models (LLMs) advance, their potential applications have
 grown significantly. However, it remains difficult to evaluate LLM behavior on

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024smi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05569"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 SMILES, a crucial textual representation of molecular structures, has
 garnered significant attention as a foundation for pre-trained language models

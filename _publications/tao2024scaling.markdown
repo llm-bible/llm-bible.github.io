@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13623"}
   - {name: "Code", url: "https://github.com/sail-sg/scaling-with-vocab"}
   - {name: "Code", url: "https://hf.co/spaces/sail/scaling-with-vocab-demo"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Tokenization', 'Large-Scale Training', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Tokenization', 'Has Code', 'Scaling Laws']
 ---
 Research on scaling large language models (LLMs) has primarily focused on
 model parameters and training data size, overlooking the role of vocabulary

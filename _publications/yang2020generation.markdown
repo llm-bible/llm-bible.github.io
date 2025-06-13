@@ -8,7 +8,7 @@ bibkey: yang2020generation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.05442"}
   - {name: "Code", url: "https://github.com/UCSD-AI4H/COVID-Dialogue"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Under the pandemic of COVID-19, people experiencing COVID19-related symptoms
 or exposed to risk factors have a pressing need to consult doctors. Due to

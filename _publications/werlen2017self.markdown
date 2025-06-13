@@ -7,7 +7,7 @@ year: 2017
 bibkey: werlen2017self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1709.04849"}
-tags: ['Model Architecture', 'Ethics and Bias', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Attention Mechanism']
 ---
 Neural sequence-to-sequence networks with attention have achieved remarkable
 performance for machine translation. One of the reasons for their effectiveness

@@ -8,7 +8,7 @@ bibkey: markchom2025uor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20984"}
   - {name: "Code", url: "https://github.com/tongwu17/SemEval-2025-Task1-UoR-NCL"}
-tags: ['Multimodal Models', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 SemEval-2025 Task 1 focuses on ranking images based on their alignment with a
 given nominal compound that may carry idiomatic meaning in both English and

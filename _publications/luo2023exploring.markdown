@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.14779"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Domain-specific text classification faces the challenge of scarce labeled
 data due to the high cost of manual labeling. Prompt-learning, known for its

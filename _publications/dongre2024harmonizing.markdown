@@ -7,7 +7,7 @@ year: 2024
 bibkey: dongre2024harmonizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00927"}
-tags: ['Agentic', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Applications', 'Reinforcement Learning']
 ---
 Large language model (LLM)-based agents are increasingly employed to interact
 with external environments (e.g., games, APIs, world models) to solve

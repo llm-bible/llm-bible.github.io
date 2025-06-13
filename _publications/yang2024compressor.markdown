@@ -8,7 +8,7 @@ bibkey: yang2024compressor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01495"}
   - {name: "Code", url: "https://github.com/gblackout/LM-OS"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements in large language models (LLMs) have significantly
 enhanced their capacity to aggregate and process information across multiple

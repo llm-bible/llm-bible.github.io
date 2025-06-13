@@ -8,7 +8,7 @@ bibkey: jiao2023is
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.08745v4"}
   - {name: "Code", url: "https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"}
-tags: ['Security', 'Model Architecture', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Security', 'Has Code', 'Prompting']
 ---
 This report provides a preliminary evaluation of ChatGPT for machine
 translation, including translation prompt, multilingual translation, and

@@ -7,7 +7,7 @@ year: 2023
 bibkey: qiu2023bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16441"}
-tags: ['Tools', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'LREC', 'Prompting']
+tags: ['Tools', 'Merging', 'Reinforcement Learning', 'LREC', 'Pretraining Methods', 'Prompting']
 ---
 The successful integration of large language models (LLMs) into
 recommendation systems has proven to be a major breakthrough in recent studies,

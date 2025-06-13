@@ -7,7 +7,7 @@ year: 2025
 bibkey: bachmann2025judge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.19309"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The performance of large language models (LLMs) is closely linked to their
 underlying size, leading to ever-growing networks and hence slower inference.

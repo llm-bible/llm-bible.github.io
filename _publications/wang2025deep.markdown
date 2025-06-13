@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025deep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10187"}
-tags: ['Agentic', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Training Techniques', 'Reinforcement Learning']
 ---
 Recently, deep reasoning LLMs (e.g., OpenAI o1/o3 and DeepSeek-R1) have shown
 promising performance in various complex tasks. Free translation is an

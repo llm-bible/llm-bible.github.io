@@ -7,7 +7,7 @@ year: 2023
 bibkey: aghzal2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03249"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'TACL', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'ACL', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have achieved remarkable success across a wide
 spectrum of tasks; however, they still face limitations in scenarios that

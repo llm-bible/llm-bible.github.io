@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024filling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07246"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
 ---
 Continual Semantic Parsing (CSP) aims to train parsers to convert natural
 language questions into SQL across tasks with limited annotated examples,

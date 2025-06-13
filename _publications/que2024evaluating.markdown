@@ -8,7 +8,7 @@ bibkey: que2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16191"}
   - {name: "Code", url: "https://github.com/Quehry/HelloBench"}
-tags: ['Language Modeling', 'Applications', 'Has Code']
+tags: ['Applications', 'Has Code', 'Language Modeling']
 ---
 In recent years, Large Language Models (LLMs) have demonstrated remarkable
 capabilities in various tasks (e.g., long-context understanding), and many

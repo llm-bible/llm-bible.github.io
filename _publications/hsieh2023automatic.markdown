@@ -7,7 +7,7 @@ year: 2023
 bibkey: hsieh2023automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10117"}
-tags: ['Prompting', 'RAG', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 solving complex open-domain tasks, guided by comprehensive instructions and

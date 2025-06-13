@@ -7,7 +7,7 @@ year: 2021
 bibkey: feng2021visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.03892"}
-tags: ['Multimodal Models', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 We investigate the use of multimodal information contained in images as an
 effective method for enhancing the commonsense of Transformer models for text

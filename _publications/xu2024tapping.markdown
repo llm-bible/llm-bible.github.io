@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024tapping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.04997"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'RecSys', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'RecSys', 'Prompting']
 ---
 Recently, Large Language Models~(LLMs) such as ChatGPT have showcased
 remarkable abilities in solving general tasks, demonstrating the potential for

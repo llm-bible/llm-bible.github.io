@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024position
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19745"}
-tags: ['RAG', 'Model Architecture', 'Attention Mechanism', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
 ---
 Large language models (LLMs) enhanced with retrieval-augmented generation
 (RAG) have introduced a new paradigm for web search. However, the limited

@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10353"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Fairness', 'Few-Shot', 'Model Architecture', 'RAG', 'Language Modeling', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Fairness', 'Prompting', 'In-Context Learning']
 ---
 Prompt-based learning is susceptible to intrinsic bias present in pre-trained
 language models (LMs), leading to sub-optimal performance in prompt-based

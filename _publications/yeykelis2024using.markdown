@@ -7,7 +7,7 @@ year: 2024
 bibkey: yeykelis2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16073"}
-tags: ['Prompting', 'Ethics and Bias', 'Tools']
+tags: ['Tools', 'Prompting', 'Ethics and Bias']
 ---
 This report analyzes the potential for large language models (LLMs) to
 expedite accurate replication and generalization of published research about

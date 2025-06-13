@@ -8,7 +8,7 @@ bibkey: su2023wrapper
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08644"}
   - {name: "Code", url: "https://github.com/SamSoup/WrapperBox"}
-tags: ['Training Techniques', 'RAG', 'Has Code', 'Interpretability and Explainability', 'Applications']
+tags: ['Applications', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Has Code']
 ---
 Can we preserve the accuracy of neural models while also providing faithful
 explanations of model decisions to training data? We propose a "wrapper box''

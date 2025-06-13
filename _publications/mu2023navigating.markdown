@@ -7,7 +7,7 @@ year: 2023
 bibkey: mu2023navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14310"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Instruction-tuned Large Language Models (LLMs) have exhibited impressive
 language understanding and the capacity to generate responses that follow

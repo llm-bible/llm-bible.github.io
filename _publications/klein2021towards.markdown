@@ -7,7 +7,7 @@ year: 2021
 bibkey: klein2021towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.05105"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 Can we get existing language models and refine them for zero-shot commonsense
 reasoning? This paper presents an initial study exploring the feasibility of

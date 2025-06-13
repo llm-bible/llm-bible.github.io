@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiao2025synergistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15188"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Current Large Language Models (LLMs) excel in general reasoning yet struggle
 with specialized tasks requiring proprietary or domain-specific knowledge.

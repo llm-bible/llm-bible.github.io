@@ -7,7 +7,7 @@ year: 2023
 bibkey: mahmoudi2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11552"}
-tags: ['Prompting', 'Applications', 'Few-Shot', 'Reinforcement Learning']
+tags: ['Few-Shot', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 This paper describes the IUST NLP Lab submission to the Prompting Large
 Language Models as Explainable Metrics Shared Task at the Eval4NLP 2023

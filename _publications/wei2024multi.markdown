@@ -7,7 +7,7 @@ year: 2024
 bibkey: wei2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17188"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Distillation', 'RecSys', 'Quantization', 'BERT', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'BERT', 'Quantization', 'Prompting', 'Distillation']
 ---
 Multimedia online platforms (e.g., Amazon, TikTok) have greatly benefited
 from the incorporation of multimedia (e.g., visual, textual, and acoustic)

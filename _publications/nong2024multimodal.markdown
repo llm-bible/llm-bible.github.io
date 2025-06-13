@@ -7,7 +7,7 @@ year: 2024
 bibkey: nong2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04346"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Currently, the integration of mobile Graphical User Interfaces (GUIs) is
 ubiquitous in most people's daily lives. And the ongoing evolution of

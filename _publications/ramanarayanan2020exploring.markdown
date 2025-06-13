@@ -7,7 +7,7 @@ year: 2020
 bibkey: ramanarayanan2020exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.09834"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 An important step towards enabling English language learners to improve their
 conversational speaking proficiency involves automated scoring of multiple

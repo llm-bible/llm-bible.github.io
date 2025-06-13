@@ -8,7 +8,7 @@ bibkey: feng2025mt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10160"}
   - {name: "Code", url: "https://github.com/fzp0424/MT-R1-Zero"}
-tags: ['Agentic', 'WMT', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large-scale reinforcement learning (RL) methods have proven highly effective
 in enhancing the reasoning abilities of large language models (LLMs),

@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023grounded
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.00855"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Pre-Training', 'Applications']
+tags: ['Responsible AI', 'Pre-Training', 'Agentic', 'GPT', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent progress in large language models (LLMs) has demonstrated the ability
 to learn and leverage Internet-scale knowledge through pre-training with

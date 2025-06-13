@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024blsp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19041"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Recent end-to-end approaches have shown promise in extending large language
 models (LLMs) to speech inputs, but face limitations in directly assessing and

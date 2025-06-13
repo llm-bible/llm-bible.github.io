@@ -7,7 +7,7 @@ year: 2024
 bibkey: chaturvedi2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03203"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 In this paper, we study whether transformer-based language models can extract
 predicate argument structure from simple sentences. We firstly show that

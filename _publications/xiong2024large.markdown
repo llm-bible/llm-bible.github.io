@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiong2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06853"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Distillation', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 While large language models (LLMs) have demonstrated remarkable reasoning
 capabilities, they are not without their flaws and inaccuracies. Recent studies

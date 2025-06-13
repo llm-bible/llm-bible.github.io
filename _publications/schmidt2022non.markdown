@@ -7,7 +7,7 @@ year: 2022
 bibkey: schmidt2022non
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.10577"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Model Architecture', 'GPT', 'Applications', 'Pretraining Methods']
 ---
 Non-autoregressive approaches aim to improve the inference speed of
 translation models by only requiring a single forward pass to generate the

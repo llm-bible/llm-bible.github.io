@@ -7,7 +7,7 @@ year: 2025
 bibkey: sakharova2025integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15210"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Code-generating Large Language Models (LLMs) have become essential tools in
 modern software development, enhancing productivity and accelerating

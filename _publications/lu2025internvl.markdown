@@ -7,7 +7,7 @@ year: 2025
 bibkey: lu2025internvl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21307"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'RAG', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Most multimodal large language models (MLLMs) treat visual tokens as "a
 sequence of text", integrating them with text tokens into a large language

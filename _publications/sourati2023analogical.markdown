@@ -7,7 +7,7 @@ year: 2023
 bibkey: sourati2023analogical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00996"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Few-Shot']
 ---
 As a core cognitive skill that enables the transferability of information
 across domains, analogical reasoning has been extensively studied for both

@@ -8,7 +8,7 @@ bibkey: marinelli2025harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21464"}
   - {name: "Code", url: "https://github.com/rymarinelli/Number_Of_Thoughts/tree/main"}
-tags: ['Prompting', 'Security', 'Has Code', 'Reinforcement Learning']
+tags: ['Security', 'Has Code', 'Prompting', 'Reinforcement Learning']
 ---
 In this work, we propose a metric called Number of Thoughts (NofT) to
 determine the difficulty of tasks pre-prompting and support Large Language

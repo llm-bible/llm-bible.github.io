@@ -7,7 +7,7 @@ year: 2024
 bibkey: clarke2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17156"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Reinforcement Learning']
 ---
 The use of large language models (LLMs) for relevance assessment in
 information retrieval has gained significant attention, with recent studies

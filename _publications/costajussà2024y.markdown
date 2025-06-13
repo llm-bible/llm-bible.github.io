@@ -7,7 +7,7 @@ year: 2024
 bibkey: costajussà2024y
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08279"}
-tags: ['Language Modeling', 'Applications', 'RAG']
+tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 The purpose of this work is to share an English-Yor\`ub\'a evaluation dataset
 for open-book reading comprehension and text generation to assess the

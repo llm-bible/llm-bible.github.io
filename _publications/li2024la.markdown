@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024la
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.08597"}
-tags: ['Prompting', 'RAG', 'In-Context Learning', 'INTERSPEECH']
+tags: ['RAG', 'INTERSPEECH', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements in integrating speech information into large language
 models (LLMs) have significantly improved automatic speech recognition (ASR)

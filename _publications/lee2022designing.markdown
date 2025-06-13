@@ -7,7 +7,7 @@ year: 2022
 bibkey: lee2022designing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.06796"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LMs) offer unprecedented language generation
 capabilities and exciting opportunities for interaction design. However, their

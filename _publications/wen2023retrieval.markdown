@@ -7,7 +7,7 @@ year: 2023
 bibkey: wen2023retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05388"}
-tags: ['Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 Conditional story generation is significant in human-machine interaction,
 particularly in producing stories with complex plots. While Large language

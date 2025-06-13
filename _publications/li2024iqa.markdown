@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024iqa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.13545"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 To evaluate Large Language Models (LLMs) for question answering (QA),
 traditional methods typically focus on assessing single-turn responses to given

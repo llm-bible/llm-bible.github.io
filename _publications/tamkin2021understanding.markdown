@@ -7,7 +7,7 @@ year: 2021
 bibkey: tamkin2021understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.02503"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 On October 14th, 2020, researchers from OpenAI, the Stanford Institute for
 Human-Centered Artificial Intelligence, and other universities convened to

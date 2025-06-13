@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhan2024unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12226"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 We introduce AnyGPT, an any-to-any multimodal language model that utilizes
 discrete representations for the unified processing of various modalities,

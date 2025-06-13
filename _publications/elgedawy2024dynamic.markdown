@@ -7,7 +7,7 @@ year: 2024
 bibkey: elgedawy2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10733"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Quantization', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Quantization']
 ---
 Electronic health records (EHRs) house crucial patient data in clinical
 notes. As these notes grow in volume and complexity, manual extraction becomes

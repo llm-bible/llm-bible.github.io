@@ -8,7 +8,7 @@ bibkey: wei2023large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2311.00423v6"}
   - {name: "Code", url: "https://github.com/HKUDS/LLMRec.git"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Pruning', 'RecSys', 'Has Code']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Reinforcement Learning', 'RecSys', 'Has Code']
 ---
 The problem of data sparsity has long been a challenge in recommendation
 systems, and previous studies have attempted to address this issue by

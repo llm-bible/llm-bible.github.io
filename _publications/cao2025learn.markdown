@@ -7,7 +7,7 @@ year: 2025
 bibkey: cao2025learn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.18516"}
-tags: ['Efficiency and Optimization', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization']
 ---
 Object manipulation for rearrangement into a specific goal state is a
 significant task for collaborative robots. Accurately determining object

@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18104"}
   - {name: "Code", url: "https://huggingface.co/datasets/math-ai/TemplateGSM"}
   - {name: "Code", url: "https://github.com/iiis-ai/TemplateMath"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The rapid advancement of large language models (LLMs) such as GPT-3, PaLM,
 and Llama has significantly transformed natural language processing, showcasing

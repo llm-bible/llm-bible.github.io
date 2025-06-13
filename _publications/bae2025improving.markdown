@@ -7,7 +7,7 @@ year: 2025
 bibkey: bae2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12185"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 In various natural language processing (NLP) tasks, fine-tuning Pre-trained
 Language Models (PLMs) often leads to the issue of spurious correlations, which

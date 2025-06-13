@@ -8,7 +8,7 @@ bibkey: wang2024techgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.04507"}
   - {name: "Code", url: "https://github.com/neukg/TechGPT-2.0"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models have exhibited robust performance across diverse
 natural language processing tasks. This report introduces TechGPT-2.0, a

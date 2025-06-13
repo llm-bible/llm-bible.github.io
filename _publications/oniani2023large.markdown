@@ -7,7 +7,7 @@ year: 2023
 bibkey: oniani2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12890"}
-tags: ['Prompting', 'Training Techniques', 'Few-Shot']
+tags: ['Few-Shot', 'Training Techniques', 'Prompting']
 ---
 The emergence of generative Large Language Models (LLMs) emphasizes the need
 for accurate and efficient prompting approaches. LLMs are often applied in

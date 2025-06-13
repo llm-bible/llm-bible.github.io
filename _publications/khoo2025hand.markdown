@@ -7,7 +7,7 @@ year: 2025
 bibkey: khoo2025hand
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.10242"}
-tags: ['Responsible AI', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) are rapidly entering children's lives - through
 parent-driven adoption, schools, and peer networks - yet current AI ethics and

@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023music
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.11276"}
-tags: ['TACL', 'Training Techniques', 'Applications', 'ACL']
+tags: ['ACL', 'TACL', 'Training Techniques', 'Applications']
 ---
 Text-to-music generation (T2M-Gen) faces a major obstacle due to the scarcity
 of large-scale publicly available music datasets with natural language

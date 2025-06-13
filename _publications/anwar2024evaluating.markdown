@@ -7,7 +7,7 @@ year: 2024
 bibkey: anwar2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00090"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 This paper examines the application of ChatGPT, a large language model (LLM),
 for question-and-answer (Q&A) tasks in the highly specialized field of nuclear

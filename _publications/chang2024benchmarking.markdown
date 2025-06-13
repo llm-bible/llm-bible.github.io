@@ -7,7 +7,7 @@ year: 2024
 bibkey: chang2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01556"}
-tags: ['RAG', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 This study introduces a comprehensive benchmark designed to evaluate the
 performance of large language models (LLMs) in understanding and processing

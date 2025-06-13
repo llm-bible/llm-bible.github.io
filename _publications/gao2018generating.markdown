@@ -7,7 +7,7 @@ year: 2018
 bibkey: gao2018generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.02768"}
-tags: ['Model Architecture', 'Transformer', 'Attention Mechanism', 'Tools']
+tags: ['Transformer', 'Tools', 'Attention Mechanism', 'Model Architecture']
 ---
 We investigate the task of distractor generation for multiple choice reading
 comprehension questions from examinations. In contrast to all previous works,

@@ -8,7 +8,7 @@ bibkey: deng2023multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06474"}
   - {name: "Code", url: "https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 While large language models (LLMs) exhibit remarkable capabilities across a
 wide range of tasks, they pose potential safety concerns, such as the

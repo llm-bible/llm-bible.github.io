@@ -8,7 +8,7 @@ bibkey: yang2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09008"}
   - {name: "Code", url: "https://github.com/YangLing0818/SuperCorrect-llm"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Distillation', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Distillation']
 ---
 Large language models (LLMs) like GPT-4, DeepSeek-R1, and ReasonFlux have
 shown significant improvements in various reasoning tasks. However, smaller

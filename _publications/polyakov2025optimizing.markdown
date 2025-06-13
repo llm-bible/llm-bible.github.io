@@ -8,7 +8,7 @@ bibkey: polyakov2025optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05638"}
   - {name: "Code", url: "https://github.com/ipolyakov/TAGC"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The increasing complexity of large language models (LLMs) necessitates
 efficient training strategies to mitigate the high computational costs

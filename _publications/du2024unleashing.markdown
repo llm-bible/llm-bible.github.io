@@ -8,7 +8,7 @@ bibkey: du2024unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10631"}
   - {name: "Code", url: "https://github.com/DD-DuDa/BitDistiller"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Distillation', 'Quantization', 'Has Code']
+tags: ['Tools', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Quantization', 'Distillation']
 ---
 The upscaling of Large Language Models (LLMs) has yielded impressive advances
 in natural language processing, yet it also poses significant deployment

@@ -7,7 +7,7 @@ year: 2025
 bibkey: besta2025affordable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02670"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) are revolutionizing the development of AI
 assistants capable of performing diverse tasks across domains. However, current

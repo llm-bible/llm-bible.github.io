@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07265"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 This paper presents ViTOC (Vision Transformer and Object-aware Captioner), a
 novel vision-language model for image captioning that addresses the challenges

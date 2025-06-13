@@ -7,7 +7,7 @@ year: 2024
 bibkey: kenthapadi2024grounding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12858"}
-tags: ['Responsible AI', 'Security', 'Survey Paper', 'Tools', 'Ethics and Bias', 'KDD', 'Interpretability and Explainability']
+tags: ['Responsible AI', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Interpretability and Explainability', 'Security', 'KDD']
 ---
 With the ongoing rapid adoption of Artificial Intelligence (AI)-based systems
 in high-stakes domains, ensuring the trustworthiness, safety, and observability

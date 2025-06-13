@@ -7,7 +7,7 @@ year: 2024
 bibkey: blau2024context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17222"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Fine-tuning Large Language Models (LLMs) typically involves updating at least
 a few billions of parameters. A more parameter-efficient approach is Prompt

@@ -7,7 +7,7 @@ year: 2024
 bibkey: mirza2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14583"}
-tags: ['Agentic', 'Model Architecture', 'Fairness', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias']
+tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Fairness']
 ---
 Recent advancements in Large Language Models(LLMs) have been notable, yet
 widespread enterprise adoption remains limited due to various constraints. This

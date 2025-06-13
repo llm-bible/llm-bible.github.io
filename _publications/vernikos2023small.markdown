@@ -7,7 +7,7 @@ year: 2023
 bibkey: vernikos2023small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13514"}
-tags: ['Security', 'Training Techniques', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Despite the impressive performance of large language models (LLMs), they
 often lag behind specialized models in various tasks. LLMs only use a fraction

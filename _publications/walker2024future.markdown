@@ -7,7 +7,7 @@ year: 2024
 bibkey: walker2024future
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18160"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Causal decoder-only transformer models used for generative language
 modelling, such as Generative Pre-trained Transformers (GPT), are trained to

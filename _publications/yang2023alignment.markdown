@@ -8,7 +8,7 @@ bibkey: yang2023alignment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07000"}
   - {name: "Code", url: "https://github.com/GAIR-NLP/alignment-for-honesty"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Recent research has made significant strides in aligning large language
 models (LLMs) with helpfulness and harmlessness. In this paper, we argue for

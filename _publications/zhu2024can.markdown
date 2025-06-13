@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.00858"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'In-Context Learning', 'Quantization', 'Pretraining Methods', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Quantization', 'Prompting', 'In-Context Learning']
 ---
 Understanding context is key to understanding human language, an ability
 which Large Language Models (LLMs) have been increasingly seen to demonstrate

@@ -7,7 +7,7 @@ year: 2023
 bibkey: qin2023enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.12275"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 After a large language model (LLM) is deployed on edge devices, it is
 desirable for these devices to learn from user-generated conversation data to

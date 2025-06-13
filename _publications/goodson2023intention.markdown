@@ -7,7 +7,7 @@ year: 2023
 bibkey: goodson2023intention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13281"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) and chatbots show significant promise in
 streamlining the legal intake process. This advancement can greatly reduce the

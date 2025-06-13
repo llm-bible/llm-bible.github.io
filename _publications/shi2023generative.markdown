@@ -8,7 +8,7 @@ bibkey: shi2023generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.12725"}
   - {name: "Code", url: "https://github.com/HITsz-TMG/GEMEL"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal Entity Linking (MEL) is the task of mapping mentions with
 multimodal contexts to the referent entities from a knowledge base. Existing

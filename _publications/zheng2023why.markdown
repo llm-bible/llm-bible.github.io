@@ -7,7 +7,7 @@ year: 2023
 bibkey: zheng2023why
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.10513v3"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Recent advancements in large language models, such as ChatGPT, have
 demonstrated significant potential to impact various aspects of human life.

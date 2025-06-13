@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11410"}
-tags: ['WMT', 'Efficiency and Optimization', 'Reinforcement Learning', 'Distillation', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'WMT', 'Reinforcement Learning', 'Distillation']
 ---
 Translation is important for cross-language communication, and many efforts
 have been made to improve its accuracy. However, less investment is conducted

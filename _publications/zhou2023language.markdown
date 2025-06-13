@@ -8,7 +8,7 @@ bibkey: zhou2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04406"}
   - {name: "Code", url: "https://github.com/lapisrocks/LanguageAgentTreeSearch"}
-tags: ['Agentic', 'Agent', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 While language models (LMs) have shown potential across a range of
 decision-making tasks, their reliance on simple acting processes limits their

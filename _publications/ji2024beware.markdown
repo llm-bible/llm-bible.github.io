@@ -7,7 +7,7 @@ year: 2024
 bibkey: ji2024beware
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17711"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pruning', 'Quantization', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Quantization']
 ---
 As large language models (LLMs) are widely applied across various fields,
 model compression has become increasingly crucial for reducing costs and

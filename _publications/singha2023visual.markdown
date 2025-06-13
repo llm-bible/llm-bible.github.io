@@ -8,7 +8,7 @@ bibkey: singha2023visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05995"}
   - {name: "Code", url: "https://github.com/mainaksingha01/APPLeNet"}
-tags: ['Multimodal Models', 'Model Architecture', 'Few-Shot', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 In recent years, the success of large-scale vision-language models (VLMs)
 such as CLIP has led to their increased usage in various computer vision tasks.

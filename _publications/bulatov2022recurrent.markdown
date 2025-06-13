@@ -7,7 +7,7 @@ year: 2022
 bibkey: bulatov2022recurrent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.06881"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer-based models show their effectiveness across multiple domains and
 tasks. The self-attention allows to combine information from all sequence

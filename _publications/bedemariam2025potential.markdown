@@ -7,7 +7,7 @@ year: 2025
 bibkey: bedemariam2025potential
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.08167"}
-tags: ['Applications', 'Survey Paper', 'Tools']
+tags: ['Tools', 'Survey Paper', 'Applications']
 ---
 Rapid advancements in large language models have unlocked remarkable
 capabilities when it comes to processing and summarizing unstructured text

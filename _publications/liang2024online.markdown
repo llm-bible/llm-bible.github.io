@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024online
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04790"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Agentic', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Models(LLMs) have dramatically revolutionized the field of
 Natural Language Processing(NLP), offering remarkable capabilities that have

@@ -7,7 +7,7 @@ year: 2024
 bibkey: cai2024many
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10260"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Training modern LLMs is extremely resource intensive, and customizing them
 for various deployment scenarios characterized by limited compute and memory

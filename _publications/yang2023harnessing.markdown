@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15541"}
   - {name: "Code", url: "https://github.com/gblackout/LogicLLaMA}{{"}
   - {name: "Code", url: "https://github.com/gblackout/LogicLLaMA"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Translating natural language sentences to first-order logic (NL-FOL
 translation) is a longstanding challenge in the NLP and formal logic

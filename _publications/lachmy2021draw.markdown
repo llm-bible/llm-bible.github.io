@@ -7,7 +7,7 @@ year: 2021
 bibkey: lachmy2021draw
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.14321"}
-tags: ['Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Abstraction is a core tenet of human cognition and communication. When
 composing natural language instructions, humans naturally evoke abstraction to

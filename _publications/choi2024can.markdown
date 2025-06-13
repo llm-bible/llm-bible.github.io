@@ -8,7 +8,7 @@ bibkey: choi2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03891"}
   - {name: "Code", url: "https://github.com/Gawon-Choi/small-LMs-Task-Planning"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Has Code']
+tags: ['Has Code', 'GPT', 'Prompting', 'Model Architecture']
 ---
 In robotics, the use of Large Language Models (LLMs) is becoming prevalent,
 especially for understanding human commands. In particular, LLMs are utilized

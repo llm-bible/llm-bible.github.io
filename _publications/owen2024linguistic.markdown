@@ -7,7 +7,7 @@ year: 2024
 bibkey: owen2024linguistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09362"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 The recent breakthroughs in Large Language Models (LLMs) have mostly focused
 on languages with easily available and sufficient resources, such as English.

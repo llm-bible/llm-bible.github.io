@@ -7,7 +7,7 @@ year: 2024
 bibkey: morales2024platform
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18558"}
-tags: ['Tools', 'Ethics and Bias', 'ACL', 'Prompting', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'ACL', 'Prompting']
 ---
 The integration of Large Language Models (LLMs) into various software
 applications raises concerns about their potential biases. Typically, those

@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024cpath
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12077"}
-tags: ['Multimodal Models', 'Training Techniques', 'Few-Shot', 'Prompting', 'Applications']
+tags: ['Applications', 'Training Techniques', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 The emergence of large multimodal models (LMMs) has brought significant
 advancements to pathology. Previous research has primarily focused on

@@ -7,7 +7,7 @@ year: 2024
 bibkey: hegazy2024diversity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12853"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) excel in natural language generation but often
 confidently produce incorrect responses, especially in tasks like mathematical

@@ -7,7 +7,7 @@ year: 2023
 bibkey: hicke2023assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.04274"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 (Tack et al., 2023) organized the shared task hosted by the 18th Workshop on
 Innovative Use of NLP for Building Educational Applications on generation of

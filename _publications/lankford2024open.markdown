@@ -7,7 +7,7 @@ year: 2024
 bibkey: lankford2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02367"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 adaptNMT streamlines all processes involved in the development and deployment
 of RNN and Transformer neural translation models. As an open-source

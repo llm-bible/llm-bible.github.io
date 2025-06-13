@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024unlock
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10305"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Automatic code generation has been a longstanding research topic. With the
 advancement of general-purpose large language models (LLMs), the ability to

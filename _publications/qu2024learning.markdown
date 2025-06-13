@@ -7,7 +7,7 @@ year: 2024
 bibkey: qu2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10450"}
-tags: ['Training Techniques', 'Tools', 'Tokenization', 'Merging', 'RecSys', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'Merging', 'Training Techniques', 'Tokenization', 'RecSys', 'Prompting', 'In-Context Learning']
 ---
 There is a growing interest in utilizing large-scale language models (LLMs)
 to advance next-generation Recommender Systems (RecSys), driven by their

@@ -8,7 +8,7 @@ bibkey: venkatraman2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06202"}
   - {name: "Code", url: "https://github.com/saranya-venkatraman/gpt-who"}
-tags: ['Model Architecture', 'GPT', 'Has Code', 'Reinforcement Learning']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 The Uniform Information Density (UID) principle posits that humans prefer to
 spread information evenly during language production. We examine if this UID

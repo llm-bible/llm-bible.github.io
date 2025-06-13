@@ -7,7 +7,7 @@ year: 2023
 bibkey: hashimoto2023take
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09619"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+tags: ['Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In-Context Learning (ICL) is an emergent capability of Large Language Models
 (LLMs). Only a few demonstrations enable LLMs to be used as blackbox for new

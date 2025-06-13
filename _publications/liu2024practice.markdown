@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024practice
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00333"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RecSys', 'Pretraining Methods', 'LREC', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RecSys', 'LREC', 'Training Techniques', 'Pretraining Methods']
 ---
 The training paradigm integrating large language models (LLM) is gradually
 reshaping sequential recommender systems (SRS) and has shown promising results.

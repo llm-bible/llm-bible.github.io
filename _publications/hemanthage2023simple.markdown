@@ -7,7 +7,7 @@ year: 2023
 bibkey: hemanthage2023simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.04907"}
-tags: ['Multimodal Models', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Multimodal Models']
 ---
 SimpleMTOD is a simple language model which recasts several sub-tasks in
 multimodal task-oriented dialogues as sequence prediction tasks. SimpleMTOD is

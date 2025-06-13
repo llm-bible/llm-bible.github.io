@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiang2025few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19722"}
-tags: ['Training Techniques', 'Few-Shot', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 Recent approaches to multilingual open-domain question answering (MLODQA)
 have achieved promising results given abundant language-specific training data.

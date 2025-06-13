@@ -7,7 +7,7 @@ year: 2023
 bibkey: mu2023augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17367"}
-tags: ['Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Prompting', 'In-Context Learning']
 ---
 Using translation memories (TMs) as prompts is a promising approach to
 in-context learning of machine translation models. In this work, we take a step

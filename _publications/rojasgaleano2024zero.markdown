@@ -7,7 +7,7 @@ year: 2024
 bibkey: rojasgaleano2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15936"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 This paper investigates the application of pre-trained large language models
 (LLMs) for spam email classification using zero-shot prompting. We evaluate the

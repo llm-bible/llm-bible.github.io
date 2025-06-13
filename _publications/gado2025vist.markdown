@@ -7,7 +7,7 @@ year: 2025
 bibkey: gado2025vist
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19267"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 Visual storytelling is an interdisciplinary field combining computer vision
 and natural language processing to generate cohesive narratives from sequences

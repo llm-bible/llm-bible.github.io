@@ -7,7 +7,7 @@ year: 2024
 bibkey: holmes2024deepspeed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08671"}
-tags: ['Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Prompting']
 ---
 The deployment and scaling of large language models (LLMs) have become
 critical as they permeate various applications, demanding high-throughput and

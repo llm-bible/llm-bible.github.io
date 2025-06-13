@@ -7,7 +7,7 @@ year: 2024
 bibkey: upadhayay2024cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11272"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 performing tasks across various domains without needing explicit retraining.

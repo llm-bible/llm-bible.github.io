@@ -7,7 +7,7 @@ year: 2024
 bibkey: abdessaied2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13146"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
 ---
 We present the Object Language Video Transformer (OLViT) - a novel model for
 video dialog operating over a multi-modal attention-based dialog state tracker.

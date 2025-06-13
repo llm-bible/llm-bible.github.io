@@ -7,7 +7,7 @@ year: 2023
 bibkey: kocoń2023jack
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.10724"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 OpenAI has released the Chat Generative Pre-trained Transformer (ChatGPT) and
 revolutionized the approach in artificial intelligence to human-model

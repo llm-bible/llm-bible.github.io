@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024mastering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00005"}
-tags: ['Applications', 'Survey Paper']
+tags: ['Survey Paper', 'Applications']
 ---
 Large language models (LLMs) have shown impressive performance in *code*
 understanding and generation, making coding tasks a key focus for researchers

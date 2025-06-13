@@ -8,7 +8,7 @@ bibkey: shi2023cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17455"}
   - {name: "Code", url: "https://github.com/sdc17/CrossGET"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'RAG', 'Merging', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent vision-language models have achieved tremendous advances. However,
 their computational costs are also escalating dramatically, making model

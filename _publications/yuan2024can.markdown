@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuan2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02507"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) could struggle to fully understand legal
 theories and perform complex legal reasoning tasks. In this study, we introduce

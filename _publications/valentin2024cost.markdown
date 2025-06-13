@@ -7,7 +7,7 @@ year: 2024
 bibkey: valentin2024cost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21424"}
-tags: ['Interpretability', 'Applications', 'Tools']
+tags: ['Interpretability', 'Tools', 'Applications']
 ---
 Large language models (LLMs) can be prone to hallucinations - generating
 unreliable outputs that are unfaithful to their inputs, external facts or

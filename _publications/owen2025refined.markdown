@@ -8,7 +8,7 @@ bibkey: owen2025refined
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22329"}
   - {name: "Code", url: "https://github.com/bluorion-com/refine_massive_activations"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Ethics and Bias', 'Has Code', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Quantization']
 ---
 Motivated in part by their relevance for low-precision training and
 quantization, massive activations in large language models (LLMs) have recently

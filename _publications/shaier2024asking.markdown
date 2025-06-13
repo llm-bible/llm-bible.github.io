@@ -7,7 +7,7 @@ year: 2024
 bibkey: shaier2024asking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07923"}
-tags: ['Prompting', 'Security', 'Model Architecture', 'GPT']
+tags: ['Security', 'GPT', 'Prompting', 'Model Architecture']
 ---
 This study investigates whether repeating questions within prompts influences
 the performance of large language models (LLMs). We hypothesize that

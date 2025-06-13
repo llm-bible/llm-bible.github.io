@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024toxic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04155"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Pruning', 'Applications']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Training Techniques']
 ---
 How to defend large language models (LLMs) from generating toxic content is
 an important research area. Yet, most research focused on various model

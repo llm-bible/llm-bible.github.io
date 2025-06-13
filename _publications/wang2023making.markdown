@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.02144"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Reasoning is a cognitive process of using evidence to reach a sound
 conclusion. The reasoning capability is essential for large language models

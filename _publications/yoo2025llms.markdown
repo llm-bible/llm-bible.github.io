@@ -7,7 +7,7 @@ year: 2025
 bibkey: yoo2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02254"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Fairness', 'Agent', 'Reinforcement Learning', 'RAG', 'Merging', 'Bias Mitigation', 'Ethics and Bias', 'BERT', 'Prompting']
+tags: ['Agentic', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Agent', 'BERT', 'Fairness', 'Prompting']
 ---
 Recent advancements in Large Language Models (LLMs) have not only showcased
 impressive creative capabilities but also revealed emerging agentic behaviors

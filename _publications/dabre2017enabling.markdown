@@ -7,7 +7,7 @@ year: 2017
 bibkey: dabre2017enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1702.06135"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 In this paper, we explore a simple solution to "Multi-Source Neural Machine
 Translation" (MSNMT) which only relies on preprocessing a N-way multilingual

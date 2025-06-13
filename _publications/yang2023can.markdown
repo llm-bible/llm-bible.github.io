@@ -8,7 +8,7 @@ bibkey: yang2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16135"}
   - {name: "Code", url: "https://github.com/yangalan123/SituationalTesting"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Understanding sentence meanings and updating information states appropriately
 across time -- what we call "situational understanding" (SU) -- is a critical

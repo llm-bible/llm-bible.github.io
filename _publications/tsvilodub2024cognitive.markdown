@@ -7,7 +7,7 @@ year: 2024
 bibkey: tsvilodub2024cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03805"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 To what extent can LLMs be used as part of a cognitive model of language
 generation? In this paper, we approach this question by exploring a

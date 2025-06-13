@@ -7,7 +7,7 @@ year: 2023
 bibkey: belfathi2023harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17413"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Prompting']
+tags: ['Transformer', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 We propose a comprehensive study of one-stage elicitation techniques for
 querying a large pre-trained generative transformer (GPT-3.5-turbo) in the

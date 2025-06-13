@@ -7,7 +7,7 @@ year: 2018
 bibkey: kitaev2018multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1812.11760"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 We show that constituency parsing benefits from unsupervised pre-training
 across a variety of languages and a range of pre-training conditions. We first

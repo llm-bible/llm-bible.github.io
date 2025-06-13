@@ -7,7 +7,7 @@ year: 2025
 bibkey: cong2025rank
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03884"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable success across
 various tasks, accompanied by a continuous increase in their parameter size.

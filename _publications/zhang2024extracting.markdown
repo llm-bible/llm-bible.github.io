@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024extracting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15012"}
-tags: ['Prompting', 'Security', 'Efficiency and Optimization']
+tags: ['Security', 'Efficiency and Optimization', 'Prompting']
 ---
 We consider the problem of language model inversion: given outputs of a
 language model, we seek to extract the prompt that generated these outputs. We

@@ -7,7 +7,7 @@ year: 2024
 bibkey: saley2024synergizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15585"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 End-to-end Task-Oriented Dialog (TOD) systems typically require extensive
 training datasets to perform well. In contrast, large language model (LLM)

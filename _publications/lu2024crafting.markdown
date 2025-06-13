@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024crafting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00997"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Tools']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Applications', 'Tools']
 ---
 In recent years, Large Language Models (LLMs) have demonstrated significant
 improvements across a variety of tasks, one of which is the long-context

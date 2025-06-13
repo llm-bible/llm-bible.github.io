@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024state
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.14207"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Modern large language models are built on sequence modeling via next-token
 prediction. While the Transformer remains the dominant architecture for

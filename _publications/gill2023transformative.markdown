@@ -7,7 +7,7 @@ year: 2023
 bibkey: gill2023transformative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.03823"}
-tags: ['Model Architecture', 'GPT', 'Merging']
+tags: ['GPT', 'Model Architecture', 'Merging']
 ---
 ChatGPT, an AI-based chatbot, was released to provide coherent and useful
 replies based on analysis of large volumes of data. In this article, leading

@@ -7,7 +7,7 @@ year: 2025
 bibkey: cai2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18941"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'RAG', 'GPT', 'Pretraining Methods', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
 ---
 Generative retrieval has emerged as a novel paradigm that leverages large
 language models (LLMs) to autoregressively generate document identifiers.

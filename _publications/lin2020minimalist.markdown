@@ -7,7 +7,7 @@ year: 2020
 bibkey: lin2020minimalist
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.12005"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Training Techniques']
 ---
 In this paper, we propose Minimalist Transfer Learning (MinTL) to simplify
 the system design process of task-oriented dialogue systems and alleviate the

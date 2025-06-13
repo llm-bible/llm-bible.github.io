@@ -7,7 +7,7 @@ year: 2020
 bibkey: hua2020planning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.02301"}
-tags: ['Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT']
 ---
 Pre-trained Transformers have enabled impressive breakthroughs in generating
 long and fluent text, yet their outputs are often "rambling" without coherently

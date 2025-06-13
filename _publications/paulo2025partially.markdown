@@ -7,7 +7,7 @@ year: 2025
 bibkey: paulo2025partially
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.18838"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 The greatest ambition of mechanistic interpretability is to completely
 rewrite deep neural networks in a format that is more amenable to human

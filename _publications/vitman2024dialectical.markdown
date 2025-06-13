@@ -7,7 +7,7 @@ year: 2024
 bibkey: vitman2024dialectical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07768"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 Large language models demonstrated state-of-the-art results on various
 reasoning tasks when applying the chain-of-thought (CoT) prompting technique.

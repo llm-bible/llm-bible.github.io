@@ -8,7 +8,7 @@ bibkey: lu2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10847"}
   - {name: "Code", url: "https://github.com/ColinLu50/Evade-GPT-Detector"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) have shown remarkable performance in various
 tasks and have been extensively utilized by the public. However, the increasing

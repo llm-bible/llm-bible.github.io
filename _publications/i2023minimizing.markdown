@@ -7,7 +7,7 @@ year: 2023
 bibkey: i2023minimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13878"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are widely used in critical fields such as
 healthcare, education, and finance due to their remarkable proficiency in

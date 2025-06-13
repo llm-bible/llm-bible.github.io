@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024what
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2403.13513v2"}
-tags: ['Multimodal Models', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Multimodal Models']
 ---
 This paper presents a way of enhancing the reliability of Large Multi-modal
 Models (LMMs) in addressing hallucination, where the models generate

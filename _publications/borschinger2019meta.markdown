@@ -7,7 +7,7 @@ year: 2019
 bibkey: borschinger2019meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.04156"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'BERT', 'Applications']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
 ---
 We investigate a framework for machine reading, inspired by real world
 information-seeking problems, where a meta question answering system interacts

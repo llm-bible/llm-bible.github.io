@@ -7,7 +7,7 @@ year: 2024
 bibkey: castillobolado2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.20222"}
-tags: ['Prompting', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Prompting', 'Reinforcement Learning']
 ---
 We introduce a dynamic benchmarking system for conversational agents that
 evaluates their performance through a single, simulated, and lengthy

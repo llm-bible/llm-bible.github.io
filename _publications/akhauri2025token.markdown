@@ -8,7 +8,7 @@ bibkey: akhauri2025token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07518"}
   - {name: "Code", url: "https://github.com/abdelfattah-lab/TokenButler"}
-tags: ['Training Techniques', 'Has Code', 'ACL', 'Reinforcement Learning']
+tags: ['ACL', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) rely on the Key-Value (KV) Cache to store token
 history, enabling efficient decoding of tokens. As the KV-Cache grows, it

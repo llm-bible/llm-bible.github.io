@@ -7,7 +7,7 @@ year: 2024
 bibkey: azov2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03845"}
-tags: ['Prompting', 'RAG', 'Survey Paper', 'Reinforcement Learning']
+tags: ['RAG', 'Survey Paper', 'Prompting', 'Reinforcement Learning']
 ---
 Previous studies have demonstrated that proactive interaction with user
 reviews has a positive impact on the perception of app users and encourages

@@ -7,7 +7,7 @@ year: 2021
 bibkey: quijano2021grid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.06326"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 The purpose of this project is to evaluate three language models named BERT,
 ALBERT, and LongFormer on the Question Answering dataset called DuoRC. The

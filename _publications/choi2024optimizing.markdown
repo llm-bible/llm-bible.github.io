@@ -7,7 +7,7 @@ year: 2024
 bibkey: choi2024optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.10882"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) use pretraining to predict the subsequent word;
 however, their expansion requires significant computing resources. Numerous big

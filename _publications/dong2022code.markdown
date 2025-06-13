@@ -7,7 +7,7 @@ year: 2022
 bibkey: dong2022code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10754"}
-tags: ['Prompting', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Story generation and understanding -- as with all NLG/NLU tasks -- has seen a
 surge in neurosymbolic work. Researchers have recognized that, while large

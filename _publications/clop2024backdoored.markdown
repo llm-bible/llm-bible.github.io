@@ -7,7 +7,7 @@ year: 2024
 bibkey: clop2024backdoored
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14479"}
-tags: ['Security', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 generating coherent text but remain limited by the static nature of their

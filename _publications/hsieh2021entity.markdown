@@ -8,7 +8,7 @@ bibkey: hsieh2021entity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.09548"}
   - {name: "Code", url: "https://github.com/LARC-CMU-SMU/Enconter"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Pretrained using large amount of data, autoregressive language models are
 able to generate high quality sequences. However, these models do not perform

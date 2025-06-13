@@ -8,7 +8,7 @@ bibkey: ma2019triple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.10666"}
   - {name: "Code", url: "https://github.com/wtma/TripleNet"}
-tags: ['Has Code', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Has Code', 'Model Architecture']
 ---
 We consider the importance of different utterances in the context for
 selecting the response usually depends on the current query. In this paper, we

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.17987"}
-tags: ['Pretraining Methods', 'Multimodal Models', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods']
 ---
 Decoding visual-semantic information from brain signals, such as functional
 MRI (fMRI), across different subjects poses significant challenges, including

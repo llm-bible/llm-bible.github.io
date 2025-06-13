@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15520"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are currently pre-trained and fine-tuned on
 large cloud servers. The next frontier is LLM personalization, where a

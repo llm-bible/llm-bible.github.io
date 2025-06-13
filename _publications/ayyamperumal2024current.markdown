@@ -7,7 +7,7 @@ year: 2024
 bibkey: ayyamperumal2024current
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12934"}
-tags: ['Responsible AI', 'Agentic', 'Model Architecture', 'Fairness', 'Reinforcement Learning', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Agentic', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Fairness', 'Prompting']
 ---
 Large language models (LLMs) have become increasingly sophisticated, leading
 to widespread deployment in sensitive applications where safety and reliability

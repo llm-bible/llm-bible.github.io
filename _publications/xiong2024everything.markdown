@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiong2024everything
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05603"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable in-context learning
 (ICL) capabilities. In this study, we explore a surprising phenomenon related

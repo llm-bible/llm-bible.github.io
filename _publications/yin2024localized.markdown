@@ -7,7 +7,7 @@ year: 2024
 bibkey: yin2024localized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01563"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent work in interpretability shows that large language models (LLMs) can
 be adapted for new tasks in a learning-free way: it is possible to intervene on

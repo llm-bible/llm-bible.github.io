@@ -7,7 +7,7 @@ year: 2023
 bibkey: emani2023comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04607"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Artificial intelligence (AI) methods have become critical in scientific
 applications to help accelerate scientific discovery. Large language models

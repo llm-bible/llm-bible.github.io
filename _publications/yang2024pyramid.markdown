@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024pyramid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12532"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) have shown remarkable comprehension abilities
 but face challenges in GPU memory usage during inference, hindering their

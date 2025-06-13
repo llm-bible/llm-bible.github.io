@@ -7,7 +7,7 @@ year: 2024
 bibkey: cvetanović2024synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08617"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 In this paper, we focus on generating a synthetic question answering (QA)
 dataset using an adapted Translate-Align-Retrieve method. Using this method, we

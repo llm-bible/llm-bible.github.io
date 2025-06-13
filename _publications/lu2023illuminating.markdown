@@ -7,7 +7,7 @@ year: 2023
 bibkey: lu2023illuminating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14202"}
-tags: ['Prompting', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Prompting']
 ---
 This study explores the idea of AI Personality or AInality suggesting that
 Large Language Models (LLMs) exhibit patterns similar to human personalities.

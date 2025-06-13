@@ -7,7 +7,7 @@ year: 2022
 bibkey: li2022systematicity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.09492"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 Levin et al. (2019) show experimentally that the interpretations of novel
 English noun compounds (e.g., stew skillet), while not fully compositional, are

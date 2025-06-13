@@ -7,7 +7,7 @@ year: 2022
 bibkey: hagendorff2022thinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.05206"}
-tags: ['Model Architecture', 'GPT', 'Merging']
+tags: ['GPT', 'Model Architecture', 'Merging']
 ---
 Large language models (LLMs) are currently at the forefront of intertwining
 AI systems with human communication and everyday life. Therefore, it is of

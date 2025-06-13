@@ -7,7 +7,7 @@ year: 2024
 bibkey: deldjoo2024review
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00579"}
-tags: ['Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'RecSys', 'KDD']
+tags: ['Survey Paper', 'Reinforcement Learning', 'RecSys', 'KDD', 'Multimodal Models']
 ---
 Traditional recommender systems (RS) typically use user-item rating histories
 as their main data source. However, deep generative models now have the

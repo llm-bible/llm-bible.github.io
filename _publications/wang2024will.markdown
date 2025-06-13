@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024will
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01461"}
-tags: ['Prompting', 'Ethics and Bias', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting', 'Ethics and Bias']
 ---
 Although large language models (LLMs) have demonstrated remarkable
 proficiency in modeling text and generating human-like text, they may exhibit

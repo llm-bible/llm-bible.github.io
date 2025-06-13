@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11122"}
-tags: ['Prompting', 'Language Modeling', 'In-Context Learning', 'Reinforcement Learning']
+tags: ['In-Context Learning', 'Prompting', 'Language Modeling', 'Reinforcement Learning']
 ---
 Memory Editing (ME) has emerged as an efficient method to modify erroneous
 facts or inject new facts into Large Language Models (LLMs). Two mainstream ME

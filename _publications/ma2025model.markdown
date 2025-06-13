@@ -7,7 +7,7 @@ year: 2025
 bibkey: ma2025model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23924"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Pruning', 'Quantization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Security', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
 ---
 Large language models (LLMs) demonstrate strong performance across natural
 language processing tasks, yet undergo significant performance degradation when

@@ -7,7 +7,7 @@ year: 2023
 bibkey: dai2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15100"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Prompting', 'In-Context Learning']
 ---
 Thematic analysis (TA) has been widely used for analyzing qualitative data in
 many disciplines and fields. To ensure reliable analysis, the same piece of

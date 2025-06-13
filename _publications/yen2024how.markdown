@@ -7,7 +7,7 @@ year: 2024
 bibkey: yen2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02694"}
-tags: ['Few-Shot', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Many benchmarks exist for evaluating long-context language models (LCLMs),
 yet developers often rely on synthetic tasks such as needle-in-a-haystack

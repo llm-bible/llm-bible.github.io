@@ -7,7 +7,7 @@ year: 2023
 bibkey: to2023better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.01228"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Pre-trained language models for code (PLMCs) have gained attention in recent
 research. These models are pre-trained on large-scale datasets using

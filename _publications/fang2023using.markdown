@@ -7,7 +7,7 @@ year: 2023
 bibkey: fang2023using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18365"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'BERT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Prompting']
 ---
 Machine learning-based automatic scoring faces challenges with unbalanced
 student responses across scoring categories. To address this, we introduce a

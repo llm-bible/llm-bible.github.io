@@ -7,7 +7,7 @@ year: 2023
 bibkey: oh2023data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.16833"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Despite the rapid growth in model architecture, the scarcity of large
 parallel corpora remains the main bottleneck in Neural Machine Translation.

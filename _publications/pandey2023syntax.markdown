@@ -7,7 +7,7 @@ year: 2023
 bibkey: pandey2023syntax
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.08998"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Distillation']
 ---
 Past work probing compositionality in sentence embedding models faces issues
 determining the causal impact of implicit syntax representations. Given a

@@ -7,7 +7,7 @@ year: 2023
 bibkey: lála2023retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07559"}
-tags: ['Agentic', 'RAG', 'Applications', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Agentic', 'Applications']
 ---
 Large Language Models (LLMs) generalize well across language tasks, but
 suffer from hallucinations and uninterpretability, making it difficult to

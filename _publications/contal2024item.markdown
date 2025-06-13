@@ -7,7 +7,7 @@ year: 2024
 bibkey: contal2024item
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17587"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'RecSys', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'RecSys', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLM) hold immense promise for real-world applications,
 but their generic knowledge often falls short of domain-specific needs.

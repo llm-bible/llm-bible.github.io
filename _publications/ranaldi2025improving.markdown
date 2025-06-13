@@ -7,7 +7,7 @@ year: 2025
 bibkey: ranaldi2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04771"}
-tags: ['Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability']
+tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 Retrieval-augmented generation (RAG) is key to enhancing large language
 models (LLMs) to systematically access richer factual knowledge. Yet, using RAG

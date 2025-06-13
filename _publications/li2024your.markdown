@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024your
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10814"}
-tags: ['Prompting', 'Model Architecture', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Prompting', 'Model Architecture']
 ---
 While large language models (LLMs) excel on generation tasks, their
 decoder-only architecture often limits their potential as embedding models if

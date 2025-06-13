@@ -7,7 +7,7 @@ year: 2023
 bibkey: yax2023studying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.12485"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 In the present study, we investigate and compare reasoning in large language
 models (LLM) and humans using a selection of cognitive psychology tools

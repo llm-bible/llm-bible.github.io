@@ -7,7 +7,7 @@ year: 2022
 bibkey: rei2022ist
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.06243"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Tools', 'Interpretability and Explainability', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We present the joint contribution of IST and Unbabel to the WMT 2022 Shared
 Task on Quality Estimation (QE). Our team participated on all three subtasks:

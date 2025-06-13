@@ -7,7 +7,7 @@ year: 2025
 bibkey: xie2025infir
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11573"}
-tags: ['Multimodal Models', 'Training Techniques']
+tags: ['Training Techniques', 'Multimodal Models']
 ---
 Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs)
 have made significant advancements in reasoning capabilities. However, they

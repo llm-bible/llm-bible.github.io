@@ -7,7 +7,7 @@ year: 2018
 bibkey: miculicich2018document
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.01576"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Neural Machine Translation (NMT) can be improved by including document-level
 contextual information. For this purpose, we propose a hierarchical attention

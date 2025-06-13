@@ -7,7 +7,7 @@ year: 2024
 bibkey: ji2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00300"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'BERT', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT', 'Multimodal Models']
 ---
 Throughout rapid development of multimodal large language models, a crucial
 ingredient is a fair and accurate evaluation of their multimodal comprehension

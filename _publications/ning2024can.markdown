@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14629"}
   - {name: "Code", url: "https://github.com/imagination-research/lbt"}
   - {name: "Code", url: "https://sites.google.com/view/llm-learning-by-teaching"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'In-Context Learning', 'Prompting', 'Distillation']
 ---
 Teaching to improve student models (e.g., knowledge distillation) is an
 extensively studied methodology in LLMs. However, for humans, teaching improves

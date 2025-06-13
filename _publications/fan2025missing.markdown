@@ -7,7 +7,7 @@ year: 2025
 bibkey: fan2025missing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06514"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Distillation']
+tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
 ---
 We find that the response length of reasoning LLMs, whether trained by
 reinforcement learning or supervised learning, drastically increases for

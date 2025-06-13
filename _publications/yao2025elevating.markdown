@@ -7,7 +7,7 @@ year: 2025
 bibkey: yao2025elevating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.07912"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have achieved impressive results across numerous
 domains, yet they experience notable deficiencies in legal question-answering

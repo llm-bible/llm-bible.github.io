@@ -7,7 +7,7 @@ year: 2025
 bibkey: peng2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13738"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) excel at a range of tasks through in-context
 learning (ICL), where only a few task examples guide their predictions.

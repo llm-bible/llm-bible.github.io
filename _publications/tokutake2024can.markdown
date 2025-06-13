@@ -7,7 +7,7 @@ year: 2024
 bibkey: tokutake2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07499"}
-tags: ['RecSys', 'RAG', 'Prompting']
+tags: ['RAG', 'RecSys', 'Prompting']
 ---
 Serendipity-oriented recommender systems aim to counteract
 over-specialization in user preferences. However, evaluating a user's

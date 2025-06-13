@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18104"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 In recent years, large language models (LLMs) have demonstrated notable
 success across various tasks, but the trustworthiness of LLMs is still an open

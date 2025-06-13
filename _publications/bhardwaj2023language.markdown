@@ -7,7 +7,7 @@ year: 2023
 bibkey: bhardwaj2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14303"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Training Techniques', 'Prompting']
 ---
 Red-teaming has been a widely adopted way to evaluate the harmfulness of
 Large Language Models (LLMs). It aims to jailbreak a model's safety behavior to

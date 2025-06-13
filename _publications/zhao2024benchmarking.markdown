@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12742"}
-tags: ['Applications', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 The advancement of large language models (LLMs) has significantly broadened
 the scope of applications in natural language processing, with multi-modal LLMs

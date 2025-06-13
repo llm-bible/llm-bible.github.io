@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023comparative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.08109"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, the instruction-tuning of large language models is a crucial area
 of research in the field of natural language processing. Due to resource and

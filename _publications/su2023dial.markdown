@@ -7,7 +7,7 @@ year: 2023
 bibkey: su2023dial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.04357"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Dialogue response selection aims to select an appropriate response from
 several candidates based on a given user and system utterance history. Most

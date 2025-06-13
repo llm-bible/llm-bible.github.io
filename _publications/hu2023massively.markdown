@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023massively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.08917"}
-tags: ['RAG', 'Merging', 'INTERSPEECH']
+tags: ['RAG', 'INTERSPEECH', 'Merging']
 ---
 While large language models (LLM) have made impressive progress in natural
 language processing, it remains unclear how to utilize them in improving

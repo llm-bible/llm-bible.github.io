@@ -7,7 +7,7 @@ year: 2024
 bibkey: priyanshu2024fractured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16163"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Security', 'Prompting']
 ---
 This paper introduces FRACTURED-SORRY-Bench, a framework for evaluating the
 safety of Large Language Models (LLMs) against multi-turn conversational

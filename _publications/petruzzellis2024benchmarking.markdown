@@ -7,7 +7,7 @@ year: 2024
 bibkey: petruzzellis2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17396"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have revolutionized the field of Natural
 Language Processing thanks to their ability to reuse knowledge acquired on

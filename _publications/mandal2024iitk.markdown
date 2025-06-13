@@ -7,7 +7,7 @@ year: 2024
 bibkey: mandal2024iitk
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04510"}
-tags: ['Security', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Security']
 ---
 Large Language models (LLMs) have demonstrated state-of-the-art performance
 in various natural language processing (NLP) tasks across multiple domains, yet

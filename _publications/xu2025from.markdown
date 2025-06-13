@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06214"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Long-context capabilities are essential for a wide range of applications,
 including document and video understanding, in-context learning, and

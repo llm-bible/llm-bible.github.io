@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiao2024densing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04315"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have emerged as a milestone in artificial
 intelligence, and their performance can improve as the model size increases.

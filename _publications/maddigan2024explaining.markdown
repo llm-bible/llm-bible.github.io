@@ -7,7 +7,7 @@ year: 2024
 bibkey: maddigan2024explaining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03397"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Prompting']
 ---
 Genetic programming (GP) has the potential to generate explainable results,
 especially when used for dimensionality reduction. In this research, we

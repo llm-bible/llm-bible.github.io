@@ -7,7 +7,7 @@ year: 2024
 bibkey: sy2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16719"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Pruning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Current LLM structured pruning methods typically involve two steps: (1)
 compression with calibration data and (2) costly continued pretraining on

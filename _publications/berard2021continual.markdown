@@ -7,7 +7,7 @@ year: 2021
 bibkey: berard2021continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.10478"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper proposes a technique for adding a new source or target language to
 an existing multilingual NMT model without re-training it on the initial set of

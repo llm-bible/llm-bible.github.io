@@ -8,7 +8,7 @@ bibkey: hu2021low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.09685"}
   - {name: "Code", url: "https://github.com/microsoft/LoRA"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 An important paradigm of natural language processing consists of large-scale
 pre-training on general domain data and adaptation to particular tasks or

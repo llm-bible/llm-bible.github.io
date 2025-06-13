@@ -7,7 +7,7 @@ year: 2023
 bibkey: patel2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09635"}
-tags: ['Tools', 'Reinforcement Learning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Contemporary Large Language Models (LLMs) exhibit a high degree of code
 generation and comprehension capability. A particularly promising area is their

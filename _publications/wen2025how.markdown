@@ -8,7 +8,7 @@ bibkey: wen2025how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22093"}
   - {name: "Code", url: "https://github.com/ximingwen/ToM-AAAI25-Multimodal"}
-tags: ['Applications', 'Multimodal Models', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'AAAI']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Has Code', 'AAAI', 'Multimodal Models']
 ---
 Vision Language Models (VLMs) have demonstrated strong reasoning capabilities
 in Visual Question Answering (VQA) tasks; however, their ability to perform

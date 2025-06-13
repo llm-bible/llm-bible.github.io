@@ -8,7 +8,7 @@ bibkey: chu2024rationale
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14202"}
   - {name: "Code", url: "https://github.com/BBeeChu/RMTS.git"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Existing automated essay scoring (AES) has solely relied on essay text
 without using explanatory rationales for the scores, thereby forgoing an

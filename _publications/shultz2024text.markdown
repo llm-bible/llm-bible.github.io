@@ -7,7 +7,7 @@ year: 2024
 bibkey: shultz2024text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17196"}
-tags: ['Model Architecture', 'Fine-Tuning', 'GPT']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture']
 ---
 We examine whether a leading AI system GPT4 understands text as well as
 humans do, first using a well-established standardized test of discourse

@@ -8,7 +8,7 @@ bibkey: han2023lm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.16137"}
   - {name: "Code", url: "https://github.com/Glaciohound/LM-Infinite"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Today's large language models (LLMs) typically train on short text segments
 (e.g., <4K tokens) due to the quadratic complexity of their Transformer

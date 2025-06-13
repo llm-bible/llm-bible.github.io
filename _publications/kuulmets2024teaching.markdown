@@ -7,7 +7,7 @@ year: 2024
 bibkey: kuulmets2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04042"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper explores cost-efficient methods to adapt pretrained Large Language
 Models (LLMs) to new lower-resource languages, with a specific focus on

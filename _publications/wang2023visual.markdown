@@ -8,7 +8,7 @@ bibkey: wang2023visual
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2308.12714v3"}
   - {name: "Code", url: "https://opendatalab.github.io/VIGC"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Multimodal Models']
 ---
 The integration of visual encoders and large language models (LLMs) has
 driven recent progress in multimodal large language models (MLLMs). However,

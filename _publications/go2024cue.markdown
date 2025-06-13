@@ -7,7 +7,7 @@ year: 2024
 bibkey: go2024cue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.12287"}
-tags: ['Responsible AI', 'Multimodal Models', 'Tools', 'RAG', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'RAG', 'Multimodal Models']
 ---
 The integration of Retrieval-Augmented Generation (RAG) with Multimodal Large
 Language Models (MLLMs) has revolutionized information retrieval and expanded

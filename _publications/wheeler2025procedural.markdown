@@ -7,7 +7,7 @@ year: 2025
 bibkey: wheeler2025procedural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03434"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Agentic', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) represent a landmark achievement in Artificial
 Intelligence (AI), demonstrating unprecedented proficiency in procedural tasks

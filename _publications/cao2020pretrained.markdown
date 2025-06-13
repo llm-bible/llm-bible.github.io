@@ -7,7 +7,7 @@ year: 2020
 bibkey: cao2020pretrained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.07576"}
-tags: ['Model Architecture', 'RAG', 'Merging', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism']
 ---
 Large-scale pretrained language models have achieved outstanding performance
 on natural language understanding tasks. However, it is still under

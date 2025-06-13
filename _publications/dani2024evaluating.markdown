@@ -7,7 +7,7 @@ year: 2024
 bibkey: dani2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03004"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have been shown to encode clinical knowledge.
 Many evaluations, however, rely on structured question-answer benchmarks,

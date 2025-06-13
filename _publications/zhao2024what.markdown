@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12277"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Language models often struggle with handling factual knowledge, exhibiting
 factual hallucination issue. This makes it vital to evaluate the models'

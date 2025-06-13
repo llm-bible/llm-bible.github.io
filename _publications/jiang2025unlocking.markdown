@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiang2025unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11019"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Catastrophic forgetting (CF) poses a significant challenge in machine
 learning, where a model forgets previously learned information upon learning

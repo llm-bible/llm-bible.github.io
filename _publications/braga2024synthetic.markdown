@@ -7,7 +7,7 @@ year: 2024
 bibkey: braga2024synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22182"}
-tags: ['Prompting', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Prompting', 'Applications']
 ---
 Personalization in Information Retrieval (IR) is a topic studied by the
 research community since a long time. However, there is still a lack of

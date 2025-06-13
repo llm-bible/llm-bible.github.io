@@ -7,7 +7,7 @@ year: 2024
 bibkey: chiaranaipanich2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17145"}
-tags: ['Quantization', 'Efficiency and Optimization', 'Applications']
+tags: ['Efficiency and Optimization', 'Quantization', 'Applications']
 ---
 Large language models (LLMs) perform well on common tasks but struggle with
 generalization in low-resource and low-computation settings. We examine this

@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025activating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23956"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Recent advancements in Large Visual Language Models (LVLMs) have gained
 significant attention due to their remarkable reasoning capabilities and

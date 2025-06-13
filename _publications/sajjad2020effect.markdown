@@ -7,7 +7,7 @@ year: 2020
 bibkey: sajjad2020effect
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.03844"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Pruning', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Transformer-based NLP models are trained using hundreds of millions or even
 billions of parameters, limiting their applicability in computationally

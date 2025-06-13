@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024decoprompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07457"}
-tags: ['Prompting', 'RAG', 'Applications']
+tags: ['RAG', 'Prompting', 'Applications']
 ---
 While large language models (LLMs) have demonstrated increasing power, they
 have also called upon studies on their hallucinated outputs that deviate from

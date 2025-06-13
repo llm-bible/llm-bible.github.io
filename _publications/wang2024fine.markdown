@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16516"}
-tags: ['Agentic', 'Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 Evaluating the performance of LLMs in multi-turn human-agent interactions
 presents significant challenges, particularly due to the complexity and

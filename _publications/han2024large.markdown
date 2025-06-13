@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09491"}
-tags: ['Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs), with their remarkable ability to tackle
 challenging and unseen reasoning problems, hold immense potential for tabular

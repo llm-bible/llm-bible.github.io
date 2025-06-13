@@ -7,7 +7,7 @@ year: 2020
 bibkey: wu2020improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.03766"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Attention mechanism has played critical roles in various state-of-the-art NLP
 models such as Transformer and BERT. It can be formulated as a ternary function

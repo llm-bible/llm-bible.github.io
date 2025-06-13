@@ -7,7 +7,7 @@ year: 2024
 bibkey: merali2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02391"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
 ---
 This paper derives "scaling laws"--empirical relationships between the
 training compute of Large Language Models (LLMs) and their performance--for

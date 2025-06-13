@@ -7,7 +7,7 @@ year: 2023
 bibkey: liao2023modeling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.08926"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Merging', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Merging']
 ---
 Large language models (LLMs) face challenges in solving complex mathematical
 problems that require comprehensive capacities to parse the statements,

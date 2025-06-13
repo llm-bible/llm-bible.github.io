@@ -7,7 +7,7 @@ year: 2024
 bibkey: bai2024finetuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16127"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 various domains, motivating researchers to investigate their potential use in

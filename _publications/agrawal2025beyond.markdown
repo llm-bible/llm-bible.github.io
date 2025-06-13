@@ -7,7 +7,7 @@ year: 2025
 bibkey: agrawal2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04828"}
-tags: ['Responsible AI', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Prompting']
 ---
 While Large Language Models (LLMs) are fundamentally next-token prediction
 systems, their practical applications extend far beyond this basic function.

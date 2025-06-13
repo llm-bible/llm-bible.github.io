@@ -8,7 +8,7 @@ bibkey: wang2020high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.13887"}
   - {name: "Code", url: "https://github.com/bytedance/lightseq"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Transformer, BERT and their variants have achieved great success in natural
 language processing. Since Transformer models are huge in size, serving these

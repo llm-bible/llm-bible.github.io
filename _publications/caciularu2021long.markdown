@@ -7,7 +7,7 @@ year: 2021
 bibkey: caciularu2021long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08777"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Long-context question answering (QA) tasks require reasoning over a long
 document or multiple documents. Addressing these tasks often benefits from

@@ -7,7 +7,7 @@ year: 2023
 bibkey: hao2023augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11554"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Augmenting large language models (LLMs) with external tools has emerged as a
 promising approach to solving complex problems. However, traditional methods,

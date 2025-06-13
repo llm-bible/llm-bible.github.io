@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024selecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02314"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 The ever-growing ecosystem of LLMs has posed a challenge in selecting the
 most appropriate pre-trained model to fine-tune amidst a sea of options. Given

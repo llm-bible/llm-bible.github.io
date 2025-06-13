@@ -7,7 +7,7 @@ year: 2021
 bibkey: ganhotra2021does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.09647"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 In the last few years, the release of BERT, a multilingual transformer based
 model, has taken the NLP community by storm. BERT-based models have achieved

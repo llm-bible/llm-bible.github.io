@@ -7,7 +7,7 @@ year: 2025
 bibkey: cui2025process
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19326"}
-tags: ['Prompting', 'Applications', 'Security', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Security', 'Prompting', 'Applications']
 ---
 Recent reasoning large language models (LLMs) have demonstrated remarkable
 improvements in mathematical reasoning capabilities through long

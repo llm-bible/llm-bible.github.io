@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024probability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07329"}
-tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Prompting']
 ---
 Homogeneity bias in Large Language Models (LLMs) refers to their tendency to
 homogenize the representations of some groups compared to others. Previous

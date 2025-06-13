@@ -7,7 +7,7 @@ year: 2021
 bibkey: xu2021incorporating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.02839"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Textbook Question Answering (TQA) is a complex multimodal task to infer
 answers given large context descriptions and abundant diagrams. Compared with

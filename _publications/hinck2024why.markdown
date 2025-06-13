@@ -7,7 +7,7 @@ year: 2024
 bibkey: hinck2024why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02333"}
-tags: ['Ethics and Bias', 'Multimodal Models', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture', 'Ethics and Bias']
 ---
 We uncover a surprising multilingual bias occurring in a popular class of
 multimodal vision-language models (VLMs). Including an image in the query to a

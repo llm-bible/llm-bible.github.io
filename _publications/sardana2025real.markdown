@@ -7,7 +7,7 @@ year: 2025
 bibkey: sardana2025real
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21157"}
-tags: ['RAG', 'Applications', 'Survey Paper']
+tags: ['RAG', 'Survey Paper', 'Applications']
 ---
 This article surveys Evaluation models to automatically detect hallucinations
 in Retrieval-Augmented Generation (RAG), and presents a comprehensive benchmark

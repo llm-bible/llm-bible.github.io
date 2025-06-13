@@ -7,7 +7,7 @@ year: 2024
 bibkey: duan2024privacy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.10512"}
-tags: ['Security', 'Few-Shot', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Security', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) are excellent few-shot learners. They can
 perform a wide variety of tasks purely based on natural language prompts

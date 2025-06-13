@@ -8,7 +8,7 @@ bibkey: xu2024retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12476"}
   - {name: "Code", url: "https://anonymous.4open.science/r/Retrieval_Reasoning_Clinical_Trial_Generation-3EC4"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
 ---
 Machine learning (ML) exhibits promise in the clinical domain. However, it is
 constrained by data scarcity and ethical considerations, as the generation of

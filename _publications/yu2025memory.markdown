@@ -7,7 +7,7 @@ year: 2025
 bibkey: yu2025memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18012"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Multimodal Models']
 ---
 Multimodal Machine Translation (MMT) aims to improve translation quality by
 leveraging auxiliary modalities such as images alongside textual input. While

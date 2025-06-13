@@ -7,7 +7,7 @@ year: 2023
 bibkey: lai2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05613"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Over the last few years, large language models (LLMs) have emerged as the
 most important breakthroughs in natural language processing (NLP) that

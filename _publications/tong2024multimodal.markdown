@@ -7,7 +7,7 @@ year: 2024
 bibkey: tong2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14164"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods']
+tags: ['GPT', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 In this work, we propose Visual-Predictive Instruction Tuning (VPiT) - a
 simple and effective extension to visual instruction tuning that enables a

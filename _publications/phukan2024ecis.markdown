@@ -8,7 +8,7 @@ bibkey: phukan2024ecis
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09776"}
   - {name: "Code", url: "https://github.com/thePhukan/ECIS-VQG"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Previous studies on question generation from videos have mostly focused on
 generating questions about common objects and attributes and hence are not

@@ -8,7 +8,7 @@ bibkey: cai2025from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00034"}
   - {name: "Code", url: "https://github.com/XcloudFance/MergeIT"}
-tags: ['Has Code', 'Training Techniques', 'Merging']
+tags: ['Training Techniques', 'Has Code', 'Merging']
 ---
 Instruction tuning is crucial for optimizing Large Language Models (LLMs),
 yet mainstream data selection methods heavily rely on LLMs as instruction

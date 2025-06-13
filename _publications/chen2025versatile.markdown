@@ -8,7 +8,7 @@ bibkey: chen2025versatile
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15349"}
   - {name: "Code", url: "https://github.com/microsoft/AttentionEngine"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Transformers and large language models (LLMs) have revolutionized machine
 learning, with attention mechanisms at the core of their success. As the

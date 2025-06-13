@@ -8,7 +8,7 @@ bibkey: taghanaki2024mmlu
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02257"}
   - {name: "Code", url: "https://github.com/asgsaeid/mmlu-pro-plus"}
-tags: ['Ethics and Bias', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Has Code', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Existing benchmarks for large language models (LLMs) increasingly struggle to
 differentiate between top-performing models, underscoring the need for more

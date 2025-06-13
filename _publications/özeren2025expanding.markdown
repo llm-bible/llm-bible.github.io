@@ -7,7 +7,7 @@ year: 2025
 bibkey: özeren2025expanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.21018"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'Pre-Training', 'Pretraining Methods']
 ---
 Many pre-trained language models (PLMs) exhibit suboptimal performance on
 mid- and low-resource languages, largely due to limited exposure to these

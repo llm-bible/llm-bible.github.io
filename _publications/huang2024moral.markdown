@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024moral
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.11731"}
-tags: ['Prompting', 'Agentic', 'Tools']
+tags: ['Agentic', 'Prompting', 'Tools']
 ---
 We explore how large language models (LLMs) can be influenced by prompting
 them to alter their initial decisions and align them with established ethical

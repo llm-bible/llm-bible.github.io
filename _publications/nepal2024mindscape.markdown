@@ -7,7 +7,7 @@ year: 2024
 bibkey: nepal2024mindscape
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.09570"}
-tags: ['Prompting', 'RAG', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'RAG', 'Prompting', 'Reinforcement Learning']
 ---
 Mental health concerns are prevalent among college students, highlighting the
 need for effective interventions that promote self-awareness and holistic

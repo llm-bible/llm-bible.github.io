@@ -7,7 +7,7 @@ year: 2024
 bibkey: małkiński2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01173"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
 ---
 Abstract visual reasoning (AVR) encompasses a suite of tasks whose solving
 requires the ability to discover common concepts underlying the set of pictures

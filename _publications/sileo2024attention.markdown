@@ -7,7 +7,7 @@ year: 2024
 bibkey: sileo2024attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13481"}
-tags: ['Prompting', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) can suggest missing elements from items listed
 in a prompt, which can be used for list completion or recommendations based on

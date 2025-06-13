@@ -7,7 +7,7 @@ year: 2024
 bibkey: guan2024hybrid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08192"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Merging', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Merging']
 ---
 Recent advancements in text-to-image diffusion models have shown remarkable
 creative capabilities with textual prompts, but generating personalized

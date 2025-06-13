@@ -7,7 +7,7 @@ year: 2025
 bibkey: schaeffer2025correlating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18339"}
-tags: ['Responsible AI', 'Security', 'RAG', 'Reinforcement Learning']
+tags: ['Responsible AI', 'RAG', 'Security', 'Reinforcement Learning']
 ---
 The explosion of high-performing conversational language models (LMs) has
 spurred a shift from classic natural language processing (NLP) benchmarks to

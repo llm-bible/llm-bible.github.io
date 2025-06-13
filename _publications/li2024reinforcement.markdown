@@ -8,7 +8,7 @@ bibkey: li2024reinforcement
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11558"}
   - {name: "Code", url: "https://github.com/WindyLee0822/CTG"}
-tags: ['Agentic', 'Security', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Has Code', 'Applications']
+tags: ['Agentic', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Has Code']
 ---
 To meet the requirements of real-world applications, it is essential to
 control generations of large language models (LLMs). Prior research has tried

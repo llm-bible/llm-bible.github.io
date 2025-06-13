@@ -7,7 +7,7 @@ year: 2023
 bibkey: gaur2023building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06798"}
-tags: ['Responsible AI', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Interpretability', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism']
 ---
 Explainability and Safety engender Trust. These require a model to exhibit
 consistency and reliability. To achieve these, it is necessary to use and

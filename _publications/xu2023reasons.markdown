@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023reasons
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14591"}
-tags: ['Training Techniques', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Reinforcement Learning']
 ---
 As humans, we consistently interact with our peers and receive feedback in
 the form of natural language. This language feedback allows us to maintain

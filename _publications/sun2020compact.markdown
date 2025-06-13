@@ -7,7 +7,7 @@ year: 2020
 bibkey: sun2020compact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.02984"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Natural Language Processing (NLP) has recently achieved great success by
 using huge pre-trained models with hundreds of millions of parameters. However,

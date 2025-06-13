@@ -7,7 +7,7 @@ year: 2023
 bibkey: farahani2023empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.08115"}
-tags: ['Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
 ---
 Autoregressive models used to generate responses in open-domain dialogue
 systems often struggle to take long-term context into account and to maintain

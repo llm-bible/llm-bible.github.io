@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025agent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01834"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Multimodal Models']
 ---
 Image captioning is a critical task at the intersection of computer vision
 and natural language processing, with wide-ranging applications across various

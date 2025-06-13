@@ -7,7 +7,7 @@ year: 2023
 bibkey: ding2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11460"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Finding an agreement among diverse opinions is a challenging topic in
 multiagent systems. Recently, large language models (LLMs) have shown great

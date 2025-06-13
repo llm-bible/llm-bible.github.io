@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025law
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16143"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 Hallucination is a persistent challenge in large language models (LLMs),
 where even with rigorous quality control, models often generate distorted

@@ -7,7 +7,7 @@ year: 2024
 bibkey: härle2024sparse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07122"}
-tags: ['Responsible AI', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 generating human-like text, but their output may not be aligned with the user

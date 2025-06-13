@@ -8,7 +8,7 @@ bibkey: tessema2024aggregated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14343"}
   - {name: "Code", url: "https://github.com/bethelmelesse/unifiedcrawl"}
-tags: ['Training Techniques', 'Few-Shot', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) under-perform on low-resource languages due to
 limited training data. We present a method to efficiently collect text data for

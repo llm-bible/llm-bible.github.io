@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023chat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.08168"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in 3D Large Language Models (LLMs) have demonstrated
 promising capabilities for 3D scene understanding. However, previous methods

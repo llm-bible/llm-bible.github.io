@@ -7,7 +7,7 @@ year: 2023
 bibkey: grand2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19791"}
-tags: ['Applications', 'Tools']
+tags: ['Tools', 'Applications']
 ---
 While large language models (LLMs) now excel at code generation, a key aspect
 of software development is the art of refactoring: consolidating code into

@@ -8,7 +8,7 @@ bibkey: pal2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10185"}
   - {name: "Code", url: "https://github.com/OPTML-Group/MU-Coreset"}
-tags: ['Responsible AI', 'Security', 'Has Code', 'Efficiency and Optimization']
+tags: ['Responsible AI', 'Security', 'Efficiency and Optimization', 'Has Code']
 ---
 Large language model unlearning has become a critical challenge in ensuring
 safety and controlled model behavior by removing undesired data-model

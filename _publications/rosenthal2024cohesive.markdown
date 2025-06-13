@@ -8,7 +8,7 @@ bibkey: rosenthal2024cohesive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02103"}
   - {name: "Code", url: "https://github.com/primeqa/clapnq"}
-tags: ['RAG', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['RAG', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) has become a popular application for
 large language models. It is preferable that successful RAG systems provide

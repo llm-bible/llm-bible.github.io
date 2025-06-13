@@ -7,7 +7,7 @@ year: 2025
 bibkey: cui2025stepwise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13260"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Chain-of-Thought (CoT) reasoning, which breaks down complex tasks into
 intermediate reasoning steps, has significantly enhanced the performance of

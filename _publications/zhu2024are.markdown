@@ -8,7 +8,7 @@ bibkey: zhu2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07815"}
   - {name: "Code", url: "https://statqa.github.io/"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Merging', 'GPT', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities across
 a range of scientific tasks including mathematics, physics, and chemistry.

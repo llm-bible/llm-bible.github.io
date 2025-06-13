@@ -7,7 +7,7 @@ year: 2024
 bibkey: kalyanpur2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17663"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Security', 'Training Techniques', 'Reinforcement Learning']
 ---
 We introduce LLM-ARC, a neuro-symbolic framework designed to enhance the
 logical reasoning capabilities of Large Language Models (LLMs), by combining

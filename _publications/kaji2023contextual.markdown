@@ -7,7 +7,7 @@ year: 2023
 bibkey: kaji2023contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13179"}
-tags: ['Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) have exerted a considerable impact on diverse
 language-related tasks in recent years. Their demonstrated state-of-the-art

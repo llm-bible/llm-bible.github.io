@@ -7,7 +7,7 @@ year: 2024
 bibkey: kumar2024confidence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16282"}
-tags: ['Prompting', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 As the use of Large Language Models (LLMs) becomes more widespread,
 understanding their self-evaluation of confidence in generated responses

@@ -7,7 +7,7 @@ year: 2023
 bibkey: duan2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10367"}
-tags: ['Prompting', 'Training Techniques', 'Applications', 'In-Context Learning']
+tags: ['In-Context Learning', 'Training Techniques', 'Prompting', 'Applications']
 ---
 In-Context Learning (ICL) and Instruction Tuning (IT) are two primary
 paradigms of adopting Large Language Models (LLMs) to downstream applications.

@@ -7,7 +7,7 @@ year: 2022
 bibkey: mao2022fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.04243"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Autoregressive Transformers are strong language models but incur O(T)
 complexity during per-token generation due to the self-attention mechanism.

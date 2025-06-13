@@ -7,7 +7,7 @@ year: 2022
 bibkey: chen2022leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.10617"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent breakthroughs in Natural Language Processing (NLP) have been driven by
 language models trained on a massive amount of plain text. While powerful,

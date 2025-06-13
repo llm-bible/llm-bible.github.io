@@ -8,7 +8,7 @@ bibkey: zhao2024preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00689"}
   - {name: "Code", url: "https://github.com/QingFei1/PrefRAG.git"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Retrieval-Augmented Generation (RAG) has emerged as a reliable external
 knowledge augmentation technique to mitigate hallucination issues and

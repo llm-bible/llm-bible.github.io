@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.10702"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Multimodal Models']
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Tools']
 ---
 The growing demand for AI training data has transformed data annotation into
 a global industry, but traditional approaches relying on human annotators are

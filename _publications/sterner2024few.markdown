@@ -7,7 +7,7 @@ year: 2024
 bibkey: sterner2024few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11317"}
-tags: ['Multimodal Models', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Applications']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models']
 ---
 Two approaches have emerged to input images into large language models
 (LLMs). The first is to caption images into natural language. The second is to

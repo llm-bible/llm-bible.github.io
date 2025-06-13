@@ -8,7 +8,7 @@ bibkey: wan2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.07990"}
   - {name: "Code", url: "https://github.com/fanqiwan/FuseAI"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 While training large language models (LLMs) from scratch can indeed lead to
 models with distinct capabilities and strengths, it incurs substantial costs

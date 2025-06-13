@@ -7,7 +7,7 @@ year: 2024
 bibkey: barron2024domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02721"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'KDD', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'KDD', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) are pre-trained on large-scale corpora and excel
 in numerous general natural language processing (NLP) tasks, such as question

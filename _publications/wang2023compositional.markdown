@@ -8,7 +8,7 @@ bibkey: wang2023compositional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13921"}
   - {name: "Code", url: "https://github.com/OPPOMente-Lab/attention-mask-control"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Recent text-to-image (T2I) diffusion models show outstanding performance in
 generating high-quality images conditioned on textual prompts. However, they

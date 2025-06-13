@@ -8,7 +8,7 @@ bibkey: zhang2024generalizable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21693"}
   - {name: "Code", url: "https://github.com/KongLongGeFDU/TransferTOD"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Task-oriented dialogue (TOD) systems aim to efficiently handle task-oriented
 conversations, including information collection. How to utilize TOD accurately,

@@ -7,7 +7,7 @@ year: 2022
 bibkey: gonen2022demystifying
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2212.04037v2"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Few-Shot']
+tags: ['Few-Shot', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Language models can be prompted to perform a wide variety of zero- and
 few-shot learning problems. However, performance varies significantly with the

@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.16175"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques']
 ---
 We introduce BSDetector, a method for detecting bad and speculative answers
 from a pretrained Large Language Model by estimating a numeric confidence score

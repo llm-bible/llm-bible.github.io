@@ -8,7 +8,7 @@ bibkey: chen2024next
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18619"}
   - {name: "Code", url: "https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Tokenization', 'Language Modeling', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Has Code', 'Multimodal Models']
 ---
 Building on the foundations of language modeling in natural language
 processing, Next Token Prediction (NTP) has evolved into a versatile training

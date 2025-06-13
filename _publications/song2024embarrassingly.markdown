@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024embarrassingly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08237"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Model Architecture']
+tags: ['Training Techniques', 'RAG', 'Tools', 'Model Architecture']
 ---
 It is well known that LLM-based systems are data-hungry. Recent LLM-based TTS
 works typically employ complex data processing pipelines to obtain high-quality

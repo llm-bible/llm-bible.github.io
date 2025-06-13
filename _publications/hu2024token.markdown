@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18171"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 Large Language Models (LLMs) are increasingly being integrated into services
 such as ChatGPT to provide responses to user queries. To mitigate potential

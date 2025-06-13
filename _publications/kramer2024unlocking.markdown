@@ -7,7 +7,7 @@ year: 2024
 bibkey: kramer2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02953"}
-tags: ['Prompting', 'Applications', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'Applications']
 ---
 We propose cognitive prompting as a novel approach to guide problem-solving
 in large language models (LLMs) through structured, human-like cognitive

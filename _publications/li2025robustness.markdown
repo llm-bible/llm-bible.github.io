@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025robustness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14836"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Fine-tuning has become the standard practice for adapting pre-trained
 (upstream) models to downstream tasks. However, the impact on model robustness

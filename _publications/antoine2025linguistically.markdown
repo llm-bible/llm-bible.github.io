@@ -7,7 +7,7 @@ year: 2025
 bibkey: antoine2025linguistically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17569"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 We introduce an evaluation methodology for reading comprehension tasks based
 on the intuition that certain examples, by the virtue of their linguistic

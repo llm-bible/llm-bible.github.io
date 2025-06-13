@@ -7,7 +7,7 @@ year: 2025
 bibkey: cohere2025command
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00698"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques']
 ---
 In this report we describe the development of Command A, a powerful large
 language model purpose-built to excel at real-world enterprise use cases.

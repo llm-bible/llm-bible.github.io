@@ -7,7 +7,7 @@ year: 2024
 bibkey: jia2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03988"}
-tags: ['RAG', 'Survey Paper', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Survey Paper', 'Reinforcement Learning']
 ---
 Contemporary recommendation systems predominantly rely on ID embedding to
 capture latent associations among users and items. However, this approach

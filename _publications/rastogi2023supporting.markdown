@@ -7,7 +7,7 @@ year: 2023
 bibkey: rastogi2023supporting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09991"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models are becoming increasingly pervasive and ubiquitous in
 society via deployment in sociotechnical systems. Yet these language models, be

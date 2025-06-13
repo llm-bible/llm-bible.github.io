@@ -7,7 +7,7 @@ year: 2025
 bibkey: coronadoblázquez2025deterministic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19965"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have transformed text generation through
 inherently probabilistic context-aware mechanisms, mimicking human natural

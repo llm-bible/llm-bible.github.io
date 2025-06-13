@@ -8,7 +8,7 @@ bibkey: ni2021sentence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.08877"}
   - {name: "Code", url: "https://tfhub.dev/google/collections/sentence-t5/1"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 We provide the first exploration of sentence embeddings from text-to-text
 transformers (T5). Sentence embeddings are broadly useful for language

@@ -7,7 +7,7 @@ year: 2025
 bibkey: kabra2025reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05632"}
-tags: ['Training Techniques', 'Fairness', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Bias Mitigation', 'Training Techniques', 'Pretraining Methods', 'Fairness']
 ---
 Recent advances in large-scale generative language models have shown that
 reasoning capabilities can significantly improve model performance across a

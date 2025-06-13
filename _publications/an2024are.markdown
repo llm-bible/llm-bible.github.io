@@ -7,7 +7,7 @@ year: 2024
 bibkey: an2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.17750"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In this study, we delve into the efficacy of transformers within pre-trained
 language models (PLMs) when repurposed as encoders for Automatic Speech

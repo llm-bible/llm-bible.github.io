@@ -7,7 +7,7 @@ year: 2025
 bibkey: pan2025do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04835"}
-tags: ['Ethics and Bias', 'Applications']
+tags: ['Applications', 'Ethics and Bias']
 ---
 Code Large Language Models (LLMs) demonstrate great versatility in adapting
 to various downstream tasks, including code generation and completion, as well

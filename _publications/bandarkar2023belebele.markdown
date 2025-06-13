@@ -7,7 +7,7 @@ year: 2023
 bibkey: bandarkar2023belebele
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.16884"}
-tags: ['Masked Language Model', 'RAG', 'Applications']
+tags: ['RAG', 'Applications', 'Masked Language Model']
 ---
 We present Belebele, a multiple-choice machine reading comprehension (MRC)
 dataset spanning 122 language variants. Significantly expanding the language

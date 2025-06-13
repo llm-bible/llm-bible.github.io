@@ -7,7 +7,7 @@ year: 2024
 bibkey: mathews2024test
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13521"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Recent Large Language Models (LLMs) have demonstrated significant
 capabilities in generating code snippets directly from problem statements. This

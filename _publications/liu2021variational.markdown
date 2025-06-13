@@ -7,7 +7,7 @@ year: 2021
 bibkey: liu2021variational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.04314"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, two approaches, fine-tuning large pre-trained language models and
 variational training, have attracted significant interests, separately, for

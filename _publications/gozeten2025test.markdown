@@ -7,7 +7,7 @@ year: 2025
 bibkey: gozeten2025test
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11842"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Test-time training (TTT) methods explicitly update the weights of a model to
 adapt to the specific test instance, and they have found success in a variety

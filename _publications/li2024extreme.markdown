@@ -8,7 +8,7 @@ bibkey: li2024extreme
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11257"}
   - {name: "Code", url: "https://github.com/Gaffey/ExCP"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Quantization', 'Has Code', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Quantization']
 ---
 Large language models (LLM) have recently attracted significant attention in
 the field of artificial intelligence. However, the training process of these

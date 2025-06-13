@@ -8,7 +8,7 @@ bibkey: ma2025dressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.14371"}
   - {name: "Code", url: "https://github.com/ArthurLeoM/DRESS-LLM"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 We introduce DRESS, a novel approach for generating stylized large language
 model (LLM) responses through representation editing. Existing methods like

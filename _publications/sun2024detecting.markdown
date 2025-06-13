@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11414"}
-tags: ['RAG', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG']
 ---
 Retrieval-Augmented Generation (RAG) models are designed to incorporate
 external knowledge, reducing hallucinations caused by insufficient parametric

@@ -7,7 +7,7 @@ year: 2023
 bibkey: furuta2023multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11854"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 The progress of autonomous web navigation has been hindered by the dependence
 on billions of exploratory interactions via online reinforcement learning, and

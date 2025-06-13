@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuhang2024bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16005"}
-tags: ['Multimodal Models', 'Training Techniques', 'RAG', 'Fine-Tuning', 'Pre-Training', 'INTERSPEECH']
+tags: ['Fine-Tuning', 'Pre-Training', 'INTERSPEECH', 'RAG', 'Training Techniques', 'Multimodal Models']
 ---
 The integration of large language models (LLMs) with pre-trained speech
 models has opened up new avenues in automatic speech recognition (ASR). While

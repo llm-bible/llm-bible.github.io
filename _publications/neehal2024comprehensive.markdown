@@ -7,7 +7,7 @@ year: 2024
 bibkey: neehal2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17888"}
-tags: ['Security', 'Model Architecture', 'GPT', 'BERT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Security', 'BERT', 'Prompting']
 ---
 CTBench is introduced as a benchmark to assess language models (LMs) in
 aiding clinical study design. Given study-specific metadata, CTBench evaluates

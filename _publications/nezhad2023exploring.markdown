@@ -7,7 +7,7 @@ year: 2023
 bibkey: nezhad2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05404"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Multilingual language models have gained significant attention in recent
 years, enabling the development of applications that meet diverse linguistic

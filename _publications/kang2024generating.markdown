@@ -7,7 +7,7 @@ year: 2024
 bibkey: kang2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11664"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques']
 ---
 Generating Chain-of-Thought (CoT) before deriving the answer can effectively
 improve the reasoning capabilities of large language models (LLMs) and

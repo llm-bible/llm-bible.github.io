@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11531"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models~(LLMs) have demonstrated capabilities across various
 applications but face challenges such as hallucination, limited reasoning

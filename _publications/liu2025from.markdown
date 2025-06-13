@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05801"}
-tags: ['Merging', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Applications', 'Merging']
 ---
 In a conversational system, dynamically generating follow-up questions based
 on context can help users explore information and provide a better user

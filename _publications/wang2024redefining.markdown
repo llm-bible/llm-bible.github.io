@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024redefining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.05508"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Retrieval augmentation is critical when Language Models (LMs) exploit
 non-parametric knowledge related to the query through external knowledge bases

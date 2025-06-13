@@ -8,7 +8,7 @@ bibkey: zhao2024prefix
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08924"}
   - {name: "Code", url: "https://github.com/weiyezhimeng/Prefix-Guidance"}
-tags: ['Security', 'Tools', 'RAG', 'Has Code', 'Prompting']
+tags: ['Tools', 'RAG', 'Security', 'Has Code', 'Prompting']
 ---
 In recent years, the rapid development of large language models (LLMs) has
 achieved remarkable performance across various tasks. However, research

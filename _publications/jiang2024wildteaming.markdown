@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024wildteaming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18510"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Prompting']
 ---
 We introduce WildTeaming, an automatic LLM safety red-teaming framework that
 mines in-the-wild user-chatbot interactions to discover 5.7K unique clusters of

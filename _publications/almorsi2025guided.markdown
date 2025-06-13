@@ -7,7 +7,7 @@ year: 2025
 bibkey: almorsi2025guided
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06625"}
-tags: ['Agentic', 'RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Agentic', 'Applications', 'Tools']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in code
 generation tasks, yet they face significant limitations in handling complex,

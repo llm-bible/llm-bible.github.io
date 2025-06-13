@@ -7,7 +7,7 @@ year: 2024
 bibkey: chouikhi2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02147"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have greatly impacted the natural language
 processing (NLP) field, particularly for the English language. These models

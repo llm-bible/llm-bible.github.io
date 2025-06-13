@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13501"}
-tags: ['Model Architecture', 'RAG', 'Merging', 'Prompting', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Prompting']
 ---
 Despite tremendous progress in the field of text-to-video (T2V) synthesis,
 open-sourced T2V diffusion models struggle to generate longer videos with

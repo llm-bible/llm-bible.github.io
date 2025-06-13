@@ -7,7 +7,7 @@ year: 2022
 bibkey: lee2022evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.09746"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Many real-world applications of language models (LMs), such as writing
 assistance and code autocomplete, involve human-LM interaction. However, most

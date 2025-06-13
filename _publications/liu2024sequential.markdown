@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024sequential
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11327"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The fashion industry is one of the leading domains in the global e-commerce
 sector, prompting major online retailers to employ recommendation systems for

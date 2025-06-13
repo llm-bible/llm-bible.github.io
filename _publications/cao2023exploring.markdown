@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.01645"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 ChatGPT,a cutting-edge AI-powered Chatbot,can quickly generate responses on
 given commands. While it was reported that ChatGPT had the capacity to deliver

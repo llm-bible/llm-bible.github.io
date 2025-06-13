@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.20473"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Distillation', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Distillation']
 ---
 Recent advancements in object-centric text-to-3D generation have shown
 impressive results. However, generating complex 3D scenes remains an open

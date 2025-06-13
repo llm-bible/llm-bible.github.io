@@ -7,7 +7,7 @@ year: 2024
 bibkey: haller2024problem
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18766"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Recent advancements in large language models (LLMs) have showcased their
 exceptional abilities across various tasks, such as code generation,

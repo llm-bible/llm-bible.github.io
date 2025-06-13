@@ -7,7 +7,7 @@ year: 2024
 bibkey: khoshnoodi2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13019"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Survey Paper', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Despite the crucial importance of accelerating text generation in large
 language models (LLMs) for efficiently producing content, the sequential nature

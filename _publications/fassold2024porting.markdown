@@ -7,7 +7,7 @@ year: 2024
 bibkey: fassold2024porting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.15851"}
-tags: ['Prompting', 'Applications', 'Tools']
+tags: ['Tools', 'Prompting', 'Applications']
 ---
 Deploying Large Language Models (LLMs) on mobile devices makes all the
 capabilities of natural language processing available on the device. An

@@ -8,7 +8,7 @@ bibkey: dai2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11430"}
   - {name: "Code", url: "https://github.com/SparksofAGI/MHPP"}
-tags: ['Has Code', 'Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Has Code', 'Applications', 'Model Architecture']
 ---
 Recent advancements in large language models (LLMs) have greatly improved
 code generation, specifically at the function level. For instance, GPT-4o has

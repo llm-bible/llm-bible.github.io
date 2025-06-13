@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03258"}
-tags: ['Agentic', 'Tools', 'RAG', 'Ethics and Bias', 'Prompting']
+tags: ['Agentic', 'Tools', 'Ethics and Bias', 'RAG', 'Prompting']
 ---
 Although Large Language Models (LLMs) have demonstrated potential in
 processing graphs, they struggle with comprehending graphical structure

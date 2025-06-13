@@ -7,7 +7,7 @@ year: 2019
 bibkey: battenberg2019location
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.10288"}
-tags: ['Training Techniques', 'Transformer', 'Attention Mechanism', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
 ---
 Despite the ability to produce human-level speech for in-domain text,
 attention-based end-to-end text-to-speech (TTS) systems suffer from text

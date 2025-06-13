@@ -7,7 +7,7 @@ year: 2024
 bibkey: kirstein2024refining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11919"}
-tags: ['Security', 'Survey Paper', 'Language Modeling', 'RAG', 'Applications']
+tags: ['Survey Paper', 'Applications', 'RAG', 'Language Modeling', 'Security']
 ---
 Meeting summarization has become a critical task since digital encounters
 have become a common practice. Large language models (LLMs) show great

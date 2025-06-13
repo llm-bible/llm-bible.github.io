@@ -7,7 +7,7 @@ year: 2024
 bibkey: cho2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03685"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Multi-modal large language models (MLLMs) have shown incredible capabilities
 in a variety of 2D vision and language tasks. We extend MLLMs' perceptual

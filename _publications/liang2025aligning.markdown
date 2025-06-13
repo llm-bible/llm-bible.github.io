@@ -7,7 +7,7 @@ year: 2025
 bibkey: liang2025aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.09368"}
-tags: ['Pre-Training', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'RAG', 'Pre-Training']
 ---
 Instruction tuning enhances large language models (LLMs) to follow human
 instructions across diverse tasks, relying on high-quality datasets to guide

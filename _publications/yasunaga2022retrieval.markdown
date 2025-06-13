@@ -7,7 +7,7 @@ year: 2022
 bibkey: yasunaga2022retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.12561"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Transformer', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Recent multimodal models such as DALL-E and CM3 have achieved remarkable
 progress in text-to-image and image-to-text generation. However, these models

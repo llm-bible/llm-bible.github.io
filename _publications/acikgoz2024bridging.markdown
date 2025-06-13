@@ -7,7 +7,7 @@ year: 2024
 bibkey: acikgoz2024bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.04685"}
-tags: ['Training Techniques', 'Tools', 'Scaling Laws', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
 ---
 Large Language Models (LLMs) are becoming crucial across various fields,
 emphasizing the urgency for high-quality models in underrepresented languages.

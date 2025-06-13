@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheng2024calibrate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02210"}
-tags: ['Prompting', 'In-Context Learning', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 While in-context learning with large language models (LLMs) has shown
 impressive performance, we have discovered a unique miscalibration behavior

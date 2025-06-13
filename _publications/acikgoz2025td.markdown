@@ -7,7 +7,7 @@ year: 2025
 bibkey: acikgoz2025td
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19982"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 Task-oriented dialogue (TOD) systems are experiencing a revolution driven by
 Large Language Models (LLMs), yet the evaluation methodologies for these

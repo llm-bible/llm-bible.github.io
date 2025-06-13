@@ -7,7 +7,7 @@ year: 2022
 bibkey: susnjak2022end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.09292"}
-tags: ['Agentic', 'Model Architecture', 'Fairness', 'Tools', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias']
+tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Fairness']
 ---
 This study evaluated the ability of ChatGPT, a recently developed artificial
 intelligence (AI) agent, to perform high-level cognitive tasks and produce text

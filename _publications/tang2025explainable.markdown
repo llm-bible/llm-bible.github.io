@@ -7,7 +7,7 @@ year: 2025
 bibkey: tang2025explainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15801"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Compositional generalization-the systematic combination of known components
 into novel structures-remains a core challenge in cognitive science and machine

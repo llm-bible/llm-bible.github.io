@@ -8,7 +8,7 @@ bibkey: ouyang2025layer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02629"}
   - {name: "Code", url: "https://github.com/oyy2000/LayerAdvPatcher"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Has Code', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'Security', 'Has Code', 'Prompting']
 ---
 As large language models (LLMs) are increasingly deployed in diverse
 applications, including chatbot assistants and code generation, aligning their

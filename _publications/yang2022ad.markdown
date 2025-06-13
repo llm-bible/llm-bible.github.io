@@ -7,7 +7,7 @@ year: 2022
 bibkey: yang2022ad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.05883"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Fine-tuning large pre-trained language models on downstream tasks is apt to
 suffer from overfitting when limited training data is available. While dropout

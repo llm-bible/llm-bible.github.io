@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18811"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) based on the Transformer architecture usually
 have their context length limited due to the high training cost. Recent

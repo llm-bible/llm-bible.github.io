@@ -8,7 +8,7 @@ bibkey: khalifa2024source
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01019"}
   - {name: "Code", url: "https://github.com/mukhal/intrinsic-source-citation"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) learn a vast amount of knowledge during
 pretraining, but they are often oblivious to the source(s) of such knowledge.

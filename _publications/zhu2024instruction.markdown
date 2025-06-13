@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18203"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Soft prompt tuning is a widely studied parameter-efficient fine-tuning
 method. However, it has a clear drawback: many soft tokens must be inserted

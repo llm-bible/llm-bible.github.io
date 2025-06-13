@@ -7,7 +7,7 @@ year: 2023
 bibkey: kuo2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.15118"}
-tags: ['Model Architecture', 'GPT', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Attention Mechanism']
 ---
 While large language models have made strides in natural language processing,
 their proficiency in complex reasoning tasks requiring formal language

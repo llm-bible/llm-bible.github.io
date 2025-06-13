@@ -7,7 +7,7 @@ year: 2023
 bibkey: gruver2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07820"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 By encoding time series as a string of numerical digits, we can frame time
 series forecasting as next-token prediction in text. Developing this approach,

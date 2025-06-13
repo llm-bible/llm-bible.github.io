@@ -7,7 +7,7 @@ year: 2025
 bibkey: mei2025seeking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00972"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Tools', 'RAG']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'RAG', 'Security']
 ---
 Simulation-based testing is crucial for validating autonomous vehicles (AVs),
 yet existing scenario generation methods either overfit to common driving

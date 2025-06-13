@@ -7,7 +7,7 @@ year: 2024
 bibkey: sinha2024maml
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11446"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Adapting large language models (LLMs) to unseen tasks with in-context
 training samples without fine-tuning remains an important research problem. To

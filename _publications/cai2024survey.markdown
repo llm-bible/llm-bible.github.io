@@ -8,7 +8,7 @@ bibkey: cai2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06204"}
   - {name: "Code", url: "https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'In-Context Learning', 'Has Code', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Survey Paper', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have garnered unprecedented advancements across
 diverse fields, ranging from natural language processing to computer vision and

@@ -7,7 +7,7 @@ year: 2025
 bibkey: schwartz2025graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.18638"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Pruning', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We present a modular pipeline that automates the generation of stealthy
 jailbreak prompts derived from high-level content policies, enhancing LLM

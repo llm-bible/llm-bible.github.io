@@ -8,7 +8,7 @@ bibkey: tihanyi2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15490"}
   - {name: "Code", url: "https://github.com/DIA-Bench"}
-tags: ['Security', 'Model Architecture', 'Tools', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Security', 'Has Code']
 ---
 As machine intelligence evolves, the need to test and compare the
 problem-solving abilities of different AI models grows. However, current

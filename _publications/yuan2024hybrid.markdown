@@ -8,7 +8,7 @@ bibkey: yuan2024hybrid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05141"}
   - {name: "Code", url: "https://gitlab.aicrowd.com/shizueyy/crag-new"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'KDD', 'Has Code', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'KDD', 'Has Code']
 ---
 Retrieval-augmented generation (RAG) is a framework enabling large language
 models (LLMs) to enhance their accuracy and reduce hallucinations by

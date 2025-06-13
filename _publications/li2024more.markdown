@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024more
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18870"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The trustworthiness of Large Language Models (LLMs) refers to the extent to
 which their outputs are reliable, safe, and ethically aligned, and it has

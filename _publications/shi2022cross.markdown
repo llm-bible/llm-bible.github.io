@@ -8,7 +8,7 @@ bibkey: shi2022cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.13693"}
   - {name: "Code", url: "https://github.com/Impavidity/XRICL"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 In-context learning using large language models has recently shown surprising
 results for semantic parsing tasks such as Text-to-SQL translation. Prompting

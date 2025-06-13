@@ -7,7 +7,7 @@ year: 2023
 bibkey: long2023adapt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11551"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'RAG', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have showcased their capability with few-shot
 inference known as in-context learning. However, in-domain demonstrations are

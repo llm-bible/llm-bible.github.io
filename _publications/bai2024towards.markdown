@@ -7,7 +7,7 @@ year: 2024
 bibkey: bai2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17946"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pruning']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning']
 ---
 The transformative impact of large language models (LLMs) like LLaMA and GPT
 on natural language processing is countered by their prohibitive computational

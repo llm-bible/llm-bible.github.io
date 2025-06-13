@@ -7,7 +7,7 @@ year: 2023
 bibkey: kim2023expediting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12659"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Tools', 'Distillation', 'Pretraining Methods']
+tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 Recent advances in vision language pretraining (VLP) have been largely
 attributed to the large-scale data collected from the web. However, uncurated

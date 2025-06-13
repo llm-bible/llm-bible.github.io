@@ -7,7 +7,7 @@ year: 2024
 bibkey: aryan2024resource
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17548"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper presents a novel approach to fine-tuning the Qwen2-1.5B model for
 Arabic language processing using Quantized Low-Rank Adaptation (QLoRA) on a

@@ -8,7 +8,7 @@ bibkey: jian2022contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.01308"}
   - {name: "Code", url: "https://github.com/yiren-jian/LM-SupCon"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 The impressive performance of GPT-3 using natural language prompts and
 in-context learning has inspired work on better fine-tuning of moderately-sized

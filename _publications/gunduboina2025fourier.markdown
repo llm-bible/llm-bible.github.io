@@ -8,7 +8,7 @@ bibkey: gunduboina2025fourier
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16433"}
   - {name: "Code", url: "https://github.com/HariseetharamG/FrogDogNet"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Transformer', 'Has Code', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 In recent years, large-scale vision-language models (VLMs) like CLIP have
 gained attention for their zero-shot inference using instructional text

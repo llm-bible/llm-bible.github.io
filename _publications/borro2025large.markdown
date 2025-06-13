@@ -7,7 +7,7 @@ year: 2025
 bibkey: borro2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.18816"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 While systems designed for solving planning tasks vastly outperform Large
 Language Models (LLMs) in this domain, they usually discard the rich semantic

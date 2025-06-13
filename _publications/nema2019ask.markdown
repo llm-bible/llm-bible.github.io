@@ -8,7 +8,7 @@ bibkey: nema2019ask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.05355"}
   - {name: "Code", url: "https://github.com/PrekshaNema25/RefNet-QG"}
-tags: ['Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Attention Mechanism']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 In this work, we focus on the task of Automatic Question Generation (AQG)
 where given a passage and an answer the task is to generate the corresponding

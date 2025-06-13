@@ -7,7 +7,7 @@ year: 2024
 bibkey: hui2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05449"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated impressive capability in
 reasoning and planning when integrated with tree-search-based prompting

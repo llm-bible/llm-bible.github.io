@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15790"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Small language models (SLMs), despite their widespread adoption in modern
 smart devices, have received significantly less academic attention compared to

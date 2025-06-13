@@ -8,7 +8,7 @@ bibkey: mahabadi2022prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.01172"}
   - {name: "Code", url: "https://github.com/facebookresearch/perfect.git"}
-tags: ['Masked Language Model', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
 ---
 Current methods for few-shot fine-tuning of pretrained masked language models
 (PLMs) require carefully engineered prompts and verbalizers for each new task

@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022knowledgeable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.07994"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Pre-trained language models (PLMs) like BERT have made significant progress
 in various downstream NLP tasks. However, by asking models to do cloze-style

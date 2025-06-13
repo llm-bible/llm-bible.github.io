@@ -8,7 +8,7 @@ bibkey: marchisio2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.20052"}
   - {name: "Code", url: "https://github.com/for-ai/language-confusion"}
-tags: ['Few-Shot', 'Merging', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'Merging', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We investigate a surprising limitation of LLMs: their inability to
 consistently generate text in a user's desired language. We create the Language

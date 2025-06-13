@@ -7,7 +7,7 @@ year: 2025
 bibkey: mao2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14644"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'In-Context Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Long context understanding remains challenging for large language models due
 to their limited context windows. This paper presents Long Input Fine-Tuning

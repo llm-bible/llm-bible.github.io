@@ -8,7 +8,7 @@ bibkey: chochlakis2022augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.09021"}
   - {name: "Code", url: "https://github.com/gchochla/VAuLT"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 We propose the Vision-and-Augmented-Language Transformer (VAuLT). VAuLT is an
 extension of the popular Vision-and-Language Transformer (ViLT), and improves

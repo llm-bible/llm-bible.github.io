@@ -7,7 +7,7 @@ year: 2024
 bibkey: sim2024critique
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15748"}
-tags: ['Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability']
 ---
 Background: Despite the current ubiquity of Large Language Models (LLMs)
 across the medical domain, there is a surprising lack of studies which address

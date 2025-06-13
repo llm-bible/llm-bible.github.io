@@ -7,7 +7,7 @@ year: 2024
 bibkey: jha2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05344"}
-tags: ['RAG', 'Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 In the digital world, memes present a unique challenge for content moderation
 due to their potential to spread harmful content. Although detection methods

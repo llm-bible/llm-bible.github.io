@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.08678"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are trained to imitate humans to explain human
 decisions. However, do LLMs explain themselves? Can they help humans build

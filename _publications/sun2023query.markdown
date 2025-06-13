@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.06553"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 In this study, we aim to enhance the arithmetic reasoning ability of Large
 Language Models (LLMs) through zero-shot prompt optimization. We identify a

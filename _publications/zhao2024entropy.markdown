@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024entropy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.07921"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods']
 ---
 Generative Large Language Models (LLMs) stand as a revolutionary advancement
 in the modern era of artificial intelligence (AI). However, scaling down LLMs

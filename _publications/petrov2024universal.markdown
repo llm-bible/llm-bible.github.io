@@ -7,7 +7,7 @@ year: 2024
 bibkey: petrov2024universal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01424"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Zero-shot and in-context learning enable solving tasks without model
 fine-tuning, making them essential for developing generative model solutions.

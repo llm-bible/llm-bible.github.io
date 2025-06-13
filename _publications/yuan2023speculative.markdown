@@ -7,7 +7,7 @@ year: 2023
 bibkey: yuan2023speculative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08981"}
-tags: ['Ethics and Bias', 'RAG', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Ethics and Bias']
 ---
 Large language models~(LLMs) exhibit exceptional performance in language
 tasks, yet their auto-regressive inference is limited due to high computational

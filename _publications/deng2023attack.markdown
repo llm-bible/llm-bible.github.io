@@ -8,7 +8,7 @@ bibkey: deng2023attack
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12505"}
   - {name: "Code", url: "https://github.com/Aatrox103/SAP"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'Security', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) are susceptible to red teaming attacks, which
 can induce LLMs to generate harmful content. Previous research constructs

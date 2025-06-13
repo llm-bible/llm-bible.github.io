@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16924"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Large Language Model (LLM)-based cold-start recommendation systems continue
 to face significant computational challenges in billion-scale scenarios, as

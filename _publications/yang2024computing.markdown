@@ -8,7 +8,7 @@ bibkey: yang2024computing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14377"}
   - {name: "Code", url: "https://github.com/ziyangjoy/CoMERA"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Training large AI models such as LLMs and DLRMs costs massive GPUs and
 computing time. The high training cost has become only affordable to big tech

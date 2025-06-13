@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03017"}
-tags: ['Multimodal Models', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 Multimodal information extraction (MIE) aims to extract structured
 information from unstructured multimedia content. Due to the diversity of tasks

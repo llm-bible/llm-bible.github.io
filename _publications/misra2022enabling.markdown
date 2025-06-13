@@ -8,7 +8,7 @@ bibkey: misra2022enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.13112"}
   - {name: "Code", url: "https://github.com/kanishkamisra/minicons"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 We present minicons, an open source library that provides a standard API for
 researchers interested in conducting behavioral and representational analyses

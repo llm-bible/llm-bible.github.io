@@ -8,7 +8,7 @@ bibkey: wang2023neural
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.02111v1"}
   - {name: "Code", url: "https://aka.ms/valle"}
-tags: ['Training Techniques', 'Language Modeling', 'Has Code', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Pre-Training', 'Language Modeling', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 We introduce a language modeling approach for text to speech synthesis (TTS).
 Specifically, we train a neural codec language model (called Vall-E) using

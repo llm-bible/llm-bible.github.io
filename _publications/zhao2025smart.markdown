@@ -9,6 +9,6 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2506.02470"}
   - {name: "Code", url: "https://www.youtube.com/watch?v=PNIBDMYRfDM"}
   - {name: "Code", url: "https://github.com/SNOWTEAM2023/MedRAG"}
-tags: ['Multimodal Models', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Misdiagnosis causes significant harm to healthcare systems worldwide, leading to increased costs and patient risks. MedRAG is a smart multimodal healthcare copilot equipped with powerful large language model (LLM) reasoning, designed to enhance medical decision-making. It supports multiple input modalities, including non-intrusive voice monitoring, general medical queries, and electronic health records. MedRAG provides recommendations on diagnosis, treatment, medication, and follow-up questioning. Leveraging retrieval-augmented generation enhanced by knowledge graph-elicited reasoning, MedRAG retrieves and integrates critical diagnostic insights, reducing the risk of misdiagnosis. It has been evaluated on both public and private datasets, outperforming existing models and offering more specific and accurate healthcare assistance. A demonstration video of MedRAG is available at: https://www.youtube.com/watch?v=PNIBDMYRfDM. The source code is available at: https://github.com/SNOWTEAM2023/MedRAG.

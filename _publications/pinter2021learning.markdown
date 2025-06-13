@@ -7,7 +7,7 @@ year: 2021
 bibkey: pinter2021learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.00391"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'GPT', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
 ---
 Commonly-used transformer language models depend on a tokenization schema
 which sets an unchangeable subword vocabulary prior to pre-training, destined

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01363"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Ethics and Bias']
 ---
 Vision--Language Models (VLMs) have demonstrated success across diverse
 applications, yet their potential to assist in relevance judgments remains

@@ -7,7 +7,7 @@ year: 2024
 bibkey: luitel2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18071"}
-tags: ['Training Techniques', 'Model Architecture', 'Tokenization', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'BERT']
 ---
 Recent language models use subwording mechanisms to handle
 Out-of-Vocabulary(OOV) words seen during test time and, their generation

@@ -8,7 +8,7 @@ bibkey: huang2025spike
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06842"}
   - {name: "Code", url: "https://github.com/TianjinYellow/SPAM-Optimizer.git"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated exceptional performance across
 diverse tasks, yet their training remains highly resource-intensive and

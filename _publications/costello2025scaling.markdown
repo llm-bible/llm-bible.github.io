@@ -7,7 +7,7 @@ year: 2025
 bibkey: costello2025scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18116"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pruning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Pruning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated strong capabilities in
 programming and mathematical reasoning tasks, but are constrained by limited

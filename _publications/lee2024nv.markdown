@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024nv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17428"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'BERT', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'BERT', 'Quantization']
 ---
 Decoder-only LLM-based embedding models are beginning to outperform BERT or
 T5-based embedding models in general-purpose text embedding tasks, including

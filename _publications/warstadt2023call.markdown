@@ -7,7 +7,7 @@ year: 2023
 bibkey: warstadt2023call
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.11796"}
-tags: ['Training Techniques', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 We present the call for papers for the BabyLM Challenge: Sample-efficient
 pretraining on a developmentally plausible corpus. This shared task is intended

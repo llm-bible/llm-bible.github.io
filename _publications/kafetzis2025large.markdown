@@ -7,7 +7,7 @@ year: 2025
 bibkey: kafetzis2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.02533"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) based on autoregressive, decoder-only
 Transformers generate text one token at a time, where a token represents a

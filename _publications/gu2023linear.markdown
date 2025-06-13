@@ -7,7 +7,7 @@ year: 2023
 bibkey: gu2023linear
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2312.00752v2"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Foundation models, now powering most of the exciting applications in deep
 learning, are almost universally based on the Transformer architecture and its

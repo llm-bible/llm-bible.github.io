@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01524"}
-tags: ['Responsible AI', 'Security', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Distillation', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting', 'Distillation']
 ---
 Safety guard models that detect malicious queries aimed at large language
 models (LLMs) are essential for ensuring the secure and responsible deployment

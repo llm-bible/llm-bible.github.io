@@ -7,7 +7,7 @@ year: 2019
 bibkey: qiao2019understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.07531"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 This paper studies the performances and behaviors of BERT in ranking tasks.
 We explore several different ways to leverage the pre-trained BERT and

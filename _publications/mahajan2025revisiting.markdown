@@ -7,7 +7,7 @@ year: 2025
 bibkey: mahajan2025revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19607"}
-tags: ['Model Architecture', 'BERT', 'Reinforcement Learning']
+tags: ['BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have recently shown remarkable advancement in
 various NLP tasks. As such, a popular trend has emerged lately where NLP

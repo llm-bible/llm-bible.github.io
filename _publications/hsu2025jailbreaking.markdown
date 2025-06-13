@@ -7,7 +7,7 @@ year: 2025
 bibkey: hsu2025jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01154"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Security', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) have seen rapid development in recent years,
 revolutionizing various applications and significantly enhancing convenience

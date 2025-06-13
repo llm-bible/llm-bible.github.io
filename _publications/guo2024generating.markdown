@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10865"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 A major limitation of prompt tuning is its dependence on large labeled
 training datasets. Under few-shot learning settings, prompt tuning lags far

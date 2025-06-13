@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhuang2025process
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17807"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Distillation', 'Ethics and Bias']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Distillation']
 ---
 We present DocPuzzle, a rigorously constructed benchmark for evaluating
 long-context reasoning capabilities in large language models (LLMs). This

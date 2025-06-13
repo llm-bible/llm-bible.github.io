@@ -7,7 +7,7 @@ year: 2025
 bibkey: kamoda2025weight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15754"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Tokenization', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Tokenization']
 ---
 According to the stages-of-inference hypothesis, early layers of language
 models map their subword-tokenized input, which does not necessarily correspond

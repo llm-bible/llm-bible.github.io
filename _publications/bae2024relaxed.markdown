@@ -7,7 +7,7 @@ year: 2024
 bibkey: bae2024relaxed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20672"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Distillation']
 ---
 Large language models (LLMs) are expensive to deploy. Parameter sharing
 offers a possible path towards reducing their size and cost, but its

@@ -7,7 +7,7 @@ year: 2018
 bibkey: devlin2018pre
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/1810.04805v2"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 We introduce a new language representation model called BERT, which stands
 for Bidirectional Encoder Representations from Transformers. Unlike recent

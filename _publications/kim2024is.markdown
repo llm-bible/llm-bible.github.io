@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05733"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLMs) have shown promise in Automated Essay Scoring
 (AES), but their zero-shot and few-shot performance often falls short compared

@@ -7,7 +7,7 @@ year: 2024
 bibkey: martinez2024tending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11451"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Attention Mechanism']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Increasing the number of parameters in language models is a common strategy
 to enhance their performance. However, smaller language models remain valuable

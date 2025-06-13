@@ -7,7 +7,7 @@ year: 2025
 bibkey: ning2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11182"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'RecSys', 'Attention Mechanism']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'RecSys', 'Training Techniques', 'Attention Mechanism']
 ---
 The fusion of Large Language Models (LLMs) with recommender systems (RecSys)
 has dramatically advanced personalized recommendations and drawn extensive

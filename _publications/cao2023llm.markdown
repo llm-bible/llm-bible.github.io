@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08043"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 A significant application of Large Language Models (LLMs), like ChatGPT, is
 their deployment as chat agents, which respond to human inquiries across a

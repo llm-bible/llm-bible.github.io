@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024pixart
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04692"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Transformer', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 In this paper, we introduce PixArt-\Sigma, a Diffusion Transformer
 model~(DiT) capable of directly generating images at 4K resolution.

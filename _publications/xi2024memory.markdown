@@ -7,7 +7,7 @@ year: 2024
 bibkey: xi2024memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04960"}
-tags: ['RecSys', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'RecSys', 'Reinforcement Learning']
 ---
 Conversational recommender systems (CRSs) aim to capture user preferences and
 provide personalized recommendations through multi-round natural language

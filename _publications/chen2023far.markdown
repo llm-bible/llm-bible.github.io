@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023far
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12689"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Tokenization', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We present FIT: a transformer-based architecture with efficient
 self-attention and adaptive computation. Unlike original transformers, which

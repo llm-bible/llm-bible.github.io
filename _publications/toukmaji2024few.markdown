@@ -7,7 +7,7 @@ year: 2024
 bibkey: toukmaji2024few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06018"}
-tags: ['Training Techniques', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large pre-trained language models (PLMs) are at the forefront of advances in
 Natural Language Processing. One widespread use case of PLMs is "prompting" -

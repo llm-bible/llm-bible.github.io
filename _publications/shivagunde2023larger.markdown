@@ -8,7 +8,7 @@ bibkey: shivagunde2023larger
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.16445"}
   - {name: "Code", url: "https://github.com/text-machine-lab/extending_psycholinguistic_dataset}{Github"}
-tags: ['Model Architecture', 'GPT', 'BERT', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Has Code', 'BERT', 'Prompting', 'In-Context Learning']
 ---
 Language model probing is often used to test specific capabilities of models.
 However, conclusions from such studies may be limited when the probing

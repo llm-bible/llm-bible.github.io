@@ -7,7 +7,7 @@ year: 2023
 bibkey: qin2023cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14799"}
-tags: ['Prompting', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Chain-of-thought (CoT) is capable of eliciting models to explicitly generate
 reasoning paths, thus promoting reasoning accuracy and attracting increasing

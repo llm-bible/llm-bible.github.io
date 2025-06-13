@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11556"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Extracting sentence embeddings from large language models (LLMs) is a
 promising direction, as LLMs have demonstrated stronger semantic understanding

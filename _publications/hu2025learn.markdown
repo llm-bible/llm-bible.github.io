@@ -8,7 +8,7 @@ bibkey: hu2025learn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19218"}
   - {name: "Code", url: "https://github.com/Hugo-Chinn/AlphaFuse"}
-tags: ['Merging', 'Has Code', 'Tools']
+tags: ['Tools', 'Has Code', 'Merging']
 ---
 Recent advancements in sequential recommendation have underscored the
 potential of Large Language Models (LLMs) for enhancing item embeddings.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: manggala2024qa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06615"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 To use generative question-and-answering (QA) systems for decision-making and
 in any critical application, these systems need to provide well-calibrated

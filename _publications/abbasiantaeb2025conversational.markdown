@@ -8,7 +8,7 @@ bibkey: abbasiantaeb2025conversational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09902"}
   - {name: "Code", url: "https://github.com/irlabamsterdam/CONE-RAG"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 The rise of personalized conversational search systems has been driven by
 advancements in Large Language Models (LLMs), enabling these systems to

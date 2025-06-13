@@ -7,7 +7,7 @@ year: 2018
 bibkey: chen2018best
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1804.09849"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The past year has witnessed rapid advances in sequence-to-sequence (seq2seq)
 modeling for Machine Translation (MT). The classic RNN-based approaches to MT

@@ -8,7 +8,7 @@ bibkey: luo2024mono
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08202"}
   - {name: "Code", url: "https://github.com/OpenGVLab/Mono-InternVL"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 In this paper, we focus on monolithic Multimodal Large Language Models
 (MLLMs) that integrate visual encoding and language decoding into a single LLM.

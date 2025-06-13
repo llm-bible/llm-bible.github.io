@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024reward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.00631"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Instruction tuning has underscored the significant potential of large
 language models (LLMs) in producing more human-controllable and effective

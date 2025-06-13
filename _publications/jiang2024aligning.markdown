@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00578"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias']
+tags: ['Agentic', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Large language model alignment is widely used and studied to avoid LLM
 producing unhelpful and harmful responses. However, the lengthy training

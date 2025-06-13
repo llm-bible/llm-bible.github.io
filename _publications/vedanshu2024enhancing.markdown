@@ -7,7 +7,7 @@ year: 2024
 bibkey: vedanshu2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17813"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 The integration of large language models (LLMs) with vision-language (VL)
 tasks has been a transformative development in the realm of artificial

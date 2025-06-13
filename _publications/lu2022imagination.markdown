@@ -7,7 +7,7 @@ year: 2022
 bibkey: lu2022imagination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.08535"}
-tags: ['Multimodal Models', 'Applications', 'Few-Shot']
+tags: ['Few-Shot', 'Multimodal Models', 'Applications']
 ---
 Human brains integrate linguistic and perceptual information simultaneously
 to understand natural language, and hold the critical ability to render

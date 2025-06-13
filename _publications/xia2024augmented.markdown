@@ -7,7 +7,7 @@ year: 2024
 bibkey: xia2024augmented
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.04820"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 Generalized Entity Matching (GEM), which aims at judging whether two records
 represented in different formats refer to the same real-world entity, is an

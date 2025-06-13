@@ -7,7 +7,7 @@ year: 2020
 bibkey: wrzalik2020complementary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.10252"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Many recent approaches towards neural information retrieval mitigate their
 computational costs by using a multi-stage ranking pipeline. In the first

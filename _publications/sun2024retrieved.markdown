@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024retrieved
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05682"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) has been instrumental in adapting Large Language
 Models (LLMs) to downstream tasks using correct input-output examples. Recent

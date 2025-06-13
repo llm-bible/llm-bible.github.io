@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07656"}
-tags: ['Responsible AI', 'Agentic', 'Model Architecture', 'Fairness', 'Tools', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Fairness']
 ---
 Large Language Models (LLMs) often perpetuate biases in pronoun usage,
 leading to misrepresentation or exclusion of queer individuals. This paper

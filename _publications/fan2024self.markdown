@@ -7,7 +7,7 @@ year: 2024
 bibkey: fan2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15966"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Large language models (LLMs) have achieved impressive performance in code
 generation. However, due to the long-tail distribution of LLMs' training data,

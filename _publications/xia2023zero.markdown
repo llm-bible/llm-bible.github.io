@@ -8,7 +8,7 @@ bibkey: xia2023zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15028"}
   - {name: "Code", url: "https://github.com/hemingkx/ImageNetVC"}
-tags: ['Has Code', 'Few-Shot']
+tags: ['Few-Shot', 'Has Code']
 ---
 Recently, Large Language Models (LLMs) have been serving as general-purpose
 interfaces, posing a significant demand for comprehensive visual knowledge.

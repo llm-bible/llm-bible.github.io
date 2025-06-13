@@ -8,7 +8,7 @@ bibkey: yang2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10588"}
   - {name: "Code", url: "https://github.com/knightyxp/DGL"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Text-video retrieval is a critical multi-modal task to find the most relevant
 video for a text query. Although pretrained models like CLIP have demonstrated

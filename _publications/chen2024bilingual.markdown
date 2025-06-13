@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024bilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00862"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated exceptional performance in
 various NLP applications. However, the majority of existing open-source LLMs

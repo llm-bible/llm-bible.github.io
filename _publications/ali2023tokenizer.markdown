@@ -7,7 +7,7 @@ year: 2023
 bibkey: ali2023tokenizer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08754"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tokenization', 'Pretraining Methods']
+tags: ['Survey Paper', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
 ---
 The recent success of Large Language Models (LLMs) has been predominantly
 driven by curating the training dataset composition, scaling of model

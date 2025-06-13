@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025mcqa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14268"}
-tags: ['Ethics and Bias', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) require robust confidence estimation,
 particularly in critical domains like healthcare and law where unreliable

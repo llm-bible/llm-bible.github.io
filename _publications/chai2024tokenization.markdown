@@ -8,7 +8,7 @@ bibkey: chai2024tokenization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11687"}
   - {name: "Code", url: "https://github.com/FloatAI/TKEval"}
-tags: ['Tokenization', 'Security', 'Has Code', 'Ethics and Bias']
+tags: ['Security', 'Tokenization', 'Has Code', 'Ethics and Bias']
 ---
 Language models typically tokenize raw text into sequences of subword
 identifiers from a predefined vocabulary, a process inherently sensitive to

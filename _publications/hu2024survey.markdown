@@ -8,7 +8,7 @@ bibkey: hu2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02039"}
   - {name: "Code", url: "https://github.com/git-disl/awesome-LLM-game-agent-papers"}
-tags: ['Agentic', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 The development of game agents holds a critical role in advancing towards
 Artificial General Intelligence. The progress of Large Language Models (LLMs)

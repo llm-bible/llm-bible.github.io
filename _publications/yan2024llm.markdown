@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06822"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have transformed code completion tasks,
 providing context-based suggestions to boost developer productivity in software

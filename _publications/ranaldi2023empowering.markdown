@@ -7,7 +7,7 @@ year: 2023
 bibkey: ranaldi2023empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08097"}
-tags: ['Prompting', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'Pre-Training', 'Prompting']
 ---
 Reasoning methods, best exemplified by the well-known Chain-of-Thought (CoT),
 empower the reasoning abilities of Large Language Models (LLMs) by eliciting

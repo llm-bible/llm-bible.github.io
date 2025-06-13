@@ -8,7 +8,7 @@ bibkey: zhang2025mm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10391"}
   - {name: "Code", url: "https://mm-rlhf.github.io"}
-tags: ['Responsible AI', 'Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Despite notable advancements in Multimodal Large Language Models (MLLMs),
 most state-of-the-art models have not undergone thorough alignment with human

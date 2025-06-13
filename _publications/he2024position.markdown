@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024position
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11216"}
-tags: ['Prompting', 'RAG', 'In-Context Learning']
+tags: ['RAG', 'Prompting', 'In-Context Learning']
 ---
 The performance of large language models (LLMs) is significantly influenced
 by the quality of the prompts provided. In response, researchers have developed

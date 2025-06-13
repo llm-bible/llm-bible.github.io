@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14698"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Distillation', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Distillation']
 ---
 Large Language Models (LLMs) demonstrate exceptional reasoning capabilities,
 often achieving state-of-the-art performance in various tasks. However, their

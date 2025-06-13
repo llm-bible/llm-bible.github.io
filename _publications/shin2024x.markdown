@@ -7,7 +7,7 @@ year: 2024
 bibkey: shin2024x
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11399"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 The impressive development of large language models (LLMs) is expanding into
 the realm of large multimodal models (LMMs), which incorporate multiple types

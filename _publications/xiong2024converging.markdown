@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiong2024converging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08516"}
-tags: ['Agentic', 'Agent', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Agent']
 ---
 This article explores the convergence of connectionist and symbolic
 artificial intelligence (AI), from historical debates to contemporary

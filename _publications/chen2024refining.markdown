@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024refining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.08348"}
-tags: ['Security', 'Training Techniques', 'WMT', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'WMT', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated remarkable proficiency in
 machine translation (MT), even without specific training on the languages in

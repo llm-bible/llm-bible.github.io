@@ -7,7 +7,7 @@ year: 2023
 bibkey: kossen2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.12375"}
-tags: ['Training Techniques', 'RAG', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Pre-Training', 'RAG', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 The predictions of Large Language Models (LLMs) on downstream tasks often
 improve significantly when including examples of the input--label relationship

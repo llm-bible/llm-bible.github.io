@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04386"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security', 'RecSys', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Recently, there has been a growing trend in utilizing large language models
 (LLMs) for recommender systems, referred to as LLMRec. A notable approach

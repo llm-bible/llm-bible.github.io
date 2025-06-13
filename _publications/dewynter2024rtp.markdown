@@ -7,7 +7,7 @@ year: 2024
 bibkey: dewynter2024rtp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14397"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Prompting', 'Reinforcement Learning']
+tags: ['Responsible AI', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large language models (LLMs) and small language models (SLMs) are being
 adopted at remarkable speed, although their safety still remains a serious

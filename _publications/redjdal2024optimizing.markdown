@@ -7,7 +7,7 @@ year: 2024
 bibkey: redjdal2024optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11150"}
-tags: ['Masked Language Model', 'Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Masked Language Model', 'Pretraining Methods', 'Transformer', 'Model Architecture']
 ---
 Session-based recommendation is the task of predicting the next item a user
 will interact with, often without access to historical user data. In this work,

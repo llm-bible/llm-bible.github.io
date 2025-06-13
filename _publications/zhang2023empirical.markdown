@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.12562"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
 ---
 Recently, various illustrative examples have shown the impressive ability of
 generative large language models (LLMs) to perform NLP related tasks. ChatGPT

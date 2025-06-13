@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12793"}
   - {name: "Code", url: "https://github.com/THUDM"}
   - {name: "Code", url: "https://huggingface.co/THUDM"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We introduce ChatGLM, an evolving family of large language models that we
 have been developing over time. This report primarily focuses on the GLM-4

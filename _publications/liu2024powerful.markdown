@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024powerful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15542"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Rapid advancements have been made in extending Large Language Models (LLMs)
 to Large Multi-modal Models (LMMs). However, extending input modality of LLMs

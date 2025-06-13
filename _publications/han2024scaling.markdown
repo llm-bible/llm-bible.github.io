@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04431"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Pretraining Methods']
 ---
 We present Infinity, a Bitwise Visual AutoRegressive Modeling capable of
 generating high-resolution, photorealistic images following language

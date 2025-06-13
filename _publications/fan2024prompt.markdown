@@ -7,7 +7,7 @@ year: 2024
 bibkey: fan2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11589"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Prompting']
 ---
 The rapid evolution of text-to-image diffusion models has opened the door of
 generative AI, enabling the translation of textual descriptions into visually

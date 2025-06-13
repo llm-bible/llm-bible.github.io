@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06216"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have gained much attention in the recommendation
 community; some studies have observed that LLMs, fine-tuned by the

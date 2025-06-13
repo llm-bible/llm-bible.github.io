@@ -7,7 +7,7 @@ year: 2024
 bibkey: shen2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18807"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Training Techniques', 'Pretraining Methods']
 ---
 The integration of tools in augmenting large language models presents a novel
 approach toward enhancing the efficiency and accuracy of these models in

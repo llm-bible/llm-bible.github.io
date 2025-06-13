@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18607"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Multimodal Models']
 ---
 World model-based searching and planning are widely recognized as a promising
 path toward human-level physical intelligence. However, current driving world

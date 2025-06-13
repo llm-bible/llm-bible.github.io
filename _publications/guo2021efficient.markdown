@@ -7,7 +7,7 @@ year: 2021
 bibkey: guo2021efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.07916"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent work has shown that either (1) increasing the input length or (2)
 increasing model size can improve the performance of Transformer-based neural

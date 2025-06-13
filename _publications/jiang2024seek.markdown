@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024seek
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.05286"}
-tags: ['Prompting', 'RAG', 'Applications']
+tags: ['RAG', 'Prompting', 'Applications']
 ---
 The complexities of table structures and question logic make table-based
 question answering (TQA) tasks challenging for Large Language Models (LLMs),

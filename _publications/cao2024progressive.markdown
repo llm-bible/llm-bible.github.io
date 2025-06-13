@@ -8,7 +8,7 @@ bibkey: cao2024progressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13193"}
   - {name: "Code", url: "https://github.com/IDEA-XL/PRESTO"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have seen growing adoption across
 various scientific disciplines. These advancements encourage the investigation

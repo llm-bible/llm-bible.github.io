@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025complete
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17186"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLM) have shown remarkable abilities in text
 generation, question answering, language translation, reasoning and many other

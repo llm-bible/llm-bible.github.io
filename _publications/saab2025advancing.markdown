@@ -7,7 +7,7 @@ year: 2025
 bibkey: saab2025advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.04653"}
-tags: ['RAG', 'Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated great potential for conducting
 diagnostic conversations but evaluation has been largely limited to

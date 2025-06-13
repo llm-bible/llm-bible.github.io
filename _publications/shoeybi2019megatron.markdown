@@ -7,7 +7,7 @@ year: 2019
 bibkey: shoeybi2019megatron
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/1909.08053v4"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Recent work in language modeling demonstrates that training large transformer
 models advances the state of the art in Natural Language Processing

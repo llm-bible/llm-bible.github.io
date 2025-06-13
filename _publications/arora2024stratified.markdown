@@ -7,7 +7,7 @@ year: 2024
 bibkey: arora2024stratified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00201"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Full fine-tuning is a popular approach to adapt Transformer-based pre-trained
 large language models to a specific downstream task. However, the substantial

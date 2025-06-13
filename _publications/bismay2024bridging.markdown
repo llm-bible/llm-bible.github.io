@@ -8,7 +8,7 @@ bibkey: bismay2024bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23180"}
   - {name: "Code", url: "https://github.com/millenniumbismay/reasoningrec"}
-tags: ['RAG', 'Has Code', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Tools', 'Has Code']
 ---
 This paper presents ReasoningRec, a reasoning-based recommendation framework
 that leverages Large Language Models (LLMs) to bridge the gap between

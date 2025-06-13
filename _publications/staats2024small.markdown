@@ -7,7 +7,7 @@ year: 2024
 bibkey: staats2024small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17770"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 As large language models (LLMs) become increasingly central to AI
 applications, understanding their inner workings is essential. In this work, we

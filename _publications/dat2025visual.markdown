@@ -7,7 +7,7 @@ year: 2025
 bibkey: dat2025visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01104"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Merging', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Text-to-image diffusion models have shown impressive capabilities in
 generating realistic visuals from natural-language prompts, yet they often

@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024confidence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.09629"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Estimation of a model's confidence on its outputs is critical for
 Conversational AI systems based on large language models (LLMs), especially for

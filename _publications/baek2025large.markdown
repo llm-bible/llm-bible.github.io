@@ -7,7 +7,7 @@ year: 2025
 bibkey: baek2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10906"}
-tags: ['Agentic', 'Agent', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
+tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Prompting']
 ---
 Reward design plays a pivotal role in the training of game AIs, requiring
 substantial domain-specific knowledge and human effort. In recent years,

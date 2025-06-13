@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023composing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.14870"}
-tags: ['Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Reinforcement Learning']
 ---
 As an efficient alternative to conventional full finetuning,
 parameter-efficient finetuning (PEFT) is becoming the prevailing method to

@@ -7,7 +7,7 @@ year: 2025
 bibkey: nam2025prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20196"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 Large Language Models (LLMs) are rapidly transforming software engineering,
 with coding assistants embedded in an IDE becoming increasingly prevalent.

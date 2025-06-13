@@ -8,7 +8,7 @@ bibkey: qi2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06563"}
   - {name: "Code", url: "https://github.com/opendatalab/ProverGen"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code', 'Prompting']
+tags: ['Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 First-order logic (FOL) reasoning, which involves sequential deduction, is
 pivotal for intelligent systems and serves as a valuable task for evaluating

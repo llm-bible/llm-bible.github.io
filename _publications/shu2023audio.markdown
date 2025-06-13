@@ -7,7 +7,7 @@ year: 2023
 bibkey: shu2023audio
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06720"}
-tags: ['Multimodal Models', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['GPT', 'Training Techniques', 'Multimodal Models', 'Model Architecture']
 ---
 This paper presents Audio-Visual LLM, a Multimodal Large Language Model that
 takes both visual and auditory inputs for holistic video understanding. A key

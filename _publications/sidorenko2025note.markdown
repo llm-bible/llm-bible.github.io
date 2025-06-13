@@ -7,7 +7,7 @@ year: 2025
 bibkey: sidorenko2025note
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.02659"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown promise in synthetic tabular data
 generation, yet existing methods struggle to preserve complex feature

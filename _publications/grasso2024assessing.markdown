@@ -7,7 +7,7 @@ year: 2024
 bibkey: grasso2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.17362"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 This paper examines the performance of two Large Language Models (LLMs),
 GPT3.5 and Llama2 and one Small Language Model (SLM) Gemma, across three

@@ -7,7 +7,7 @@ year: 2024
 bibkey: seshadri2024normalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14091"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 With the size and cost of large transformer-based language models growing,
 recently, there has been interest in shortcut casting of early transformer

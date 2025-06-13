@@ -7,7 +7,7 @@ year: 2020
 bibkey: zadeh2020quantizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.03842"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Quantization', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Quantization']
 ---
 Attention-based models have demonstrated remarkable success in various
 natural language understanding tasks. However, efficient execution remains a

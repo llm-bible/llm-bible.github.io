@@ -7,7 +7,7 @@ year: 2023
 bibkey: west2023advances
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.17012"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 ChatGPT is built on a large language model trained on an enormous corpus of
 human text to emulate human conversation. Despite lacking any explicit

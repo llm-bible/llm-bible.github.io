@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024joint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06846"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Distillation', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Architectures such as Linformer and Mamba have recently emerged as
 competitive linear time replacements for transformers. However, corresponding

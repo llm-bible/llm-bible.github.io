@@ -7,7 +7,7 @@ year: 2023
 bibkey: gade2023cheaply
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00117"}
-tags: ['Responsible AI', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Responsible AI', 'Pretraining Methods']
 ---
 Llama 2-Chat is a collection of large language models that Meta developed and
 released to the public. While Meta fine-tuned Llama 2-Chat to refuse to output

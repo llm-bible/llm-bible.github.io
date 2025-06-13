@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhu2025guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02385"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 While mainstream vision-language models (VLMs) have advanced rapidly in
 understanding image level information, they still lack the ability to focus on

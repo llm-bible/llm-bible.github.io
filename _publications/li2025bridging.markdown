@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05180"}
-tags: ['Prompting', 'Multimodal Models', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Multimodal Models', 'Prompting', 'Tools']
 ---
 While many EDA tasks already involve graph-based data, existing LLMs in EDA
 primarily either represent graphs as sequential text, or simply ignore

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01084"}
-tags: ['Security', 'Applications', 'RAG']
+tags: ['RAG', 'Security', 'Applications']
 ---
 When using large language models (LLMs) in knowledge-intensive tasks, such as
 open-domain question answering, external context can bridge the gap between

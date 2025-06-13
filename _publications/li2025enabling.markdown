@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20421"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Large Language Model (LLM) at mobile devices and its potential applications
 never fail to fascinate. However, on-device LLM fine-tuning poses great

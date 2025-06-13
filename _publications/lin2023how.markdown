@@ -8,7 +8,7 @@ bibkey: lin2023how
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2306.05817v6"}
   - {name: "Code", url: "https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RecSys', 'Ethics and Bias', 'Has Code']
+tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Ethics and Bias', 'Reinforcement Learning', 'RecSys', 'Training Techniques', 'Has Code']
 ---
 With the rapid development of online services, recommender systems (RS) have
 become increasingly indispensable for mitigating information overload. Despite

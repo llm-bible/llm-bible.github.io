@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024parameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01605"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RecSys', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Pretraining Methods']
 ---
 Sequential recommender systems are essential for discerning user preferences
 from historical interactions and facilitating targeted recommendations. Recent

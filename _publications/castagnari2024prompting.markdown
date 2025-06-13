@@ -7,7 +7,7 @@ year: 2024
 bibkey: castagnari2024prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15377"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Prompting']
 ---
 In practice, clinicians achieve a diagnosis by following a sequence of steps,
 such as laboratory exams, observations, or imaging. The pathways to reach

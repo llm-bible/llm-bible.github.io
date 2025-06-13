@@ -8,7 +8,7 @@ bibkey: nllb2022no
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2207.04672v3"}
   - {name: "Code", url: "https://github.com/facebookresearch/fairseq/tree/nllb"}
-tags: ['Responsible AI', 'Training Techniques', 'Reinforcement Learning', 'KDD', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'KDD', 'Has Code']
 ---
 Driven by the goal of eradicating language barriers on a global scale,
 machine translation has solidified itself as a key focus of artificial

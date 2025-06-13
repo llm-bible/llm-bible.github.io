@@ -8,7 +8,7 @@ bibkey: liao2025imagegen
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19312"}
   - {name: "Code", url: "https://ImageGen-CoT.github.io/"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 In this work, we study the problem of Text-to-Image In-Context Learning
 (T2I-ICL). While Unified Multimodal LLMs (MLLMs) have advanced rapidly in

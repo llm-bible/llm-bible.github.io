@@ -8,7 +8,7 @@ bibkey: yao2024decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00242"}
   - {name: "Code", url: "https://github.com/LINs-lab/DeFT"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'In-Context Learning', 'Has Code', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) are increasingly employed for complex tasks that
 process multiple generation calls in a tree structure with shared prefixes of

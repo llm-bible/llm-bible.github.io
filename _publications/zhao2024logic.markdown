@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024logic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02833"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 The explainability of recommendation systems is crucial for enhancing user
 trust and satisfaction. Leveraging large language models (LLMs) offers new

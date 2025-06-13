@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024modular
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11381"}
-tags: ['Ethics and Bias', 'RAG', 'Interpretability', 'Tools']
+tags: ['Interpretability', 'RAG', 'Tools', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) demonstrate human-level capabilities in
 dialogue, reasoning, and knowledge retention. However, even the most advanced

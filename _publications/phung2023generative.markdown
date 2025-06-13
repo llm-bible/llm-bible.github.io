@@ -7,7 +7,7 @@ year: 2023
 bibkey: phung2023generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.17156"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Generative AI and large language models hold great promise in enhancing
 computing education by powering next-generation educational technologies for

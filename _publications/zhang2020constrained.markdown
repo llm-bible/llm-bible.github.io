@@ -8,7 +8,7 @@ bibkey: zhang2020constrained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00558"}
   - {name: "Code", url: "https://github.com/dreasysnail/POINTER)"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Large-scale pre-trained language models, such as BERT and GPT-2, have
 achieved excellent performance in language representation learning and

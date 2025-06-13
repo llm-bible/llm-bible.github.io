@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhang2021ernie
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.15283"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Quantization', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Quantization']
 ---
 Conventional methods for the image-text generation tasks mainly tackle the
 naturally bidirectional generation tasks separately, focusing on designing

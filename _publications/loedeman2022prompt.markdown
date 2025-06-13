@@ -7,7 +7,7 @@ year: 2022
 bibkey: loedeman2022prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.06466"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Security', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 With the introduction of the transformer architecture in computer vision,
 increasing model scale has been demonstrated as a clear path to achieving

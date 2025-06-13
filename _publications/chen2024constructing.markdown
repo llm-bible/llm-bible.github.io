@@ -8,7 +8,7 @@ bibkey: chen2024constructing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16247"}
   - {name: "Code", url: "https://github.com/minghchen/automanual"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLM) based agents have shown promise in autonomously
 completing tasks across various domains, e.g., robotics, games, and web

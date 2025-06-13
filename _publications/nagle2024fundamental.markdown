@@ -7,7 +7,7 @@ year: 2024
 bibkey: nagle2024fundamental
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15504"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 We formalize the problem of prompt compression for large language models
 (LLMs) and present a framework to unify token-level prompt compression methods

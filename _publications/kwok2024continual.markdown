@@ -7,7 +7,7 @@ year: 2024
 bibkey: kwok2024continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03645"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Continual Learning (CL) involves fine-tuning pre-trained models with new data
 while maintaining the performance on the pre-trained data. This is particularly

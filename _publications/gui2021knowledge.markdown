@@ -7,7 +7,7 @@ year: 2021
 bibkey: gui2021knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08614"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 The primary focus of recent work with largescale transformers has been on
 optimizing the amount of information packed into the model's parameters. In

@@ -7,7 +7,7 @@ year: 2024
 bibkey: mao2024adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13556"}
-tags: ['Pretraining Methods', 'Security']
+tags: ['Security', 'Pretraining Methods']
 ---
 Conversational search requires accurate interpretation of user intent from
 complex multi-turn contexts. This paper presents ChatRetriever, which inherits

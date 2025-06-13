@@ -7,7 +7,7 @@ year: 2020
 bibkey: lepikhin2020scaling
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2006.16668v1"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Neural network scaling has been critical for improving the model quality in
 many real-world machine learning applications with vast amounts of training

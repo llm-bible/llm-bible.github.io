@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024online
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16115"}
-tags: ['Agentic', 'Language Modeling', 'Applications']
+tags: ['Applications', 'Agentic', 'Language Modeling']
 ---
 The advent of personalized content generation by LLMs presents a novel
 challenge: how to efficiently adapt text to meet individual preferences without

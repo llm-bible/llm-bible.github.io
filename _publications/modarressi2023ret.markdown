@@ -7,7 +7,7 @@ year: 2023
 bibkey: modarressi2023ret
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.14322v1"}
-tags: ['Applications', 'Tools']
+tags: ['Tools', 'Applications']
 ---
 Large language models (LLMs) have significantly advanced the field of natural
 language processing (NLP) through their extensive parameters and comprehensive

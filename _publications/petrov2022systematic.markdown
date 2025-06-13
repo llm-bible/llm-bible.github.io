@@ -7,7 +7,7 @@ year: 2022
 bibkey: petrov2022systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.07483"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 BERT4Rec is an effective model for sequential recommendation based on the
 Transformer architecture. In the original publication, BERT4Rec claimed

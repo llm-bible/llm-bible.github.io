@@ -7,7 +7,7 @@ year: 2024
 bibkey: moniz2024reference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.20329"}
-tags: ['Language Modeling', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Language Modeling', 'Reinforcement Learning']
 ---
 Reference resolution is an important problem, one that is essential to
 understand and successfully handle context of different kinds. This context

@@ -7,7 +7,7 @@ year: 2023
 bibkey: valentini2023automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18502"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 With recent advances in large language models (LLMs), the concept of
 automatically generating children's educational materials has become

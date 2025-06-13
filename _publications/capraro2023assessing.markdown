@@ -7,7 +7,7 @@ year: 2023
 bibkey: capraro2023assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.12776"}
-tags: ['Model Architecture', 'Fairness', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias']
+tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Fairness']
 ---
 Generative artificial intelligence (AI) holds enormous potential to
 revolutionize decision-making processes, from everyday to high-stake scenarios.

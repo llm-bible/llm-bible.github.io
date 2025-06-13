@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024combined
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.12157"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT']
 ---
 This research introduces a novel text generation model that combines BERT's
 semantic interpretation strengths with GPT-4's generative capabilities,

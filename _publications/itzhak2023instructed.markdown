@@ -7,7 +7,7 @@ year: 2023
 bibkey: itzhak2023instructed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.00225"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Interpretability']
+tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
 ---
 Recent studies show that instruction tuning (IT) and reinforcement learning
 from human feedback (RLHF) improve the abilities of large language models (LMs)

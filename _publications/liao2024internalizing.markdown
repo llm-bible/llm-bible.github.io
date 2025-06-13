@@ -8,7 +8,7 @@ bibkey: liao2024internalizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13183"}
   - {name: "Code", url: "https://github.com/Xnhyacinth/SKIntern"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Distillation']
 ---
 Small Language Models (SLMs) are attracting attention due to the high
 computational demands and privacy concerns of Large Language Models (LLMs).

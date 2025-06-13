@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06527"}
-tags: ['Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Prompting']
 ---
 Recent advancements in large language models (LLMs) have shown promise in
 generating psychotherapeutic dialogues, particularly in the context of

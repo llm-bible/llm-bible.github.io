@@ -8,7 +8,7 @@ bibkey: geigle2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.06930"}
   - {name: "Code", url: "https://github.com/gregor-ge/mBLIP"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Has Code']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Modular vision-language models (Vision-LLMs) align pretrained image encoders
 with (frozen) large language models (LLMs) and post-hoc condition LLMs to

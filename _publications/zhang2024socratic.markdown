@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024socratic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13919"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Dialogue-based Intelligent Tutoring Systems (ITSs) have significantly
 advanced adaptive and personalized learning by automating sophisticated human

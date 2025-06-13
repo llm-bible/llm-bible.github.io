@@ -7,7 +7,7 @@ year: 2024
 bibkey: shen2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00315"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer-based open-domain dialog models have become increasingly popular
 in recent years. These models typically represent context as a concatenation of

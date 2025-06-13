@@ -7,7 +7,7 @@ year: 2023
 bibkey: fernando2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16797"}
-tags: ['Prompting', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting']
 ---
 Popular prompt strategies like Chain-of-Thought Prompting can dramatically
 improve the reasoning abilities of Large Language Models (LLMs) in various

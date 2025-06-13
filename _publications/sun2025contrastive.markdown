@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.08842"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods']
+tags: ['RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Multi-party dialogue generation presents significant challenges due to the
 complex interplay of multiple speakers and interwoven conversational threads.

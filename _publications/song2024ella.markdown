@@ -8,7 +8,7 @@ bibkey: song2024ella
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07333"}
   - {name: "Code", url: "https://ereboas.github.io/ELLAV/"}
-tags: ['Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Has Code', 'Prompting']
+tags: ['Tools', 'GPT', 'Language Modeling', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 The language model (LM) approach based on acoustic and linguistic prompts,
 such as VALL-E, has achieved remarkable progress in the field of zero-shot

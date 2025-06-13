@@ -8,7 +8,7 @@ bibkey: keskar2019conditional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.05858"}
   - {name: "Code", url: "https://github.com/salesforce/ctrl"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large-scale language models show promising text generation capabilities, but
 users cannot easily control particular aspects of the generated text. We

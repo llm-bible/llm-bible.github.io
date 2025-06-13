@@ -7,7 +7,7 @@ year: 2019
 bibkey: li2019simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.03557"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 We propose VisualBERT, a simple and flexible framework for modeling a broad
 range of vision-and-language tasks. VisualBERT consists of a stack of

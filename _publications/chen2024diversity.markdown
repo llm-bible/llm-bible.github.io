@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024diversity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15226"}
-tags: ['Agentic', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Training Techniques', 'Pretraining Methods']
 ---
 The rise of Large Language Models (LLMs) has accentuated the need for
 diverse, high-quality pre-training data. Synthetic data emerges as a viable

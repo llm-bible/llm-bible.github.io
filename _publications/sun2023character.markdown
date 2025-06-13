@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023character
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12751"}
-tags: ['Model Architecture', 'Tokenization', 'Language Modeling', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Language Modeling', 'Tokenization', 'Pretraining Methods']
 ---
 The Backpack is a Transformer alternative shown to improve interpretability
 in English language modeling by decomposing predictions into a weighted sum of

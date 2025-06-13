@@ -7,7 +7,7 @@ year: 2024
 bibkey: pouplin2024retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07812"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Large Language Models (LLMs) have demonstrated the strong potential to assist
 both clinicians and the general public with their extensive medical knowledge.

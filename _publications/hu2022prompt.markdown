@@ -7,7 +7,7 @@ year: 2022
 bibkey: hu2022prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.09699"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Knowledge-based visual question answering (VQA) involves questions that
 require world knowledge beyond the image to yield the correct answer. Large

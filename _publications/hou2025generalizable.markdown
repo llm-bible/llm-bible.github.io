@@ -7,7 +7,7 @@ year: 2025
 bibkey: hou2025generalizable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08271"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RecSys', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have achieved remarkable success in recent
 years, owing to their impressive generalization capabilities and rich world

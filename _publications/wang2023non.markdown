@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023non
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12100"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large language models (LLMs) and vision language models (VLMs) demonstrate
 excellent performance on a wide range of tasks by scaling up parameter counts

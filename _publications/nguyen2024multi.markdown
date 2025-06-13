@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16229"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Large language models (LLMs), despite their breakthroughs on many challenging
 benchmark tasks, lean to generate verbose responses and lack the

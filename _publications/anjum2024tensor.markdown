@@ -7,7 +7,7 @@ year: 2024
 bibkey: anjum2024tensor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01008"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 In recent years, Large Language Models (LLMs) have demonstrated remarkable
 capabilities across a wide range of natural language processing (NLP) tasks,

@@ -7,7 +7,7 @@ year: 2025
 bibkey: sung2025learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01820"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Quantization', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Quantization']
 ---
 Layer-wise quantization is a key technique for efficiently compressing large
 models without expensive retraining. Previous methods typically quantize the

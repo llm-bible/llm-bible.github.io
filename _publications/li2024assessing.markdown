@@ -8,7 +8,7 @@ bibkey: li2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19065"}
   - {name: "Code", url: "https://github.com/LwbXc/STBench"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'KDD', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'KDD', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The rapid evolution of large language models (LLMs) holds promise for
 reforming the methodology of spatio-temporal data mining. However, current

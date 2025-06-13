@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023filling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11598"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 Large Language Models (LLMs) demonstrate impressive reasoning ability and the
 maintenance of world knowledge not only in natural language tasks, but also in

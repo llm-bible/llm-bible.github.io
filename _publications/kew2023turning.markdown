@@ -8,7 +8,7 @@ bibkey: kew2023turning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12683"}
   - {name: "Code", url: "https://github.com/ZurichNLP/multilingual-instruction-tuning"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The vast majority of today's large language models (LLMs) are
 English-centric, having been pretrained predominantly on English text. Yet, in

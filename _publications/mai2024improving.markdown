@@ -8,7 +8,7 @@ bibkey: mai2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03343"}
   - {name: "Code", url: "https://github.com/mailong25/peft_diversity"}
-tags: ['Training Techniques', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 While Large Language Models (LLMs) have made significant strides in
 replicating human-like abilities, there are concerns about a reduction in the

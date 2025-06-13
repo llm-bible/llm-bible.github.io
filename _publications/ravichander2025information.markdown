@@ -7,7 +7,7 @@ year: 2025
 bibkey: ravichander2025information
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.12072"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Interpretability']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques']
 ---
 High-quality training data has proven crucial for developing performant large
 language models (LLMs). However, commercial LLM providers disclose few, if any,

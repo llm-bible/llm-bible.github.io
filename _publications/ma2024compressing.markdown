@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024compressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02252"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 The increasing context window size in Large Language Models (LLMs), such as
 the GPT and LLaMA series, has improved their ability to tackle complex,

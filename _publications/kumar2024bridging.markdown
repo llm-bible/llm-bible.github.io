@@ -7,7 +7,7 @@ year: 2024
 bibkey: kumar2024bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18359"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) are at the forefront of transforming numerous
 domains globally. However, their inclusivity and effectiveness remain limited

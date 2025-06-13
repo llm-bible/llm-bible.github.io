@@ -7,7 +7,7 @@ year: 2023
 bibkey: yamada2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14540"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) show remarkable capabilities across a variety of
 tasks. Despite the models only seeing text in training, several recent studies

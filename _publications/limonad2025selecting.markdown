@@ -7,7 +7,7 @@ year: 2025
 bibkey: limonad2025selecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.21032"}
-tags: ['Survey Paper', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Survey Paper']
 ---
 The perceived quality of the explanations accompanying e-government services
 is key to gaining trust in these institutions, consequently amplifying further

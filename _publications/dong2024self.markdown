@@ -7,7 +7,7 @@ year: 2024
 bibkey: dong2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06961"}
-tags: ['Prompting', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Through alignment with human preferences, Large Language Models (LLMs) have
 advanced significantly in generating honest, harmless, and helpful responses.

@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023calibrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.13308"}
-tags: ['Few-Shot', 'Language Modeling', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Language Modeling', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements in large language models (LLMs) on language modeling and
 emergent capabilities make them a promising reference-free evaluator of natural

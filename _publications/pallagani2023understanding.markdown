@@ -7,7 +7,7 @@ year: 2023
 bibkey: pallagani2023understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16151"}
-tags: ['Training Techniques', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Automated planning is concerned with developing efficient algorithms to
 generate plans or sequences of actions to achieve a specific goal in a given

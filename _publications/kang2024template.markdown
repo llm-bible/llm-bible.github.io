@@ -8,7 +8,7 @@ bibkey: kang2024template
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15594"}
   - {name: "Code", url: "https://github.com/Jason8Kang/TELL"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Solving tabular math word problems (TMWPs) has become a critical role in
 evaluating the mathematical reasoning ability of large language models (LLMs),

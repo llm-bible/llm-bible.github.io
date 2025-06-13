@@ -7,7 +7,7 @@ year: 2023
 bibkey: nguyen2023evjvqa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.11752"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Visual Question Answering (VQA) is a challenging task of natural language
 processing (NLP) and computer vision (CV), attracting significant attention

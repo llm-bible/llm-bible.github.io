@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12927"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 Providing high-quality feedback is crucial for student success but is
 constrained by time, cost, and limited data availability. We introduce

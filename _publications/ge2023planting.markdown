@@ -7,7 +7,7 @@ year: 2023
 bibkey: ge2023planting
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2307.08041v2"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present SEED, an elaborate image tokenizer that empowers Large Language
 Models (LLMs) with the emergent ability to SEE and Draw at the same time.

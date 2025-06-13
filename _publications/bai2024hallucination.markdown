@@ -8,7 +8,7 @@ bibkey: bai2024hallucination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18930"}
   - {name: "Code", url: "https://github.com/showlab/Awesome-MLLM-Hallucination"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'TACL', 'Has Code', 'ACL', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Survey Paper', 'Applications', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Security', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 This survey presents a comprehensive analysis of the phenomenon of
 hallucination in multimodal large language models (MLLMs), also known as Large

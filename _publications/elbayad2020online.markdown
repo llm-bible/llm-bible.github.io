@@ -7,7 +7,7 @@ year: 2020
 bibkey: elbayad2020online
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2006.00814"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We conduct in this work an evaluation study comparing offline and online
 neural machine translation architectures. Two sequence-to-sequence models:

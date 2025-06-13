@@ -7,7 +7,7 @@ year: 2023
 bibkey: yuan2023where
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.13835"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RecSys', 'BERT', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'RecSys', 'BERT']
 ---
 Recommendation models that utilize unique identities (IDs) to represent
 distinct users and items have been state-of-the-art (SOTA) and dominated the

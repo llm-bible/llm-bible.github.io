@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14208"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'In-Context Learning', 'Prompting', 'Distillation']
 ---
 Previous studies have shown that demonstrations can significantly help Large
 Language Models (LLMs ) perform better on the given tasks. However, this

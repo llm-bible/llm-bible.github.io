@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024mt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09522"}
-tags: ['Efficiency and Optimization', 'Tools', 'RAG', 'Distillation', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Distillation']
 ---
 Large Language Models (LLM) have demonstrated their strong ability in the
 field of machine translation (MT), yet they suffer from high computational cost

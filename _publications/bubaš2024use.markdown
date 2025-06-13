@@ -7,7 +7,7 @@ year: 2024
 bibkey: bubaš2024use
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14050"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 OpenAI's ChatGPT (GPT-4 and GPT-4o) and other Large Language Models (LLMs)
 like Microsoft's Copilot, Google's Gemini 1.5 Pro, and Antrophic's Claude 3.5

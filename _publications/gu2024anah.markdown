@@ -7,7 +7,7 @@ year: 2024
 bibkey: gu2024anah
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04693"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques']
 ---
 Large language models (LLMs) exhibit hallucinations in long-form
 question-answering tasks across various domains and wide applications. Current

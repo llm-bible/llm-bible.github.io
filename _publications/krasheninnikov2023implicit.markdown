@@ -8,7 +8,7 @@ bibkey: krasheninnikov2023implicit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15047"}
   - {name: "Code", url: "https://github.com/krasheninnikov/internalization"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We demonstrate that LLMs may learn indicators of document usefulness and
 modulate their updates accordingly. We introduce random strings ("tags") as

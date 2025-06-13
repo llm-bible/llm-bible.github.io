@@ -8,7 +8,7 @@ bibkey: nair2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.17071"}
   - {name: "Code", url: "https://github.com/curai/curai-research/tree/main/DERA"}
-tags: ['Responsible AI', 'Agentic', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'Applications']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Has Code']
 ---
 Large language models (LLMs) have emerged as valuable tools for many natural
 language understanding tasks. In safety-critical applications such as

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024distributional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03068"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models have been successful at tasks involving basic forms of
 in-context reasoning, such as generating coherent language, as well as storing

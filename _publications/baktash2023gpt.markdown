@@ -7,7 +7,7 @@ year: 2023
 bibkey: baktash2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03195"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Generative Pre-trained Transformer 4 (GPT-4) is the fourth-generation
 language model in the GPT series, developed by OpenAI, which promises

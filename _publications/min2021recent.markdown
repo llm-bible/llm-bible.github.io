@@ -7,7 +7,7 @@ year: 2021
 bibkey: min2021recent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.01243"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Survey Paper', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Large, pre-trained transformer-based language models such as BERT have
 drastically changed the Natural Language Processing (NLP) field. We present a

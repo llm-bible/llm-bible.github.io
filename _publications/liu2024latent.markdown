@@ -8,7 +8,7 @@ bibkey: liu2024latent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08031"}
   - {name: "Code", url: "https://latentguard.github.io/"}
-tags: ['Responsible AI', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Has Code']
+tags: ['Responsible AI', 'Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 With the ability to generate high-quality images, text-to-image (T2I) models
 can be exploited for creating inappropriate content. To prevent misuse,

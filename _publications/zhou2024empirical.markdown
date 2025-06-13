@@ -8,7 +8,7 @@ bibkey: zhou2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05130"}
   - {name: "Code", url: "https://github.com/alenai97/PEFT-MLLM.git"}
-tags: ['Multimodal Models', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) fine-tuned with multimodal
 instruction datasets have demonstrated remarkable capabilities in multimodal

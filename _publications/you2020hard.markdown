@@ -7,7 +7,7 @@ year: 2020
 bibkey: you2020hard
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00742"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent work has questioned the importance of the Transformer's multi-headed
 attention for achieving high translation quality. We push further in this

@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025pragmatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01539"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Prompting']
 ---
 The rapid development of large language models (LLMs) gives rise to ethical
 concerns about their performance, while opening new avenues for developing

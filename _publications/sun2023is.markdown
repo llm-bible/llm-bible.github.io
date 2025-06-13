@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023is
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.09542v2"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'Distillation', 'GPT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Agentic', 'GPT', 'Applications', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
 ---
 Large Language Models (LLMs) have demonstrated remarkable zero-shot
 generalization across various language-related tasks, including search engines.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zou2024image
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02534"}
-tags: ['Security', 'Model Architecture', 'GPT', 'Attention Mechanism']
+tags: ['Security', 'Attention Mechanism', 'GPT', 'Model Architecture']
 ---
 Large Visual Language Model\textbfs (VLMs) such as GPT-4V have achieved
 remarkable success in generating comprehensive and nuanced responses.

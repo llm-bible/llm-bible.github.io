@@ -7,7 +7,7 @@ year: 2025
 bibkey: zeinalipour2025advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.07740"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 This study underscores the pivotal role of syntax feedback in augmenting the
 syntactic proficiency of students. Recognizing the challenges faced by learners

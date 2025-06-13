@@ -7,7 +7,7 @@ year: 2024
 bibkey: podo2024v
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15259"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 NL2VIS (natural language to visualization) is a promising and recent research
 area that involves interpreting natural language queries and translating them

@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023empower
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.18445"}
-tags: ['Multimodal Models', 'Training Techniques']
+tags: ['Training Techniques', 'Multimodal Models']
 ---
 Large language models (LLMs) have shown remarkable text understanding
 capabilities, which have been extended as Video LLMs to handle video data for

@@ -7,7 +7,7 @@ year: 2025
 bibkey: sanzguerrero2025corrective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16022"}
-tags: ['Prompting', 'In-Context Learning', 'Merging', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning', 'Merging']
 ---
 In-context learning (ICL) has transformed the use of large language models
 (LLMs) for NLP tasks, enabling few-shot learning by conditioning on labeled

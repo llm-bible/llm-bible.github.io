@@ -7,7 +7,7 @@ year: 2024
 bibkey: cai2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02721"}
-tags: ['Prompting', 'Efficiency and Optimization']
+tags: ['Efficiency and Optimization', 'Prompting']
 ---
 We propose SelfControl, an inference-time model control method utilizing
 gradients to control the behavior of large language models (LLMs) without

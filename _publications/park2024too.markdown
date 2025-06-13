@@ -8,7 +8,7 @@ bibkey: park2024too
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09396"}
   - {name: "Code", url: "https://github.com/jongwoopark7978/LVNet"}
-tags: ['Has Code', 'Tools']
+tags: ['Tools', 'Has Code']
 ---
 Long-form videos that span across wide temporal intervals are highly
 information redundant and contain multiple distinct events or entities that are

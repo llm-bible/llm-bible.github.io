@@ -7,7 +7,7 @@ year: 2024
 bibkey: arora2024intent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01627"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Intent detection is a critical component of task-oriented dialogue systems
 (TODS) which enables the identification of suitable actions to address user

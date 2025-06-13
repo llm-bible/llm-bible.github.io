@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024align
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14184"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) acquire extensive knowledge and remarkable
 abilities from extensive text corpora, making them powerful tools for various

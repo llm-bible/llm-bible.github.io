@@ -8,7 +8,7 @@ bibkey: ridnik2024code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08500"}
   - {name: "Code", url: "https://github.com/Codium-ai/AlphaCodium"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Code generation problems differ from common natural language problems - they
 require matching the exact syntax of the target language, identifying happy

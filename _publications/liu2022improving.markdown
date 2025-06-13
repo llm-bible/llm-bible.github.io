@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.10816"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Endowing chatbots with a consistent personality plays a vital role for agents
 to deliver human-like interactions. However, existing personalized approaches

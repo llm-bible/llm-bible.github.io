@@ -8,7 +8,7 @@ bibkey: he2024think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14705"}
   - {name: "Code", url: "https://qingrongh.github.io/LLM-TPC/"}
-tags: ['Security', 'Tools', 'RAG', 'Has Code', 'Interpretability and Explainability']
+tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Security', 'Has Code']
 ---
 This work addresses the 3D situated reasoning task which aims to answer
 questions given egocentric observations in a 3D environment. The task remains

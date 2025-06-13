@@ -7,7 +7,7 @@ year: 2024
 bibkey: ansari2024bamo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04947"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'BERT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'BERT', 'Prompting']
 ---
 This paper outlines our approach to SemEval 2024 Task 9, BRAINTEASER: A Novel
 Task Defying Common Sense. The task aims to evaluate the ability of language

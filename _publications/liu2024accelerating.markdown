@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.10516"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer-based Large Language Models (LLMs) have become increasingly
 important. However, due to the quadratic time complexity of attention

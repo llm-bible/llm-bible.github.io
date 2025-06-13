@@ -7,7 +7,7 @@ year: 2022
 bibkey: mccarley2022gaama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.08441"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Reinforcement Learning']
+tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent machine reading comprehension datasets include extractive and boolean
 questions but current approaches do not offer integrated support for answering

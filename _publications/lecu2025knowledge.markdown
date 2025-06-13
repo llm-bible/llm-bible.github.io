@@ -7,7 +7,7 @@ year: 2025
 bibkey: lecu2025knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11108"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Large language models (LLMs) have significantly advanced the field of natural
 language generation. However, they frequently generate unverified outputs,

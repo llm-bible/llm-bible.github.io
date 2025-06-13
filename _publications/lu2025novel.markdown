@@ -7,7 +7,7 @@ year: 2025
 bibkey: lu2025novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10467"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The field of music generation using Large Language Models (LLMs) is evolving
 rapidly, yet existing music notation systems, such as MIDI, ABC Notation, and

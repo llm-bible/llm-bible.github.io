@@ -8,7 +8,7 @@ bibkey: dai2024improve
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19842"}
   - {name: "Code", url: "https://github.com/C-W-D/CasCoD"}
-tags: ['Has Code', 'Efficiency and Optimization', 'Training Techniques', 'Distillation']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Has Code', 'Distillation']
 ---
 Large language models (LLMs) exhibit enhanced reasoning at larger scales,
 driving efforts to distill these capabilities into smaller models via

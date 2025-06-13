@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025classifier
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06650"}
-tags: ['RAG', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'RAG', 'Tools', 'Reinforcement Learning']
 ---
 Pre-trained large language models (LLMs) have been demonstrated to possess
 intrinsic reasoning capabilities that can emerge naturally when expanding the

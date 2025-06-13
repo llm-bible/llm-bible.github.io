@@ -7,7 +7,7 @@ year: 2024
 bibkey: koshkin2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13476"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The advent of transformers has fueled progress in machine translation. More
 recently large language models (LLMs) have come to the spotlight thanks to

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024orchestrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04181"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper presents a novel approach to aligning large language models (LLMs)
 with individual human preferences, sometimes referred to as Reinforcement

@@ -7,7 +7,7 @@ year: 2024
 bibkey: sankararaman2024light
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01022"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 We present a light-weight approach for detecting nonfactual outputs from
 retrieval-augmented generation (RAG). Given a context and putative output, we

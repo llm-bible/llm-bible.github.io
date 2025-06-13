@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04104"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities across tasks,
 yet they often require additional prompting techniques when facing complex

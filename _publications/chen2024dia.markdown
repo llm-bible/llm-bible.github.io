@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024dia
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.16386"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Medical report generation has achieved remarkable advancements yet has still
 been faced with several challenges. First, the inherent imbalance in the

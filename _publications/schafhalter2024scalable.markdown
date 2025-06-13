@@ -7,7 +7,7 @@ year: 2024
 bibkey: schafhalter2024scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10181"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
 ---
 Domain-specific adaptation is critical to maximizing the performance of
 pre-trained language models (PLMs) on one or multiple targeted tasks,

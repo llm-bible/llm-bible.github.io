@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02903"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Attention Mechanism']
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 The emergence of large language models (LLMs) has increasingly drawn
 attention to the use of LLMs for human-like planning. Existing work on

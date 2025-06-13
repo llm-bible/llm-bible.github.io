@@ -7,7 +7,7 @@ year: 2023
 bibkey: gao2023iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.14034"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Augmenting large language models (LLMs) with external tools has emerged as a
 promising approach to extending the capability of LLMs. Although some works

@@ -8,7 +8,7 @@ bibkey: singh2025indiceval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19067"}
   - {name: "Code", url: "https://github.com/telekom/IndicEval-XL"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 code generation from natural language prompts, revolutionizing software

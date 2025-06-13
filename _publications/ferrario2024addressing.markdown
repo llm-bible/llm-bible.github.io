@@ -7,7 +7,7 @@ year: 2024
 bibkey: ferrario2024addressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17873"}
-tags: ['Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability']
 ---
 Human-centered explainable AI (HCXAI) advocates for the integration of social
 aspects into AI explanations. Central to the HCXAI discourse is the Social

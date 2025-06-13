@@ -7,7 +7,7 @@ year: 2022
 bibkey: yang2022robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.00274"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Ethics and Bias', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Understanding tables is an important aspect of natural language
 understanding. Existing models for table understanding require linearization of

@@ -7,7 +7,7 @@ year: 2020
 bibkey: radiyadixit2020how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.14129"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 State-of-the-art performance on language understanding tasks is now achieved
 with increasingly large networks; the current record holder has billions of

@@ -7,7 +7,7 @@ year: 2022
 bibkey: huang2022personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.15088"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Persona-based dialogue systems aim to generate consistent responses based on
 historical context and predefined persona. Unlike conventional dialogue

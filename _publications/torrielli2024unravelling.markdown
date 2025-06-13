@@ -7,7 +7,7 @@ year: 2024
 bibkey: torrielli2024unravelling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13868"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 This paper investigates the challenges associated with bias, toxicity,
 unreliability, and lack of robustness in large language models (LLMs) such as

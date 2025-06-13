@@ -7,7 +7,7 @@ year: 2025
 bibkey: agarwal2025when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00374"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 In many real-world scenarios, a single Large Language Model (LLM) may
 encounter contradictory claims-some accurate, others forcefully incorrect-and

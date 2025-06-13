@@ -8,7 +8,7 @@ bibkey: bai2024chunked
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12018"}
   - {name: "Code", url: "https://github.com/ybai-nlp/CItruS"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Long sequence modeling has gained broad interest as large language models
 (LLMs) continue to advance. Recent research has identified that a large portion

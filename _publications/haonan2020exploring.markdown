@@ -7,7 +7,7 @@ year: 2020
 bibkey: haonan2020exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.11779"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Interpretability', 'BERT', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Like humans, document summarization models can interpret a document's
 contents in a number of ways. Unfortunately, the neural models of today are

@@ -7,7 +7,7 @@ year: 2023
 bibkey: deshpande2023toxicity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05335"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Model Architecture', 'GPT']
+tags: ['Responsible AI', 'GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 Large language models (LLMs) have shown incredible capabilities and
 transcended the natural language processing (NLP) community, with adoption

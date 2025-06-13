@@ -7,7 +7,7 @@ year: 2020
 bibkey: gomezperez2020isaaq
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.00562"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Textbook Question Answering is a complex task in the intersection of Machine
 Comprehension and Visual Question Answering that requires reasoning with

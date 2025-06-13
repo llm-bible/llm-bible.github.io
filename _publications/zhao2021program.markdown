@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhao2021program
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.00804"}
-tags: ['Agentic', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Programs, consisting of semantic and structural information, play an
 important role in the communication between humans and agents. Towards learning

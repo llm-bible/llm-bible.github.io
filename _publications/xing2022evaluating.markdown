@@ -7,7 +7,7 @@ year: 2022
 bibkey: xing2022evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.04943"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Attention Mechanism']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Attention Mechanism']
 ---
 Despite the rapid progress of open-domain generation-based conversational
 agents, most deployed systems treat dialogue contexts as single-turns, while

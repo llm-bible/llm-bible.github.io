@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023separate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08090"}
-tags: ['Language Modeling', 'Applications', 'RAG']
+tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Large language models (LLMs) have been widely used in various applications
 but are known to suffer from issues related to untruthfulness and toxicity.

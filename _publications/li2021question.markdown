@@ -7,7 +7,7 @@ year: 2021
 bibkey: li2021question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.13173"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Knowledge graph question answering is an important technology in intelligent
 human-robot interaction, which aims at automatically giving answer to human

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wei2023evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08410"}
-tags: ['Model Architecture', 'GPT', 'Survey Paper']
+tags: ['GPT', 'Model Architecture', 'Survey Paper']
 ---
 Large language models such as ChatGPT are increasingly explored in medical
 domains. However, the absence of standard guidelines for performance evaluation

@@ -7,7 +7,7 @@ year: 2023
 bibkey: tack2023bea
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06941"}
-tags: ['Prompting', 'BERT', 'Model Architecture', 'GPT']
+tags: ['BERT', 'GPT', 'Prompting', 'Model Architecture']
 ---
 This paper describes the results of the first shared task on the generation
 of teacher responses in educational dialogues. The goal of the task was to

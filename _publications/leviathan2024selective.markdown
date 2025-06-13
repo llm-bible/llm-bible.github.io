@@ -7,7 +7,7 @@ year: 2024
 bibkey: leviathan2024selective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02703"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Unneeded elements in the attention's context degrade performance. We
 introduce Selective Attention, a simple parameter-free change to the standard

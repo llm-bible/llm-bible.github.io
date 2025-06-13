@@ -7,7 +7,7 @@ year: 2024
 bibkey: jung2024trust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18370"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Tools']
+tags: ['RAG', 'Tools', 'GPT', 'Model Architecture']
 ---
 We present a principled approach to provide LLM-based evaluation with a
 rigorous guarantee of human agreement. We first propose that a reliable

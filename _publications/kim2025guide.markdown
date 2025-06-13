@@ -8,7 +8,7 @@ bibkey: kim2025guide
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06832"}
   - {name: "Code", url: "https://github.com/ai-kmu/GUIDE-CoT"}
-tags: ['Prompting', 'Has Code']
+tags: ['Has Code', 'Prompting']
 ---
 While Large Language Models (LLMs) have recently shown impressive results in
 reasoning tasks, their application to pedestrian trajectory prediction remains

@@ -7,7 +7,7 @@ year: 2024
 bibkey: riemer2024theory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.19726"}
-tags: ['Prompting', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Prompting', 'Reinforcement Learning']
 ---
 This position paper argues that the majority of theory of mind benchmarks are
 broken because of their inability to directly test how large language models

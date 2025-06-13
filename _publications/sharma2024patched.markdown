@@ -8,7 +8,7 @@ bibkey: sharma2024patched
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18521"}
   - {name: "Code", url: "https://github.com/codelion/optillm"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 This paper introduces Patched MOA (Mixture of Agents), an inference
 optimization technique that significantly enhances the performance of large

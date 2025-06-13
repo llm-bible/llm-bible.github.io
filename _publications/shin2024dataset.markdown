@@ -7,7 +7,7 @@ year: 2024
 bibkey: shin2024dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11835"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 We introduce the Curious About Uncertain Scene (CAUS) dataset, designed to
 enable Large Language Models, specifically GPT-4, to emulate human cognitive

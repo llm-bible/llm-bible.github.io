@@ -7,7 +7,7 @@ year: 2021
 bibkey: chefer2021generic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.15679"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers are increasingly dominating multi-modal reasoning tasks, such as
 visual question answering, achieving state-of-the-art results thanks to their

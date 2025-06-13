@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10807"}
-tags: ['Responsible AI', 'Agentic', 'Multimodal Models', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Merging']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Merging', 'Multimodal Models']
 ---
 Language-conditioned robot manipulation is an emerging field aimed at
 enabling seamless communication and cooperation between humans and robotic

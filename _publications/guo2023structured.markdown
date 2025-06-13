@@ -7,7 +7,7 @@ year: 2023
 bibkey: guo2023structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05015"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pruning', 'Quantization', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Quantization', 'Prompting']
 ---
 Despite the remarkable success of Large Language Models (LLMs), the massive
 size poses significant deployment challenges, particularly on

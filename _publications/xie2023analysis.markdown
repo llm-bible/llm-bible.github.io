@@ -7,7 +7,7 @@ year: 2023
 bibkey: xie2023analysis
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04039"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in Large Language Models (LLMs) have demonstrated
 impressive capabilities across a range of natural language processing tasks,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: budzianowski2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.02839"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Distillation', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 In recent years, speech generation has seen remarkable progress, now
 achieving one-shot generation capability that is often virtually

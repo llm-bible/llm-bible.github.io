@@ -7,7 +7,7 @@ year: 2022
 bibkey: lu2022retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.07722"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Code completion, which aims to predict the following code token(s) according
 to the code context, can improve the productivity of software development.

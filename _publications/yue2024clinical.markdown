@@ -8,7 +8,7 @@ bibkey: yue2024clinical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14777"}
   - {name: "Code", url: "https://anonymous.4open.science/r/ClinicalAgent-6671"}
-tags: ['Agentic', 'Agent', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Agent', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) and multi-agent systems have shown impressive
 capabilities in natural language tasks but face challenges in clinical trial

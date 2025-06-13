@@ -7,7 +7,7 @@ year: 2019
 bibkey: li2019incremental
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.08854"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Reinforcement Learning']
+tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
 ---
 Document Grounded Conversations is a task to generate dialogue responses when
 chatting about the content of a given document. Obviously, document knowledge

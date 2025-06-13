@@ -8,7 +8,7 @@ bibkey: guo2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19736"}
   - {name: "Code", url: "https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers"}
-tags: ['Responsible AI', 'Model Architecture', 'Survey Paper', 'Tools', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Responsible AI', 'Tools', 'Survey Paper', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities across
 a broad spectrum of tasks. They have attracted significant attention and been

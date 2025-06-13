@@ -7,7 +7,7 @@ year: 2024
 bibkey: gekhman2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.05904"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 When large language models are aligned via supervised fine-tuning, they may
 encounter new factual information that was not acquired through pre-training.

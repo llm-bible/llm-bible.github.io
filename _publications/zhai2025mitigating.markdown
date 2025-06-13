@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhai2025mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18334"}
-tags: ['Security', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
+tags: ['Security', 'Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 Test-time adaptation (TTA) of visual language models has recently attracted
 significant attention as a solution to the performance degradation caused by

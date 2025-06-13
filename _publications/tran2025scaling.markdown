@@ -7,7 +7,7 @@ year: 2025
 bibkey: tran2025scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02890"}
-tags: ['Prompting', 'Ethics and Bias', 'RAG', 'Training Techniques']
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Ethics and Bias']
 ---
 Recent advances in test-time compute scaling have enabled Large Language
 Models (LLMs) to tackle deep reasoning tasks by generating a chain-of-thought

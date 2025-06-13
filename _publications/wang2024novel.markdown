@@ -8,7 +8,7 @@ bibkey: wang2024novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06571"}
   - {name: "Code", url: "https://github.com/XiaoMi/subllm"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Has Code']
+tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Few-Shot']
 ---
 While Large Language Models (LLMs) have achieved remarkable success in
 various fields, the efficiency of training and inference remains a major

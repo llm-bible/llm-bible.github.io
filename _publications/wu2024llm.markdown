@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01269"}
-tags: ['Training Techniques', 'Tools', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Pre-Training', 'Tools', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Relevance modeling between queries and items stands as a pivotal component in
 commercial search engines, directly affecting the user experience. Given the

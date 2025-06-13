@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13101"}
-tags: ['Security', 'Applications', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Security', 'Applications', 'Reinforcement Learning']
 ---
 Multi-hop question answering is a challenging task with distinct industrial
 relevance, and Retrieval-Augmented Generation (RAG) methods based on large

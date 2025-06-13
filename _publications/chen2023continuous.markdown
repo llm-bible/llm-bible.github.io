@@ -8,7 +8,7 @@ bibkey: chen2023continuous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16450"}
   - {name: "Code", url: "https://github.com/DAMO-NLP-SG/CLEX"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Transformer-based Large Language Models (LLMs) are pioneering advances in
 many natural language processing tasks, however, their exceptional capabilities

@@ -7,7 +7,7 @@ year: 2025
 bibkey: ha2025mm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17832"}
-tags: ['Responsible AI', 'Security', 'Multimodal Models', 'Tools', 'RAG', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'RAG', 'Security', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) equipped with Retrieval Augmented
 Generation (RAG) leverage both their rich parametric knowledge and the dynamic,

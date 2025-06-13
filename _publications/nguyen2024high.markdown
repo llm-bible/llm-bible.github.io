@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10834"}
-tags: ['Efficiency and Optimization', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 The rapid progress in machine learning (ML) has brought forth many large
 language models (LLMs) that excel in various tasks and areas. These LLMs come

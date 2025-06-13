@@ -7,7 +7,7 @@ year: 2023
 bibkey: zheng2023lmsys
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11998"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Studying how people interact with large language models (LLMs) in real-world
 scenarios is increasingly important due to their widespread use in various

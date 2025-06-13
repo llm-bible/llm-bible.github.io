@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhong2025unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18525"}
-tags: ['Agentic', 'RAG', 'Tools']
+tags: ['RAG', 'Agentic', 'Tools']
 ---
 In language-guided visual navigation, agents locate target objects in unseen
 environments using natural language instructions. For reliable navigation in

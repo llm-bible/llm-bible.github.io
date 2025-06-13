@@ -7,7 +7,7 @@ year: 2024
 bibkey: lyu2024automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13089"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Automatic text summarization (ATS) is an emerging technology to assist
 clinicians in providing continuous and coordinated care. This study presents an

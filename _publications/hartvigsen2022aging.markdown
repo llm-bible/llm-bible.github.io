@@ -8,7 +8,7 @@ bibkey: hartvigsen2022aging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.11031"}
   - {name: "Code", url: "https://www.github.com/thartvigsen/grace"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'BERT', 'Has Code']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'BERT']
 ---
 Deployed language models decay over time due to shifting inputs, changing
 user needs, or emergent world-knowledge gaps. When such problems are

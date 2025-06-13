@@ -8,7 +8,7 @@ bibkey: zhao2024defending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18166"}
   - {name: "Code", url: "https://github.com/ledllm/ledllm"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) are increasingly being adopted in a wide range
 of real-world applications. Despite their impressive performance, recent

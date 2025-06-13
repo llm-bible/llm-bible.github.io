@@ -7,7 +7,7 @@ year: 2025
 bibkey: mezzi2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23175"}
-tags: ['Security', 'Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Several recent works have argued that Large Language Models (LLMs) can be
 used to tame the data deluge in the cybersecurity field, by improving the

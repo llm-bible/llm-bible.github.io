@@ -8,7 +8,7 @@ bibkey: xiao2024quotation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.03675"}
   - {name: "Code", url: "https://github.com/GraceXiaoo/QUILL"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 While Large language models (LLMs) have become excellent writing assistants,
 they still struggle with quotation generation. This is because they either

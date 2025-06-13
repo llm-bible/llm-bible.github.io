@@ -7,7 +7,7 @@ year: 2018
 bibkey: stahlberg2018university
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.09465"}
-tags: ['WMT', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'WMT', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The University of Cambridge submission to the WMT18 news translation task
 focuses on the combination of diverse models of translation. We compare

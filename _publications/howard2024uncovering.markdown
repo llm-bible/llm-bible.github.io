@@ -7,7 +7,7 @@ year: 2024
 bibkey: howard2024uncovering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20152"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 With the advent of Large Language Models (LLMs) possessing increasingly
 impressive capabilities, a number of Large Vision-Language Models (LVLMs) have

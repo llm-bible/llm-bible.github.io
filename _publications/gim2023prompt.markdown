@@ -7,7 +7,7 @@ year: 2023
 bibkey: gim2023prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04934"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 We present Prompt Cache, an approach for accelerating inference for large
 language models (LLM) by reusing attention states across different LLM prompts.

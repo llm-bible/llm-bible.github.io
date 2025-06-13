@@ -7,7 +7,7 @@ year: 2025
 bibkey: abeliuk2025fairness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15351"}
-tags: ['Training Techniques', 'Fairness', 'Survey Paper', 'Tools', 'Language Modeling', 'Bias Mitigation', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Language Modeling', 'Training Techniques', 'Fairness']
 ---
 Large Language Models (LLMs) excel in text generation and understanding,
 especially in simulating socio-political and economic patterns, serving as an

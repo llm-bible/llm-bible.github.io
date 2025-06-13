@@ -7,7 +7,7 @@ year: 2018
 bibkey: zang2018translating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1810.00663"}
-tags: ['RAG', 'Model Architecture', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Model Architecture']
 ---
 We propose an end-to-end deep learning model for translating free-form
 natural language instructions to a high-level plan for behavioral robot

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20833"}
-tags: ['Ethics and Bias', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Recent studies have demonstrated that large language models (LLMs) exhibit
 significant biases in evaluation tasks, particularly in preferentially rating

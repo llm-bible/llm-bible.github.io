@@ -7,7 +7,7 @@ year: 2025
 bibkey: ogasa2025hallucination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04335"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 This study tackles token-level hallucination detection in outputs of large
 language models. Previous studies revealed that attention exhibits irregular

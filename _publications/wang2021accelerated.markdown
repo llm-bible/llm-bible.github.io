@@ -7,7 +7,7 @@ year: 2021
 bibkey: wang2021accelerated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.05722"}
-tags: ['WMT', 'Training Techniques', 'Multimodal Models', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Transformer-based neural models are used in many AI applications. Training
 these models is expensive, as it takes huge GPU resources and long duration. It

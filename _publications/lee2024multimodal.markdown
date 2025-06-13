@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02030"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal reasoning with large language models (LLMs) often suffers from
 hallucinations and the presence of deficient or outdated knowledge within LLMs.

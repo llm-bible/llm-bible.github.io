@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18011"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture']
 ---
 The rapid advancement of large language models (LLMs) demands robust,
 unbiased, and scalable evaluation methods. However, human annotations are

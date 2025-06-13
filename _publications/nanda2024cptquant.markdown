@@ -7,7 +7,7 @@ year: 2024
 bibkey: nanda2024cptquant
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03599"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pruning', 'Quantization', 'BERT']
+tags: ['Efficiency and Optimization', 'Language Modeling', 'Pruning', 'Model Architecture', 'Training Techniques', 'BERT', 'Quantization']
 ---
 Large language models have transformed the comprehension and generation of
 natural language tasks, but they come with substantial memory and computational

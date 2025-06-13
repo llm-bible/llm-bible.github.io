@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024achieving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04997"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Currently, the vast majority of locally deployed open-source large language
 models (LLMs) and some commercial model interfaces do not support stable tool

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11901"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 Personalization plays a critical role in numerous language tasks and
 applications, since users with the same requirements may prefer diverse outputs

@@ -7,7 +7,7 @@ year: 2024
 bibkey: harris2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12283"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Embedding models are crucial for various natural language processing tasks
 but can be limited by factors such as limited vocabulary, lack of context, and

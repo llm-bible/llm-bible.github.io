@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024agent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.04329"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'GPT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture']
 ---
 Pre-trained on massive amounts of code and text data, large language models
 (LLMs) have demonstrated remarkable achievements in performing code generation

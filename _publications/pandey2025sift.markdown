@@ -7,7 +7,7 @@ year: 2025
 bibkey: pandey2025sift
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09081"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We introduce SIFT (Speech Instruction Fine-Tuning), a 50M-example dataset
 designed for instruction fine-tuning and pre-training of speech-text large

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023surpassing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13735"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recent advances in large language models (LLMs) show potential for clinical
 applications, such as clinical decision support and trial recommendations.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024illuminating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06673"}
-tags: ['Pretraining Methods', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models']
+tags: ['Training Techniques', 'Multimodal Models', 'Efficiency and Optimization', 'Pretraining Methods']
 ---
 In this paper, we introduce ILLUME, a unified multimodal large language model
 (MLLM) that seamlessly integrates multimodal understanding and generation

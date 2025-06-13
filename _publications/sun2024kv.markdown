@@ -8,7 +8,7 @@ bibkey: sun2024kv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21465"}
   - {name: "Code", url: "https://github.com/bytedance/ShadowKV"}
-tags: ['Has Code', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 With the widespread deployment of long-context large language models (LLMs),
 there has been a growing demand for efficient support of high-throughput

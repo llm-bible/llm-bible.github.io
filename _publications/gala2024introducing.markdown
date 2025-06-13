@@ -7,7 +7,7 @@ year: 2024
 bibkey: gala2024introducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15006"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We announce the initial release of "Airavata," an instruction-tuned LLM for
 Hindi. Airavata was created by fine-tuning OpenHathi with diverse,

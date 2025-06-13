@@ -7,7 +7,7 @@ year: 2023
 bibkey: ge2023model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01801"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In this study, we introduce adaptive KV cache compression, a plug-and-play
 method that reduces the memory footprint of generative inference for Large

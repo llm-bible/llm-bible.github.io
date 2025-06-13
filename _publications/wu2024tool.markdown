@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024tool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14826"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Recently, tool-augmented LLMs have gained increasing attention. Given an
 instruction, tool-augmented LLMs can interact with various external tools in

@@ -7,7 +7,7 @@ year: 2024
 bibkey: long2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08656"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We present the first systematic evaluation examining format bias in
 performance of large language models (LLMs). Our approach distinguishes between

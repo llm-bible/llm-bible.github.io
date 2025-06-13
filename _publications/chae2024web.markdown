@@ -7,7 +7,7 @@ year: 2024
 bibkey: chae2024web
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13232"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Agent', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Attention Mechanism']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Agent']
 ---
 Large language models (LLMs) have recently gained much attention in building
 autonomous agents. However, the performance of current LLM-based web agents in

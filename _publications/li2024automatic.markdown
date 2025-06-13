@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12144"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Personality assessment, particularly through situational judgment tests
 (SJTs), is a vital tool for psychological research, talent selection, and

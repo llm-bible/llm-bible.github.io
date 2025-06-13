@@ -8,7 +8,7 @@ bibkey: wang2020improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.02329"}
   - {name: "Code", url: "https://github.com/AI-secure/InfoBERT"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Large-scale language models such as BERT have achieved state-of-the-art
 performance across a wide range of NLP tasks. Recent studies, however, show

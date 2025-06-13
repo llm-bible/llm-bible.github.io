@@ -7,7 +7,7 @@ year: 2023
 bibkey: liang2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15296"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling']
 ---
 Large language models (LLMs) have emerged as pivotal contributors in
 contemporary natural language processing and are increasingly being applied

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ganz2024question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05472"}
-tags: ['Pretraining Methods', 'Multimodal Models', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Multimodal Models', 'Model Architecture', 'Pretraining Methods']
 ---
 Vision-Language (VL) models have gained significant research focus, enabling
 remarkable advances in multimodal reasoning. These architectures typically

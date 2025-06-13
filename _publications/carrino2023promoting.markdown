@@ -7,7 +7,7 @@ year: 2023
 bibkey: carrino2023promoting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.17134"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 Despite substantial progress in multilingual extractive Question Answering
 (QA), models with high and uniformly distributed performance across languages

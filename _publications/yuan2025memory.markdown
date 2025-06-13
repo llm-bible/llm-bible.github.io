@@ -7,7 +7,7 @@ year: 2025
 bibkey: yuan2025memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09149"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) shows strong potential in addressing
 long-video understanding (LVU) tasks. However, traditional RAG methods remain

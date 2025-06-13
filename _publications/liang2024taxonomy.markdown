@@ -8,7 +8,7 @@ bibkey: liang2024taxonomy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14043"}
   - {name: "Code", url: "https://github.com/yueqingliang1/TaxRec"}
-tags: ['Training Techniques', 'Tools', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'RecSys', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 With the emergence of large language models (LLMs) and their ability to
 perform a variety of tasks, their application in recommender systems (RecSys)

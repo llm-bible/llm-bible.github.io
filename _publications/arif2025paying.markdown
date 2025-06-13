@@ -8,7 +8,7 @@ bibkey: arif2025paying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12206"}
   - {name: "Code", url: "https://github.com/hasanar1f/PAINT}{https://github.com/hasanar1f/PAINT"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Vision Language Models (LVLMs) have demonstrated remarkable
 capabilities in understanding and describing visual content, achieving

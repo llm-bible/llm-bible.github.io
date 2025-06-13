@@ -7,7 +7,7 @@ year: 2025
 bibkey: nguyen2025smoothing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11306"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Distillation', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Distillation']
 ---
 Large language models (LLMs) often suffer from hallucination, generating
 factually incorrect or ungrounded content, which limits their reliability in

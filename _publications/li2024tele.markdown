@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024tele
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16645"}
-tags: ['Pre-Training', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Pre-Training', 'Applications']
 ---
 Large language models (LLMs) have showcased profound capabilities in language
 understanding and generation, facilitating a wide array of applications.

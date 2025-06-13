@@ -7,7 +7,7 @@ year: 2024
 bibkey: boizard2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12030"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'Distillation']
+tags: ['Distillation', 'Efficiency and Optimization', 'Applications', 'Model Architecture']
 ---
 Deploying large language models (LLMs) of several billion parameters can be
 impractical in most industrial use cases due to constraints such as cost,

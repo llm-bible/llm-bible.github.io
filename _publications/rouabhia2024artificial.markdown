@@ -7,7 +7,7 @@ year: 2024
 bibkey: rouabhia2024artificial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01369"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Prompting']
 ---
 This study explores Artificial Intelligence use, specifically ChatGPT, in
 creating educational content. The study aims to elaborate on using ChatGPT to

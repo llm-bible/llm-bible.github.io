@@ -7,7 +7,7 @@ year: 2023
 bibkey: meadows2023controlling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.09998"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Few-Shot', 'Prompting']
 ---
 This paper investigates how hallucination rates in Large Language Models
 (LLMs) may be controlled via a symbolic data generation framework, exploring a

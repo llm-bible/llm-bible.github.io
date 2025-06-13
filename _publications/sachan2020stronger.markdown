@@ -7,7 +7,7 @@ year: 2020
 bibkey: sachan2020stronger
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.11374"}
-tags: ['Pretraining Methods', 'RAG', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
 ---
 Prior work on automated question generation has almost exclusively focused on
 generating simple questions whose answers can be extracted from a single

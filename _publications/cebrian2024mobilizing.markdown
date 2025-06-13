@@ -7,7 +7,7 @@ year: 2024
 bibkey: cebrian2024mobilizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14210"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Security', 'Multimodal Models', 'Prompting']
 ---
 Advancements in multimodal Large Language Models (LLMs), such as OpenAI's
 GPT-4o, offer significant potential for mediating human interactions across

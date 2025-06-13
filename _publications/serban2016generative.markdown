@@ -7,7 +7,7 @@ year: 2016
 bibkey: serban2016generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1611.06216"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Researchers have recently started investigating deep neural networks for
 dialogue applications. In particular, generative sequence-to-sequence (Seq2Seq)

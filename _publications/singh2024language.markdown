@@ -7,7 +7,7 @@ year: 2024
 bibkey: singh2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05881"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Developing interactive systems that utilize natural language instructions to
 solve complex robotic control tasks has long been a goal of the robotics

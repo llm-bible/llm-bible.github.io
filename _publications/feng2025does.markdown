@@ -7,7 +7,7 @@ year: 2025
 bibkey: feng2025does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.17220"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'In-Context Learning', 'Prompting', 'Distillation']
 ---
 LLMs are increasingly explored for bundle generation, thanks to their
 reasoning capabilities and knowledge. However, deploying large-scale LLMs

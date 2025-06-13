@@ -8,7 +8,7 @@ bibkey: mao2024accelerated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02842"}
   - {name: "Code", url: "https://yuzhenmao.github.io/IceFormer/"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 One limitation of existing Transformer-based models is that they cannot
 handle very long sequences as input since their self-attention operations

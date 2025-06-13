@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024reconstruct
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13331"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pruning', 'BERT']
+tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'BERT']
 ---
 Structured pruning is a promising hardware-friendly compression technique for
 large language models (LLMs), which is expected to be retraining-free to avoid

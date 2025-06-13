@@ -7,7 +7,7 @@ year: 2021
 bibkey: desai2021random
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.02191"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Deep learning for recommendation data is one of the most pervasive and
 challenging AI workload in recent times. State-of-the-art recommendation models

@@ -7,7 +7,7 @@ year: 2025
 bibkey: wen2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04384"}
-tags: ['Model Architecture', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 This paper presents SOLOMON, a novel Neuro-inspired Large Language Model
 (LLM) Reasoning Network architecture that enhances the adaptability of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: rumiantsau2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20024"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have become increasingly important in natural
 language processing, enabling advanced data analytics through natural language

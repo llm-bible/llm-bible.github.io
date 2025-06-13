@@ -7,7 +7,7 @@ year: 2024
 bibkey: chao2024make
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19181"}
-tags: ['Ethics and Bias', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) demonstrate robust capabilities across various
 fields, leading to a paradigm shift in LLM-enhanced Recommender System (RS).

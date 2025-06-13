@@ -7,7 +7,7 @@ year: 2023
 bibkey: sathvik2023interpretable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.12404"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Mental health professionals and clinicians have observed the upsurge of
 mental disorders due to Interpersonal Risk Factors (IRFs). To simulate the

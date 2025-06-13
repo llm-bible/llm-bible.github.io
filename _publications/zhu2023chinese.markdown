@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhu2023chinese
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14151"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Biomedical language understanding benchmarks are the driving forces for
 artificial intelligence applications with large language model (LLM) back-ends.

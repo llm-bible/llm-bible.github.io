@@ -7,7 +7,7 @@ year: 2023
 bibkey: singh2023explaining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.09863"}
-tags: ['Model Architecture', 'Tools', 'BERT', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'BERT']
 ---
 Large language models (LLMs) have demonstrated remarkable prediction
 performance for a growing array of tasks. However, their rapid proliferation

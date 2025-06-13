@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024diversifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09590"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques']
 ---
 By increasing model parameters but activating them sparsely when performing a
 task, the use of Mixture-of-Experts (MoE) architecture significantly improves

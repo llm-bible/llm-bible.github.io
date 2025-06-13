@@ -7,7 +7,7 @@ year: 2021
 bibkey: guskin2021dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.09645"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Limited computational budgets often prevent transformers from being used in
 production and from having their high accuracy utilized. TinyBERT addresses the

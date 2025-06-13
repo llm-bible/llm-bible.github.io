@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07382"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 Reinforcement learning (RL) can align language models with non-differentiable
 reward signals, such as human preferences. However, a major challenge arises

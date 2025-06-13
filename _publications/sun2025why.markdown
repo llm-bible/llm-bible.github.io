@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12691"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) frequently generate hallucinations-content that
 deviates from factual accuracy or provided context-posing challenges for

@@ -7,7 +7,7 @@ year: 2021
 bibkey: macavaney2021search
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.04026"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Search result diversification is a beneficial approach to overcome
 under-specified queries, such as those that are ambiguous or multi-faceted.

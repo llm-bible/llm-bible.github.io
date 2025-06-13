@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12711"}
-tags: ['Model Architecture', 'Fine-Tuning', 'GPT']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture']
 ---
 Instruction tuning is instrumental in enabling Large Language Models~(LLMs)
 to follow user instructions to complete various open-domain tasks. The success

@@ -7,7 +7,7 @@ year: 2025
 bibkey: gulhan2025baklava
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13176"}
-tags: ['Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 In Large Language Model (LLM) inference, Key-Value (KV) caches (KV-caches)
 are essential for reducing time complexity. However, they result in a linear

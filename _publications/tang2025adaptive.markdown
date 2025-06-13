@@ -7,7 +7,7 @@ year: 2025
 bibkey: tang2025adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01679"}
-tags: ['Few-Shot', 'Tools', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'Applications', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recently, Large language models (LLMs) with in-context learning have
 demonstrated remarkable potential in handling neural machine translation.

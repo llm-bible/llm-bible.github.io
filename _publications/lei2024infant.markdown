@@ -7,7 +7,7 @@ year: 2024
 bibkey: lei2024infant
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01114"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Despite the impressive capabilities of large language models (LLMs), they
 currently exhibit two primary limitations,

@@ -8,7 +8,7 @@ bibkey: alawwad2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05128"}
   - {name: "Code", url: "https://github.com/hessaAlawwad/PLR-TQA"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Has Code', 'Multimodal Models']
 ---
 Textbook question answering (TQA) is a challenging task in artificial
 intelligence due to the complex nature of context needed to answer complex

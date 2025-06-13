@@ -7,7 +7,7 @@ year: 2024
 bibkey: bartl2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04434"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Gender bias is not only prevalent in Large Language Models (LLMs) and their
 training data, but also firmly ingrained into the structural aspects of

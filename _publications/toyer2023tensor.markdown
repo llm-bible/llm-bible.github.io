@@ -8,7 +8,7 @@ bibkey: toyer2023tensor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01011"}
   - {name: "Code", url: "https://tensortrust.ai/paper"}
-tags: ['Security', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Applications', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
 ---
 While Large Language Models (LLMs) are increasingly being used in real-world
 applications, they remain vulnerable to prompt injection attacks: malicious

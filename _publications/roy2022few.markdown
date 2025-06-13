@@ -7,7 +7,7 @@ year: 2022
 bibkey: roy2022few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.07076"}
-tags: ['Training Techniques', 'Fine-Tuning', 'Few-Shot']
+tags: ['Fine-Tuning', 'Few-Shot', 'Training Techniques']
 ---
 Generating natural language questions from visual scenes, known as Visual
 Question Generation (VQG), has been explored in the recent past where large

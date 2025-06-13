@@ -8,7 +8,7 @@ bibkey: zheng2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12740"}
   - {name: "Code", url: "https://github.com/Zce1112zslx/IKE"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Previous studies have shown that large language models (LLMs) like GPTs store
 massive factual knowledge in their parameters. However, the stored knowledge

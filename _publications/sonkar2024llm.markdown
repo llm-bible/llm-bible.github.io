@@ -7,7 +7,7 @@ year: 2024
 bibkey: sonkar2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12294"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 Accurately modeling student cognition is crucial for developing effective
 AI-driven educational technologies. A key challenge is creating realistic

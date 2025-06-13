@@ -7,7 +7,7 @@ year: 2024
 bibkey: dutta2024accuracy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09141"}
-tags: ['Quantization', 'Efficiency and Optimization', 'Distillation']
+tags: ['Efficiency and Optimization', 'Quantization', 'Distillation']
 ---
 When Large Language Models (LLMs) are compressed using techniques such as
 quantization, the predominant way to demonstrate the validity of such

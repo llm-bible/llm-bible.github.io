@@ -7,7 +7,7 @@ year: 2025
 bibkey: bigoulaeva2025inherent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.08716"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs), trained on extensive web-scale corpora, have
 demonstrated remarkable abilities across diverse tasks, especially as they are

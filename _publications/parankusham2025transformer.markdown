@@ -7,7 +7,7 @@ year: 2025
 bibkey: parankusham2025transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18212"}
-tags: ['Masked Language Model', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Masked Language Model', 'Pretraining Methods', 'BERT']
 ---
 Lakota, a critically endangered language of the Sioux people in North
 America, faces significant challenges due to declining fluency among younger

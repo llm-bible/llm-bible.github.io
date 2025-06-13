@@ -8,7 +8,7 @@ bibkey: xie2024revolutionizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16670"}
   - {name: "Code", url: "https://github.com/aimmemotion/EmoVIT"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Visual Instruction Tuning represents a novel learning paradigm involving the
 fine-tuning of pre-trained language models using task-specific instructions.

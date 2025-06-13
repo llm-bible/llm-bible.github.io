@@ -7,7 +7,7 @@ year: 2023
 bibkey: sotudeh2023curriculum
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.01342"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent Transformer-based summarization models have provided a promising
 approach to abstractive summarization. They go beyond sentence selection and

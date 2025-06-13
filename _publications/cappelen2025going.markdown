@@ -7,7 +7,7 @@ year: 2025
 bibkey: cappelen2025going
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13988"}
-tags: ['Agentic', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 This work defends the 'Whole Hog Thesis': sophisticated Large Language Models
 (LLMs) like ChatGPT are full-blown linguistic and cognitive agents, possessing

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024event
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15273"}
-tags: ['Prompting', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting']
 ---
 Event temporal relation (TempRel) is a primary subject of the event relation
 extraction task. However, the inherent ambiguity of TempRel increases the

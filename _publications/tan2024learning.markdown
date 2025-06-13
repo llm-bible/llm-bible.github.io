@@ -8,7 +8,7 @@ bibkey: tan2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07979"}
   - {name: "Code", url: "https://github.com/jeffreysijuntan/lloco"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Transformer', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Processing long contexts remains a challenge for large language models (LLMs)
 due to the quadratic computational and memory overhead of the self-attention

@@ -7,7 +7,7 @@ year: 2025
 bibkey: lecourt2025chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04831"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 This work investigates the capabilities of large language models (LLMs) in
 detecting and understanding human emotions through text. Drawing upon emotion

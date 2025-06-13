@@ -7,7 +7,7 @@ year: 2019
 bibkey: shen2019scene
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.02632"}
-tags: ['Model Architecture', 'Tools', 'Ethics and Bias', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism']
 ---
 Image captioning has attracted ever-increasing research attention in the
 multimedia community. To this end, most cutting-edge works rely on an

@@ -7,7 +7,7 @@ year: 2024
 bibkey: xue2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03706"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advances in large language models (LLMs) and development of audio
 codecs greatly propel the zero-shot TTS. They can synthesize personalized

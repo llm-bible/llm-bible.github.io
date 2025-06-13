@@ -7,7 +7,7 @@ year: 2024
 bibkey: hsu2024liger
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10989"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Model Architecture']
+tags: ['Training Techniques', 'RAG', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Training Large Language Models (LLMs) efficiently at scale presents a
 formidable challenge, driven by their ever-increasing computational demands and

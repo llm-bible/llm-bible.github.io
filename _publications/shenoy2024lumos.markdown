@@ -7,7 +7,7 @@ year: 2024
 bibkey: shenoy2024lumos
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08017"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'TACL', 'ACL']
+tags: ['Efficiency and Optimization', 'TACL', 'Model Architecture', 'ACL', 'Multimodal Models']
 ---
 We introduce Lumos, the first end-to-end multimodal question-answering system
 with text understanding capabilities. At the core of Lumos is a Scene Text

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhu2025preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00640"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism']
 ---
 Existing LVLM-based reasoning segmentation methods often suffer from
 imprecise segmentation results and hallucinations in their text responses. This

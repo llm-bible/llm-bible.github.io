@@ -7,7 +7,7 @@ year: 2023
 bibkey: holt2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02003"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 Transformer-based large language models (LLMs) are constrained by the fixed
 context window of the underlying transformer architecture, hindering their

@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024pruning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20584"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Distillation', 'Pruning', 'Quantization', 'Pretraining Methods']
+tags: ['Tools', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Distillation']
 ---
 The remarkable success of Large Language Models (LLMs) relies heavily on
 their substantial scale, which poses significant challenges during model

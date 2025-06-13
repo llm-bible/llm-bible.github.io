@@ -7,7 +7,7 @@ year: 2024
 bibkey: karinshak2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06032"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Interpretability']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Interpretability']
 ---
 Immense effort has been dedicated to minimizing the presence of harmful or
 biased generative content and better aligning AI output to human intention;

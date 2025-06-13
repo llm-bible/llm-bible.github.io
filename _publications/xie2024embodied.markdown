@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024embodied
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18313"}
-tags: ['Agentic', 'Multimodal Models', 'Tools', 'RAG', 'Interpretability and Explainability']
+tags: ['Agentic', 'Tools', 'Interpretability and Explainability', 'RAG', 'Multimodal Models']
 ---
 There is no limit to how much a robot might explore and learn, but all of
 that knowledge needs to be searchable and actionable. Within language research,

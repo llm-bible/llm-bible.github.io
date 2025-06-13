@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12130"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Low-rank adaptation is a popular parameter-efficient fine-tuning method for
 large language models. In this paper, we analyze the impact of low-rank

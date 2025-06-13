@@ -7,7 +7,7 @@ year: 2022
 bibkey: k2022can
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2204.02329v4"}
-tags: ['Few-Shot', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['Interpretability and Explainability', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Language Models (LMs) can perform new tasks by adapting to a few in-context
 examples. For humans, explanations that connect examples to task principles can

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10276"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Numerous recent works aim to enhance the efficacy of Large Language Models
 (LLMs) through strategic prompting. In particular, the Optimization by

@@ -7,7 +7,7 @@ year: 2023
 bibkey: hong2023iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16271"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Distillation', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'In-Context Learning', 'Prompting', 'Distillation']
 ---
 Language models trained on large-scale corpus often generate content that is
 harmful, toxic, or contrary to human preferences, making their alignment with

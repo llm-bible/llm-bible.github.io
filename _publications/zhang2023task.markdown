@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12330"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'GPT', 'BERT', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Distillation']
 ---
 Finetuning pretrained language models (LMs) have enabled appealing
 performance on a diverse array of tasks. The intriguing task-agnostic property

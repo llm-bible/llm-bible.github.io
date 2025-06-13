@@ -7,7 +7,7 @@ year: 2025
 bibkey: ergul2025instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15724"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Model Architecture']
+tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 In this study, the performance of various predictive models, including
 probabilistic baseline, CNN, LSTM, and finetuned LLMs, in forecasting merchant

@@ -8,7 +8,7 @@ bibkey: šuppa2024bryndza
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06549"}
   - {name: "Code", url: "https://github.com/NaiveNeuron/bryndza-case-2024"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Few-Shot']
 ---
 This study details our approach for the CASE 2024 Shared Task on Climate
 Activism Stance and Hate Event Detection, focusing on Hate Speech Detection,

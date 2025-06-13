@@ -7,7 +7,7 @@ year: 2024
 bibkey: wasenmüller2024script
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15242"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large Language Model (LLM)-Powered Conversational Agents have the potential
 to provide users with scaled behavioral healthcare support, and potentially

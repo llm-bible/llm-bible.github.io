@@ -7,7 +7,7 @@ year: 2023
 bibkey: anand2023studying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05668"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'BERT', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
 ---
 In recent times, significant advancements have been witnessed in the field of
 language models, particularly with the emergence of Large Language Models

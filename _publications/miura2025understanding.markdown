@@ -7,7 +7,7 @@ year: 2025
 bibkey: miura2025understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03804"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 Replying to formal emails is time-consuming and cognitively demanding, as it
 requires crafting polite phrasing and providing an adequate response to the

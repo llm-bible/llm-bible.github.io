@@ -7,7 +7,7 @@ year: 2024
 bibkey: shorten2024json
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11061"}
-tags: ['Quantization', 'RAG', 'Prompting', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Quantization', 'Prompting']
 ---
 The ability of Large Language Models (LLMs) to generate structured outputs,
 such as JSON, is crucial for their use in Compound AI Systems. However,

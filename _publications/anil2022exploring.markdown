@@ -7,7 +7,7 @@ year: 2022
 bibkey: anil2022exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.04901"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The ability to extrapolate from short problem instances to longer ones is an
 important form of out-of-distribution generalization in reasoning tasks, and is

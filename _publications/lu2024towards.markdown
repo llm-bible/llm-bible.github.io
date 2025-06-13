@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16951"}
-tags: ['Ethics and Bias', 'Language Modeling', 'Training Techniques', 'Bias Mitigation']
+tags: ['Training Techniques', 'Bias Mitigation', 'Language Modeling', 'Ethics and Bias']
 ---
 Large language models (LLMs) often inherit biases from vast amounts of
 training corpora. Traditional debiasing methods, while effective to some

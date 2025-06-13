@@ -7,7 +7,7 @@ year: 2024
 bibkey: reid2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14722"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 As Large Language Models (LLMs) perform (and sometimes excel at) more and
 more complex cognitive tasks, a natural question is whether AI really

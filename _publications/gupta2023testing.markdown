@@ -7,7 +7,7 @@ year: 2023
 bibkey: gupta2023testing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04613"}
-tags: ['Merging', 'Applications', 'Tools']
+tags: ['Tools', 'Applications', 'Merging']
 ---
 With the recent developments in large language models (LLMs) and their
 widespread availability through open source models and/or low-cost APIs,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: bouthors2024retrieving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02835"}
-tags: ['Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Retrieval-Augmented Neural Machine Translation (RAMT) architectures retrieve
 examples from memory to guide the generation process. While most works in this

@@ -7,7 +7,7 @@ year: 2023
 bibkey: golden2023generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14385"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
 ---
 As the development of large-scale Generative AI models evolve beyond text
 (1D) generation to include image (2D) and video (3D) generation, processing

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yin2023dialogue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.01094"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Dialogue structure discovery is essential in dialogue generation.
 Well-structured topic flow can leverage background information and predict

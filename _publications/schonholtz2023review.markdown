@@ -7,7 +7,7 @@ year: 2023
 bibkey: schonholtz2023review
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10101"}
-tags: ['Prompting', 'Applications', 'Survey Paper', 'Tools']
+tags: ['Tools', 'Survey Paper', 'Prompting', 'Applications']
 ---
 As coding challenges become more complex, recent advancements in Large
 Language Models (LLMs) have led to notable successes, such as achieving a

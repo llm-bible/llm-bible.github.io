@@ -7,7 +7,7 @@ year: 2025
 bibkey: cha2025joint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04904"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 Recently, there has been a growing demand for conversational speech synthesis
 (CSS) that generates more natural speech by considering the conversational

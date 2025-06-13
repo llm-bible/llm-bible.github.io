@@ -7,7 +7,7 @@ year: 2024
 bibkey: sukthanker2024compressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06479"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Pruning', 'Quantization', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Quantization']
 ---
 Large Language Models (LLMs) demonstrate exceptional reasoning abilities,
 enabling strong generalization across diverse tasks such as commonsense

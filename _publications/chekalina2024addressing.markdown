@@ -7,7 +7,7 @@ year: 2024
 bibkey: chekalina2024addressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.11531"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 In this paper we present an approach to reduce hallucinations in Large
 Language Models (LLMs) by incorporating Knowledge Graphs (KGs) as an additional

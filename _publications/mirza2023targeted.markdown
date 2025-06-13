@@ -7,7 +7,7 @@ year: 2023
 bibkey: mirza2023targeted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.06809"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'RAG', 'Pre-Training', 'Prompting']
 ---
 Vision and Language Models (VLMs), such as CLIP, have enabled visual
 recognition of a potentially unlimited set of categories described by text

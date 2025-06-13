@@ -8,7 +8,7 @@ bibkey: lai2025building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19298"}
   - {name: "Code", url: "https://github.com/THUDM/AndroidGen"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models have opened up a world of possibilities for various NLP
 tasks, sparking optimism for the future. Despite their potential, LLMs have yet

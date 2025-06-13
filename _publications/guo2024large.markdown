@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13036"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Simultaneous Machine Translation (SiMT) generates translations while reading
 the source sentence, necessitating a policy to determine the optimal timing for

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024melody
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00292"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques']
 ---
 Automatic melody-to-lyric (M2L) generation aims to create lyrics that align
 with a given melody. While most previous approaches generate lyrics from

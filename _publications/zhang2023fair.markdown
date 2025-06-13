@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023fair
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11653"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 The widespread use of Large Language Model (LLM)-based conversational agents
 (CAs), especially in high-stakes domains, raises many privacy concerns.

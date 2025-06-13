@@ -7,7 +7,7 @@ year: 2024
 bibkey: hassan2024active
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13641"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Distillation']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
 ---
 Ensuring that Large Language Models (LLMs) generate text representative of
 diverse sub-populations is essential, particularly when key concepts related to

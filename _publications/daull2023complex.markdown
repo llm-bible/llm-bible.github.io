@@ -7,7 +7,7 @@ year: 2023
 bibkey: daull2023complex
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.09051"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Model Architecture', 'Multimodal Models', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Fairness', 'RAG', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Fairness', 'Security', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 This paper reviews the state-of-the-art of language models architectures and
 strategies for "complex" question-answering (QA, CQA, CPS) with a focus on

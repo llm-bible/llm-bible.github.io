@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18926"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning pretrained language models has shown promising results on a wide
 range of tasks, but when encountering a novel task, do they rely more on

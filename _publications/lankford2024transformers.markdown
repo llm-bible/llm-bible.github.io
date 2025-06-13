@@ -7,7 +7,7 @@ year: 2024
 bibkey: lankford2024transformers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01985"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The Transformer model is the state-of-the-art in Machine Translation.
 However, in general, neural translation models often under perform on language

@@ -8,7 +8,7 @@ bibkey: jiang2021inducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.15256"}
   - {name: "Code", url: "https://github.com/jiangycTarheel/compositional-auxseq"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Systematic compositionality is an essential mechanism in human language,
 allowing the recombination of known parts to create novel expressions. However,

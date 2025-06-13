@@ -7,7 +7,7 @@ year: 2022
 bibkey: adel2022global
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.01650"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Transformer variants dominate the state-of-the-art in different natural
 language processing tasks such as translation, reading comprehension and

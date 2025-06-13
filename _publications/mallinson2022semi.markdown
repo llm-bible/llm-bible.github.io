@@ -7,7 +7,7 @@ year: 2022
 bibkey: mallinson2022semi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.12209"}
-tags: ['Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Pretraining Methods']
+tags: ['GPT', 'RAG', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present EdiT5 - a novel semi-autoregressive text-editing model designed to
 combine the strengths of non-autoregressive text-editing and autoregressive

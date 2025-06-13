@@ -8,7 +8,7 @@ bibkey: gupta2024detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.14845"}
   - {name: "Code", url: "https://aavenue.live"}
-tags: ['Few-Shot', 'RAG', 'Ethics and Bias', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Ethics and Bias', 'Applications', 'RAG', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Detecting biases in natural language understanding (NLU) for African American
 Vernacular English (AAVE) is crucial to developing inclusive natural language

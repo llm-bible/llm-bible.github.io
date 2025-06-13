@@ -7,7 +7,7 @@ year: 2024
 bibkey: ryazanov2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06120"}
-tags: ['Survey Paper', 'Model Architecture', 'GPT', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 We perform a mixed-method frame semantics-based analysis on a dataset of more
 than 49,000 sentences collected from 5846 news articles that mention AI. The

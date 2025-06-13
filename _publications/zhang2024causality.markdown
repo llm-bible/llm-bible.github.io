@@ -8,7 +8,7 @@ bibkey: zhang2024causality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22809"}
   - {name: "Code", url: "https://github.com/itsmeyjt/CFT"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Has Code', 'Pretraining Methods']
 ---
 Recent advancements in recommender systems have focused on leveraging Large
 Language Models (LLMs) to improve user preference modeling, yielding promising

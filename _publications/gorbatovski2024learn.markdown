@@ -7,7 +7,7 @@ year: 2024
 bibkey: gorbatovski2024learn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09656"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques']
 ---
 Despite the fact that offline methods for Large Language Models (LLMs)
 alignment do not require a direct reward model, they remain susceptible to

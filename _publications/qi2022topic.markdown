@@ -7,7 +7,7 @@ year: 2022
 bibkey: qi2022topic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.13456"}
-tags: ['Model Architecture', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Creating an essay based on a few given topics is a challenging NLP task.
 Although several effective methods for this problem, topic-to-essay generation,

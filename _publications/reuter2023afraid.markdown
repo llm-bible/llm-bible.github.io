@@ -8,7 +8,7 @@ bibkey: reuter2023afraid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.03423"}
   - {name: "Code", url: "https://github.com/maxwellreuter/chatgpt-refusals"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Since the release of OpenAI's ChatGPT, generative language models have
 attracted extensive public attention. The increased usage has highlighted

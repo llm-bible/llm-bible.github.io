@@ -8,7 +8,7 @@ bibkey: han2024free
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10441"}
   - {name: "Code", url: "https://github.com/contrastive/FreeVideoLLM"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Has Code', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Vision-language large models have achieved remarkable success in various
 multi-modal tasks, yet applying them to video understanding remains challenging

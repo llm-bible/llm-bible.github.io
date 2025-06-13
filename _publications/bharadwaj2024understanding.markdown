@@ -7,7 +7,7 @@ year: 2024
 bibkey: bharadwaj2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04537"}
-tags: ['Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Prompting']
+tags: ['Transformer', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Pretraining Methods', 'Prompting']
 ---
 Chain-of-Thought (CoT) prompting has significantly enhanced the reasoning
 abilities of large language models. However, recent studies have shown that

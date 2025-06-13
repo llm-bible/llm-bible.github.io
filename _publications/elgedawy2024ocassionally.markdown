@@ -7,7 +7,7 @@ year: 2024
 bibkey: elgedawy2024ocassionally
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.00689"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 \\( \\)Large Language Models (LLMs) are being increasingly utilized in various
 applications, with code generations being a notable example. While previous

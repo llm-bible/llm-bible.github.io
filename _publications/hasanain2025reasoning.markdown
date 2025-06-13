@@ -7,7 +7,7 @@ year: 2025
 bibkey: hasanain2025reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16550"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Attention Mechanism', 'Model Architecture']
 ---
 There has been significant research on propagandistic content detection
 across different modalities and languages. However, most studies have primarily

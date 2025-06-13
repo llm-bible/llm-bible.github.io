@@ -7,7 +7,7 @@ year: 2025
 bibkey: dou2025speech
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15090"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'INTERSPEECH']
+tags: ['Fine-Tuning', 'INTERSPEECH', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements in large language models (LLMs) have demonstrated their
 remarkable capabilities across various language tasks. Inspired by the success

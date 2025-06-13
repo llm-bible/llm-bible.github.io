@@ -7,7 +7,7 @@ year: 2023
 bibkey: lo2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.00353"}
-tags: ['Pre-Training', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Pre-Training', 'Applications']
 ---
 This paper examines the capacity of LLMs to reason with knowledge graphs
 using their internal knowledge graph, i.e., the knowledge graph they learned

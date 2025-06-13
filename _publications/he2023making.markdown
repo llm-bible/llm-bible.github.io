@@ -7,7 +7,7 @@ year: 2023
 bibkey: he2023making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.16854"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Many natural language processing (NLP) tasks rely on labeled data to train
 machine learning models with high performance. However, data annotation is

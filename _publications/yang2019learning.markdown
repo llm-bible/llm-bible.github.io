@@ -7,7 +7,7 @@ year: 2019
 bibkey: yang2019learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.08608"}
-tags: ['Training Techniques', 'Merging', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Merging']
 ---
 We do not speak word by word from scratch; our brain quickly structures a
 pattern like \textsc\{sth do sth at someplace\} and then fill in the detailed

@@ -7,7 +7,7 @@ year: 2023
 bibkey: braunschweiler2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11838"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 In this paper, we investigate the use of large language models (LLMs) like
 ChatGPT for document-grounded response generation in the context of

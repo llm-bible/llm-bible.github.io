@@ -8,7 +8,7 @@ bibkey: luo2025query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.08689"}
   - {name: "Code", url: "https://github.com/MAC-AutoML/QuoTA"}
-tags: ['Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pruning', 'Has Code', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Recent advances in long video understanding typically mitigate visual
 redundancy through visual token pruning based on attention distribution.

@@ -8,7 +8,7 @@ bibkey: song2023connecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06624"}
   - {name: "Code", url: "https://restgpt.github.io/"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code']
 ---
 Tool-augmented large language models (LLMs) have achieved remarkable progress
 in tackling a broad range of tasks. However, existing methods are mainly

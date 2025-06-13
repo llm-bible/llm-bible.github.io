@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuan2024why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11700"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Distillation', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
 ---
 Large Language Models (LLMs) possess outstanding capabilities in addressing
 various natural language processing (NLP) tasks. However, the sheer size of

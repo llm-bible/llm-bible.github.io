@@ -8,7 +8,7 @@ bibkey: liao2024math
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08190"}
   - {name: "Code", url: "https://github.com/MARIO-Math-Reasoning/MARIO"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) have seen considerable advancements in natural
 language understanding tasks, yet there remains a gap to bridge before

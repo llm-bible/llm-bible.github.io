@@ -8,7 +8,7 @@ bibkey: liu2025bag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.07191"}
   - {name: "Code", url: "https://github.com/usail-hkust/benchmark_inference_time_computation_LLM"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 With the advancement of large language models (LLMs), solving complex
 reasoning tasks has gained increasing attention. Inference-time computation

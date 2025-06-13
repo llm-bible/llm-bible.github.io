@@ -7,7 +7,7 @@ year: 2025
 bibkey: nishu2025from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12325"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 Training large language models (LLMs) for different inference constraints is
 computationally expensive, limiting control over efficiency-accuracy

@@ -7,7 +7,7 @@ year: 2021
 bibkey: w2021scaling
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2112.11446v2"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer']
+tags: ['Responsible AI', 'Transformer', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Language modelling provides a step towards intelligent communication systems
 by harnessing large repositories of written human knowledge to better predict

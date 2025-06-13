@@ -7,7 +7,7 @@ year: 2021
 bibkey: chiang2021breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08130"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 While multilingual training is now an essential ingredient in machine
 translation (MT) systems, recent work has demonstrated that it has different

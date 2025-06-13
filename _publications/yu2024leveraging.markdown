@@ -8,7 +8,7 @@ bibkey: yu2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13717"}
   - {name: "Code", url: "https://github.com/weiyifan1023/Neeko"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'RAG', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Tools', 'RAG', 'Training Techniques', 'Has Code']
 ---
 Large Language Models (LLMs) have revolutionized open-domain dialogue agents
 but encounter challenges in multi-character role-playing (MCRP) scenarios. To

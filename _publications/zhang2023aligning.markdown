@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11159"}
-tags: ['Security', 'Training Techniques', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Security', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Recent work has shown that fine-tuning large language models (LLMs) on
 large-scale instruction-following datasets substantially improves their

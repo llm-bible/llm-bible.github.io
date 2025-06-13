@@ -7,7 +7,7 @@ year: 2023
 bibkey: shi2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.12298"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recently, ChatGPT has gained significant attention in research due to its
 ability to interact with humans effectively. The core idea behind this model is

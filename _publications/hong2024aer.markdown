@@ -7,7 +7,7 @@ year: 2024
 bibkey: hong2024aer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18339"}
-tags: ['Few-Shot', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements in Large Language Models (LLMs) have demonstrated great
 success in many Natural Language Processing (NLP) tasks. In addition to their

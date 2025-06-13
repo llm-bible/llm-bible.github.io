@@ -7,7 +7,7 @@ year: 2025
 bibkey: shi2025evolving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11419"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG']
+tags: ['Training Techniques', 'RAG', 'Tools', 'Efficiency and Optimization']
 ---
 Large language models (LLMs) typically undergo instruction tuning to enhance
 alignment. Recent studies emphasize that quality and diversity of instruction

@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15503"}
-tags: ['Language Modeling', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'Language Modeling', 'Reinforcement Learning']
 ---
 Dense retrieval needs to learn discriminative text embeddings to represent
 the semantic relationship between query and document. It may benefit from the

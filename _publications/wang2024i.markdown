@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024i
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.12960"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability']
 ---
 Understanding robot behaviors and experiences through natural language is
 crucial for developing intelligent and transparent robotic systems. Recent

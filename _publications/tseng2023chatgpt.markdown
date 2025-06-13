@@ -7,7 +7,7 @@ year: 2023
 bibkey: tseng2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13961"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'BERT', 'Prompting', 'Attention Mechanism']
+tags: ['GPT', 'Model Architecture', 'Attention Mechanism', 'BERT', 'Few-Shot', 'Prompting']
 ---
 ChatGPT, GPT-3.5, and other large language models (LLMs) have drawn
 significant attention since their release, and the abilities of these models

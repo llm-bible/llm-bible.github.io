@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.07275"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 CLIP (Contrastive Language-Image Pre-Training) has shown remarkable zero-shot
 transfer capabilities in cross-modal correlation tasks such as visual

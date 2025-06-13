@@ -7,7 +7,7 @@ year: 2024
 bibkey: yue2024distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13448"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Distillation', 'GPT', 'ACL']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'ACL', 'Training Techniques', 'Distillation']
 ---
 Instruction tuning aims to align large language models (LLMs) with
 open-domain instructions and human-preferred responses. While several studies

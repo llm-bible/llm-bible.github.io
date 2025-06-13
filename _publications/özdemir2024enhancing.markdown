@@ -8,7 +8,7 @@ bibkey: özdemir2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08589"}
   - {name: "Code", url: "https://github.com/ovguyo/captions-in-VQA"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Visual question answering (VQA) is known as an AI-complete task as it
 requires understanding, reasoning, and inferring about the vision and the

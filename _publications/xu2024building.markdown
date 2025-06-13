@@ -8,7 +8,7 @@ bibkey: xu2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10140"}
   - {name: "Code", url: "https://github.com/YifanXu74/Libra"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Has Code', 'Attention Mechanism']
+tags: ['Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 In this work, we introduce Libra, a prototype model with a decoupled vision
 system on a large language model (LLM). The decoupled vision system decouples

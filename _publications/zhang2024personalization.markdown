@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024personalization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00027"}
-tags: ['Language Modeling', 'Applications', 'Survey Paper', 'RAG']
+tags: ['RAG', 'Survey Paper', 'Language Modeling', 'Applications']
 ---
 Personalization of Large Language Models (LLMs) has recently become
 increasingly important with a wide range of applications. Despite the

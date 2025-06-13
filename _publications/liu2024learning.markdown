@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03837"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Security', 'Training Techniques']
 ---
 Large Language Models (LLMs) have recently demonstrated remarkable coding
 capabilities. However, assessing code generation based on well-formed

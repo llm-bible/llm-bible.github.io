@@ -7,7 +7,7 @@ year: 2024
 bibkey: aichberger2024semantically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04306"}
-tags: ['Pretraining Methods', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Pretraining Methods']
 ---
 Large language models (LLMs) can suffer from hallucinations when generating
 text. These hallucinations impede various applications in society and industry

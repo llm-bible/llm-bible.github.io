@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024layout
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15434"}
-tags: ['Agentic', 'Model Architecture', 'Attention Mechanism', 'Tools']
+tags: ['Agentic', 'Attention Mechanism', 'Model Architecture', 'Tools']
 ---
 Existing works focus on fixed-size layout pattern generation, while the more
 practical free-size pattern generation receives limited attention. In this

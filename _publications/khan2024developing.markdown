@@ -8,7 +8,7 @@ bibkey: khan2024developing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15944"}
   - {name: "Code", url: "https://github.com/GPT-Laboratory/RAG-LLM-Development-Guidebook-from-PDFs"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Ethics and Bias', 'Interpretability', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Interpretability', 'Has Code']
 ---
 This paper presents an experience report on the development of Retrieval
 Augmented Generation (RAG) systems using PDF documents as the primary data

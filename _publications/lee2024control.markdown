@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024control
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13008"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 This study addresses the hallucination problem in large language models
 (LLMs). We adopted Retrieval-Augmented Generation(RAG) (Lewis et al., 2020), a

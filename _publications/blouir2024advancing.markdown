@@ -8,7 +8,7 @@ bibkey: blouir2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01030"}
   - {name: "Code", url: "https://www.github.com/samblouir/birdie,"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Efficient state space models (SSMs), such as linear recurrent neural networks
 and linear attention variants, offer computational advantages over Transformers

@@ -7,7 +7,7 @@ year: 2023
 bibkey: si2023getting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14628"}
-tags: ['Tools', 'RAG', 'Merging', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Merging', 'Prompting']
 ---
 While recent large language models (LLMs) improve on various question
 answering (QA) datasets, it remains difficult for a single model to generalize

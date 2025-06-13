@@ -7,7 +7,7 @@ year: 2023
 bibkey: zheng2023progressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09797"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 The performance of Large Language Models (LLMs) in reasoning tasks depends
 heavily on prompt design, with Chain-of-Thought (CoT) and self-consistency

@@ -8,7 +8,7 @@ bibkey: yu2025text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22655"}
   - {name: "Code", url: "https://github.com/Yu-xm/Unicorn.git"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Training vision-language models (VLMs) typically requires large-scale,
 high-quality image-text pairs, but collecting or synthesizing such data is

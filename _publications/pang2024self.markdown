@@ -7,7 +7,7 @@ year: 2024
 bibkey: pang2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05699"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 Aligning large language models (LLMs) with human values is imperative to
 mitigate potential adverse effects resulting from their misuse. Drawing from

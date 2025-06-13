@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024matryoshka
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19315"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) typically encode an image into a fixed
 number of visual tokens (e.g., 576) and process these tokens with a language

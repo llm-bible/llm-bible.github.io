@@ -7,7 +7,7 @@ year: 2025
 bibkey: bhattacharyya2025steered
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18644"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
 ---
 Large language models (LLMs) encode a diverse range of linguistic features
 within their latent representations, which can be harnessed to steer their

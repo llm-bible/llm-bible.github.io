@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024unforgettable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02228"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 When language models (LMs) are trained to forget (or "unlearn'') a skill, how
 precisely does their behavior change? We study the behavior of transformer LMs

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13725"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Tokenization', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Pretraining Methods', 'Prompting']
 ---
 Time series modeling holds significant importance in many real-world
 applications and has been extensively studied. While pre-trained foundation

@@ -8,7 +8,7 @@ bibkey: hu2024hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09559"}
   - {name: "Code", url: "https://github.com/HiAgent2024/HiAgent"}
-tags: ['Agentic', 'Security', 'Tools', 'RAG', 'Has Code', 'Prompting']
+tags: ['Agentic', 'Tools', 'RAG', 'Security', 'Has Code', 'Prompting']
 ---
 Large Language Model (LLM)-based agents exhibit significant potential across
 various domains, operating as interactive systems that process environmental

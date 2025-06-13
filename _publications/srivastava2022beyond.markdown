@@ -7,7 +7,7 @@ year: 2022
 bibkey: srivastava2022beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.04615"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 Language models demonstrate both quantitative improvement and new qualitative
 capabilities with increasing scale. Despite their potentially transformative

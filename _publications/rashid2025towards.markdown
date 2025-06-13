@@ -7,7 +7,7 @@ year: 2025
 bibkey: rashid2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04517"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Agentic', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Reward-guided text generation (RGTG) has emerged as a viable alternative to
 offline reinforcement learning from human feedback (RLHF). RGTG methods can

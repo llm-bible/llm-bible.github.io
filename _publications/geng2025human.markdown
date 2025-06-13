@@ -7,7 +7,7 @@ year: 2025
 bibkey: geng2025human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09606"}
-tags: ['Arxiv', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Attention Mechanism']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Arxiv']
 ---
 With a statistical analysis of arXiv paper abstracts, we report a marked drop
 in the frequency of several words previously identified as overused by ChatGPT,

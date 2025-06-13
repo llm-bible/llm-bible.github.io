@@ -8,7 +8,7 @@ bibkey: nie2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02301"}
   - {name: "Code", url: "https://cfinbench.github.io/"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Has Code']
+tags: ['RAG', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) have achieved remarkable performance on various
 NLP tasks, yet their potential in more challenging and domain-specific task,

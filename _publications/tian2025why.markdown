@@ -7,7 +7,7 @@ year: 2025
 bibkey: tian2025why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22720"}
-tags: ['Security', 'Multimodal Models', 'Fairness', 'Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Reinforcement Learning', 'Interpretability', 'Fairness', 'Security', 'Multimodal Models']
 ---
 Representation Engineering (RepE) has emerged as a powerful paradigm for
 enhancing AI transparency by focusing on high-level representations rather than

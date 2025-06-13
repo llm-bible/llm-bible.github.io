@@ -8,7 +8,7 @@ bibkey: sun2023does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.16382"}
   - {name: "Code", url: "https://github.com/albertsun1/gpt3-pii-attacks"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Machine learning practitioners often fine-tune generative pre-trained models
 like GPT-3 to improve model performance at specific tasks. Previous works,

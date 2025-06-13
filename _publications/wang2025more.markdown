@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025more
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02193"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 Aligning large language models (LLMs) with human values is an increasingly
 critical step in post-training. Direct Preference Optimization (DPO) has

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liao2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12854"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 In the domain of complex reasoning tasks, such as mathematical reasoning,
 recent advancements have proposed the use of Direct Preference Optimization

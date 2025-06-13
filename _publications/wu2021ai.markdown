@@ -7,7 +7,7 @@ year: 2021
 bibkey: wu2021ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.01691"}
-tags: ['RAG', 'Ethics and Bias', 'Interpretability', 'Prompting', 'Applications']
+tags: ['Ethics and Bias', 'Applications', 'RAG', 'Interpretability', 'Prompting']
 ---
 Although large language models (LLMs) have demonstrated impressive potential
 on simple tasks, their breadth of scope, lack of transparency, and insufficient

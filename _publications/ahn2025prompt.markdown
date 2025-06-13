@@ -7,7 +7,7 @@ year: 2025
 bibkey: ahn2025prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01282"}
-tags: ['Prompting', 'Language Modeling', 'Applications']
+tags: ['Language Modeling', 'Prompting', 'Applications']
 ---
 While the inconsistency of LLMs is not a novel topic, prior research has
 predominantly addressed two types of generative inconsistencies: i) Randomness

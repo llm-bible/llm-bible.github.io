@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06779"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Our team participated in the BioASQ 2024 Task12b and Synergy tasks to build a
 system that can answer biomedical questions by retrieving relevant articles and

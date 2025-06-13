@@ -7,7 +7,7 @@ year: 2022
 bibkey: kamfonas2022what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.14348"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Performance in natural language processing, and specifically for the
 question-answer task, is typically measured by comparing a model\'s most

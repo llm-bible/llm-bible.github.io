@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024first
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13866"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) like ChatGPT and GPT-4 have demonstrated
 impressive proficiency in comprehending and generating natural language.

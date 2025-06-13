@@ -7,7 +7,7 @@ year: 2023
 bibkey: rakshit2023does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.13748"}
-tags: ['Security', 'Model Architecture', 'RAG', 'GPT', 'BERT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'BERT', 'Prompting']
 ---
 Figurative language is commonplace in natural language, and while making
 communication memorable and creative, can be difficult to understand. In this

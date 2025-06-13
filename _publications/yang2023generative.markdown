@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15649"}
-tags: ['Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'ACL', 'Prompting', 'In-Context Learning', 'INTERSPEECH']
+tags: ['Fine-Tuning', 'INTERSPEECH', 'ACL', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We explore the ability of large language models (LLMs) to act as speech
 recognition post-processors that perform rescoring and error correction. Our

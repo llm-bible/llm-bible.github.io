@@ -7,7 +7,7 @@ year: 2021
 bibkey: mitzalis2021multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.03484"}
-tags: ['Multimodal Models', 'Model Architecture', 'Ethics and Bias', 'BERT', 'Applications']
+tags: ['Applications', 'Ethics and Bias', 'Model Architecture', 'BERT', 'Multimodal Models']
 ---
 We present BERTGEN, a novel generative, decoder-only model which extends BERT
 by fusing multimodal and multilingual pretrained models VL-BERT and M-BERT,

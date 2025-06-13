@@ -7,7 +7,7 @@ year: 2023
 bibkey: charpentier2023bidirectional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09649"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Language Modeling', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 Retrieval-based language models are increasingly employed in
 question-answering tasks. These models search in a corpus of documents for

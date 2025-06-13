@@ -7,7 +7,7 @@ year: 2024
 bibkey: chang2024unraveling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16260"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated remarkable mathematical
 capabilities, largely driven by chain-of-thought (CoT) prompting, which

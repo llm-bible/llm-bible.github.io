@@ -7,7 +7,7 @@ year: 2021
 bibkey: nguyen2021hydra
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.05349"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Attention is all we need as long as we have enough data. Even so, it is
 sometimes not easy to determine how much data is enough while the models are

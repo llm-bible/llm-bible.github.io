@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024look
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17836"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT']
 ---
 This paper proposes a look ahead text understanding problem with look ahead
 section identification (LASI) as an example. This problem may appear in

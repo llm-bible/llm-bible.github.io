@@ -8,7 +8,7 @@ bibkey: chen2019distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03829"}
   - {name: "Code", url: "https://github.com/ChenRocks/Distill-BERT-Textgen"}
-tags: ['Masked Language Model', 'Model Architecture', 'RAG', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Applications', 'SLT']
+tags: ['Transformer', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Has Code', 'Pretraining Methods', 'BERT', 'SLT']
 ---
 Large-scale pre-trained language model such as BERT has achieved great
 success in language understanding tasks. However, it remains an open question

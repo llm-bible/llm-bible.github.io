@@ -7,7 +7,7 @@ year: 2023
 bibkey: tao2023web
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16042"}
-tags: ['Agentic', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 The paper investigates using a Large Language Model (LLM) to automatically
 perform web software tasks using click, scroll, and text input operations.

@@ -7,7 +7,7 @@ year: 2025
 bibkey: cui2025automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18746"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Prompting']
 ---
 Recent advances in Large Language Models have led to remarkable achievements
 across a variety of Natural Language Processing tasks, making prompt

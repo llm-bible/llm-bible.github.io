@@ -8,7 +8,7 @@ bibkey: shukor2024skipping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09454"}
   - {name: "Code", url: "https://github.com/mshukor/ima-lmms"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have demonstrated remarkable success in both
 textual and multimodal domains. However, this success often comes with

@@ -7,7 +7,7 @@ year: 2023
 bibkey: tan2023outperforming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06720"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) such as T0, FLAN, and OPT-IML, excel in
 multi-tasking under a unified instruction-following paradigm, where they also

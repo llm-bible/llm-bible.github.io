@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheng2024dialogues
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03102"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Personalized dialogue systems have gained significant attention in recent
 years for their ability to generate responses in alignment with different

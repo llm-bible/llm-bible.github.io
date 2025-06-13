@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.19926"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent research has focused on examining Large Language Models' (LLMs)
 characteristics from a psychological standpoint, acknowledging the necessity of

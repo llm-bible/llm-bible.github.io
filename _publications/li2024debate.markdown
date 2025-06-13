@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024debate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19485"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have achieved a degree of success in generating
 coherent and contextually relevant text, yet they remain prone to a significant

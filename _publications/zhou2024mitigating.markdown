@@ -8,7 +8,7 @@ bibkey: zhou2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04780"}
   - {name: "Code", url: "https://github.com/The-Martyr/CausalMM"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have emerged as a central focus in
 both industry and academia, but often suffer from biases introduced by visual

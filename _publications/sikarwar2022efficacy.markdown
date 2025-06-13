@@ -7,7 +7,7 @@ year: 2022
 bibkey: sikarwar2022efficacy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.03965"}
-tags: ['Multimodal Models', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 In recent years, multi-modal transformers have shown significant progress in
 Vision-Language tasks, such as Visual Question Answering (VQA), outperforming

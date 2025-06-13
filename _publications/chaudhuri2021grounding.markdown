@@ -7,7 +7,7 @@ year: 2021
 bibkey: chaudhuri2021grounding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.16289"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Generating knowledge grounded responses in both goal and non-goal oriented
 dialogue systems is an important research challenge. Knowledge Graphs (KG) can

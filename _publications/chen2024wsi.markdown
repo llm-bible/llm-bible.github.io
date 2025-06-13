@@ -8,7 +8,7 @@ bibkey: chen2024wsi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05603"}
   - {name: "Code", url: "https://github.com/cpystan/WSI-VQA"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Has Code', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Whole slide imaging is routinely adopted for carcinoma diagnosis and
 prognosis. Abundant experience is required for pathologists to achieve accurate

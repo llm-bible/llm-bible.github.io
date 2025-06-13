@@ -7,7 +7,7 @@ year: 2024
 bibkey: shao2024extensible
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11577"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques']
 ---
 Large language models (LLMs) call for extension of context to handle many
 critical applications. However, the existing approaches are prone to expensive

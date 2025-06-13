@@ -8,7 +8,7 @@ bibkey: liao2024decomposed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17262"}
   - {name: "Code", url: "https://github.com/codefuse-ai/D2LLM"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'BERT', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'BERT']
 ---
 The key challenge in semantic search is to create models that are both
 accurate and efficient in pinpointing relevant sentences for queries. While

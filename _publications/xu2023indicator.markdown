@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023indicator
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.15273"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 In the field of machine reading comprehension (MRC), existing systems have
 surpassed the average performance of human beings in many tasks like SQuAD.

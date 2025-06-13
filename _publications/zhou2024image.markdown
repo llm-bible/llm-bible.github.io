@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024image
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13872"}
-tags: ['Prompting', 'Multimodal Models', 'Interpretability and Explainability', 'Reinforcement Learning']
+tags: ['Interpretability and Explainability', 'Multimodal Models', 'Prompting', 'Reinforcement Learning']
 ---
 Recent advancements in Chain-of-Thought (CoT) and related rationale-based
 works have significantly improved the performance of Large Language Models

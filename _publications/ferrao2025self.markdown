@@ -8,7 +8,7 @@ bibkey: ferrao2025self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00509"}
   - {name: "Code", url: "https://github.com/keenanpepper/self-ablating-transformers"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 A growing intuition in machine learning suggests a link between sparsity and
 interpretability. We introduce a novel self-ablation mechanism to investigate

@@ -7,7 +7,7 @@ year: 2023
 bibkey: tian2023just
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14975"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pre-Training']
+tags: ['Pre-Training', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 A trustworthy real-world prediction system should produce well-calibrated
 confidence scores; that is, its confidence in an answer should be indicative of

@@ -7,7 +7,7 @@ year: 2019
 bibkey: clinchant2019use
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.12744"}
-tags: ['Security', 'Training Techniques', 'WMT', 'Model Architecture', 'BERT', 'Applications', 'SLT']
+tags: ['Applications', 'Model Architecture', 'WMT', 'Security', 'Training Techniques', 'BERT', 'SLT']
 ---
 Exploiting large pretrained models for various NMT tasks have gained a lot of
 visibility recently. In this work we study how BERT pretrained models could be

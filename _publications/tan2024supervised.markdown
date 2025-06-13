@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024supervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16562"}
-tags: ['Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 The recent advancements in text-to-image generative models have been
 remarkable. Yet, the field suffers from a lack of evaluation metrics that

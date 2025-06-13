@@ -7,7 +7,7 @@ year: 2025
 bibkey: delangis2025framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02789"}
-tags: ['Prompting', 'Security', 'Tools', 'Reinforcement Learning']
+tags: ['Security', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Emergent cognitive abilities in large language models (LLMs) have been widely
 observed, but their nature and underlying mechanisms remain poorly understood.

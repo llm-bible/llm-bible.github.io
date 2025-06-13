@@ -7,7 +7,7 @@ year: 2025
 bibkey: shah2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00042"}
-tags: ['Prompting', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Large Language Models (LLMs) are frequently utilized as sources of knowledge
 for question-answering. While it is known that LLMs may lack access to

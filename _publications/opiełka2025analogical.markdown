@@ -7,7 +7,7 @@ year: 2025
 bibkey: opiełka2025analogical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03666"}
-tags: ['Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Analogical reasoning relies on conceptual abstractions, but it is unclear
 whether Large Language Models (LLMs) harbor such internal representations. We

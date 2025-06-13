@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhang2021domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08414"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 We propose a novel domain-specific generative pre-training (DS-GPT) method
 for text generation and apply it to the product titleand review summarization

@@ -7,7 +7,7 @@ year: 2024
 bibkey: verma2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02538"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Evaluating Large Language Models (LLMs) in low-resource and linguistically
 diverse languages remains a significant challenge in NLP, particularly for

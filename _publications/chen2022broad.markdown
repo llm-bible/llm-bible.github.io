@@ -7,7 +7,7 @@ year: 2022
 bibkey: chen2022broad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.06283"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 In the age of large transformer language models, linguistic evaluation play
 an important role in diagnosing models' abilities and limitations on natural

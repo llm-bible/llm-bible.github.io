@@ -8,7 +8,7 @@ bibkey: xing2025scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06663"}
   - {name: "Code", url: "https://github.com/Xingrun-Xing2/EfficientLLM"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'GPT', 'Pruning', 'Pretraining Methods', 'Large-Scale Training', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Scaling Laws']
 ---
 Modern large language models (LLMs) driven by scaling laws, achieve
 intelligence emergency in large model sizes. Recently, the increasing concerns

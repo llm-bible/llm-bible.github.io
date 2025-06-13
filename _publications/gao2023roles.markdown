@@ -7,7 +7,7 @@ year: 2023
 bibkey: gao2023roles
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19084"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent large language models (LLMs) have revealed strong abilities to
 understand natural language. Since most of them share the same basic structure,

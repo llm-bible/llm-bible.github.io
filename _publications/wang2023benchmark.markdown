@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.04441"}
-tags: ['Prompting', 'In-Context Learning', 'Agentic', 'Few-Shot']
+tags: ['Few-Shot', 'Agentic', 'Prompting', 'In-Context Learning']
 ---
 Various human activities can be abstracted into a sequence of actions in
 natural text, i.e. cooking, repairing, manufacturing, etc. Such action

@@ -7,7 +7,7 @@ year: 2019
 bibkey: pei2019modular
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.05346"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Attention Mechanism']
 ---
 End-to-end Task-oriented Dialogue Systems (TDSs) have attracted a lot of
 attention for their superiority (e.g., in terms of global optimization) over

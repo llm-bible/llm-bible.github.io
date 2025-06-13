@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024synth
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21669"}
-tags: ['Security', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Security', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 In recent years, with the rapid advancements in large language models (LLMs),
 achieving excellent empathetic response capabilities has become a crucial

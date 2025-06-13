@@ -7,7 +7,7 @@ year: 2019
 bibkey: kim2019when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.00294"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Document-level context has received lots of attention for compensating neural
 machine translation (NMT) of isolated sentences. However, recent advances in

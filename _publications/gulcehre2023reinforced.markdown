@@ -7,7 +7,7 @@ year: 2023
 bibkey: gulcehre2023reinforced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08998"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Agentic', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 Reinforcement learning from human feedback (RLHF) can improve the quality of
 large language model's (LLM) outputs by aligning them with human preferences.

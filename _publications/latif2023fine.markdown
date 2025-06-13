@@ -7,7 +7,7 @@ year: 2023
 bibkey: latif2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10072"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 This study highlights the potential of fine-tuned ChatGPT (GPT-3.5) for
 automatically scoring student written constructed responses using example

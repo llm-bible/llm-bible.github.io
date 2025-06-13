@@ -7,7 +7,7 @@ year: 2021
 bibkey: korbak2021controlling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.00791"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Machine learning is shifting towards general-purpose pretrained generative
 models, trained in a self-supervised manner on large amounts of data, which can

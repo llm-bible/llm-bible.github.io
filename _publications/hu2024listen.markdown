@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024listen
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10025"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'INTERSPEECH']
+tags: ['GPT', 'INTERSPEECH', 'Multimodal Models', 'Model Architecture']
 ---
 Recent advances in large language models (LLMs) have promoted generative
 error correction (GER) for automatic speech recognition (ASR), which aims to

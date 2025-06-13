@@ -8,7 +8,7 @@ bibkey: zhang2023making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06671"}
   - {name: "Code", url: "https://github.com/zjukg/KoPA"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Pre-Training', 'Applications', 'In-Context Learning']
+tags: ['Pre-Training', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Large language model (LLM) based knowledge graph completion (KGC) aims to
 predict the missing triples in the KGs with LLMs. However, research about

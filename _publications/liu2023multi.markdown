@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.11256"}
-tags: ['Model Architecture', 'GPT', 'ACL', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'ACL', 'Prompting']
 ---
 Automatic summarization with pre-trained language models has led to
 impressively fluent results, but is prone to 'hallucinations', low performance

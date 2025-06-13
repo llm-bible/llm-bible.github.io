@@ -7,7 +7,7 @@ year: 2025
 bibkey: xiang2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04682"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Agentic', 'Tools', 'Reinforcement Learning']
 ---
 We propose a novel framework, Meta Chain-of-Thought (Meta-CoT), which extends
 traditional Chain-of-Thought (CoT) by explicitly modeling the underlying

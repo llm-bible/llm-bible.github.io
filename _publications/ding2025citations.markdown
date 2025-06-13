@@ -7,7 +7,7 @@ year: 2025
 bibkey: ding2025citations
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01303"}
-tags: ['Applications', 'Tools']
+tags: ['Tools', 'Applications']
 ---
 Question answering systems are rapidly advancing, but their opaque nature may
 impact user trust. We explored trust through an anti-monitoring framework,

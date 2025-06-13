@@ -8,7 +8,7 @@ bibkey: duan2024evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19471"}
   - {name: "Code", url: "https://github.com/TreeThree-R/Meta-Rank"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Has Code', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Tools', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Attribution-based explanations are garnering increasing attention recently
 and have emerged as the predominant approach towards \textit\{eXplanable

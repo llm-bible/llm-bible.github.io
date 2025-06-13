@@ -7,7 +7,7 @@ year: 2025
 bibkey: eaglewood2025structural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05794"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Symbolic perturbations offer a novel approach for influencing neural
 representations without requiring direct modification of model parameters. The

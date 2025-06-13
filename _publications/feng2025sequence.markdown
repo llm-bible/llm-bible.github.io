@@ -7,7 +7,7 @@ year: 2025
 bibkey: feng2025sequence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16433"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Efficiency and Optimization']
+tags: ['Applications', 'Training Techniques', 'Efficiency and Optimization', 'Language Modeling']
 ---
 The next token prediction loss is the dominant self-supervised training
 objective for large language models and has achieved promising results in a

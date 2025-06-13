@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024logit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10074"}
-tags: ['Efficiency and Optimization', 'Tools', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Prompting', 'In-Context Learning']
 ---
 In-Context Learning (ICL) emerges as a key feature for Large Language Models
 (LLMs), allowing them to adapt to new tasks by leveraging task-specific

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024fusion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06512"}
-tags: ['Agentic', 'Security', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Merging', 'Security']
 ---
 Large Language Models (LLMs) have emerged as a transformative AI paradigm,
 profoundly influencing daily life through their exceptional language

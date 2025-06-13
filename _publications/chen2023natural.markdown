@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.08817"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Machine reading comprehension (MRC) is an important area of conversation
 agents and draws a lot of attention. However, there is a notable limitation to

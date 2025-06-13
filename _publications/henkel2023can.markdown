@@ -7,7 +7,7 @@ year: 2023
 bibkey: henkel2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18373"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 Open-ended questions, which require students to produce multi-word,
 nontrivial responses, are a popular tool for formative assessment as they

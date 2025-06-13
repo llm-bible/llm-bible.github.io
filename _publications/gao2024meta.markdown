@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11698"}
-tags: ['Efficiency and Optimization', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Prompting', 'In-Context Learning']
 ---
 We introduce Meta-Reasoning Prompting (MRP), a novel and efficient system
 prompting method for large language models (LLMs) inspired by human

@@ -7,7 +7,7 @@ year: 2021
 bibkey: sukhbaatar2021not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.06548"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Attention mechanisms have shown promising results in sequence modeling tasks
 that require long-term memory. Recent work investigated mechanisms to reduce

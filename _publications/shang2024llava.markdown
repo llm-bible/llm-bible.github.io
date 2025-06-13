@@ -8,7 +8,7 @@ bibkey: shang2024llava
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15388"}
   - {name: "Code", url: "https://llava-prumerge.github.io/"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Multimodal Models (LMMs) have shown significant visual reasoning
 capabilities by connecting a visual encoder and a large language model. LMMs

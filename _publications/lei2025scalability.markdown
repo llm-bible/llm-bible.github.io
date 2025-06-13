@@ -8,7 +8,7 @@ bibkey: lei2025scalability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10462"}
   - {name: "Code", url: "https://github.com/bytedance/SAIL"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 This paper introduces SAIL, a single transformer unified multimodal large
 language model (MLLM) that integrates raw pixel encoding and language decoding

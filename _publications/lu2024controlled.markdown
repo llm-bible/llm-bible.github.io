@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024controlled
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16801"}
-tags: ['Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques']
 ---
 Large language models (LLMs) exhibit remarkable capabilities in natural
 language processing but face catastrophic forgetting when learning new tasks,

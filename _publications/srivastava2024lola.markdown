@@ -7,7 +7,7 @@ year: 2024
 bibkey: srivastava2024lola
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11272"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper presents LOLA, a massively multilingual large language model
 trained on more than 160 languages using a sparse Mixture-of-Experts

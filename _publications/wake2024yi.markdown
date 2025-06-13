@@ -8,7 +8,7 @@ bibkey: wake2024yi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01253"}
   - {name: "Code", url: "https://platform.lingyiwanwu.com"}
-tags: ['Responsible AI', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 This technical report presents Yi-Lightning, our latest flagship large
 language model (LLM). It achieves exceptional performance, ranking 6th overall

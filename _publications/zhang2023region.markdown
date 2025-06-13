@@ -8,7 +8,7 @@ bibkey: zhang2023region
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.10428"}
   - {name: "Code", url: "https://github.com/LUNAProject22/RPA"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Visual abductive reasoning aims to make likely explanations for visual
 observations. We propose a simple yet effective Region Conditioned Adaptation,

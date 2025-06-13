@@ -7,7 +7,7 @@ year: 2023
 bibkey: kuzman2023beginning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.03953"}
-tags: ['Prompting', 'BERT', 'Model Architecture', 'GPT']
+tags: ['BERT', 'GPT', 'Prompting', 'Model Architecture']
 ---
 ChatGPT has shown strong capabilities in natural language generation tasks,
 which naturally leads researchers to explore where its abilities end. In this

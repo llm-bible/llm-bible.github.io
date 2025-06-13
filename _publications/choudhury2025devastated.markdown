@@ -7,7 +7,7 @@ year: 2025
 bibkey: choudhury2025devastated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11881"}
-tags: ['Language Modeling', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture']
 ---
 In controlled text generation using large language models (LLMs), gaps arise
 between the language model's interpretation and human expectations. We look at

@@ -7,7 +7,7 @@ year: 2023
 bibkey: karn2023shs
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.03264"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Instruction-tuned generative Large language models (LLMs) like ChatGPT and
 Bloomz possess excellent generalization abilities, but they face limitations in

@@ -7,7 +7,7 @@ year: 2024
 bibkey: pitorro2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05489"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers are the current architecture of choice for NLP, but their
 attention layers do not scale well to long contexts. Recent works propose to

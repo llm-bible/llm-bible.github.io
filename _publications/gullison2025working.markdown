@@ -7,7 +7,7 @@ year: 2025
 bibkey: gullison2025working
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09857"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Survey Paper']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Vaccine hesitancy and misinformation are significant barriers to achieving
 widespread vaccination coverage. Smaller public health departments may lack the

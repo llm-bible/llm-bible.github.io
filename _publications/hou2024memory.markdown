@@ -7,7 +7,7 @@ year: 2024
 bibkey: hou2024memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.10937"}
-tags: ['Security', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Merging', 'Security', 'Multimodal Models']
 ---
 Comprehensively understanding surgical scenes in Surgical Visual Question
 Answering (Surgical VQA) requires reasoning over multiple objects. Previous

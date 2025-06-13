@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhutian2024sketch
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03998"}
-tags: ['Prompting', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Crafting effective prompts for code generation or editing with Large Language
 Models (LLMs) is not an easy task. Particularly, the absence of immediate,

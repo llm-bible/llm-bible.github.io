@@ -7,7 +7,7 @@ year: 2025
 bibkey: mondal2025language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17456"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Multilingual large language models (LLMs) aim towards robust natural language
 understanding across diverse languages, yet their performance significantly

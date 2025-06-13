@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.08914"}
   - {name: "Code", url: "https://github.com/THUDM/CogVLM,"}
   - {name: "Code", url: "https://github.com/THUDM/CogAgent"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 People are spending an enormous amount of time on digital devices through
 graphical user interfaces (GUIs), e.g., computer or smartphone screens. Large

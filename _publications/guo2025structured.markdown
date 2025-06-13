@@ -7,7 +7,7 @@ year: 2025
 bibkey: guo2025structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03194"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Medical question-answering (QA) is a critical task for evaluating how
 effectively large language models (LLMs) encode clinical knowledge and

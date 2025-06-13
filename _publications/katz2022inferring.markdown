@@ -7,7 +7,7 @@ year: 2022
 bibkey: katz2022inferring
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2204.13778v2"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 A prominent challenge for modern language understanding systems is the
 ability to answer implicit reasoning questions, where the required reasoning

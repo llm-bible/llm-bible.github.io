@@ -7,7 +7,7 @@ year: 2021
 bibkey: yoo2021leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.08826"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Large-scale language models such as GPT-3 are excellent few-shot learners,
 allowing them to be controlled via natural text prompts. Recent studies report

@@ -7,7 +7,7 @@ year: 2024
 bibkey: bajpai2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08090"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The unwavering disparity in labeled resources between resource-rich languages
 and those considered low-resource remains a significant impediment for Large

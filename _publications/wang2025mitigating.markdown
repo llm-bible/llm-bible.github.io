@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00717"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Hallucination has been a long-standing and inevitable problem that hinders
 the application of Large Vision-Language Models (LVLMs) in domains that require

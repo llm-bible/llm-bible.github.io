@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024recoverable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01179"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'RAG', 'Language Modeling', 'Merging', 'Pruning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Model Architecture', 'Pruning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 With the advancement of large-scale language modeling techniques, large
 multimodal models combining visual encoders with large language models have

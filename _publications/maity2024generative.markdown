@@ -7,7 +7,7 @@ year: 2024
 bibkey: maity2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10650"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Generative Artificial Intelligence (AI) is revolutionizing educational
 technology by enabling highly personalized and adaptive learning environments

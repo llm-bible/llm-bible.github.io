@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023huatuogpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09774"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Adapting a language model into a specific domain, a.k.a `domain adaption', is
 a common practice when specialized knowledge, e.g. medicine, is not

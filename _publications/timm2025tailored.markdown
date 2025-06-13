@@ -7,7 +7,7 @@ year: 2025
 bibkey: timm2025tailored
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17273"}
-tags: ['RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) are becoming increasingly persuasive,
 demonstrating the ability to personalize arguments in conversation with humans

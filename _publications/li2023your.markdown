@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023your
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.07124"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) often demonstrate inconsistencies with human
 preferences. Previous research typically gathered human preference data and

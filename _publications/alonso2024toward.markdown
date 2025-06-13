@@ -7,7 +7,7 @@ year: 2024
 bibkey: alonso2024toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00057"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 There has recently been growing interest in conversational agents with
 long-term memory which has led to the rapid development of language models that

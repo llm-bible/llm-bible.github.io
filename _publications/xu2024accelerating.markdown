@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02423"}
-tags: ['Arxiv', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'RAG', 'GPT']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Arxiv']
 ---
 Data Parallelism (DP), Tensor Parallelism (TP), and Pipeline Parallelism (PP)
 are the three strategies widely adopted to enable fast and efficient Large

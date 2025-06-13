@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024llava
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13871"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision transformers (ViTs) are widely employed in multimodal large language
 models (MLLMs) for visual encoding. However, they exhibit inferior performance

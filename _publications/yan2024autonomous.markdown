@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024autonomous
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2409.13612v1"}
-tags: ['Multimodal Models', 'Tools']
+tags: ['Tools', 'Multimodal Models']
 ---
 The rapid development of Large Vision-Language Models (LVLMs) often comes
 with widespread hallucination issues, making cost-effective and comprehensive

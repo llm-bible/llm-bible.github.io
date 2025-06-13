@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhang2021adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.04962"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers have improved the state-of-the-art across numerous tasks in
 sequence modeling. Besides the quadratic computational and memory complexity

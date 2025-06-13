@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023weighted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.14225"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Masked Language Modeling (MLM) is widely used to pretrain language models.
 The standard random masking strategy in MLM causes the pre-trained language

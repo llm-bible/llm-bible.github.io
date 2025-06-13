@@ -7,7 +7,7 @@ year: 2024
 bibkey: lou2024mars
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19039"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Mathematical reasoning is a fundamental capability for large language models
 (LLMs), yet achieving high performance in this domain remains a significant

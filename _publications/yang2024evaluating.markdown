@@ -8,7 +8,7 @@ bibkey: yang2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05210"}
   - {name: "Code", url: "https://codearenaeval.github.io/"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Code large language models (codeLLMs) have made significant strides in code
 generation. Most previous code-related benchmarks, which consist of various

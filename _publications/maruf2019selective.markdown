@@ -7,7 +7,7 @@ year: 2019
 bibkey: maruf2019selective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1903.08788"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Despite the progress made in sentence-level NMT, current systems still fall
 short at achieving fluent, good quality translation for a full document. Recent

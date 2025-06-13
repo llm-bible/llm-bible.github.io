@@ -8,7 +8,7 @@ bibkey: zhang2024extending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19553"}
   - {name: "Code", url: "https://github.com/FlagOpen/FlagEmbedding"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We extend the context length of Llama-3-8B-Instruct from 8K to 80K via QLoRA
 fine-tuning. The entire training cycle is super efficient, which takes 8 hours

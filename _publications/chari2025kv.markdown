@@ -7,7 +7,7 @@ year: 2025
 bibkey: chari2025kv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.10337"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Sequence-to-sequence tasks often benefit from long contexts, but the
 quadratic complexity of self-attention in standard Transformers renders this

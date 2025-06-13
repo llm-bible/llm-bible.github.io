@@ -7,7 +7,7 @@ year: 2023
 bibkey: falk2023nap
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.14179"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Persuasion techniques detection in news in a multi-lingual setup is
 non-trivial and comes with challenges, including little training data. Our

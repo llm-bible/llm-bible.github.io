@@ -7,7 +7,7 @@ year: 2023
 bibkey: kacham2023fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01655"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pruning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The quadratic time and memory complexity inherent to self-attention
 mechanisms, with respect to sequence length, presents a critical computational

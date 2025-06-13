@@ -7,7 +7,7 @@ year: 2018
 bibkey: yu2018combining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1804.09541"}
-tags: ['Training Techniques', 'Model Architecture', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Current end-to-end machine reading and question answering (Q\&A) models are
 primarily based on recurrent neural networks (RNNs) with attention. Despite

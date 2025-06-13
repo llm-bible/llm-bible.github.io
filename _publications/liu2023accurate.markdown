@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023accurate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08041"}
-tags: ['Quantization', 'RAG', 'Training Techniques', 'Efficiency and Optimization']
+tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Quantization']
 ---
 Large Language Models (LLMs) excel in NLP, but their demands hinder their
 widespread deployment. While Quantization-Aware Training (QAT) offers a

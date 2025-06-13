@@ -7,7 +7,7 @@ year: 2024
 bibkey: khan2024blueprint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06350"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Despite the considerable advancements in English LLMs, the progress in
 building comparable models for other languages has been hindered due to the

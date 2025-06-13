@@ -7,7 +7,7 @@ year: 2024
 bibkey: chelombitko2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12989"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Tokenization', 'RAG', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Attention Mechanism']
 ---
 In the development of Large Language Models (LLMs), considerable attention
 has been given to the quality of training datasets. However, the role of

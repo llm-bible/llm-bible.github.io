@@ -8,7 +8,7 @@ bibkey: ren2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04214"}
   - {name: "Code", url: "https://github.com/Value4AI/ValueBench"}
-tags: ['Applications', 'Has Code']
+tags: ['Has Code', 'Applications']
 ---
 Large Language Models (LLMs) are transforming diverse fields and gaining
 increasing influence as human proxies. This development underscores the urgent

@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.14003"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 With adversarial or otherwise normal prompts, existing large language models
 (LLM) can be pushed to generate toxic discourses. One way to reduce the risk of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024mia
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08661"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 The increasing parameters and expansive dataset of large language models
 (LLMs) highlight the urgent demand for a technical solution to audit the

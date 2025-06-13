@@ -7,7 +7,7 @@ year: 2024
 bibkey: ghaboura2024camel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18976"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Recent years have witnessed a significant interest in developing large
 multimodal models (LMMs) capable of performing various visual reasoning and

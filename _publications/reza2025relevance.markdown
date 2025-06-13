@@ -7,7 +7,7 @@ year: 2025
 bibkey: reza2025relevance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05491"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Integrating vision models into large language models (LLMs) has sparked
 significant interest in creating vision-language foundation models, especially

@@ -7,7 +7,7 @@ year: 2023
 bibkey: feng2023boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12273"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 Albeit progress has been made in Composed Image Retrieval (CIR), we
 empirically find that a certain percentage of failure retrieval results are not

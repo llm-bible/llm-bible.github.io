@@ -7,7 +7,7 @@ year: 2024
 bibkey: vaid2024natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.02851"}
-tags: ['Agentic', 'Agent', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Agent', 'Prompting']
 ---
 Generative Large Language Models (LLMs) hold significant promise in
 healthcare, demonstrating capabilities such as passing medical licensing exams

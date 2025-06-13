@@ -7,7 +7,7 @@ year: 2024
 bibkey: feng2024maximize
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15285"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques']
+tags: ['RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Pretraining large language models effectively requires strategic data
 selection, blending and ordering. However, key details about data mixtures

@@ -8,7 +8,7 @@ bibkey: wang2023document
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.02210"}
   - {name: "Code", url: "https://github.com/longyuewangdcu/Document-MT-LLM"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) such as ChatGPT can produce coherent, cohesive,
 relevant, and fluent answers for various natural language processing (NLP)

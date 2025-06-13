@@ -8,7 +8,7 @@ bibkey: ren2022language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.12582"}
   - {name: "Code", url: "https://github.com/renll/SparseLT"}
-tags: ['Has Code', 'Training Techniques', 'Pre-Training', 'Few-Shot']
+tags: ['Training Techniques', 'Few-Shot', 'Pre-Training', 'Has Code']
 ---
 Modern large-scale Pre-trained Language Models (PLMs) have achieved
 tremendous success on a wide range of downstream tasks. However, most of the LM

@@ -7,7 +7,7 @@ year: 2025
 bibkey: haase2025has
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12320"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Following the widespread adoption of ChatGPT in early 2023, numerous studies
 reported that large language models (LLMs) can match or even surpass human

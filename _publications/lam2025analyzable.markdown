@@ -7,7 +7,7 @@ year: 2025
 bibkey: lam2025analyzable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19611"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['GPT', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Autoregressive (AR) models have demonstrated impressive capabilities in
 generating high-fidelity music. However, the conventional next-token prediction

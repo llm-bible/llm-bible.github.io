@@ -7,7 +7,7 @@ year: 2025
 bibkey: niu2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20624"}
-tags: ['Prompting', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Social chatbots have become essential intelligent companions in daily
 scenarios ranging from emotional support to personal interaction. However,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: dong2024insight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14432"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Prompting']
+tags: ['Agentic', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Large Language Models (LLMs) demonstrate enhanced capabilities and
 reliability by reasoning more, evolving from Chain-of-Thought prompting to

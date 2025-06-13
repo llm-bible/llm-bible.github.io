@@ -8,7 +8,7 @@ bibkey: yang2024math
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07240"}
   - {name: "Code", url: "https://github.com/UTMathGroup/UTMath"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 The evaluation of mathematical reasoning capabilities is essential for
 advancing Artificial General Intelligence (AGI). While Large Language Models

@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07550"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 various tasks, yet still produce errors in domain-specific tasks. To further

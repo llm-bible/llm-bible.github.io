@@ -7,7 +7,7 @@ year: 2024
 bibkey: tao2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17807"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have unlocked the
 potential for generating high-quality game commentary. However, producing

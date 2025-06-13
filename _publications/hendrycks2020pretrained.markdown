@@ -7,7 +7,7 @@ year: 2020
 bibkey: hendrycks2020pretrained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.06100"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Although pretrained Transformers such as BERT achieve high accuracy on
 in-distribution examples, do they generalize to new distributions? We

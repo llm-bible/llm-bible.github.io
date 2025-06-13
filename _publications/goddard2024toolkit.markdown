@@ -8,7 +8,7 @@ bibkey: goddard2024toolkit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13257"}
   - {name: "Code", url: "https://github.com/arcee-ai/MergeKit"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The rapid expansion of the open-source language model landscape presents an
 opportunity to merge the competencies of these model checkpoints by combining

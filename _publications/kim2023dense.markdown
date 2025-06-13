@@ -7,7 +7,7 @@ year: 2023
 bibkey: kim2023dense
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12964"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Existing text-to-image diffusion models struggle to synthesize realistic
 images given dense captions, where each text prompt provides a detailed

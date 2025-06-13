@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024empirical
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2408.00724v1"}
-tags: ['Efficiency and Optimization', 'Training Techniques']
+tags: ['Training Techniques', 'Efficiency and Optimization']
 ---
 The optimal training configurations of large language models (LLMs) with
 respect to model sizes and compute budgets have been extensively studied. But

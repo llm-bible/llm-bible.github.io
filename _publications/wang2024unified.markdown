@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03439"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 As large language models (LLMs) advance, their inability to autonomously
 execute tasks by directly interacting with external tools remains a critical

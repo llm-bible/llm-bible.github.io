@@ -7,7 +7,7 @@ year: 2025
 bibkey: tang2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13107"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Understanding and predicting the properties of inorganic materials is crucial
 for accelerating advancements in materials science and driving applications in

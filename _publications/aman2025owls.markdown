@@ -7,7 +7,7 @@ year: 2025
 bibkey: aman2025owls
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12433"}
-tags: ['Prompting', 'Ethics and Bias', 'Multimodal Models']
+tags: ['Multimodal Models', 'Prompting', 'Ethics and Bias']
 ---
 Animal stereotypes are deeply embedded in human culture and language. They
 often shape our perceptions and expectations of various species. Our study

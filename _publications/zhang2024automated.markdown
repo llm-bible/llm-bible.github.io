@@ -8,7 +8,7 @@ bibkey: zhang2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11165"}
   - {name: "Code", url: "https://github.com/takomc/amp"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Current multimodal Large Language Models (MLLMs) suffer from
 ``hallucination'', occasionally generating responses that are not grounded in

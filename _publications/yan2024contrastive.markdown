@@ -8,7 +8,7 @@ bibkey: yan2024contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11138"}
   - {name: "Code", url: "https://github.com/luka-group/CoIN"}
-tags: ['Prompting', 'Security', 'Has Code', 'RAG']
+tags: ['Has Code', 'RAG', 'Security', 'Prompting']
 ---
 Instruction tuning has been used as a promising approach to improve the
 performance of large language models (LLMs) on unseen tasks. However, current

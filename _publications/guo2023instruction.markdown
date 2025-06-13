@@ -7,7 +7,7 @@ year: 2023
 bibkey: guo2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15692"}
-tags: ['Training Techniques', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The fine-tuning of Large Language Models (LLMs) specialized in code
 generation has seen notable advancements through the use of open-domain coding

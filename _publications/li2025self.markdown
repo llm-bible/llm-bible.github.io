@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04625"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large reasoning models (LRMs) like OpenAI-o1 and DeepSeek-R1 have
 demonstrated remarkable capabilities in complex reasoning tasks through the

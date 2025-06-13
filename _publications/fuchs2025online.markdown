@@ -8,7 +8,7 @@ bibkey: fuchs2025online
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04352"}
   - {name: "Code", url: "https://github.com/cfuchs2023/OGA"}
-tags: ['Multimodal Models', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Multimodal Models']
 ---
 Online test-time adaptation (OTTA) of vision-language models (VLMs) has
 recently garnered increased attention to take advantage of data observed along

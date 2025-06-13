@@ -8,7 +8,7 @@ bibkey: luo2025survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04306"}
   - {name: "Code", url: "https://github.com/du-nlp-lab/LLM4SR"}
-tags: ['Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Tools', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 In recent years, the rapid advancement of Large Language Models (LLMs) has
 transformed the landscape of scientific research, offering unprecedented

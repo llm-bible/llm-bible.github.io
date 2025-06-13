@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12470"}
-tags: ['Security', 'Training Techniques', 'Tools', 'TACL', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'ACL', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'TACL', 'ACL', 'Security', 'RecSys', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The integration of Large Language Models (LLMs) into recommender systems has
 led to substantial performance improvements. However, this often comes at the

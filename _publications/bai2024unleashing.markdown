@@ -8,7 +8,7 @@ bibkey: bai2024unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.07055"}
   - {name: "Code", url: "https://github.com/THUDM/LongWriter"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Current long context large language models (LLMs) can process inputs up to
 100,000 tokens, yet struggle to generate outputs exceeding even a modest length

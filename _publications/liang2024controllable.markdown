@@ -8,7 +8,7 @@ bibkey: liang2024controllable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12599"}
   - {name: "Code", url: "https://github.com/IAAR-Shanghai/CTGSurvey"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Survey Paper', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 In Natural Language Processing (NLP), Large Language Models (LLMs) have
 demonstrated high text generation quality. However, in real-world applications,

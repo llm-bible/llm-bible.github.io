@@ -7,7 +7,7 @@ year: 2023
 bibkey: mueller2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07811"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) is now a common method for teaching large language
 models (LLMs) new tasks: given labeled examples in the input context, the LLM

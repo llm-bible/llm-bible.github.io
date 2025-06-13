@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024verb
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04939"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have garnered significant attention
 recently and demonstrate outstanding capabilities in various tasks such as OCR,

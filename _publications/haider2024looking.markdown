@@ -7,7 +7,7 @@ year: 2024
 bibkey: haider2024looking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04868"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Language Models (LMs) have shown their application for tasks pertinent to
 code and several code~LMs have been proposed recently. The majority of the

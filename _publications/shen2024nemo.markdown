@@ -8,7 +8,7 @@ bibkey: shen2024nemo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01481"}
   - {name: "Code", url: "https://github.com/NVIDIA/NeMo-Aligner"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Aligning Large Language Models (LLMs) with human values and preferences is
 essential for making them helpful and safe. However, building efficient tools

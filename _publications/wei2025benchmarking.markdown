@@ -7,7 +7,7 @@ year: 2025
 bibkey: wei2025benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23145"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'ACL']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods']
 ---
 Inductive program synthesis, or programming by example, requires synthesizing
 functions from input-output examples that generalize to unseen inputs. While

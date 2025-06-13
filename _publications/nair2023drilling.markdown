@@ -7,7 +7,7 @@ year: 2023
 bibkey: nair2023drilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13565"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 We address the task of evidence retrieval for long document question
 answering, which involves locating relevant paragraphs within a document to

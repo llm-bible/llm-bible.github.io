@@ -7,7 +7,7 @@ year: 2023
 bibkey: nguyen2023when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.07230"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have significantly advanced the field of natural
 language processing, with GPT models at the forefront. While their remarkable

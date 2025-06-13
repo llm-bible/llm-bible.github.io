@@ -7,7 +7,7 @@ year: 2024
 bibkey: acikgoz2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16621"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'TACL', 'RAG', 'Fine-Tuning', 'ACL', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Tools', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL', 'Training Techniques']
 ---
 The integration of Large Language Models (LLMs) into healthcare promises to
 transform medical diagnostics, research, and patient care. Yet, the progression

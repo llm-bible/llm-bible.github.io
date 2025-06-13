@@ -7,7 +7,7 @@ year: 2024
 bibkey: yi2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15202"}
-tags: ['Prompting', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Impressive results have been achieved in natural language processing (NLP)
 tasks through the training of large language models (LLMs). However, these

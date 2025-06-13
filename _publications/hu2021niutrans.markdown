@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.08008"}
   - {name: "Code", url: "https://github.com/NiuTrans/NiuTensor),"}
   - {name: "Code", url: "https://github.com/NiuTrans/NiuTrans.NMT)"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Pruning', 'Quantization', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Quantization', 'Distillation']
 ---
 This paper describes the submissions of the NiuTrans Team to the WNGT 2020
 Efficiency Shared Task. We focus on the efficient implementation of deep

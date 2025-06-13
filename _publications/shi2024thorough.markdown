@@ -7,7 +7,7 @@ year: 2024
 bibkey: shi2024thorough
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06925"}
-tags: ['Quantization', 'Security', 'Efficiency and Optimization']
+tags: ['Security', 'Efficiency and Optimization', 'Quantization']
 ---
 Decoding methods play an indispensable role in converting language models
 from next-token predictors into practical task solvers. Prior research on

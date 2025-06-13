@@ -8,7 +8,7 @@ bibkey: zhao2023harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12746"}
   - {name: "Code", url: "https://github.com/zhao-zilong/Tabula"}
-tags: ['Security', 'Training Techniques', 'RAG', 'Has Code', 'Applications']
+tags: ['Applications', 'RAG', 'Security', 'Training Techniques', 'Has Code']
 ---
 Tabular data synthesis is crucial for addressing privacy and security
 concerns in industries reliant on tabular data. While recent advancements adopt

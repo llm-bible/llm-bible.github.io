@@ -7,7 +7,7 @@ year: 2022
 bibkey: fishman2022should
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.08377"}
-tags: ['Model Architecture', 'Merging', 'Pretraining Methods', 'Ethics and Bias', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
 ---
 "Attention is all you need" has become a fundamental precept in machine
 learning research. Originally designed for machine translation, transformers

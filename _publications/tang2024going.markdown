@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024going
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19285"}
-tags: ['Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) is the trending prompting strategy in the era of
 large language models (LLMs), where a few examples are demonstrated to evoke

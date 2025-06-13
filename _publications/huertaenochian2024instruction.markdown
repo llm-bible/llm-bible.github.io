@@ -7,7 +7,7 @@ year: 2024
 bibkey: huertaenochian2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13586"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We present a novel study analyzing the effects of various prompt loss token
 weights (PLW) for supervised instruction fine-tuning (SIFT). While

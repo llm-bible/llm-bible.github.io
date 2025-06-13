@@ -7,7 +7,7 @@ year: 2024
 bibkey: sachdeva2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09668"}
-tags: ['RAG', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'RAG', 'Pre-Training']
 ---
 The training of large language models (LLMs) is expensive. In this paper, we
 study data-efficient approaches for pre-training LLMs, i.e., techniques that

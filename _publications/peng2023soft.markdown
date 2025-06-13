@@ -7,7 +7,7 @@ year: 2023
 bibkey: peng2023soft
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.08303"}
-tags: ['Training Techniques', 'Few-Shot', 'RAG', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 Dense retrieval (DR) converts queries and documents into dense embeddings and
 measures the similarity between queries and documents in vector space. One of

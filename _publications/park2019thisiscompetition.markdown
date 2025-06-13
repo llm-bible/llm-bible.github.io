@@ -7,7 +7,7 @@ year: 2019
 bibkey: park2019thisiscompetition
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.03339"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 This paper describes our system, Joint Encoders for Stable Suggestion
 Inference (JESSI), for the SemEval 2019 Task 9: Suggestion Mining from Online

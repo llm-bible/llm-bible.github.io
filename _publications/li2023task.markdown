@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.16337"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT']
+tags: ['GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Few-Shot']
 ---
 Large language models (LLMs) offer impressive performance in various
 zero-shot and few-shot tasks. However, their success in zero-shot and few-shot

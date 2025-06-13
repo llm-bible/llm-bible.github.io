@@ -7,7 +7,7 @@ year: 2025
 bibkey: palumbo2025prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.24193"}
-tags: ['Reinforcement Learning', 'Tokenization', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['GPT', 'Reinforcement Learning', 'Tokenization', 'Pretraining Methods', 'Prompting']
 ---
 In recent years, Large Language Models (LLMs) have enabled users to provide
 highly specific music recommendation requests using natural language prompts

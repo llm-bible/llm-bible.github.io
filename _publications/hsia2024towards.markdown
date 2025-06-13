@@ -7,7 +7,7 @@ year: 2024
 bibkey: hsia2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09040"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Retrieval-augmented generation (RAG) can significantly improve the
 performance of language models (LMs) by providing additional context for tasks

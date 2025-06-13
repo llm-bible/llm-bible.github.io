@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10871"}
-tags: ['Prompting', 'Multimodal Models', 'Model Architecture', 'Tools']
+tags: ['Tools', 'Multimodal Models', 'Prompting', 'Model Architecture']
 ---
 Recommendation systems play a critical role in enhancing user experience and
 engagement in various online platforms. Traditional methods, such as

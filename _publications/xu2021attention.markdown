@@ -7,7 +7,7 @@ year: 2021
 bibkey: xu2021attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.06393"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We propose a novel method for applying Transformer models to extractive
 question answering (QA) tasks. Recently, pretrained generative

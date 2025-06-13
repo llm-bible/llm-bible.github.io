@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023controllable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16231"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Language Modeling', 'Pretraining Methods']
 ---
 Large-scale Causal Language Models (CLMs), e.g., GPT3 and ChatGPT, have
 brought great success in text generation. However, it is still an open

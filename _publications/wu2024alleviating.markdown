@@ -8,7 +8,7 @@ bibkey: wu2024alleviating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20081"}
   - {name: "Code", url: "https://kaiwu5.github.io/noiseboost"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) contribute a powerful mechanism to
 understanding visual information building on large language models. However,

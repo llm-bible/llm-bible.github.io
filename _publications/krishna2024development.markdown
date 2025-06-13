@@ -7,7 +7,7 @@ year: 2024
 bibkey: krishna2024development
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01073"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Quantization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Retrieval-augmented generation (RAG) on specialized domain datasets has shown
 improved performance when large language models (LLMs) are fine-tuned for

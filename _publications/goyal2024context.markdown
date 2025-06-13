@@ -7,7 +7,7 @@ year: 2024
 bibkey: goyal2024context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10796"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 A standard practice when using large language models is for users to
 supplement their instruction with an input context containing new information

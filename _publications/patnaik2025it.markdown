@@ -8,7 +8,7 @@ bibkey: patnaik2025it
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02463"}
   - {name: "Code", url: "https://github.com/Sohanpatnaik106/coalition"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Distillation', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Has Code', 'Distillation']
 ---
 Very large language models (LLMs) such as GPT-4 have shown the ability to
 handle complex tasks by generating and self-refining step-by-step rationales.

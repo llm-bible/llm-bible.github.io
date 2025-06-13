@@ -7,7 +7,7 @@ year: 2025
 bibkey: xie2025leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10937"}
-tags: ['Multimodal Models', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Empathetic dialogue is crucial for natural human-computer interaction,
 allowing the dialogue system to respond in a more personalized and emotionally

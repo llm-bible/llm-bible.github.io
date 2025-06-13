@@ -7,7 +7,7 @@ year: 2025
 bibkey: miller2025mechanistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18499"}
-tags: ['Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Interpretability and Explainability', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recently, language models (LMs) have shown impressive proficiency in code
 generation tasks, especially when fine-tuned on code-specific datasets,

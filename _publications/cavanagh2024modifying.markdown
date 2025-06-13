@@ -7,7 +7,7 @@ year: 2024
 bibkey: cavanagh2024modifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02231"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Here we show that a Large Language Model (LLM) can serve as a foundation
 model for a Chemical Language Model (CLM) which performs at or above the level

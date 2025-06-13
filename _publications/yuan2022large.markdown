@@ -7,7 +7,7 @@ year: 2022
 bibkey: yuan2022large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.11480"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Compared with the domain-specific model, the vision-language pre-training
 models (VLPMs) have shown superior performance on downstream tasks with fast

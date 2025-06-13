@@ -8,7 +8,7 @@ bibkey: li2023survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.03731"}
   - {name: "Code", url: "https://github.com/HITsz-TMG/awesome-llm-attributions"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Has Code', 'Attention Mechanism']
+tags: ['Survey Paper', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 Open-domain generative systems have gained significant attention in the field
 of conversational AI (e.g., generative search engines). This paper presents a

@@ -7,7 +7,7 @@ year: 2024
 bibkey: schimanski2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08277"}
-tags: ['Pretraining Methods', 'Security', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Advances towards more faithful and traceable answers of Large Language Models
 (LLMs) are crucial for various research and practical endeavors. One avenue in

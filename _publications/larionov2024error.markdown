@@ -7,7 +7,7 @@ year: 2024
 bibkey: larionov2024error
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16120"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Evaluating the quality of machine-generated natural language content is a
 challenging task in Natural Language Processing (NLP). Recently, large language

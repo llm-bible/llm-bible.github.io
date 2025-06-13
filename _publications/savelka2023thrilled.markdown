@@ -7,7 +7,7 @@ year: 2023
 bibkey: savelka2023thrilled
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.10073"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Interpretability and Explainability']
+tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 This paper studies recent developments in large language models' (LLM)
 abilities to pass assessments in introductory and intermediate Python

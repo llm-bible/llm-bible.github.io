@@ -7,7 +7,7 @@ year: 2024
 bibkey: treutlein2024connecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14546"}
-tags: ['Responsible AI', 'Training Techniques', 'Reinforcement Learning', 'TACL', 'Ethics and Bias', 'ACL', 'Prompting', 'In-Context Learning']
+tags: ['Responsible AI', 'Ethics and Bias', 'TACL', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 One way to address safety risks from large language models (LLMs) is to
 censor dangerous knowledge from their training data. While this removes the

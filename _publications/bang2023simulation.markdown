@@ -7,7 +7,7 @@ year: 2023
 bibkey: bang2023simulation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12391"}
-tags: ['Large-Scale Training', 'Training Techniques', 'Tools', 'Model Architecture']
+tags: ['Training Techniques', 'Large-Scale Training', 'Tools', 'Model Architecture']
 ---
 As large language models (LLMs) become widespread in various application
 domains, a critical challenge the AI community is facing is how to train these

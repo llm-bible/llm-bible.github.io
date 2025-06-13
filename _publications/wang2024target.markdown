@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024target
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06063"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 Target-oriented proactive dialogue systems aim to lead conversations from a
 dialogue context toward a pre-determined target, such as making recommendations

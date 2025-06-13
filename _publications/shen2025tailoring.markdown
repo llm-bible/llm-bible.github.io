@@ -7,7 +7,7 @@ year: 2025
 bibkey: shen2025tailoring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00686"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Code Large Language Models (LLMs) enhance software development efficiency by
 automatically generating code and documentation in response to user

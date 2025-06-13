@@ -7,7 +7,7 @@ year: 2024
 bibkey: rajagopal2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.00234"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Generative AI systems such as ChatGPT and Claude are built upon language
 models that are typically evaluated for accuracy on curated benchmark datasets.

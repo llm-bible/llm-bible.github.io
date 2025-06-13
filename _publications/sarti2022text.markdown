@@ -7,7 +7,7 @@ year: 2022
 bibkey: sarti2022text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.03759"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 We introduce IT5, the first family of encoder-decoder transformer models
 pretrained specifically on Italian. We document and perform a thorough cleaning

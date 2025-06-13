@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeng2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04748"}
-tags: ['Quantization', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Quantization', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have ushered in a new era in Natural Language
 Processing, but their massive size demands effective compression techniques for

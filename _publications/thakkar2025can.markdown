@@ -8,7 +8,7 @@ bibkey: thakkar2025can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09737"}
   - {name: "Code", url: "https://github.com/zou-group/review_feedback_agent"}
-tags: ['Agentic', 'Survey Paper', 'Tools', 'RAG', 'Has Code', 'ICLR']
+tags: ['Agentic', 'Tools', 'Survey Paper', 'ICLR', 'RAG', 'Has Code']
 ---
 Peer review at AI conferences is stressed by rapidly rising submission
 volumes, leading to deteriorating review quality and increased author

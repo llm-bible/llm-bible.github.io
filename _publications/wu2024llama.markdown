@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.02415"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Humans generally acquire new skills without compromising the old; however,
 the opposite holds for Large Language Models (LLMs), e.g., from LLaMA to

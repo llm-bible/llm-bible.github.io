@@ -8,7 +8,7 @@ bibkey: zhong2024adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03248"}
   - {name: "Code", url: "https://github.com/LaVi-Lab/AIM"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Merging', 'Pruning', 'Has Code']
+tags: ['Efficiency and Optimization', 'Pruning', 'Merging', 'Training Techniques', 'Has Code']
 ---
 Large language models (LLMs) have enabled the creation of multi-modal LLMs
 that exhibit strong comprehension of visual data such as images and videos.

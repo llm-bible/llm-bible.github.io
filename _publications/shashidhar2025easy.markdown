@@ -7,7 +7,7 @@ year: 2025
 bibkey: shashidhar2025easy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01833"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 Evaluating large language models (LLMs) effectively remains a critical
 bottleneck, as traditional static benchmarks suffer from saturation and

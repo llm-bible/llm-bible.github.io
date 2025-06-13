@@ -7,7 +7,7 @@ year: 2024
 bibkey: gui2024look
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16696"}
-tags: ['Model Architecture', 'Tools', 'In-Context Learning', 'GPT', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
 ---
 Tool-augmented large language models (LLMs) are attracting widespread
 attention when accessing up-to-date knowledge and alleviating hallucination

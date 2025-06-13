@@ -8,7 +8,7 @@ bibkey: zhu2023fusing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08646"}
   - {name: "Code", url: "https://github.com/codefuse-ai/Collinear-Constrained-Attention"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Self-attention and position embedding are two key modules in
 transformer-based Large Language Models (LLMs). However, the potential

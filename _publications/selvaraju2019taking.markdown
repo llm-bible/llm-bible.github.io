@@ -7,7 +7,7 @@ year: 2019
 bibkey: selvaraju2019taking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.03751"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Many vision and language models suffer from poor visual grounding - often
 falling back on easy-to-learn language priors rather than basing their

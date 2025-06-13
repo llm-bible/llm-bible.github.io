@@ -8,7 +8,7 @@ bibkey: huang2025vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06749"}
   - {name: "Code", url: "https://github.com/Osilly/Vision-R1"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 DeepSeek-R1-Zero has successfully demonstrated the emergence of reasoning
 capabilities in LLMs purely through Reinforcement Learning (RL). Inspired by

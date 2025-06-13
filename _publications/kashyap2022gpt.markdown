@@ -7,7 +7,7 @@ year: 2022
 bibkey: kashyap2022gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.15593"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent work has demonstrated substantial gains in pre-training large-language
 models (LLMs) followed by supervised fine-tuning on the downstream task. In

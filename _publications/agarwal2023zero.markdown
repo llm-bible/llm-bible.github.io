@@ -7,7 +7,7 @@ year: 2023
 bibkey: agarwal2023zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13985"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Few-Shot']
+tags: ['Few-Shot', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Hate speech has become pervasive in today's digital age. Although there has
 been considerable research to detect hate speech or generate counter speech to

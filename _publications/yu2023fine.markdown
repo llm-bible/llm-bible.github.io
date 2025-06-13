@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.06176"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Reinforcement Learning with Human Feedback (RLHF) has been demonstrated to
 significantly enhance the performance of large language models (LLMs) by

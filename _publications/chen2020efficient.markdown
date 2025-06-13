@@ -8,7 +8,7 @@ bibkey: chen2020efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.00063"}
   - {name: "Code", url: "https://github.com/VITA-Group/EarlyBERT"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Heavily overparameterized language models such as BERT, XLNet and T5 have
 achieved impressive success in many NLP tasks. However, their high model

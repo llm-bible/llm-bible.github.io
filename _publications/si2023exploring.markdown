@@ -7,7 +7,7 @@ year: 2023
 bibkey: si2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15304"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 ChatGPT's proficiency in handling modern standard languages suggests
 potential for its use in understanding ancient Chinese. This paper explores

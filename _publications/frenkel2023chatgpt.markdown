@@ -7,7 +7,7 @@ year: 2023
 bibkey: frenkel2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15866"}
-tags: ['Applications', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
 ---
 The launch of ChatGPT at the end of 2022 generated large interest into
 possible applications of artificial intelligence in STEM education and among

@@ -8,7 +8,7 @@ bibkey: du2024harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.17504"}
   - {name: "Code", url: "https://github.com/deeplearningwisc/haloscope"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 The surge in applications of large language models (LLMs) has prompted
 concerns about the generation of misleading or fabricated information, known as

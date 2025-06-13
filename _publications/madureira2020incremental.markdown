@@ -7,7 +7,7 @@ year: 2020
 bibkey: madureira2020incremental
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.05330"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 While humans process language incrementally, the best language encoders
 currently used in NLP do not. Both bidirectional LSTMs and Transformers assume

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024learn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06126"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have achieved remarkable success with their
 billion-level parameters, yet they incur high inference overheads. The

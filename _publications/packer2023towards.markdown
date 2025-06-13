@@ -8,7 +8,7 @@ bibkey: packer2023towards
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2310.08560v2"}
   - {name: "Code", url: "https://memgpt.ai"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) have revolutionized AI, but are constrained by
 limited context windows, hindering their utility in tasks like extended

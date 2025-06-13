@@ -7,7 +7,7 @@ year: 2024
 bibkey: epstein2024mmmt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18216"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'RAG', 'GPT', 'Ethics and Bias']
+tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Multimodal Models']
 ---
 Evaluating instruction following capabilities for multimodal, multi-turn
 dialogue is challenging. With potentially multiple instructions in the input

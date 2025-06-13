@@ -7,7 +7,7 @@ year: 2025
 bibkey: rodrigo2025v
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17422"}
-tags: ['Prompting', 'Merging', 'Tools']
+tags: ['Tools', 'Prompting', 'Merging']
 ---
 The recent exponential growth of Large Language Models (LLMs) has relied on
 GPU-based systems. However, CPUs are emerging as a flexible and lower-cost

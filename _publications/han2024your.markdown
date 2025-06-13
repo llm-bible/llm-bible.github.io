@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024your
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09162"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Recent advancements in image generation have enabled the creation of
 high-quality images from text conditions. However, when facing multi-modal

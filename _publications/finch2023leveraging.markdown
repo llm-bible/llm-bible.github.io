@@ -7,7 +7,7 @@ year: 2023
 bibkey: finch2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.06490"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Developing high-performing dialogue systems benefits from the automatic
 identification of undesirable behaviors in system responses. However, detecting

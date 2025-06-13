@@ -7,7 +7,7 @@ year: 2024
 bibkey: viteri2024markovian
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18988"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting']
+tags: ['Transformer', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Chain-of-Thought (CoT) reasoning often fails to faithfully reflect a language
 model's underlying decision process. We address this by making CoT text

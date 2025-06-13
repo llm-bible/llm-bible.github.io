@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024alignment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08464"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 High-quality instruction data is critical for aligning large language models
 (LLMs). Although some models, such as Llama-3-Instruct, have open weights,

@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025dr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06781"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Agentic', 'Tools', 'Reinforcement Learning']
 ---
 Generic text rewriting is a prevalent large language model (LLM) application
 that covers diverse real-world tasks, such as style transfer, fact correction,

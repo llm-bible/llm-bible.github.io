@@ -7,7 +7,7 @@ year: 2025
 bibkey: qiu2025sentence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04793"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Learning reward models from human preference datasets and subsequently
 optimizing language models via reinforcement learning has emerged as a

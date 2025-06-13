@@ -7,7 +7,7 @@ year: 2023
 bibkey: lin2023unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.01552"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The alignment tuning process of large language models (LLMs) typically
 involves instruction learning through supervised fine-tuning (SFT) and

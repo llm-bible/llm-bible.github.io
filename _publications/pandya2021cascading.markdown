@@ -7,7 +7,7 @@ year: 2021
 bibkey: pandya2021cascading
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.09866"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer based architectures have shown notable results on many down
 streaming tasks including question answering. The availability of data, on the

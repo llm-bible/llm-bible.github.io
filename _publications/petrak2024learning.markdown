@@ -7,7 +7,7 @@ year: 2024
 bibkey: petrak2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09248"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
 ---
 Implicit user feedback, user emotions and demographic information have shown
 to be promising sources for improving the accuracy and user engagement of

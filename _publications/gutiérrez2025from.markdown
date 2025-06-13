@@ -8,7 +8,7 @@ bibkey: gutiérrez2025from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14802"}
   - {name: "Code", url: "https://github.com/OSU-NLP-Group/HippoRAG"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Our ability to continuously acquire, organize, and leverage knowledge is a
 key feature of human intelligence that AI systems must approximate to unlock

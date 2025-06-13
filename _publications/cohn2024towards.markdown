@@ -7,7 +7,7 @@ year: 2024
 bibkey: cohn2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03677"}
-tags: ['Prompting', 'Model Architecture', 'Fine-Tuning', 'GPT']
+tags: ['Fine-Tuning', 'GPT', 'Prompting', 'Model Architecture']
 ---
 LLMs have demonstrated proficiency in contextualizing their outputs using
 human input, often matching or beating human-level performance on a variety of

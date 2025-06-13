@@ -7,7 +7,7 @@ year: 2024
 bibkey: micheletti2024exploration
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12630"}
-tags: ['Masked Language Model', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Language Modeling', 'Masked Language Model', 'Pretraining Methods', 'BERT']
 ---
 Large Language Models (LLMs) have revolutionised the field of Natural
 Language Processing (NLP) and have achieved state-of-the-art performance in

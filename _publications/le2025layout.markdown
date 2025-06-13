@@ -7,7 +7,7 @@ year: 2025
 bibkey: le2025layout
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19202"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 Document Visual Question Answering (Document VQA) challenges multimodal
 systems to holistically handle textual, layout, and visual modalities to

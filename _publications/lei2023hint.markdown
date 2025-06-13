@@ -7,7 +7,7 @@ year: 2023
 bibkey: lei2023hint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11461"}
-tags: ['Prompting', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting']
 ---
 Prompting becomes an increasingly important research topic for better
 utilization of LLMs. Although simple prompting performs well on single-step

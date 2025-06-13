@@ -7,7 +7,7 @@ year: 2023
 bibkey: svikhnushina2023approximating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05253"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 As conversational models become increasingly available to the general public,
 users are engaging with this technology in social interactions. Such

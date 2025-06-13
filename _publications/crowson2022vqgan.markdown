@@ -7,7 +7,7 @@ year: 2022
 bibkey: crowson2022vqgan
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.08583"}
-tags: ['Prompting', 'Multimodal Models', 'Training Techniques']
+tags: ['Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Generating and editing images from open domain text prompts is a challenging
 task that heretofore has required expensive and specially trained models. We

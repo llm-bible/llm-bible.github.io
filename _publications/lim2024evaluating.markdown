@@ -7,7 +7,7 @@ year: 2024
 bibkey: lim2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12784"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Despite the impressive success of text-to-image (TTI) generation models,
 existing studies overlook the issue of whether these models accurately convey

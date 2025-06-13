@@ -8,7 +8,7 @@ bibkey: singhi2025when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01005"}
   - {name: "Code", url: "https://github.com/nishadsinghi/sc-genrm-scaling"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Large-Scale Training', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Has Code', 'Scaling Laws']
 ---
 Scaling test-time compute has emerged as a key strategy for enhancing the
 reasoning capabilities of large language models (LLMs), particularly in tasks

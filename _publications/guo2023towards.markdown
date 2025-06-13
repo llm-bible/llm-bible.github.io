@@ -8,7 +8,7 @@ bibkey: guo2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.02205"}
   - {name: "Code", url: "https://github.com/MAPS-research/GEMRec"}
-tags: ['Model Architecture', 'Tools', 'Merging', 'GPT', 'RecSys', 'Has Code', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Merging', 'RecSys', 'Has Code', 'Prompting']
 ---
 Recommender Systems are built to retrieve relevant items to satisfy users'
 information needs. The candidate corpus usually consists of a finite set of

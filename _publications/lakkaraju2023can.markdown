@@ -7,7 +7,7 @@ year: 2023
 bibkey: lakkaraju2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.07422"}
-tags: ['Interpretability', 'Model Architecture', 'GPT']
+tags: ['Interpretability', 'GPT', 'Model Architecture']
 ---
 Increasingly powerful Large Language Model (LLM) based chatbots, like ChatGPT
 and Bard, are becoming available to users that have the potential to

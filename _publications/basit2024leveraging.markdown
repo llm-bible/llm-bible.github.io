@@ -7,7 +7,7 @@ year: 2024
 bibkey: basit2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00830"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) are revolutionizing various domains with their
 remarkable natural language processing (NLP) abilities. However, deploying LLMs

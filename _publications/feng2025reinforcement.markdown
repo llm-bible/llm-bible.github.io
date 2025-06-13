@@ -7,7 +7,7 @@ year: 2025
 bibkey: feng2025reinforcement
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11536"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 While reasoning models (e.g., DeepSeek R1) trained with reinforcement
 learning (RL), excel in textual reasoning, they struggle in scenarios requiring

@@ -8,7 +8,7 @@ bibkey: zhang2024fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12295"}
   - {name: "Code", url: "https://github.com/TsinghuaC3I/FS-GEN"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) exhibit impressive capabilities across various
 applications but encounter substantial challenges such as high inference

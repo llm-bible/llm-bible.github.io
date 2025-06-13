@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024trustful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07870"}
-tags: ['Security', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Security']
 ---
 Although people are impressed by the content generation skills of large
 language models, the use of LLMs, such as ChatGPT, is limited by the domain

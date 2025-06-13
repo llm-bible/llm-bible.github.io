@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13162"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Personalized image synthesis has emerged as a pivotal application in
 text-to-image generation, enabling the creation of images featuring specific

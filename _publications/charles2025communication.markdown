@@ -7,7 +7,7 @@ year: 2025
 bibkey: charles2025communication
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09799"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
 ---
 As we scale to more massive machine learning models, the frequent
 synchronization demands inherent in data-parallel approaches create significant

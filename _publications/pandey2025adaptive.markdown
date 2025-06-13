@@ -7,7 +7,7 @@ year: 2025
 bibkey: pandey2025adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05078"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated impressive reasoning
 capabilities, yet their performance is highly dependent on the prompting

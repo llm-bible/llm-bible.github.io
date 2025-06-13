@@ -7,7 +7,7 @@ year: 2025
 bibkey: rolff2025tokenization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22145"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Multimodal Models']
 ---
 A considerable part of the performance of today's large language models
 (LLM's) and multimodal large language models (MLLM's) depends on their

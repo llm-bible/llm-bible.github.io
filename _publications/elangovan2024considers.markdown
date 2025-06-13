@@ -7,7 +7,7 @@ year: 2024
 bibkey: elangovan2024considers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18638"}
-tags: ['Ethics and Bias', 'Tools']
+tags: ['Tools', 'Ethics and Bias']
 ---
 In this position paper, we argue that human evaluation of generative large
 language models (LLMs) should be a multidisciplinary undertaking that draws

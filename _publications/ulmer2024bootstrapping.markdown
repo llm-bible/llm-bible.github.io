@@ -7,7 +7,7 @@ year: 2024
 bibkey: ulmer2024bootstrapping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05033"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) are powerful dialogue agents, but specializing
 them towards fulfilling a specific function can be challenging. Instructing

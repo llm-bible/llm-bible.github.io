@@ -7,7 +7,7 @@ year: 2021
 bibkey: clement2021distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.03322"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pretraining Methods', 'Distillation']
 ---
 Pre-trained transformers have recently clinched top spots in the gamut of
 natural language tasks and pioneered solutions to software engineering tasks.

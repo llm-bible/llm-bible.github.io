@@ -7,7 +7,7 @@ year: 2024
 bibkey: azeem2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08824"}
-tags: ['Responsible AI', 'Security', 'Reinforcement Learning', 'Ethics and Bias', 'Applications']
+tags: ['Responsible AI', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Security']
 ---
 Members of the Human-Robot Interaction (HRI) and Artificial Intelligence (AI)
 communities have proposed Large Language Models (LLMs) as a promising resource

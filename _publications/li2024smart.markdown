@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024smart
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13992"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Retrieval-Augmented Generation (RAG) has greatly improved large language
 models (LLMs) by enabling them to generate accurate, contextually grounded

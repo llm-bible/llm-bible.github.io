@@ -7,7 +7,7 @@ year: 2022
 bibkey: clarke2022one
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.07665"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning']
 ---
 The increasing volume of commercially available conversational agents (CAs)
 on the market has resulted in users being burdened with learning and adopting

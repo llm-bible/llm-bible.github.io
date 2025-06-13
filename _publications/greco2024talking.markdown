@@ -7,7 +7,7 @@ year: 2024
 bibkey: greco2024talking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14894"}
-tags: ['Prompting', 'In-Context Learning', 'Few-Shot', 'Reinforcement Learning']
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
 ---
 Verbs form the backbone of language, providing the structure and meaning to
 sentences. Yet, their intricate semantic nuances pose a longstanding challenge.

@@ -7,7 +7,7 @@ year: 2023
 bibkey: fathullah2023prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.11795"}
-tags: ['Prompting', 'Training Techniques', 'Applications', 'INTERSPEECH']
+tags: ['Training Techniques', 'INTERSPEECH', 'Prompting', 'Applications']
 ---
 Large language models have proven themselves highly flexible, able to solve a
 wide range of generative tasks, such as abstractive summarization and

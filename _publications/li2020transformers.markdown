@@ -7,7 +7,7 @@ year: 2020
 bibkey: li2020transformers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.03561"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 We introduce a novel approach to transformers that learns hierarchical
 representations in multiparty dialogue. First, three language modeling tasks

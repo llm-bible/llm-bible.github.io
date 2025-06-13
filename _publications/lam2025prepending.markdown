@@ -7,7 +7,7 @@ year: 2025
 bibkey: lam2025prepending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02370"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Distillation']
 ---
 Following the remarkable success of Large Language Models (LLMs) in NLP
 tasks, there is increasing interest in extending their capabilities to speech

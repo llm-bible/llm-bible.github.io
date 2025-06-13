@@ -7,7 +7,7 @@ year: 2024
 bibkey: das2024human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.14644"}
-tags: ['Security', 'Few-Shot', 'Survey Paper', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Survey Paper', 'Security', 'Few-Shot', 'Prompting']
 ---
 Previous research on testing the vulnerabilities in Large Language Models
 (LLMs) using adversarial attacks has primarily focused on nonsensical prompt

@@ -7,7 +7,7 @@ year: 2023
 bibkey: semnani2023stopping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14292"}
-tags: ['Model Architecture', 'GPT', 'Few-Shot']
+tags: ['Few-Shot', 'GPT', 'Model Architecture']
 ---
 This paper presents the first few-shot LLM-based chatbot that almost never
 hallucinates and has high conversationality and low latency. WikiChat is

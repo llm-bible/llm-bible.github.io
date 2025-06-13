@@ -7,7 +7,7 @@ year: 2025
 bibkey: lu2025integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06019"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent advancements in Multimodal Large Language Models (MLLMs) have enabled
 their deployment on mobile devices. However, challenges persist in maintaining

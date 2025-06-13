@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06433"}
-tags: ['RAG', 'Large-Scale Training', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Large-Scale Training']
 ---
 To improve the efficiency of distributed large language model (LLM)
 inference, various parallelization strategies, such as tensor and pipeline

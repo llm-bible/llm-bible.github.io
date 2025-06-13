@@ -7,7 +7,7 @@ year: 2024
 bibkey: pan2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08686"}
-tags: ['Prompting', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Ethics and Bias', 'Prompting', 'Applications']
 ---
 Interpretability methods seek to understand language model representations,
 yet the outputs of most such methods -- circuits, vectors, scalars -- are not

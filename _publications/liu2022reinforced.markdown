@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022reinforced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.03078"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Knowledge underpins reasoning. Recent research demonstrates that when
 relevant knowledge is provided as additional context to commonsense question

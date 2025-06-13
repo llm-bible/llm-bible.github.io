@@ -7,7 +7,7 @@ year: 2024
 bibkey: vo2024transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11654"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we propose Transformer Layer Injection (TLI), a novel method
 for efficiently upscaling large language models (LLMs) while minimizing

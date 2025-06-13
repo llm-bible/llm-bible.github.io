@@ -8,7 +8,7 @@ bibkey: black2022gpt
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2204.06745v1"}
   - {name: "Code", url: "https://github.com/EleutherAI/gpt-neox"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Has Code']
+tags: ['GPT', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
 ---
 We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language
 model trained on the Pile, whose weights will be made freely and openly

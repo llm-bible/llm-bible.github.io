@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01444"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advances in large language models (LLMs) have demonstrated potential
 for LLM agents. To facilitate the training for these agents with both

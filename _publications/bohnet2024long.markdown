@@ -7,7 +7,7 @@ year: 2024
 bibkey: bohnet2024long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00179"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Reinforcement Learning']
+tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
 ---
 We explore the use of long-context capabilities in large language models to
 create synthetic reading comprehension data from entire books. Previous efforts

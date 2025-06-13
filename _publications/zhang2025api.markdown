@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025api
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11069"}
-tags: ['Agentic', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Large language models (LLMs) have evolved beyond simple text generation to
 power software agents that directly translate natural language commands into

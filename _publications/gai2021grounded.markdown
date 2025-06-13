@@ -7,7 +7,7 @@ year: 2021
 bibkey: gai2021grounded
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.03642"}
-tags: ['Training Techniques', 'Model Architecture', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Question answering models struggle to generalize to novel compositions of
 training patterns, such to longer sequences or more complex test structures.

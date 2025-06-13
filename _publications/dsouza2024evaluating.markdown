@@ -8,7 +8,7 @@ bibkey: dsouza2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03651"}
   - {name: "Code", url: "https://github.com/snorkel-ai/long-context-eval"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large language models are prominently used in real-world applications, often
 tasked with reasoning over large volumes of documents. An exciting development

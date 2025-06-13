@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00737"}
-tags: ['Multimodal Models', 'Tools', 'RAG', 'Merging', 'Prompting']
+tags: ['Tools', 'RAG', 'Merging', 'Multimodal Models', 'Prompting']
 ---
 Diffusion models have exhibited substantial success in text-to-image
 generation. However, they often encounter challenges when dealing with complex

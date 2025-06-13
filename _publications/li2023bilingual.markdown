@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023bilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13995"}
-tags: ['Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Bilingual Lexicon Induction (BLI) is a core task in multilingual NLP that
 still, to a large extent, relies on calculating cross-lingual word

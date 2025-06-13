@@ -7,7 +7,7 @@ year: 2024
 bibkey: rahman2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21337"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Large language models (LLMs) are becoming a popular tool as they have
 significantly advanced in their capability to tackle a wide range of

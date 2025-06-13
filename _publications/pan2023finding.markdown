@@ -7,7 +7,7 @@ year: 2023
 bibkey: pan2023finding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07470"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 Understanding the internal mechanisms by which multi-modal large language
 models (LLMs) interpret different modalities and integrate cross-modal

@@ -7,7 +7,7 @@ year: 2020
 bibkey: farooq2020app
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.15793"}
-tags: ['Prompting', 'Training Techniques', 'Survey Paper']
+tags: ['Training Techniques', 'Survey Paper', 'Prompting']
 ---
 Responding to user reviews promptly and satisfactorily improves application
 ratings, which is key to application popularity and success. The proliferation

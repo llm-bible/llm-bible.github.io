@@ -7,7 +7,7 @@ year: 2024
 bibkey: tripathi2024incorporating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10567"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Fairness', 'Bias Mitigation']
+tags: ['Responsible AI', 'Bias Mitigation', 'Fairness', 'Ethics and Bias']
 ---
 Recent advancements in language technology and Artificial Intelligence have
 resulted in numerous Language Models being proposed to perform various tasks in

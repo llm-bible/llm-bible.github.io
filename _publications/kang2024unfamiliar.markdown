@@ -7,7 +7,7 @@ year: 2024
 bibkey: kang2024unfamiliar
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05612"}
-tags: ['RAG', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'RAG', 'Tools', 'Reinforcement Learning']
 ---
 Large language models are known to hallucinate when faced with unfamiliar
 queries, but the underlying mechanism that govern how models hallucinate are

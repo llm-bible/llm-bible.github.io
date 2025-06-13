@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024i
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17469"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 When seeking information from unfamiliar documents, users frequently pose
 questions that cannot be answered by the documents. While existing large

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12842"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Distillation', 'Quantization', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Prompting', 'Distillation']
 ---
 Recent advancements in large language models (LLMs) have raised concerns
 about inference costs, increasing the need for research into model compression.

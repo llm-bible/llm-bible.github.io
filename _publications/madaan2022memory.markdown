@@ -8,7 +8,7 @@ bibkey: madaan2022memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.06009"}
   - {name: "Code", url: "https://www.memprompt.com/"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Large LMs such as GPT-3 are powerful, but can commit mistakes that are
 obvious to humans. For example, GPT-3 would mistakenly interpret "What word is

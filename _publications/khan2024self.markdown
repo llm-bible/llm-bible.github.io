@@ -7,7 +7,7 @@ year: 2024
 bibkey: khan2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04627"}
-tags: ['Multimodal Models', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Visual program synthesis is a promising approach to exploit the reasoning
 abilities of large language models for compositional computer vision tasks.

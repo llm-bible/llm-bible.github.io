@@ -7,7 +7,7 @@ year: 2024
 bibkey: mishra2024text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07507"}
-tags: ['Multimodal Models', 'Training Techniques', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Decoding and expressing brain activity in a comprehensible form is a
 challenging frontier in AI. This paper presents Thought2Text, which uses

@@ -7,7 +7,7 @@ year: 2025
 bibkey: dai2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01849"}
-tags: ['Agentic', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Applications', 'Reinforcement Learning']
 ---
 The remarkable generative capability of large language models (LLMs) has
 sparked a growing interest in automatically generating responses for different

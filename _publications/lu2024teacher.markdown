@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024teacher
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15670"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Although large language models (LLMs) have demonstrated adeptness in a range
 of tasks, they still lag behind human learning efficiency. This disparity is

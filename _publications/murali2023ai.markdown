@@ -7,7 +7,7 @@ year: 2023
 bibkey: murali2023ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12050"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Generative LLMs have been shown to effectively power AI-based code authoring
 tools that can suggest entire statements or blocks of code during code

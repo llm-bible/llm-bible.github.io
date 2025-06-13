@@ -8,7 +8,7 @@ bibkey: kahatapitiya2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14622"}
   - {name: "Code", url: "https://github.com/kkahatapitiya/LangRepo"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Pruning', 'Has Code', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Reinforcement Learning', 'Has Code']
 ---
 Language has become a prominent modality in computer vision with the rise of
 LLMs. Despite supporting long context-lengths, their effectiveness in handling

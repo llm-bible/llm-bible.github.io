@@ -7,7 +7,7 @@ year: 2021
 bibkey: karakus2021amazon
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.05972"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'BERT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
 ---
 With deep learning models rapidly growing in size, systems-level solutions
 for large-model training are required. We present Amazon SageMaker model

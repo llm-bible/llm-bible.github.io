@@ -7,7 +7,7 @@ year: 2024
 bibkey: tao2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03994"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Adapting large language models (LLMs) to new languages typically involves
 continual pre-training (CT) followed by supervised fine-tuning (SFT). However,

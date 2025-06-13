@@ -7,7 +7,7 @@ year: 2021
 bibkey: jaunet2021x
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.00926"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'ACL', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Visual Question Answering systems target answering open-ended textual
 questions given input images. They are a testbed for learning high-level

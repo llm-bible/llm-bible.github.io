@@ -7,7 +7,7 @@ year: 2019
 bibkey: stern2019insertion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.03249"}
-tags: ['Security', 'Training Techniques', 'WMT', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Language Modeling', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 We present the Insertion Transformer, an iterative, partially autoregressive
 model for sequence generation based on insertion operations. Unlike typical

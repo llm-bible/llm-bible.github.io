@@ -8,7 +8,7 @@ bibkey: kim2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20878"}
   - {name: "Code", url: "https://github.com/Marker-Inc-Korea/AutoRAG_ARAGOG_Paper"}
-tags: ['RAG', 'Efficiency and Optimization', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Has Code']
 ---
 Using LLMs (Large Language Models) in conjunction with external documents has
 made RAG (Retrieval-Augmented Generation) an essential technology. Numerous

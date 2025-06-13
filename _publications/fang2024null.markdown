@@ -8,7 +8,7 @@ bibkey: fang2024null
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02355"}
   - {name: "Code", url: "https://github.com/jianghoucheng/AlphaEdit"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Has Code']
+tags: ['RAG', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) often exhibit hallucinations due to incorrect or
 outdated knowledge. Hence, model editing methods have emerged to enable

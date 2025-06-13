@@ -8,7 +8,7 @@ bibkey: chen2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00799"}
   - {name: "Code", url: "https://github.com/cyzhh/MMOS"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) are displaying emergent abilities for math
 reasoning tasks,and there is a growing attention on enhancing the ability of

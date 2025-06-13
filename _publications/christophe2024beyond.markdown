@@ -7,7 +7,7 @@ year: 2024
 bibkey: christophe2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14988"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated significant potential in
 transforming clinical applications. In this study, we investigate the efficacy

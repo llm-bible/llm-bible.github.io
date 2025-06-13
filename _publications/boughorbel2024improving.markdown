@@ -7,7 +7,7 @@ year: 2024
 bibkey: boughorbel2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14277"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques']
 ---
 Training LLMs for low-resource languages usually utilizes data augmentation
 from English using machine translation (MT). This, however, brings a number of

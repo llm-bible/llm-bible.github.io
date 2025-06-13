@@ -8,7 +8,7 @@ bibkey: nie2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18514"}
   - {name: "Code", url: "https://github.com/ML-GSAI/SMDM"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Merging', 'Pretraining Methods', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'RAG', 'Language Modeling', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Masked diffusion models (MDMs) have shown promise in language modeling, yet
 their scalability and effectiveness in core language tasks, such as text

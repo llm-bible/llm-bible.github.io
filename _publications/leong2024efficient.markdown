@@ -7,7 +7,7 @@ year: 2024
 bibkey: leong2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.09324"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Scientific research indicates that for every hour spent in direct patient
 care, physicians spend nearly two additional hours on administrative tasks,

@@ -8,7 +8,7 @@ bibkey: tran2023visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18046"}
   - {name: "Code", url: "https://github.com/kvt0012/ViCLEVR"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 In recent years, Visual Question Answering (VQA) has gained significant
 attention for its diverse applications, including intelligent car assistance,

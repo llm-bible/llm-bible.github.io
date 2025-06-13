@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025table
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02152"}
-tags: ['Prompting', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Tools', 'Prompting']
 ---
 Large language models' reasoning abilities benefit from methods that organize
 their thought processes, such as chain-of-thought prompting, which employs a

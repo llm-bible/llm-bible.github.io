@@ -7,7 +7,7 @@ year: 2017
 bibkey: ma2017visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1707.04968"}
-tags: ['Training Techniques', 'Applications', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 In this paper, we exploit a memory-augmented neural network to predict
 accurate answers to visual questions, even when those answers occur rarely in

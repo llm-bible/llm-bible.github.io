@@ -7,7 +7,7 @@ year: 2023
 bibkey: hayati2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09799"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Collecting diverse human opinions is costly and challenging. This leads to a
 recent trend in exploiting large language models (LLMs) for generating diverse

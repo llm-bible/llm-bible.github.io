@@ -8,7 +8,7 @@ bibkey: yuan2024kv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01527"}
   - {name: "Code", url: "https://github.com/henryzhongsc/longctx_bench"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Quantization', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Quantization', 'Prompting']
 ---
 Long context capability is a crucial competency for large language models
 (LLMs) as it mitigates the human struggle to digest long-form texts. This

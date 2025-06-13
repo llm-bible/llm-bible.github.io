@@ -8,7 +8,7 @@ bibkey: yin2023dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14327"}
   - {name: "Code", url: "https://github.com/WadeYin9712/Dynosaur"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Instruction tuning has emerged to enhance the capabilities of large language
 models (LLMs) to comprehend instructions and generate appropriate responses.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024balancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14581"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Distillation', 'Ethics and Bias']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Distillation']
 ---
 With the adoption of retrieval-augmented generation (RAG), large language
 models (LLMs) are expected to ground their generation to the retrieved

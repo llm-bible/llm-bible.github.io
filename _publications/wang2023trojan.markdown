@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023trojan
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09433"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 To ensure AI safety, instruction-tuned Large Language Models (LLMs) are
 specifically trained to ensure alignment, which refers to making models behave

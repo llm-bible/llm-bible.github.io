@@ -8,7 +8,7 @@ bibkey: shen2022staged
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.06211"}
   - {name: "Code", url: "https://github.com/allenai/staged-training"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'GPT', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Scaling Laws']
 ---
 The current standard approach to scaling transformer language models trains
 each model size from a different random initialization. As an alternative, we

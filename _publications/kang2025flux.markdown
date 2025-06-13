@@ -7,7 +7,7 @@ year: 2025
 bibkey: kang2025flux
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11478"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 We propose a simple yet effective zero-shot framework for subject-driven
 image generation using a vanilla Flux model. By framing the task as grid-based

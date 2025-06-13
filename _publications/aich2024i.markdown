@@ -7,7 +7,7 @@ year: 2024
 bibkey: aich2024i
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12679"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Distillation', 'GPT', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Distillation']
 ---
 Large Language Models (LLMs) are increasingly being used in educational and
 learning applications. Research has demonstrated that controlling for style, to

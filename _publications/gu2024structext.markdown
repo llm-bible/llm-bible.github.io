@@ -8,7 +8,7 @@ bibkey: gu2024structext
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10621"}
   - {name: "Code", url: "https://github.com/MikeGu721/StrucText-Eval"}
-tags: ['Prompting', 'Has Code', 'Reinforcement Learning']
+tags: ['Has Code', 'Prompting', 'Reinforcement Learning']
 ---
 The effective utilization of structured data, integral to corporate data
 strategies, has been challenged by the rise of large language models (LLMs)

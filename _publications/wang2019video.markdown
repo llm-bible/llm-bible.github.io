@@ -7,7 +7,7 @@ year: 2019
 bibkey: wang2019video
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.03049"}
-tags: ['Multimodal Models', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 We introduce a novel task, Video Question Generation (Video QG). A Video QG
 model automatically generates questions given a video clip and its

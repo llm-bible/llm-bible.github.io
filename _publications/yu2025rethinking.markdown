@@ -7,7 +7,7 @@ year: 2025
 bibkey: yu2025rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11919"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, DeepSeek-R1 (671B) (DeepSeek-AIet al., 2025) has demonstrated its
 excellent reasoning ability in complex tasks and has publiclyshared its

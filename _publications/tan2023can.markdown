@@ -8,7 +8,7 @@ bibkey: tan2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.07992"}
   - {name: "Code", url: "https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family.git"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 ChatGPT is a powerful large language model (LLM) that covers knowledge
 resources such as Wikipedia and supports natural language question answering

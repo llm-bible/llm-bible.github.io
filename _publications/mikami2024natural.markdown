@@ -8,7 +8,7 @@ bibkey: mikami2024natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13801"}
   - {name: "Code", url: "https://natural-language-as-policies.github.io/"}
-tags: ['Tools', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 We demonstrate experimental results with LLMs that address robotics task
 planning problems. Recently, LLMs have been applied in robotics task planning,

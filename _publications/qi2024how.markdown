@@ -7,7 +7,7 @@ year: 2024
 bibkey: qi2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08158"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Fine-Tuning', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Survey Paper', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 The exploration of various vision-language tasks, such as visual captioning,
 visual question answering, and visual commonsense reasoning, is an important

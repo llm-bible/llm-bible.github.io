@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023exemplars
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.03498"}
-tags: ['Prompting', 'Training Techniques', 'In-Context Learning', 'Tools']
+tags: ['Training Techniques', 'Prompting', 'In-Context Learning', 'Tools']
 ---
 Recently, large language models (LLMs) have made remarkable progress in
 natural language processing. The most representative ability of LLMs is

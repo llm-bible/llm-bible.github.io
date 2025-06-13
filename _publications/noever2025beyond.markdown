@@ -7,7 +7,7 @@ year: 2025
 bibkey: noever2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14975"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Prompting']
 ---
 We present an open-source benchmark and evaluation framework for assessing
 emotional boundary handling in Large Language Models (LLMs). Using a dataset of

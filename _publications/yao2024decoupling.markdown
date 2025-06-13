@@ -7,7 +7,7 @@ year: 2024
 bibkey: yao2024decoupling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20985"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models']
+tags: ['Training Techniques', 'Multimodal Models', 'Efficiency and Optimization']
 ---
 The visual projector, which bridges the vision and language modalities and
 facilitates cross-modal alignment, serves as a crucial component in MLLMs.

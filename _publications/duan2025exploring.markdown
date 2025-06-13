@@ -7,7 +7,7 @@ year: 2025
 bibkey: duan2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06494"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Although Large Language Models (LLMs) succeed in human-guided conversations
 such as instruction following and question answering, the potential of

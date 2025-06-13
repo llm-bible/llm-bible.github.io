@@ -7,7 +7,7 @@ year: 2025
 bibkey: xiong2025end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.07819"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Multi-modal Large Language Models (MLLMs) exhibit impressive capabilities in
 2D tasks, yet encounter challenges in discerning the spatial positions,

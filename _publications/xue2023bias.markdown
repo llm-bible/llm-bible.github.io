@@ -7,7 +7,7 @@ year: 2023
 bibkey: xue2023bias
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08836"}
-tags: ['Training Techniques', 'Fairness', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Fairness']
 ---
 Chatbots have been studied for more than half a century. With the rapid
 development of natural language processing (NLP) technologies in recent years,

@@ -7,7 +7,7 @@ year: 2021
 bibkey: huang2021multiplicative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.12788"}
-tags: ['Model Architecture', 'Survey Paper', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Survey Paper', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Transformer models, which leverage architectural improvements like
 self-attention, perform remarkably well on Natural Language Processing (NLP)

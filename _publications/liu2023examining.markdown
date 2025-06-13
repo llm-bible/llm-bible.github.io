@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023examining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09731"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Can large language models (LLMs) express their uncertainty in situations
 where they lack sufficient parametric knowledge to generate reasonable

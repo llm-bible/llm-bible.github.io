@@ -7,7 +7,7 @@ year: 2024
 bibkey: dobler2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15793"}
-tags: ['Tokenization', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Tokenization', 'Pretraining Methods']
 ---
 We investigate continued pretraining of LLMs for language adaptation on a
 tight academic budget: a setting in which only a few GPUs can be used in

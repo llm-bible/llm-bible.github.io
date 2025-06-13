@@ -7,7 +7,7 @@ year: 2023
 bibkey: dvivedi2023comparative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10349"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 This paper presents a comprehensive comparative analysis of Large Language
 Models (LLMs) for generation of code documentation. Code documentation is an

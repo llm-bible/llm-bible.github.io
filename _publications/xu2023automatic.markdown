@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02263"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Alignment serves as an important step to steer large language models (LLMs)
 towards human preferences. In this paper, we propose an automatic way to

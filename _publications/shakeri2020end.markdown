@@ -7,7 +7,7 @@ year: 2020
 bibkey: shakeri2020end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.06028"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 We propose an end-to-end approach for synthetic QA data generation. Our model
 comprises a single transformer-based encoder-decoder network that is trained

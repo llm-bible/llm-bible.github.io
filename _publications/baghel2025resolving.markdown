@@ -7,7 +7,7 @@ year: 2025
 bibkey: baghel2025resolving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11895"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are used in various downstream language tasks,
 making it crucial to keep their knowledge up-to-date, but both retraining and

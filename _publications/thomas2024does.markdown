@@ -7,7 +7,7 @@ year: 2024
 bibkey: thomas2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10267"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Interpretability', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Prompting']
 ---
 The role of multiple-choice questions (MCQs) as effective learning tools has
 been debated in past research. While MCQs are widely used due to their ease in

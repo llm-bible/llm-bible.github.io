@@ -7,7 +7,7 @@ year: 2019
 bibkey: wang2019multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.08167"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Applications']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT']
 ---
 BERT model has been successfully applied to open-domain QA tasks. However,
 previous work trains BERT by viewing passages corresponding to the same

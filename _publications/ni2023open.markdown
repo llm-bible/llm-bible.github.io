@@ -7,7 +7,7 @@ year: 2023
 bibkey: ni2023open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13785"}
-tags: ['Prompting', 'Merging', 'Tools']
+tags: ['Tools', 'Prompting', 'Merging']
 ---
 Avoiding synthesizing specific visual concepts is an essential challenge in
 responsible visual synthesis. However, the visual concept that needs to be

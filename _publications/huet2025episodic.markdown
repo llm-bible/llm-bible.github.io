@@ -7,7 +7,7 @@ year: 2025
 bibkey: huet2025episodic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13121"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Episodic memory -- the ability to recall specific events grounded in time and
 space -- is a cornerstone of human cognition, enabling not only coherent

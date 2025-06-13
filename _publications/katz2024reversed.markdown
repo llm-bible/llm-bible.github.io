@@ -7,7 +7,7 @@ year: 2024
 bibkey: katz2024reversed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17019"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The success of Transformer-based Language Models (LMs) stems from their
 attention mechanism. While this mechanism has been extensively studied in

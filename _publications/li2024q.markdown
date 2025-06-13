@@ -8,7 +8,7 @@ bibkey: li2024q
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03856"}
   - {name: "Code", url: "https://github.com/mansicer/Q-Adapter"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'TACL', 'Has Code', 'ACL']
+tags: ['Agentic', 'Tools', 'TACL', 'Reinforcement Learning', 'ACL', 'Has Code']
 ---
 Large Language Models (LLMs), trained on a large amount of corpus, have
 demonstrated remarkable abilities. However, it may not be sufficient to

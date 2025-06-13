@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiong2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.12326"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 SemEval-2024 Task 8 introduces the challenge of identifying machine-generated
 texts from diverse Large Language Models (LLMs) in various languages and

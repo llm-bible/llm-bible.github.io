@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024counting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19730"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Tokenization', 'Pretraining Methods']
 ---
 Transformers, the backbone of modern large language models (LLMs), face
 inherent architectural limitations that impede their reasoning capabilities.

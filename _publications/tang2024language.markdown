@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16438"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) demonstrate remarkable multilingual capabilities
 without being pre-trained on specially curated multilingual parallel corpora.

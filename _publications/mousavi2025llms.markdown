@@ -7,7 +7,7 @@ year: 2025
 bibkey: mousavi2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12774"}
-tags: ['Prompting', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 LLMs' sources of knowledge are data snapshots containing factual information
 about entities collected at different timestamps and from different media types

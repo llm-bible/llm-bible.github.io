@@ -7,7 +7,7 @@ year: 2025
 bibkey: lyu2025cream
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13383"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 The hypothesis that pretrained large language models (LLMs) necessitate only
 minimal supervision during the fine-tuning (SFT) stage (Zhou et al., 2024) has

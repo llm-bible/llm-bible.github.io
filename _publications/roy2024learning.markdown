@@ -7,7 +7,7 @@ year: 2024
 bibkey: roy2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15515"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Augmenting Large Language Models (LLMs) with information retrieval
 capabilities (i.e., Retrieval-Augmented Generation (RAG)) has proven beneficial

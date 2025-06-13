@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024exploratory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18001"}
-tags: ['Training Techniques', 'Few-Shot', 'RAG', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Training Techniques', 'Few-Shot']
 ---
 Logs are important in modern software development with runtime information.
 Log parsing is the first step in many log-based analyses, that involve

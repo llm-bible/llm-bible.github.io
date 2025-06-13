@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhiyuli2023general
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15673"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 With the continuous development and change exhibited by large language model
 (LLM) technology, represented by generative pretrained transformers (GPTs),

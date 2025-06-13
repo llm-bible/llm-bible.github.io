@@ -8,7 +8,7 @@ bibkey: wang2024user
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13940"}
   - {name: "Code", url: "https://github.com/Alice1998/URS"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) are essential tools that users employ across
 various scenarios, so evaluating their performance and guiding users in

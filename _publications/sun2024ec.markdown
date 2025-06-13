@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024ec
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02098"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Diffusion transformers have been widely adopted for text-to-image synthesis.
 While scaling these models up to billions of parameters shows promise, the

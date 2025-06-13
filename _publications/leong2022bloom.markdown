@@ -7,7 +7,7 @@ year: 2022
 bibkey: leong2022bloom
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.14712"}
-tags: ['Language Modeling', 'Tools', 'Multimodal Models']
+tags: ['Tools', 'Multimodal Models', 'Language Modeling']
 ---
 We present Bloom Library, a linguistically diverse set of multimodal and
 multilingual datasets for language modeling, image captioning, visual

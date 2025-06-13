@@ -7,7 +7,7 @@ year: 2021
 bibkey: liu2021confidence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.10427"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods']
 ---
 Scheduled sampling is an effective method to alleviate the exposure bias
 problem of neural machine translation. It simulates the inference scene by

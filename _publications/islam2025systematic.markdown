@@ -7,7 +7,7 @@ year: 2025
 bibkey: islam2025systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17071"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'GPT', 'Pruning']
+tags: ['Efficiency and Optimization', 'GPT', 'Pruning', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 The exponential growth of large language models (LLMs) like ChatGPT has
 revolutionized artificial intelligence, offering unprecedented capabilities in

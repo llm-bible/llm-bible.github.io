@@ -8,7 +8,7 @@ bibkey: sahu2023class
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14192"}
   - {name: "Code", url: "https://github.com/ServiceNow/PromptMix-EMNLP-2023"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Distillation', 'EMNLP', 'GPT', 'BERT', 'Has Code', 'Prompting']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'EMNLP', 'Has Code', 'BERT', 'Few-Shot', 'Prompting', 'Distillation']
 ---
 Data augmentation is a widely used technique to address the problem of text
 classification when there is a limited amount of training data. Recent work

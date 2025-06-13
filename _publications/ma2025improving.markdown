@@ -7,7 +7,7 @@ year: 2025
 bibkey: ma2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01925"}
-tags: ['Responsible AI', 'Model Architecture', 'Prompting', 'Attention Mechanism']
+tags: ['Responsible AI', 'Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Many-shot jailbreaking circumvents the safety alignment of large language
 models by exploiting their ability to process long input sequences. To achieve

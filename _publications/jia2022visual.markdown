@@ -7,7 +7,7 @@ year: 2022
 bibkey: jia2022visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.12119"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The current modus operandi in adapting pre-trained models involves updating
 all the backbone parameters, ie, full fine-tuning. This paper introduces Visual

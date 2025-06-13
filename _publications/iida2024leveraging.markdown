@@ -7,7 +7,7 @@ year: 2024
 bibkey: iida2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11261"}
-tags: ['Prompting', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 This paper introduces the Comprehensive AI-assisted Translation Edit Ratio
 (CATER), a novel and fully prompt-driven framework for evaluating machine

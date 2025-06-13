@@ -7,7 +7,7 @@ year: 2024
 bibkey: pan2024feedback
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06627"}
-tags: ['Agentic', 'Agent', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Agent', 'Reinforcement Learning']
 ---
 Language models influence the external world: they query APIs that read and
 write to web pages, generate content that shapes human behavior, and run system

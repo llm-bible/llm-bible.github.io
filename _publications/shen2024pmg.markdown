@@ -7,7 +7,7 @@ year: 2024
 bibkey: shen2024pmg
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08677"}
-tags: ['Multimodal Models', 'Model Architecture', 'Merging', 'RecSys', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Merging', 'RecSys', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 The emergence of large language models (LLMs) has revolutionized the
 capabilities of text comprehension and generation. Multi-modal generation

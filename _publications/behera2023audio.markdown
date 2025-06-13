@@ -8,7 +8,7 @@ bibkey: behera2023audio
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17343"}
   - {name: "Code", url: "https://github.com/swarupbehera/AQUALLM"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 Audio Question Answering (AQA) constitutes a pivotal task in which machines
 analyze both audio signals and natural language questions to produce precise

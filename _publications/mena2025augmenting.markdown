@@ -7,7 +7,7 @@ year: 2025
 bibkey: mena2025augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.09521"}
-tags: ['Training Techniques', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 We present a method for augmenting a Large Language Model (LLM) with a
 combination of text and visual data to enable accurate question answering in

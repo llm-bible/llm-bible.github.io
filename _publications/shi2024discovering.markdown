@@ -8,7 +8,7 @@ bibkey: shi2024discovering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.17422"}
   - {name: "Code", url: "https://github.com/SalesforceAIResearch/GemFilter"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Has Code', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 handling long context inputs, but this comes at the cost of increased

@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15879"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs)-based image captioning has the capability of
 describing objects not explicitly observed in training data; yet novel objects

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024seeing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.09968"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 The hallucination problem in multimodal large language models (MLLMs) remains
 a common issue. Although image tokens occupy a majority of the input sequence

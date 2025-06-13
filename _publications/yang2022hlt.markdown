@@ -7,7 +7,7 @@ year: 2022
 bibkey: yang2022hlt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.04906"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'WMT', 'Training Techniques', 'Attention Mechanism']
 ---
 Multilingual neural machine translation (MNMT) trained in multiple language
 pairs has attracted considerable attention due to fewer model parameters and

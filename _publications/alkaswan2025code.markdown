@@ -7,7 +7,7 @@ year: 2025
 bibkey: alkaswan2025code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01850"}
-tags: ['Prompting', 'Model Architecture', 'Tools']
+tags: ['Tools', 'Prompting', 'Model Architecture']
 ---
 Nowadays, developers increasingly rely on solutions powered by Large Language
 Models (LLM) to assist them with their coding tasks. This makes it crucial to

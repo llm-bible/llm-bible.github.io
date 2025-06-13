@@ -8,7 +8,7 @@ bibkey: tan2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00326"}
   - {name: "Code", url: "https://github.com/NetX-lab/Ayo"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Large-Scale Training', 'Has Code', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Large-Scale Training', 'Has Code']
 ---
 Large language model (LLM)-based applications consist of both LLM and non-LLM
 components, each contributing to the end-to-end latency. Despite great efforts

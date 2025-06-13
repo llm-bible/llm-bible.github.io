@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16964"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 This paper presents an in-depth examination of the evolution and interplay of
 cognitive and expressive capabilities in large language models (LLMs), with a

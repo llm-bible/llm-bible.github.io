@@ -7,7 +7,7 @@ year: 2024
 bibkey: shao2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03220"}
-tags: ['Multimodal Models', 'Model Architecture', 'Survey Paper', 'Merging', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Survey Paper', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Large Language Models (LLMs) represent a class of deep learning models adept
 at understanding natural language and generating coherent responses to various

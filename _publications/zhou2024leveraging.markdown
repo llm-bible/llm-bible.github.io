@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08003"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Most large language models are fine-tuned using either expensive
 human-annotated data or GPT-4 generated data which cannot guarantee performance

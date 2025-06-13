@@ -8,7 +8,7 @@ bibkey: ye2024tl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15495"}
   - {name: "Code", url: "https://github.com/Junjie-Ye/TL-Training"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) achieve remarkable advancements by leveraging
 tools to interact with external environments, a critical step toward

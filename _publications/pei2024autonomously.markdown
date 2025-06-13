@@ -7,7 +7,7 @@ year: 2024
 bibkey: pei2024autonomously
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.00765"}
-tags: ['Security', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Prompting']
 ---
 Traditional methods for evaluating the robustness of large language models
 (LLMs) often rely on standardized benchmarks, which can escalate costs and

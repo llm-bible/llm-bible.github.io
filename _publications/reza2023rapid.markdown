@@ -7,7 +7,7 @@ year: 2023
 bibkey: reza2023rapid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00117"}
-tags: ['Prompting', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Exploring alternative ideas by rewriting text is integral to the writing
 process. State-of-the-art Large Language Models (LLMs) can simplify writing

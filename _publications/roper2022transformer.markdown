@@ -7,7 +7,7 @@ year: 2022
 bibkey: roper2022transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.09246"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Recent advancements in large pre-trained transformer models (GPT2/3, T5) have
 found use in program synthesis to generate programs that satisfy a set of

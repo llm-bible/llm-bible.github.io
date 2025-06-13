@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhong2025rag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05344"}
-tags: ['Prompting', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Scaling automated formal verification to real-world projects requires
 resolving cross-module dependencies and global contexts, which are challenges

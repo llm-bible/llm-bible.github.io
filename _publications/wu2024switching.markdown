@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024switching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11780"}
-tags: ['Efficiency and Optimization', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) and multimodal models (MMs) have exhibited
 impressive capabilities in various domains, particularly in general language

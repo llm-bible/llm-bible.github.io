@@ -7,7 +7,7 @@ year: 2023
 bibkey: lee2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10419"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 With recent advances in generative AI, conversational models like ChatGPT
 have become feasible candidates for TAs. We investigate the practicality of

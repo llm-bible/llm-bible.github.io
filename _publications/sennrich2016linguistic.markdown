@@ -7,7 +7,7 @@ year: 2016
 bibkey: sennrich2016linguistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1606.02892"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'WMT', 'Training Techniques', 'Attention Mechanism']
 ---
 Neural machine translation has recently achieved impressive results, while
 using little in the way of external linguistic information. In this paper we

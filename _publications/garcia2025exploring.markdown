@@ -7,7 +7,7 @@ year: 2025
 bibkey: garcia2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16871"}
-tags: ['Prompting', 'Security', 'RAG']
+tags: ['RAG', 'Security', 'Prompting']
 ---
 We study whether Large Language Models (LLMs) inherently capture
 domain-specific nuances in natural language. Our experiments probe the domain

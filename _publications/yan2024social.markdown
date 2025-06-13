@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024social
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00273"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 Non-cognitive skills are crucial for personal and social life well-being, and
 such skill development can be supported by narrative-based (e.g., storytelling)

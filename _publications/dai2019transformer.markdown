@@ -7,7 +7,7 @@ year: 2019
 bibkey: dai2019transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1901.02860"}
-tags: ['Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformers have a potential of learning longer-term dependency, but are
 limited by a fixed-length context in the setting of language modeling. We

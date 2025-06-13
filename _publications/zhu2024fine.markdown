@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08378"}
-tags: ['RAG', 'Merging', 'Multimodal Models']
+tags: ['RAG', 'Multimodal Models', 'Merging']
 ---
 Recently, there has been growing interest in the capability of multimodal
 large language models (MLLMs) to process high-resolution images. A common

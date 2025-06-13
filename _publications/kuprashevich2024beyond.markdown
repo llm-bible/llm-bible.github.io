@@ -7,7 +7,7 @@ year: 2024
 bibkey: kuprashevich2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02302"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 Multimodal Large Language Models (MLLMs) have recently gained immense
 popularity. Powerful commercial models like ChatGPT-4V and Gemini, as well as

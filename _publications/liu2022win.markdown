@@ -8,7 +8,7 @@ bibkey: liu2022win
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.05211"}
   - {name: "Code", url: "https://github.com/llyx97/sparse-and-robust-PLM"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Despite the remarkable success of pre-trained language models (PLMs), they
 still face two challenges: First, large-scale PLMs are inefficient in terms of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chou2024mm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04778"}
-tags: ['Security', 'Multimodal Models', 'RAG', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Security', 'Multimodal Models', 'Prompting']
 ---
 With the advent of Large Language Models (LLMs) and Multimodal
 (Visio-lingual) LLMs, a flurry of research has emerged, analyzing the

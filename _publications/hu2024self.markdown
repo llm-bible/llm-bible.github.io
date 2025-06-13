@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11258"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown great potential in the biomedical
 domain with the advancement of retrieval-augmented generation (RAG). However,

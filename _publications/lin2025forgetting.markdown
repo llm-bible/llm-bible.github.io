@@ -8,7 +8,7 @@ bibkey: lin2025forgetting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02130"}
   - {name: "Code", url: "https://github.com/zhixuan-lin/forgetting-transformer"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 An essential component of modern recurrent sequence models is the forget
 gate. While Transformers do not have an explicit recurrent form, we show that a

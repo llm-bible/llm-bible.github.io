@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024first
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11393"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Model Architecture']
+tags: ['Training Techniques', 'RAG', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Dynamic activation (DA) techniques, such as DejaVu and MoEfication, have
 demonstrated their potential to significantly enhance the inference efficiency

@@ -8,7 +8,7 @@ bibkey: ning2024unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06861"}
   - {name: "Code", url: "https://github.com/usail-hkust/UrbanKGent"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Urban knowledge graph has recently worked as an emerging building block to
 distill critical knowledge from multi-sourced urban data for diverse urban

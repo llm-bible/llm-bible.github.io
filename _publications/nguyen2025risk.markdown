@@ -7,7 +7,7 @@ year: 2025
 bibkey: nguyen2025risk
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15758"}
-tags: ['Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Language models are prone to occasionally undesirable generations, such as
 harmful or toxic content, despite their impressive capability to produce texts

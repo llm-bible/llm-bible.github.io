@@ -7,7 +7,7 @@ year: 2018
 bibkey: zhong2018affect
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1811.07078"}
-tags: ['Model Architecture', 'RAG', 'Ethics and Bias', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 Affect conveys important implicit information in human communication. Having
 the capability to correctly express affect during human-machine conversations

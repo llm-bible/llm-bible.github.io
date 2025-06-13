@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07614"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Auto-regressive models have made significant progress in the realm of
 language generation, yet they do not perform on par with diffusion models in

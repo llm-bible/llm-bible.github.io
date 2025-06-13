@@ -7,7 +7,7 @@ year: 2019
 bibkey: ju2019all
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1912.12394"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Agentic', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 As single-task accuracy on individual language and image tasks has improved
 substantially in the last few years, the long-term goal of a generally skilled

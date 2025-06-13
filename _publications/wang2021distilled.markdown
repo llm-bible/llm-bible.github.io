@@ -8,7 +8,7 @@ bibkey: wang2021distilled
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08723"}
   - {name: "Code", url: "https://github.com/kugwzk/Distilled-DualEncoder"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Distillation', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 We propose a cross-modal attention distillation framework to train a
 dual-encoder model for vision-language understanding tasks, such as visual

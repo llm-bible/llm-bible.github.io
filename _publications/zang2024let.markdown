@@ -7,7 +7,7 @@ year: 2024
 bibkey: zang2024let
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.07301"}
-tags: ['RAG', 'Model Architecture', 'Multimodal Models']
+tags: ['RAG', 'Multimodal Models', 'Model Architecture']
 ---
 Storytelling aims to generate reasonable and vivid narratives based on an
 ordered image stream. The fidelity to the image story theme and the divergence

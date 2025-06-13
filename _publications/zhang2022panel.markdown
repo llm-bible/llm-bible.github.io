@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhang2022panel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.08992"}
-tags: ['Agentic', 'Model Architecture', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Few-Shot']
 ---
 Chatbots are expected to be knowledgeable across multiple domains, e.g. for
 daily chit-chat, exchange of information, and grounding in emotional

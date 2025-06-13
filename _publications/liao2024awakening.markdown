@@ -8,7 +8,7 @@ bibkey: liao2024awakening
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15268"}
   - {name: "Code", url: "https://github.com/Xnhyacinth/IAG"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Retrieval-Augmented-Generation and Generation-Augmented-Generation have been
 proposed to enhance the knowledge required for question answering with Large

@@ -7,7 +7,7 @@ year: 2022
 bibkey: mickus2022how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.03529"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Pretrained embeddings based on the Transformer architecture have taken the
 NLP community by storm. We show that they can mathematically be reframed as a

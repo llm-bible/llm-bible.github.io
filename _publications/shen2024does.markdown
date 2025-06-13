@@ -7,7 +7,7 @@ year: 2024
 bibkey: shen2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.17167"}
-tags: ['Prompting', 'Security', 'Tools', 'Reinforcement Learning']
+tags: ['Security', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Human beings often experience stress, which can significantly influence their
 performance. This study explores whether Large Language Models (LLMs) exhibit

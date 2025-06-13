@@ -7,7 +7,7 @@ year: 2024
 bibkey: son2024measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11548"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 We propose KMMLU, a new Korean benchmark with 35,030 expert-level
 multiple-choice questions across 45 subjects ranging from humanities to STEM.

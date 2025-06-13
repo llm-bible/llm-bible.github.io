@@ -7,7 +7,7 @@ year: 2025
 bibkey: baek2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03730"}
-tags: ['Ethics and Bias', 'Efficiency and Optimization', 'Distillation', 'Interpretability']
+tags: ['Interpretability', 'Distillation', 'Efficiency and Optimization', 'Ethics and Bias']
 ---
 In this paper, we investigate how model distillation impacts the development
 of reasoning features in large language models (LLMs). To explore this, we

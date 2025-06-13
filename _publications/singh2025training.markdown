@@ -7,7 +7,7 @@ year: 2025
 bibkey: singh2025training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05800"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Merging', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism']
 ---
 Training-free consistent text-to-image generation depicting the same subjects
 across different images is a topic of widespread recent interest. Existing

@@ -7,7 +7,7 @@ year: 2025
 bibkey: rahe2025how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10091"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Programming students have a widespread access to powerful Generative AI tools
 like ChatGPT. While this can help understand the learning material and assist

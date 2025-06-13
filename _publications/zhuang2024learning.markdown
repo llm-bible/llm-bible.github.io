@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhuang2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02223"}
-tags: ['Applications', 'Tools']
+tags: ['Tools', 'Applications']
 ---
 With hundreds of thousands of language models available on Huggingface today,
 efficiently evaluating and utilizing these models across various downstream,

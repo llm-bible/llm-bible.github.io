@@ -7,7 +7,7 @@ year: 2019
 bibkey: vanaken2019how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.04925"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Bidirectional Encoder Representations from Transformers (BERT) reach
 state-of-the-art results in a variety of Natural Language Processing tasks.

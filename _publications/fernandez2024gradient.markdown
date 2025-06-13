@@ -7,7 +7,7 @@ year: 2024
 bibkey: fernandez2024gradient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.04448"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) trained on web-scale text corpora have been
 shown to capture world knowledge in their parameters. However, the mechanism by

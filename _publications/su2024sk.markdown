@@ -7,7 +7,7 @@ year: 2024
 bibkey: su2024sk
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19593"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Synthetic data generation has gained significant attention recently for its
 utility in training large vision and language models. However, the application

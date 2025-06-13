@@ -7,7 +7,7 @@ year: 2023
 bibkey: singhal2023long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03716"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques']
 ---
 Great success has been reported using Reinforcement Learning from Human
 Feedback (RLHF) to align large language models, with open preference datasets

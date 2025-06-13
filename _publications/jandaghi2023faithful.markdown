@@ -7,7 +7,7 @@ year: 2023
 bibkey: jandaghi2023faithful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10007"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Prompting']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 High-quality conversational datasets are essential for developing AI models
 that can communicate with users. One way to foster deeper interactions between

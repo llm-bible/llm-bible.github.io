@@ -7,7 +7,7 @@ year: 2024
 bibkey: pi2024strengthening
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2403.08730v2"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'RAG', 'Ethics and Bias', 'Pretraining Methods']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) excel in generating responses based
 on visual inputs. However, they often suffer from a bias towards generating

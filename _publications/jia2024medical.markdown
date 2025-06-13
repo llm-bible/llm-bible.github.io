@@ -8,7 +8,7 @@ bibkey: jia2024medical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16810"}
   - {name: "Code", url: "https://github.com/OncoGPT1)"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 In the past year, there has been a growing trend in applying Large Language
 Models (LLMs) to the field of medicine, particularly with the advent of

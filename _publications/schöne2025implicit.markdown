@@ -7,7 +7,7 @@ year: 2025
 bibkey: schöne2025implicit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.07827"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Large-Scale Training', 'Transformer']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
 ---
 State-space models (SSMs) and transformers dominate the language modeling
 landscape. However, they are constrained to a lower computational complexity

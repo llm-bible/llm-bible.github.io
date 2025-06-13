@@ -8,7 +8,7 @@ bibkey: fei2024unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.19806"}
   - {name: "Code", url: "https://vitron-llm.github.io/"}
-tags: ['RAG', 'Has Code', 'Multimodal Models', 'Reinforcement Learning']
+tags: ['RAG', 'Multimodal Models', 'Has Code', 'Reinforcement Learning']
 ---
 Recent developments of vision large language models (LLMs) have seen
 remarkable progress, yet still encounter challenges towards multimodal

@@ -7,7 +7,7 @@ year: 2021
 bibkey: cohen2021learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.04647"}
-tags: ['Agentic', 'Agent', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Agent']
 ---
 We propose a framework that learns to execute natural language instructions
 in an environment consisting of goal-reaching tasks that share components of

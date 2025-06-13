@@ -7,7 +7,7 @@ year: 2024
 bibkey: tyukin2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05741"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Quantization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
 ---
 Large Language Models are growing in size, and we expect them to continue to
 do so, as larger models train quicker. However, this increase in size will

@@ -7,7 +7,7 @@ year: 2023
 bibkey: zala2023generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12128"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Multimodal Models']
 ---
 Text-to-image (T2I) generation has seen significant growth over the past few
 years. Despite this, there has been little work on generating diagrams with T2I

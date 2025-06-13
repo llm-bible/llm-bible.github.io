@@ -7,7 +7,7 @@ year: 2024
 bibkey: reuben2024assessment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19655"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 Human-like personality traits have recently been discovered in large language
 models, raising the hypothesis that their (known and as yet undiscovered)

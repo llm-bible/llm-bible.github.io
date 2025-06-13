@@ -7,7 +7,7 @@ year: 2025
 bibkey: pham2025swe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14757"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) are transforming automated program repair (APR)
 through agent-based approaches that localize bugs, generate patches, and verify

@@ -7,7 +7,7 @@ year: 2024
 bibkey: agarwal2024clustered
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08058"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) with hundreds of billions of parameters have
 transformed the field of machine learning. However, serving these models at

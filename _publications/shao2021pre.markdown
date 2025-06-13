@@ -7,7 +7,7 @@ year: 2021
 bibkey: shao2021pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.05729"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'RAG', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 In this paper, we take the advantage of previous pre-trained models (PTMs)
 and propose a novel Chinese Pre-trained Unbalanced Transformer (CPT). Different

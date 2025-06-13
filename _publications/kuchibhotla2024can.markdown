@@ -7,7 +7,7 @@ year: 2024
 bibkey: kuchibhotla2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07921"}
-tags: ['Multimodal Models', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Going beyond mere fine-tuning of vision-language models (VLMs), learnable
 prompt tuning has emerged as a promising, resource-efficient alternative.

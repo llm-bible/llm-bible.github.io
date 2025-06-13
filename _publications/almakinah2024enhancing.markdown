@@ -7,7 +7,7 @@ year: 2024
 bibkey: almakinah2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02783"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Access to mental health support remains limited, particularly in marginalized
 communities where structural and cultural barriers hinder timely care. This

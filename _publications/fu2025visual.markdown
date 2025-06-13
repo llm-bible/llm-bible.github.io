@@ -7,7 +7,7 @@ year: 2025
 bibkey: fu2025visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.05452"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Structured image understanding, such as interpreting tables and charts,
 requires strategically refocusing across various structures and texts within an

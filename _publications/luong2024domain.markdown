@@ -7,7 +7,7 @@ year: 2024
 bibkey: luong2024domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02823"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities, but their
 inherent probabilistic nature often leads to inconsistency and inaccuracy in

@@ -8,7 +8,7 @@ bibkey: he2024consistent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01155"}
   - {name: "Code", url: "https://github.com/chunmeifeng/CPT"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Has Code', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Black-box tuning has attracted recent attention due to that the structure or
 inner parameters of advanced proprietary models are not accessible.

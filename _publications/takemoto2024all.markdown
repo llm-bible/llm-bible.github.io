@@ -7,7 +7,7 @@ year: 2024
 bibkey: takemoto2024all
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09798"}
-tags: ['Security', 'Model Architecture', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs), such as ChatGPT, encounter `jailbreak'
 challenges, wherein safeguards are circumvented to generate ethically harmful

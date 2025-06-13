@@ -7,7 +7,7 @@ year: 2023
 bibkey: xiao2023offline
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14403"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Distillation', 'Prompting', 'In-Context Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'In-Context Learning', 'Few-Shot', 'Prompting', 'Distillation']
 ---
 Recent advancements in large language models (LLMs) have exhibited promising
 performance in solving sequential decision-making problems. By imitating

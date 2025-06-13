@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.17466"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 The recent release of ChatGPT has garnered widespread recognition for its
 exceptional ability to generate human-like responses in dialogue. Given its

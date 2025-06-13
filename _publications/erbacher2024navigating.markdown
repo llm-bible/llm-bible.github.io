@@ -7,7 +7,7 @@ year: 2024
 bibkey: erbacher2024navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.01780"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 While Large Language Models (LLM) are able to accumulate and restore
 knowledge, they are still prone to hallucination. Especially when faced with

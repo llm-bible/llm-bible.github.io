@@ -7,7 +7,7 @@ year: 2023
 bibkey: nityasya2023case
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02870"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'BERT', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT']
 ---
 This evidence-based position paper critiques current research practices
 within the language model pre-training literature. Despite rapid recent

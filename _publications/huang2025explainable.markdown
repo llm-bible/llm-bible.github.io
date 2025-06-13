@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025explainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11655"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements in large language models (LLMs) have significantly
 enhanced sentiment analysis capabilities. However, the trade-offs between model

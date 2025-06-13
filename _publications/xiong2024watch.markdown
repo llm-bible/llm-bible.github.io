@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiong2024watch
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11176"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language model agents have exhibited exceptional performance across a
 range of complex interactive tasks. Recent approaches have utilized tuning with

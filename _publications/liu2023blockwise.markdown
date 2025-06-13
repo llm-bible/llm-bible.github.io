@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023blockwise
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.19370v3"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers have emerged as the cornerstone of state-of-the-art natural
 language processing models, showcasing exceptional performance across a wide

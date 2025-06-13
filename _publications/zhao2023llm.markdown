@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023llm
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2308.10144v2"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques']
 ---
 The recent surge in research interest in applying large language models
 (LLMs) to decision-making tasks has flourished by leveraging the extensive

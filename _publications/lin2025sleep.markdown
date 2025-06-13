@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025sleep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13171"}
-tags: ['Agentic', 'RAG']
+tags: ['RAG', 'Agentic']
 ---
 Scaling test-time compute has emerged as a key ingredient for enabling large
 language models (LLMs) to solve difficult problems, but comes with high latency

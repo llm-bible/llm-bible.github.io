@@ -7,7 +7,7 @@ year: 2025
 bibkey: zheng2025curse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05081"}
-tags: ['Prompting', 'Interpretability and Explainability', 'In-Context Learning', 'Reinforcement Learning']
+tags: ['Interpretability and Explainability', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
 ---
 Chain-of-Thought (CoT) prompting has been widely recognized for its ability
 to enhance reasoning capabilities in large language models (LLMs) through the

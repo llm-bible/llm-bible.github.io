@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023asking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15695"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Interpretability', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Prompting']
 ---
 With strong capabilities of reasoning and a broad understanding of the world,
 Large Language Models (LLMs) have demonstrated immense potential in building

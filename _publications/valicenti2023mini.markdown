@@ -7,7 +7,7 @@ year: 2023
 bibkey: valicenti2023mini
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12682"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pruning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 In AI research, the optimization of Large Language Models (LLMs) remains a
 significant challenge, crucial for advancing the field's practical applications

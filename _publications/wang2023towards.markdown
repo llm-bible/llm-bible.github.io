@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17331"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recently, to comprehensively improve Vision Language Models (VLMs) for Visual
 Question Answering (VQA), several methods have been proposed to further

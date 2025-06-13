@@ -7,7 +7,7 @@ year: 2023
 bibkey: micelibarone2023dialogue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17372"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Simulation is an invaluable tool for developing and evaluating controllers
 for self-driving cars. Current simulation frameworks are driven by

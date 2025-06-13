@@ -7,7 +7,7 @@ year: 2022
 bibkey: nikolaus2022do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.12079"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent advances in vision-and-language modeling have seen the development of
 Transformer architectures that achieve remarkable performance on multimodal

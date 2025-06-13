@@ -8,7 +8,7 @@ bibkey: chen2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02395"}
   - {name: "Code", url: "https://github.com/antonioo-c/Regional-Prompting-FLUX"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Diffusion models have demonstrated excellent capabilities in text-to-image
 generation. Their semantic understanding (i.e., prompt following) ability has

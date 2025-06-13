@@ -7,7 +7,7 @@ year: 2025
 bibkey: gurjar2025leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07110"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Despite the success of vision-language models in various generative tasks,
 obtaining high-quality semantic representations for products and user intents

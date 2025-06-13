@@ -7,7 +7,7 @@ year: 2020
 bibkey: seo2020look
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.05710"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 While most conversational AI systems focus on textual dialogue only,
 conditioning utterances on visual context (when it's available) can lead to

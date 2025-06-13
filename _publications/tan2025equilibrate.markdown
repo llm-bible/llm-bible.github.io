@@ -7,7 +7,7 @@ year: 2025
 bibkey: tan2025equilibrate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11555"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) based on human preferences, commonly
 achieved through reinforcement learning from human feedback (RLHF), has been

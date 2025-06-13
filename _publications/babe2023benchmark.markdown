@@ -7,7 +7,7 @@ year: 2023
 bibkey: babe2023benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.04556"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 Code LLMs are being rapidly deployed and there is evidence that they can make
 professional programmers more productive. Current benchmarks for code

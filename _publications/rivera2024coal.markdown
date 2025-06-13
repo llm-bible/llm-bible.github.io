@@ -7,7 +7,7 @@ year: 2024
 bibkey: rivera2024coal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02959"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 In this paper, we present a novel approach to coal mining question answering
 (QA) using large language models (LLMs) combined with tailored prompt

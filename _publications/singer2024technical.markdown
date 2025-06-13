@@ -7,7 +7,7 @@ year: 2024
 bibkey: singer2024technical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16818"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We present H2O-Danube, a series of small 1.8B language models consisting of
 H2O-Danube-1.8B, trained on 1T tokens, and the incremental improved

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15842"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 The rapid advancement of large language models (LLMs) has significantly
 improved code completion tasks, yet the trade-off between accuracy and

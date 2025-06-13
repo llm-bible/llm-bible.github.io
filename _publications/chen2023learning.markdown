@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.09458"}
-tags: ['Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer architectures have achieved great success in solving natural
 language tasks, which learn strong language representations from large-scale

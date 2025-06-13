@@ -7,7 +7,7 @@ year: 2024
 bibkey: lim2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13949"}
-tags: ['Prompting', 'RAG', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Multilingual large language models (LLMs) are great translators, but this is
 largely limited to high-resource languages. For many LLMs, translating in and

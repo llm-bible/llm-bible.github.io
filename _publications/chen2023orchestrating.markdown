@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023orchestrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.03540"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Orchestrating a high-quality data preparation program is essential for
 successful machine learning (ML), but it is known to be time and effort

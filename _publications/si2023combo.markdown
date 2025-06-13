@@ -8,7 +8,7 @@ bibkey: si2023combo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.06407"}
   - {name: "Code", url: "https://github.com/PhoebusSi/Thinking-while-Observing"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Outside-knowledge visual question answering is a challenging task that
 requires both the acquisition and the use of open-ended real-world knowledge.

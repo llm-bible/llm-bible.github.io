@@ -8,7 +8,7 @@ bibkey: hyland2023maira
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13668"}
   - {name: "Code", url: "https://aka.ms/maira"}
-tags: ['RAG', 'Has Code', 'Survey Paper', 'Multimodal Models']
+tags: ['RAG', 'Multimodal Models', 'Has Code', 'Survey Paper']
 ---
 We present a radiology-specific multimodal model for the task for generating
 radiological reports from chest X-rays (CXRs). Our work builds on the idea that

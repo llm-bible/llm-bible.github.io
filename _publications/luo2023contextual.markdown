@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17898"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Modern text-to-vision generative models often hallucinate when the prompt
 describing the scene to be generated is underspecified. In large language

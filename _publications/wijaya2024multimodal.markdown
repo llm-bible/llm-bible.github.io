@@ -7,7 +7,7 @@ year: 2024
 bibkey: wijaya2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17417"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Multimodal large language models (MLLMs) have significantly advanced tasks
 like caption generation and visual question answering by integrating visual and

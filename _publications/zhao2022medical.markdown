@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhao2022medical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.08611"}
-tags: ['Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture']
 ---
 Medical dialogue generation is an important yet challenging task. Most
 previous works rely on the attention mechanism and large-scale pretrained

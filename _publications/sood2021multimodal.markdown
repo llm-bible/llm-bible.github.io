@@ -7,7 +7,7 @@ year: 2021
 bibkey: sood2021multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.13139"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Human-like attention as a supervisory signal to guide neural attention has
 shown significant promise but is currently limited to uni-modal integration -

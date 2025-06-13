@@ -7,7 +7,7 @@ year: 2023
 bibkey: hazell2023spear
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.06972"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Recent progress in artificial intelligence (AI), particularly in the domain
 of large language models (LLMs), has resulted in powerful and versatile

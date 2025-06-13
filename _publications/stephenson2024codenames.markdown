@@ -7,7 +7,7 @@ year: 2024
 bibkey: stephenson2024codenames
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11373"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 In this paper, we propose the use of the popular word-based board game
 Codenames as a suitable benchmark for evaluating the reasoning capabilities of

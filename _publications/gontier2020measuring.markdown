@@ -7,7 +7,7 @@ year: 2020
 bibkey: gontier2020measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.14786"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We are interested in understanding how well Transformer language models
 (TLMs) can perform reasoning tasks when trained on knowledge encoded in the

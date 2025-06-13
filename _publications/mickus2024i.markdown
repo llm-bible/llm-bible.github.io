@@ -7,7 +7,7 @@ year: 2024
 bibkey: mickus2024i
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.17918"}
-tags: ['Training Techniques', 'Applications', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Modularity is a paradigm of machine translation with the potential of
 bringing forth models that are large at training time and small during

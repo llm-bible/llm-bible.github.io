@@ -7,7 +7,7 @@ year: 2020
 bibkey: goel2020iq
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.04422"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Security', 'Attention Mechanism']
 ---
 Even though there has been tremendous progress in the field of Visual
 Question Answering, models today still tend to be inconsistent and brittle. To

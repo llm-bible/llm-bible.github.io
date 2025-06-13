@@ -7,7 +7,7 @@ year: 2022
 bibkey: noever2022turing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.06721"}
-tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Prompting']
 ---
 This research revisits the classic Turing test and compares recent large
 language models such as ChatGPT for their abilities to reproduce human-level

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023uncertainty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15451"}
-tags: ['Language Modeling', 'BERT', 'Applications', 'Model Architecture']
+tags: ['BERT', 'Language Modeling', 'Applications', 'Model Architecture']
 ---
 We present an automatic large language model (LLM) conversion approach that
 produces uncertainty-aware LLMs capable of estimating uncertainty with every

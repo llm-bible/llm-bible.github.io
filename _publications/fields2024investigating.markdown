@@ -8,7 +8,7 @@ bibkey: fields2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06657"}
   - {name: "Code", url: "https://github.com/bsu-slim/renaissance"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 In the past several years there has been an explosion of available models for
 vision-language tasks. Unfortunately, the literature still leaves open a number

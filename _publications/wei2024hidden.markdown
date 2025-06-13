@@ -7,7 +7,7 @@ year: 2024
 bibkey: wei2024hidden
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20234"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Prompting']
 ---
 Large Language Models (LLMs) such as ChatGPT and Llama have become prevalent
 in real-world applications, exhibiting impressive text generation performance.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ploner2024lm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15729"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Knowledge probing evaluates the extent to which a language model (LM) has
 acquired relational knowledge during its pre-training phase. It provides a

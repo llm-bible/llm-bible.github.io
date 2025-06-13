@@ -7,7 +7,7 @@ year: 2023
 bibkey: zaki2023question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.09115"}
-tags: ['Prompting', 'Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
 ---
 Information extraction and textual comprehension from materials literature
 are vital for developing an exhaustive knowledge base that enables accelerated

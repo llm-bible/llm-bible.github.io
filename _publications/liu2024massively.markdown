@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024massively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21157"}
-tags: ['RAG', 'Model Architecture', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Model Architecture']
 ---
 Repository-level code completion has drawn great attention in software
 engineering, and several benchmark datasets have been introduced. However,

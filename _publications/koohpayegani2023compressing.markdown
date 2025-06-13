@@ -8,7 +8,7 @@ bibkey: koohpayegani2023compressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02556"}
   - {name: "Code", url: "https://github.com/UCDvision/NOLA"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Fine-tuning Large Language Models (LLMs) and storing them for each downstream
 task or domain is impractical because of the massive model size (e.g., 350GB in

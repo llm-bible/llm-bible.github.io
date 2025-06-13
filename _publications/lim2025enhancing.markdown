@@ -7,7 +7,7 @@ year: 2025
 bibkey: lim2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20796"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Security']
 ---
 Sophisticated phishing attacks have emerged as a major cybersecurity threat,
 becoming more common and difficult to prevent. Though machine learning

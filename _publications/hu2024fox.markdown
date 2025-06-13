@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024fox
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05281"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 We present Fox-1, a series of small language models (SLMs) consisting of
 Fox-1-1.6B and Fox-1-1.6B-Instruct-v0.1. These models are pre-trained on 3

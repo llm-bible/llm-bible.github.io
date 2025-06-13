@@ -7,7 +7,7 @@ year: 2025
 bibkey: yan2025unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02795"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Distillation', 'Merging']
+tags: ['Tools', 'Efficiency and Optimization', 'Merging', 'Training Techniques', 'Distillation']
 ---
 We introduce InfiFusion, an efficient training pipeline designed to integrate
 multiple domain-specialized Large Language Models (LLMs) into a single pivot

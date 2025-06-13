@@ -7,7 +7,7 @@ year: 2024
 bibkey: huff2024judgment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13392"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) increasingly mimic human cognition in various
 language-based tasks. However, their capacity for metacognition - particularly

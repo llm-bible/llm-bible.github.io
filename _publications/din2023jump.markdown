@@ -8,7 +8,7 @@ bibkey: din2023jump
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.09435"}
   - {name: "Code", url: "https://github.com/sashayd/mat"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Transformer-based language models create hidden representations of their
 inputs at every layer, but only use final-layer representations for prediction.

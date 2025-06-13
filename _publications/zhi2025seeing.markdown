@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhi2025seeing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.08308"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs) show promise in tasks like visual
 question answering (VQA) but still face challenges in multimodal reasoning.

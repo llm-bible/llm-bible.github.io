@@ -7,7 +7,7 @@ year: 2025
 bibkey: fan2025can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06219"}
-tags: ['Pretraining Methods', 'Training Techniques']
+tags: ['Training Techniques', 'Pretraining Methods']
 ---
 The increasing adoption of web crawling opt-outs by copyright holders of
 online content raises critical questions about the impact of data compliance on

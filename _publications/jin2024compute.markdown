@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024compute
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03065"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) are increasingly deployed in large-scale online
 services, enabling sophisticated applications. However, the computational

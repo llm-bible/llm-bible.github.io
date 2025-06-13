@@ -7,7 +7,7 @@ year: 2025
 bibkey: limkonchotiwat2025assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05898"}
-tags: ['Security', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Security', 'GPT', 'Model Architecture', 'Applications']
 ---
 Large language models show promising results in various NLP tasks. Despite
 these successes, the robustness and consistency of LLMs in underrepresented

@@ -7,7 +7,7 @@ year: 2024
 bibkey: choudhury2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14691"}
-tags: ['Ethics and Bias', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 This paper explores the evolving relationship between clinician trust in
 LLMs, the transformation of data sources from predominantly human-generated to

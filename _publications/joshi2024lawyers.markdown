@@ -7,7 +7,7 @@ year: 2024
 bibkey: joshi2024lawyers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13484"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are increasingly being used to generate text
 across various languages, for tasks such as translation, customer support, and

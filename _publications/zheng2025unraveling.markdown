@@ -8,7 +8,7 @@ bibkey: zheng2025unraveling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11176"}
   - {name: "Code", url: "https://github.com/HKUST-KnowComp/LogiDynamics"}
-tags: ['RAG', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'RAG', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Modern large language models (LLMs) employ various forms of logical
 inference, both implicitly and explicitly, when addressing reasoning tasks.

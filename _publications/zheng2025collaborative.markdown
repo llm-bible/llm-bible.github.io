@@ -8,7 +8,7 @@ bibkey: zheng2025collaborative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01976"}
   - {name: "Code", url: "https://github.com/aiming-lab/CITER"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large language models have achieved remarkable success in various tasks but
 suffer from high computational costs during inference, limiting their

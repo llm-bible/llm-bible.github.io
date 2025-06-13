@@ -8,7 +8,7 @@ bibkey: su2024evolving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12317"}
   - {name: "Code", url: "https://arks-codegen.github.io"}
-tags: ['Prompting', 'RAG', 'Applications', 'Has Code']
+tags: ['RAG', 'Has Code', 'Prompting', 'Applications']
 ---
 Recently the retrieval-augmented generation (RAG) has been successfully
 applied in code generation. However, existing pipelines for retrieval-augmented

@@ -7,7 +7,7 @@ year: 2025
 bibkey: mayilvahanan2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12120"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
 ---
 Scaling laws guide the development of large language models (LLMs) by
 offering estimates for the optimal balance of model size, tokens, and compute.

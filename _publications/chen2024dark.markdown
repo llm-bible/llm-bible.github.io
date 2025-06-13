@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024dark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00787"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated great capabilities in natural
 language understanding and generation, largely attributed to the intricate

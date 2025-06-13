@@ -7,7 +7,7 @@ year: 2024
 bibkey: gupta2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13009"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 The popularity of Large Language Models (LLMs) have unleashed a new age
 ofLanguage Agents for solving a diverse range of tasks. While contemporary

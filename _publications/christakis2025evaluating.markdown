@@ -7,7 +7,7 @@ year: 2025
 bibkey: christakis2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.05852"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 This study introduces a new methodology for an Inference Index (InI), called
 INFerence INdex In Testing model Effectiveness methodology (INFINITE), aiming

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023embodied
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08588"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Large vision-language models (VLMs) have achieved substantial progress in
 multimodal perception and reasoning. When integrated into an embodied agent,

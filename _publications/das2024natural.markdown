@@ -8,7 +8,7 @@ bibkey: das2024natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16029"}
   - {name: "Code", url: "https://github.com/selfsupervised-ai/Natural-GaLore.git"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Training LLMs presents significant memory challenges due to growing size of
 data, weights, and optimizer states. Techniques such as data and model

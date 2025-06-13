@@ -7,7 +7,7 @@ year: 2022
 bibkey: yang2022building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.12681"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Pretraining Methods']
 ---
 The knowledge-grounded dialogue task aims to generate responses that convey
 information from given knowledge documents. However, it is a challenge for the

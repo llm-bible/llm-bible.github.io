@@ -7,7 +7,7 @@ year: 2024
 bibkey: guinet2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13622"}
-tags: ['Arxiv', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Arxiv']
 ---
 We propose a new method to measure the task-specific accuracy of
 Retrieval-Augmented Large Language Models (RAG). Evaluation is performed by

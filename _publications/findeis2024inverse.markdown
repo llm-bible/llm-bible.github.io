@@ -8,7 +8,7 @@ bibkey: findeis2024inverse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06560"}
   - {name: "Code", url: "https://github.com/rdnfn/icai"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Feedback data is widely used for fine-tuning and evaluating state-of-the-art
 AI models. Pairwise text preferences, where human or AI annotators select the

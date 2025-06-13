@@ -7,7 +7,7 @@ year: 2024
 bibkey: diesendruck2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08756"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 When LLMs perform zero-shot inference, they typically use a prompt with a
 task specification, and generate a completion. However, there is no work to

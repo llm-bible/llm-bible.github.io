@@ -7,7 +7,7 @@ year: 2024
 bibkey: khade2024challenges
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18571"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable multilingual
 capabilities, yet challenges persist in adapting these models for low-resource

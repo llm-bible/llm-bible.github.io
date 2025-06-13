@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023chinese
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.11812"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 ChatGPT is a publicly available chatbot that can quickly generate texts on
 given topics, but it is unknown whether the chatbot is really superior to human

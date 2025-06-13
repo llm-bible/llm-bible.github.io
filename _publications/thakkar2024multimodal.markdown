@@ -7,7 +7,7 @@ year: 2024
 bibkey: thakkar2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01753"}
-tags: ['Multimodal Models', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 In recent years, multimodal natural language processing, aimed at learning
 from diverse data types, has garnered significant attention. However, there

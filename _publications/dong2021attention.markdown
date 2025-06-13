@@ -7,7 +7,7 @@ year: 2021
 bibkey: dong2021attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.00371"}
-tags: ['Model Architecture', 'Language Modeling', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism']
 ---
 Despite considerable advancements with deep neural language models (LMs),
 neural text generation still suffers from degeneration: the generated text is

@@ -7,7 +7,7 @@ year: 2023
 bibkey: koneru2023contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14855"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLM's) have demonstrated considerable success in
 various Natural Language Processing tasks, but they have yet to attain

@@ -8,7 +8,7 @@ bibkey: wen2024autodroid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18116"}
   - {name: "Code", url: "https://github.com/MobileLLM/AutoDroid-V2"}
-tags: ['Agentic', 'Applications', 'Has Code', 'Tools']
+tags: ['Agentic', 'Has Code', 'Applications', 'Tools']
 ---
 Large language models (LLMs) have brought exciting new advances to mobile UI
 agents, a long-standing research field that aims to complete arbitrary natural

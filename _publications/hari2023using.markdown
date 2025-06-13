@@ -7,7 +7,7 @@ year: 2023
 bibkey: hari2023using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19902"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Currently, over a thousand LLMs exist that are multi-purpose and are capable
 of performing real world tasks, including Q&A, text summarization, content

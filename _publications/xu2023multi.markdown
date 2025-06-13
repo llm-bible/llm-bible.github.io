@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06494"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 With the availability of large-scale, comprehensive, and general-purpose
 vision-language (VL) datasets such as MSCOCO, vision-language pre-training

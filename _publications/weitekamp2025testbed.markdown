@@ -7,7 +7,7 @@ year: 2025
 bibkey: weitekamp2025testbed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01563"}
-tags: ['Agentic', 'Agent', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Prompting', 'In-Context Learning']
 ---
 Recent improvements in large language model (LLM) performance on academic
 benchmarks, such as MATH and GSM8K, have emboldened their use as standalone

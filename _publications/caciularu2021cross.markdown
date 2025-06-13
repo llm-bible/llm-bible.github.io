@@ -8,7 +8,7 @@ bibkey: caciularu2021cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.00406"}
   - {name: "Code", url: "https://github.com/aviclu/CDLM"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'RAG', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 We introduce a new pretraining approach geared for multi-document language
 modeling, incorporating two key ideas into the masked language modeling

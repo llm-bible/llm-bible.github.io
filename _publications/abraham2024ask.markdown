@@ -7,7 +7,7 @@ year: 2024
 bibkey: abraham2024ask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05831"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Attention Mechanism']
+tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Recent research in Vision Language Navigation (VLN) has overlooked the
 development of agents' inquisitive abilities, which allow them to ask

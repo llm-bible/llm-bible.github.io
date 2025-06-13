@@ -7,7 +7,7 @@ year: 2020
 bibkey: pfeiffer2020mad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00052"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'BERT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'BERT', 'Few-Shot']
 ---
 The main goal behind state-of-the-art pre-trained multilingual models such as
 multilingual BERT and XLM-R is enabling and bootstrapping NLP applications in

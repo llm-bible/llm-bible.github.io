@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22851"}
-tags: ['Prompting', 'Security', 'Applications']
+tags: ['Security', 'Prompting', 'Applications']
 ---
 When using LLMs to address Non-Functional Requirements (NFRs), developers may
 behave differently (e.g., expressing the same NFR in different words). Robust

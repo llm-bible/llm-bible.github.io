@@ -7,7 +7,7 @@ year: 2025
 bibkey: mohanty2025fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06054"}
-tags: ['Training Techniques', 'Fairness', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Fairness', 'Prompting']
 ---
 Recent advancements in Artificial Intelligence, particularly in Large
 Language Models (LLMs), have transformed natural language processing by

@@ -7,7 +7,7 @@ year: 2024
 bibkey: merad2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13924"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In the quest to overcome language barriers, encoder-decoder models like NLLB
 have expanded machine translation to rare languages, with some models (e.g.,

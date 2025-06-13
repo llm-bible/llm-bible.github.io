@@ -8,7 +8,7 @@ bibkey: thomm2024limits
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05785"}
   - {name: "Code", url: "https://github.com/IBM/limitations-lm-algorithmic-compositional-learning"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 We analyze the capabilities of Transformer language models in learning
 compositional discrete tasks. To this end, we evaluate training LLaMA models

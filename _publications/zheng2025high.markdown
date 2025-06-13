@@ -8,7 +8,7 @@ bibkey: zheng2025high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03975"}
   - {name: "Code", url: "https://github.com/psunlpgroup/GreaterPrompt"}
-tags: ['Efficiency and Optimization', 'Tools', 'RAG', 'Has Code', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Has Code', 'Prompting']
 ---
 LLMs have gained immense popularity among researchers and the general public
 for its impressive capabilities on a variety of tasks. Notably, the efficacy of

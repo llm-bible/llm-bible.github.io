@@ -8,7 +8,7 @@ bibkey: zentner2023conditionally
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17019"}
   - {name: "Code", url: "https://github.com/krzentner/language-world/"}
-tags: ['Agentic', 'Has Code', 'Few-Shot', 'Reinforcement Learning']
+tags: ['Few-Shot', 'Agentic', 'Has Code', 'Reinforcement Learning']
 ---
 This paper combines two contributions. First, we introduce an extension of
 the Meta-World benchmark, which we call "Language-World," which allows a large

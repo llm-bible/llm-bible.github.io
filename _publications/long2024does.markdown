@@ -7,7 +7,7 @@ year: 2024
 bibkey: long2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07546"}
-tags: ['Prompting', 'In-Context Learning', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In-context Learning (ICL) has emerged as a powerful capability alongside the
 development of scaled-up large language models (LLMs). By instructing LLMs

@@ -7,7 +7,7 @@ year: 2023
 bibkey: ji2023tailoring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.13344"}
-tags: ['Security', 'Training Techniques', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Language Modeling', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 The standard paradigm of neural language generation adopts maximum likelihood
 estimation (MLE) as the optimizing method. From a distributional view, MLE in

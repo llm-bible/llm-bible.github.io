@@ -7,7 +7,7 @@ year: 2020
 bibkey: roh2020hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.08636"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We report a GPT-based multi-sentence language model for dialogue generation
 and document understanding. First, we propose a hierarchical GPT which consists

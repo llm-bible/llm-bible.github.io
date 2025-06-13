@@ -8,7 +8,7 @@ bibkey: xu2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15720"}
   - {name: "Code", url: "https://github.com/OliverXUZY/LLM_Compose"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have emerged as powerful tools for many AI
 problems and exhibit remarkable in-context learning (ICL) capabilities.

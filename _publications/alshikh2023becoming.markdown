@@ -7,7 +7,7 @@ year: 2023
 bibkey: alshikh2023becoming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.03692"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 In this paper, we introduce the Instruction Following Score (IFS), a metric
 that detects language models' ability to follow instructions. The metric has a

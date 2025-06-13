@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13464"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 As large language models (LLMs) continue to advance, instruction tuning has
 become critical for improving their ability to generate accurate and

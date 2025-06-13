@@ -7,7 +7,7 @@ year: 2025
 bibkey: thérien2025continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.05029"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Sparsely-activated Mixture of Experts (MoE) transformers are promising
 architectures for foundation models. Compared to dense transformers that

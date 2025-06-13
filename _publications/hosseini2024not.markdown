@@ -7,7 +7,7 @@ year: 2024
 bibkey: hosseini2024not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01748"}
-tags: ['Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Applications']
 ---
 We study the depth of grade-school math (GSM) problem-solving capabilities of
 LLMs. To this end, we evaluate their performance on pairs of existing math word

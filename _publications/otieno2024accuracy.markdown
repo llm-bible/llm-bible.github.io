@@ -7,7 +7,7 @@ year: 2024
 bibkey: otieno2024accuracy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19578"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models (LLMs) have attracted considerable attention as they
 are capable of showcasing impressive capabilities generating comparable

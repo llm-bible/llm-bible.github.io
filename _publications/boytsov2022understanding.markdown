@@ -7,7 +7,7 @@ year: 2022
 bibkey: boytsov2022understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.01262"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We evaluated 20+ Transformer models for ranking of long documents (including
 recent LongP models trained with FlashAttention) and compared them with a

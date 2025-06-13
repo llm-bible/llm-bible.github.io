@@ -7,7 +7,7 @@ year: 2023
 bibkey: qiu2023facilitating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.09749"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'GPT', 'BERT', 'Applications']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT', 'Distillation']
 ---
 NSFW (Not Safe for Work) content, in the context of a dialogue, can have
 severe side effects on users in open-domain dialogue systems. However, research

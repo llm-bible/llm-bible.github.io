@@ -8,7 +8,7 @@ bibkey: wang2024vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10241"}
   - {name: "Code", url: "https://github.com/CrystalSixone/VLN-GOAT"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Has Code', 'ACL', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Agentic', 'Ethics and Bias', 'Model Architecture', 'ACL', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 In the pursuit of robust and generalizable environment perception and
 language understanding, the ubiquitous challenge of dataset bias continues to

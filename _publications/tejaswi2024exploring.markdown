@@ -7,7 +7,7 @@ year: 2024
 bibkey: tejaswi2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14670"}
-tags: ['Pretraining Methods', 'Efficiency and Optimization', 'Training Techniques', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods']
 ---
 Despite rapid progress in large language models (LLMs), their performance on
 a vast majority of languages remains unsatisfactory. In this paper, we study

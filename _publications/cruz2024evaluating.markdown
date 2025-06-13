@@ -7,7 +7,7 @@ year: 2024
 bibkey: cruz2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.14614"}
-tags: ['Prompting', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Current question-answering benchmarks predominantly focus on accuracy in
 realizable prediction tasks. Conditioned on a question and answer-key, does the

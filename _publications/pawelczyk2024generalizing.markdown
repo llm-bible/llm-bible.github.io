@@ -7,7 +7,7 @@ year: 2024
 bibkey: pawelczyk2024generalizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00418"}
-tags: ['Security', 'Training Techniques', 'Fairness', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Fairness']
 ---
 The rapid proliferation of generative AI, especially large language models,
 has led to their integration into a variety of applications. A key phenomenon

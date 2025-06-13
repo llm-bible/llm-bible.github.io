@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023unnatural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.18805"}
-tags: ['Tokenization', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Tokenization', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 While Large Language Models (LLMs) have achieved remarkable performance in
 many tasks, much about their inner workings remains unclear. In this study, we

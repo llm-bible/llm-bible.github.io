@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023fake
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05046"}
-tags: ['Model Architecture', 'GPT', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 The rampant spread of fake news has adversely affected society, resulting in
 extensive research on curbing its spread. As a notable milestone in large

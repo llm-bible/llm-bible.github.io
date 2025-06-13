@@ -7,7 +7,7 @@ year: 2022
 bibkey: sun2022towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.01145"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Conditional variational models, using either continuous or discrete latent
 variables, are powerful for open-domain dialogue response generation. However,

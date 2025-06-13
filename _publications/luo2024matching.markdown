@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024matching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.09395"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recently, large language models (LLMs) have outperformed human experts in
 predicting the results of neuroscience experiments (Luo et al., 2024). What is

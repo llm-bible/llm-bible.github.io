@@ -7,7 +7,7 @@ year: 2024
 bibkey: boz2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01339"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 The sequential recommendation problem has attracted considerable research
 attention in the past few years, leading to the rise of numerous recommendation

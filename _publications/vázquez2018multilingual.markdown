@@ -7,7 +7,7 @@ year: 2018
 bibkey: vázquez2018multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1811.00498"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 In this paper, we propose a multilingual encoder-decoder architecture capable
 of obtaining multilingual sentence representations by means of incorporating an

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024offline
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11359"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Researchers and practitioners have recently reframed powerful Large Language
 Models (LLMs) as agents, enabling them to automate complex tasks largely via

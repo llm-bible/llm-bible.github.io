@@ -7,7 +7,7 @@ year: 2024
 bibkey: kanepajs2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13708"}
-tags: ['Responsible AI', 'Tools', 'Reinforcement Learning', 'Merging', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'Merging', 'Reinforcement Learning', 'Prompting']
 ---
 Linguistically inclusive LLMs -- which maintain good performance regardless
 of the language with which they are prompted -- are necessary for the diffusion

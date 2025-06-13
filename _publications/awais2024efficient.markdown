@@ -8,7 +8,7 @@ bibkey: awais2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08405"}
   - {name: "Code", url: "https://github.com/awaisrauf/agroGPT"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'GPT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Has Code', 'Multimodal Models']
 ---
 Significant progress has been made in advancing large multimodal
 conversational models (LMMs), capitalizing on vast repositories of image-text

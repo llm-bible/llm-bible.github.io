@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08846"}
-tags: ['Ethics and Bias', 'Training Techniques']
+tags: ['Training Techniques', 'Ethics and Bias']
 ---
 Large language models (LLMs) closely interact with humans, and thus need an
 intimate understanding of the cultural values of human society. In this paper,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: dutta2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18312"}
-tags: ['Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Prompting', 'Attention Mechanism']
+tags: ['Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Despite superior reasoning prowess demonstrated by Large Language Models
 (LLMs) with Chain-of-Thought (CoT) prompting, a lack of understanding prevails

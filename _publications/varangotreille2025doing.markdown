@@ -7,7 +7,7 @@ year: 2025
 bibkey: varangotreille2025doing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00409"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Survey Paper', 'GPT']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Survey Paper', 'Model Architecture']
 ---
 Large Language Models (LLM)-based systems, i.e. interconnected elements that
 include an LLM as a central component (e.g., conversational agents), are

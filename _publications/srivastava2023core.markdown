@@ -7,7 +7,7 @@ year: 2023
 bibkey: srivastava2023core
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08511"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pruning', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Attention Mechanism']
 ---
 End-to-end conversational recommendation systems (CRS) generate responses by
 leveraging both dialog history and a knowledge base (KB). A CRS mainly faces

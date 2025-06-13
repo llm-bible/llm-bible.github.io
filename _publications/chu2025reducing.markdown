@@ -7,7 +7,7 @@ year: 2025
 bibkey: chu2025reducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15040"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have shown impressive performance in
 vision and text tasks. However, hallucination remains a major challenge,

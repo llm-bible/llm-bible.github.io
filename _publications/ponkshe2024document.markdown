@@ -7,7 +7,7 @@ year: 2024
 bibkey: ponkshe2024document
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16618"}
-tags: ['Arxiv', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Arxiv']
 ---
 Most state-of-the-art techniques for Language Models (LMs) today rely on
 transformer-based architectures and their ubiquitous attention mechanism.

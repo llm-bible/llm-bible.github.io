@@ -8,7 +8,7 @@ bibkey: chen2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.06857"}
   - {name: "Code", url: "https://github.com/tigerchen52/role_of_small_models"}
-tags: ['Model Architecture', 'Survey Paper', 'GPT', 'Has Code', 'Attention Mechanism']
+tags: ['GPT', 'Survey Paper', 'Model Architecture', 'Attention Mechanism', 'Has Code']
 ---
 Large Language Models (LLMs) have made significant progress in advancing
 artificial general intelligence (AGI), leading to the development of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024navgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12366"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'GPT']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Multimodal Models']
 ---
 Capitalizing on the remarkable advancements in Large Language Models (LLMs),
 there is a burgeoning initiative to harness LLMs for instruction following

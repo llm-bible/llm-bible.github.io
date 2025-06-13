@@ -7,7 +7,7 @@ year: 2024
 bibkey: hoscilowicz2024non
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.18680"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In this work, we explore LLM's internal representation space to identify
 attention heads that contain the most truthful and accurate information. We

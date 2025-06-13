@@ -7,7 +7,7 @@ year: 2021
 bibkey: xu2021k
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.06960"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Existing pre-trained language models (PLMs) have demonstrated the
 effectiveness of self-supervised learning for a broad range of natural language

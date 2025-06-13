@@ -7,7 +7,7 @@ year: 2024
 bibkey: chuang2024lookback
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07071"}
-tags: ['Training Techniques', 'Applications', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 When asked to summarize articles or answer questions given a passage, large
 language models (LLMs) can hallucinate details and respond with unsubstantiated

@@ -7,7 +7,7 @@ year: 2023
 bibkey: mao2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10813"}
-tags: ['Agentic', 'Few-Shot', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Agentic', 'Tools']
 ---
 Human-level driving is an ultimate goal of autonomous driving. Conventional
 approaches formulate autonomous driving as a perception-prediction-planning

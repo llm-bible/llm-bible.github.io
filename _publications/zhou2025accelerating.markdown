@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10563"}
-tags: ['Ethics and Bias', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 When developing new large language models (LLMs), a key step is evaluating
 their final performance, often by computing the win-rate against a reference

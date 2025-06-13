@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10638"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
+tags: ['Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Multimodal Large Language Models (MLLMs) have displayed remarkable
 performance in multi-modal tasks, particularly in visual comprehension.

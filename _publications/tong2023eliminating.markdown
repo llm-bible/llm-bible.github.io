@@ -7,7 +7,7 @@ year: 2023
 bibkey: tong2023eliminating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12342"}
-tags: ['Prompting', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Chain-of-Thought(CoT) prompting and its variants explore equipping large
 language models (LLMs) with high-level reasoning abilities by emulating

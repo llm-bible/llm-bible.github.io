@@ -8,7 +8,7 @@ bibkey: liu2017table
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1711.09724"}
   - {name: "Code", url: "https://github.com/tyliupku/wiki2bio"}
-tags: ['Model Architecture', 'Language Modeling', 'Interpretability', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Has Code']
 ---
 Table-to-text generation aims to generate a description for a factual table
 which can be viewed as a set of field-value records. To encode both the content

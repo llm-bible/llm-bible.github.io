@@ -7,7 +7,7 @@ year: 2025
 bibkey: bezerra2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.05554"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 We introduce LLMQuoter, a lightweight, distillation-based model designed to
 enhance Retrieval Augmented Generation (RAG) by extracting the most relevant

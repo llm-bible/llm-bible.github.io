@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025personality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12109"}
-tags: ['Multimodal Models', 'Tools']
+tags: ['Tools', 'Multimodal Models']
 ---
 Although psychometrics researchers have recently explored the use of large
 language models (LLMs) as proxies for human participants, LLMs often fail to

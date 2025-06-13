@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025policy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12530"}
-tags: ['Agentic', 'Training Techniques', 'Interpretability and Explainability', 'Reinforcement Learning']
+tags: ['Interpretability and Explainability', 'Agentic', 'Training Techniques', 'Reinforcement Learning']
 ---
 As humans increasingly share environments with diverse agents powered by RL,
 LLMs, and beyond, the ability to explain their policies in natural language

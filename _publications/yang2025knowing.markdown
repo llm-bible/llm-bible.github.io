@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025knowing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.02811"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Retrieval Augmented Generation (RAG) has shown strong capability in enhancing
 language models' knowledge and reducing AI generative hallucinations, driving

@@ -8,7 +8,7 @@ bibkey: vendrow2025do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03461"}
   - {name: "Code", url: "https://github.com/MadryLab/platinum-benchmarks"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 When deploying large language models (LLMs), it is important to ensure that
 these models are not only capable, but also reliable. Many benchmarks have been

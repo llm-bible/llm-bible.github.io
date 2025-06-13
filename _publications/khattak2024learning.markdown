@@ -8,7 +8,7 @@ bibkey: khattak2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.02418"}
   - {name: "Code", url: "https://github.com/muzairkhattak/ProText"}
-tags: ['Prompting', 'Multimodal Models', 'Training Techniques', 'Has Code']
+tags: ['Has Code', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Foundational vision-language models such as CLIP are becoming a new paradigm
 in vision, due to their excellent generalization abilities. However, adapting

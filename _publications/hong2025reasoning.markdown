@@ -7,7 +7,7 @@ year: 2025
 bibkey: hong2025reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23084"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'Training Techniques', 'Language Modeling', 'Reinforcement Learning']
 ---
 Large language models (LLMs) excel on a variety of reasoning benchmarks, but
 previous studies suggest they sometimes struggle to generalize to unseen

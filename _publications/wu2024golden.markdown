@@ -8,7 +8,7 @@ bibkey: wu2024golden
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06272"}
   - {name: "Code", url: "https://github.com/IDEA-FinAI/Golden-Touchstone},"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 As large language models become increasingly prevalent in the financial
 sector, there is a pressing need for a standardized method to comprehensively

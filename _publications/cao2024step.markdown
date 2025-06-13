@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024step
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19817"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
 ---
 Mathematical reasoning has been challenging for large language models (LLMs).
 However, the introduction of step-by-step Chain-of-Thought (CoT) inference has

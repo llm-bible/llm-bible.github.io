@@ -7,7 +7,7 @@ year: 2024
 bibkey: senath2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04922"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 In this paper, we address the challenge of recipe personalization through
 ingredient substitution. We make use of Large Language Models (LLMs) to build

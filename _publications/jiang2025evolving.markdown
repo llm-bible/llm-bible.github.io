@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiang2025evolving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02268"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Reinforcement Learning', 'Agentic', 'Efficiency and Optimization', 'Tools']
 ---
 Recent advancements in Large Language Models (LLMs) have led to the
 development of intelligent LLM-based agents capable of interacting with

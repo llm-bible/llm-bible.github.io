@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024concentrate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10584"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Recent advances in prompt optimization have notably enhanced the performance
 of pre-trained language models (PLMs) on downstream tasks. However, the

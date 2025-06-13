@@ -8,7 +8,7 @@ bibkey: gao2025generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10332"}
   - {name: "Code", url: "https://github.com/bigdata-ustc/Agent4Edu"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Personalized learning represents a promising educational strategy within
 intelligent educational systems, aiming to enhance learners' practice

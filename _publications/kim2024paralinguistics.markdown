@@ -8,7 +8,7 @@ bibkey: kim2024paralinguistics
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05706"}
   - {name: "Code", url: "https://github.com/naver-ai/usdm"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Has Code']
+tags: ['Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent work shows promising results in expanding the capabilities of large
 language models (LLM) to directly understand and synthesize speech. However, an

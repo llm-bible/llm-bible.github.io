@@ -7,7 +7,7 @@ year: 2024
 bibkey: yoo2024plan
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12447"}
-tags: ['Security', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Code generation with large language models has shown significant promise,
 especially when employing retrieval-augmented generation (RAG) with few-shot

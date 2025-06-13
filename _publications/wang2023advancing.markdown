@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11235"}
   - {name: "Code", url: "https://github.com/imoneoi/openchat"}
   - {name: "Code", url: "https://huggingface.co/openchat"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Nowadays, open-source large language models like LLaMA have emerged. Recent
 developments have incorporated supervised fine-tuning (SFT) and reinforcement

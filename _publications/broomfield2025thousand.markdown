@@ -8,7 +8,7 @@ bibkey: broomfield2025thousand
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20504"}
   - {name: "Code", url: "https://github.com/claws-lab/persona-modality"}
-tags: ['Agentic', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Has Code']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Large language models (LLMs) have recently demonstrated remarkable
 advancements in embodying diverse personas, enhancing their effectiveness as

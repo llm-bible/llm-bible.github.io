@@ -7,7 +7,7 @@ year: 2024
 bibkey: shi2024generate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14891"}
-tags: ['Efficiency and Optimization', 'Tools', 'RAG', 'Distillation', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Distillation']
 ---
 Multi-Hop Question Answering (MHQA) tasks present a significant challenge for
 large language models (LLMs) due to the intensive knowledge required. Current

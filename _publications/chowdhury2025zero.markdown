@@ -7,7 +7,7 @@ year: 2025
 bibkey: chowdhury2025zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13122"}
-tags: ['Prompting', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting']
 ---
 Previous works have demonstrated the effectiveness of Chain-of-Thought (COT)
 prompts and verifiers in guiding Large Language Models (LLMs) through the space

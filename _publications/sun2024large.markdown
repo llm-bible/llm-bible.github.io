@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14660"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'ACL']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'ACL', 'Training Techniques']
 ---
 Large Language Models (LLMs) have shown significant potential in designing
 reward functions for Reinforcement Learning (RL) tasks. However, obtaining

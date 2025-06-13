@@ -7,7 +7,7 @@ year: 2020
 bibkey: keung2020unsupervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.07761"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'BERT', 'Applications', 'SLT']
+tags: ['Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'BERT', 'SLT']
 ---
 We describe an unsupervised method to create pseudo-parallel corpora for
 machine translation (MT) from unaligned text. We use multilingual BERT to

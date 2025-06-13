@@ -7,7 +7,7 @@ year: 2024
 bibkey: street2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18870"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 This paper examines the extent to which large language models (LLMs) have
 developed higher-order theory of mind (ToM); the human ability to reason about

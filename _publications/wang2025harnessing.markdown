@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.24377"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Survey Paper']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Survey Paper']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly
 enhanced their ability to perform complex reasoning tasks, transitioning from

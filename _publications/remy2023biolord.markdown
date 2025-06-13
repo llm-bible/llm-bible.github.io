@@ -7,7 +7,7 @@ year: 2023
 bibkey: remy2023biolord
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16075"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Distillation', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 In this study, we investigate the potential of Large Language Models to
 complement biomedical knowledge graphs in the training of semantic models for

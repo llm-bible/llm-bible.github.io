@@ -7,7 +7,7 @@ year: 2024
 bibkey: puerto2024code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10065"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Reasoning is a fundamental component of language understanding. Recent
 prompting techniques, such as chain of thought, have consistently improved

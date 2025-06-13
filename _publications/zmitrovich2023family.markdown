@@ -7,7 +7,7 @@ year: 2023
 bibkey: zmitrovich2023family
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10931"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Transformer language models (LMs) are fundamental to NLP research
 methodologies and applications in various languages. However, developing such

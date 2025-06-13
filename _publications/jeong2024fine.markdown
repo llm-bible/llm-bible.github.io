@@ -7,7 +7,7 @@ year: 2024
 bibkey: jeong2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.02981"}
-tags: ['Security', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent releases of pre-trained Large Language Models (LLMs) have gained
 considerable traction, yet research on fine-tuning and employing

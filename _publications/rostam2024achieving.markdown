@@ -7,7 +7,7 @@ year: 2024
 bibkey: rostam2024achieving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.04833"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Interpretability and Explainability', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 In recent years, large language models (LLMs) have achieved remarkable
 success in natural language processing (NLP). LLMs require an extreme amount of

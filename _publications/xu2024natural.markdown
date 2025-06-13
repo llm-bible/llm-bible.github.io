@@ -8,7 +8,7 @@ bibkey: xu2024natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.16432"}
   - {name: "Code", url: "https://github.com/SavannahXu79/LinkPrompt}{https://github.com/SavannahXu79/LinkPrompt"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Prompt-based learning is a new language model training paradigm that adapts
 the Pre-trained Language Models (PLMs) to downstream tasks, which revitalizes

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05216"}
-tags: ['Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture']
 ---
 Large Language Models (LLMs) have emerged as dominant foundational models in
 modern NLP. However, the understanding of their prediction processes and

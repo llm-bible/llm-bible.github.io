@@ -8,7 +8,7 @@ bibkey: yuan2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06201"}
   - {name: "Code", url: "https://github.com/microsoft/JARVIS/"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Has Code']
 ---
 To address intricate real-world tasks, there has been a rising interest in
 tool utilization in applications of large language models (LLMs). To develop

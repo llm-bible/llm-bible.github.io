@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13952"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Recent years have witnessed extensive efforts to enhance Large Language
 Models (LLMs) across various domains, alongside growing attention to their

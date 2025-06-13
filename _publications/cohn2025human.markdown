@@ -7,7 +7,7 @@ year: 2025
 bibkey: cohn2025human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02323"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Interpretability and Explainability', 'Prompting']
+tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have created new opportunities to assist
 teachers and support student learning. Methods such as chain-of-thought (CoT)

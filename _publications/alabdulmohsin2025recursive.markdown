@@ -7,7 +7,7 @@ year: 2025
 bibkey: alabdulmohsin2025recursive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.07503"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Scaling Laws', 'Language Modeling', 'Pretraining Methods', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws', 'Multimodal Models']
 ---
 Inspired by recent findings on the fractal geometry of language, we introduce
 Recursive INference Scaling (RINS) as a complementary, plug-in recipe for

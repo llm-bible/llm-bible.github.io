@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09176"}
-tags: ['RAG', 'Model Architecture', 'Tools']
+tags: ['RAG', 'Tools', 'Model Architecture']
 ---
 Resolving the dichotomy between the human-like yet constrained reasoning
 processes of Cognitive Architectures and the broad but often noisy inference

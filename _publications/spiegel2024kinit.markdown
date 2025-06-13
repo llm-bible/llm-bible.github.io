@@ -7,7 +7,7 @@ year: 2024
 bibkey: spiegel2024kinit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13671"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 SemEval-2024 Task 8 is focused on multigenerator, multidomain, and
 multilingual black-box machine-generated text detection. Such a detection is

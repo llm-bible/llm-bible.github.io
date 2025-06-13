@@ -7,7 +7,7 @@ year: 2024
 bibkey: doimo2024representation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03662"}
-tags: ['Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) and supervised fine-tuning (SFT) are two common
 strategies for improving the performance of modern large language models (LLMs)

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05195"}
-tags: ['Multimodal Models', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['GPT', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Recent research has shown that CLIP models struggle with visual reasoning
 tasks that require grounding compositionality, understanding spatial

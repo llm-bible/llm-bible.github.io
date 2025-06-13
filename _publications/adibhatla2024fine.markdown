@@ -7,7 +7,7 @@ year: 2024
 bibkey: adibhatla2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13545"}
-tags: ['Training Techniques', 'Few-Shot', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Lately, instruction-based techniques have made significant strides in
 improving performance in few-shot learning scenarios. They achieve this by

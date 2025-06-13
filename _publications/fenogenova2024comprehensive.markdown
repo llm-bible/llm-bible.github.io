@@ -7,7 +7,7 @@ year: 2024
 bibkey: fenogenova2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.04531"}
-tags: ['Multimodal Models', 'Model Architecture', 'Few-Shot', 'Tools', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Multimodal Models']
 ---
 Over the past few years, one of the most notable advancements in AI research
 has been in foundation models (FMs), headlined by the rise of language models

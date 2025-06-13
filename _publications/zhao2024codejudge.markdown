@@ -8,7 +8,7 @@ bibkey: zhao2024codejudge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10718"}
   - {name: "Code", url: "https://github.com/CodeLLM-Research/CodeJudge-Eval"}
-tags: ['RAG', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['RAG', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have showcased impressive
 code generation capabilities, primarily evaluated through language-to-code

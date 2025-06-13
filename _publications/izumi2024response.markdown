@@ -7,7 +7,7 @@ year: 2024
 bibkey: izumi2024response
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15966"}
-tags: ['Model Architecture', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Dialogue systems controlled by predefined or rule-based scenarios derived
 from counseling techniques, such as cognitive behavioral therapy (CBT), play an

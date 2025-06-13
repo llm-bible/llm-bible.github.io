@@ -8,7 +8,7 @@ bibkey: dang2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15047"}
   - {name: "Code", url: "https://github.com/knoveleng/rainbowplus,"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) exhibit remarkable capabilities but are
 susceptible to adversarial prompts that exploit vulnerabilities to produce

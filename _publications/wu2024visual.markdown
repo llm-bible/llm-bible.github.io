@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15310"}
-tags: ['Multimodal Models', 'Training Techniques', 'Survey Paper', 'Prompting', 'In-Context Learning']
+tags: ['Survey Paper', 'Training Techniques', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Multimodal large language models (MLLMs) equip pre-trained large-language
 models (LLMs) with visual capabilities. While textual prompting in LLMs has

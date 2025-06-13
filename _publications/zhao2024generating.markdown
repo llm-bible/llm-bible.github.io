@@ -8,7 +8,7 @@ bibkey: zhao2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13720"}
   - {name: "Code", url: "https://github.com/thunlp/Ouroboros"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Speculative decoding is a widely used method that accelerates the generation
 process of large language models (LLMs) with no compromise in model

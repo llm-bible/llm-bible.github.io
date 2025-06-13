@@ -7,7 +7,7 @@ year: 2024
 bibkey: tuan2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01295"}
-tags: ['Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 As large language models (LLMs) become easily accessible nowadays, the
 trade-off between safety and helpfulness can significantly impact user

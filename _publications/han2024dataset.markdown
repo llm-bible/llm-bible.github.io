@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11805"}
-tags: ['Applications', 'Survey Paper', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Survey Paper', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) combined with tool learning have gained
 impressive results in real-world applications. During tool learning, LLMs may

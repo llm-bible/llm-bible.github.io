@@ -7,7 +7,7 @@ year: 2024
 bibkey: du2024evidence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15037"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 To address the hallucination in generative question answering (GQA) where the
 answer can not be derived from the document, we propose a novel

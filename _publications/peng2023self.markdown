@@ -7,7 +7,7 @@ year: 2023
 bibkey: peng2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.01352"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) show their powerful automatic reasoning and
 planning capability with a wealth of semantic knowledge about the human world.

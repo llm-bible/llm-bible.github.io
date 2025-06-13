@@ -7,7 +7,7 @@ year: 2024
 bibkey: seßler2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10839"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 The use of Large Language Models (LLMs) in mathematical reasoning has become
 a cornerstone of related research, demonstrating the intelligence of these

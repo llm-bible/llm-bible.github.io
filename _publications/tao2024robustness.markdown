@@ -7,7 +7,7 @@ year: 2024
 bibkey: tao2024robustness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17011"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Prompting']
 ---
 The increasing deployment of Large Language Models (LLMs) in various
 applications necessitates a rigorous evaluation of their robustness against

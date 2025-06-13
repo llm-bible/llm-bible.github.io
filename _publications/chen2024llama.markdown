@@ -8,7 +8,7 @@ bibkey: chen2024llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02330"}
   - {name: "Code", url: "https://github.com/txchen-USTC/Llama-Slayer"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 As a manner to augment pre-trained large language models (LLM), knowledge
 injection is critical to develop vertical domain large models and has been

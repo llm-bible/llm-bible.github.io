@@ -7,7 +7,7 @@ year: 2023
 bibkey: ge2023mllm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13951"}
-tags: ['Multimodal Models', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
 ---
 Multimodal large language models (MLLMs) have broadened the scope of AI
 applications. Existing automatic evaluation methodologies for MLLMs are mainly

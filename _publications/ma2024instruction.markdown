@@ -8,7 +8,7 @@ bibkey: ma2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01131"}
   - {name: "Code", url: "https://anonymous.4open.science/r/LLaMoCo-722A"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Recent research explores optimization using large language models (LLMs) by
 either iteratively seeking next-step solutions from LLMs or directly prompting

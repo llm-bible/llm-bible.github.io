@@ -8,7 +8,7 @@ bibkey: trivedi2019repurposing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.09380"}
   - {name: "Code", url: "https://github.com/StonyBrookNLP/multee"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Has Code', 'Pretraining Methods']
 ---
 Question Answering (QA) naturally reduces to an entailment problem, namely,
 verifying whether some text entails the answer to a question. However, for

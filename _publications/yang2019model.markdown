@@ -7,7 +7,7 @@ year: 2019
 bibkey: yang2019model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.08381"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'GPT', 'Quantization', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
 ---
 Deep pre-training and fine-tuning models (such as BERT and OpenAI GPT) have
 demonstrated excellent results in question answering areas. However, due to the

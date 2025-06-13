@@ -8,7 +8,7 @@ bibkey: mi2025i
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10458"}
   - {name: "Code", url: "https://mizhenxing.github.io/ThinkDiff"}
-tags: ['Multimodal Models', 'Training Techniques', 'RAG', 'Merging', 'Has Code', 'Prompting']
+tags: ['RAG', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 This paper presents ThinkDiff, a novel alignment paradigm that empowers
 text-to-image diffusion models with multimodal in-context understanding and

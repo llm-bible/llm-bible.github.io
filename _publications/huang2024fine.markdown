@@ -8,7 +8,7 @@ bibkey: huang2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08044"}
   - {name: "Code", url: "https://github.com/HuangOwen/RoLoRA"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Multimodal Models', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Quantization']
 ---
 Low-Rank Adaptation (LoRA), as a representative Parameter-Efficient
 Fine-Tuning (PEFT)method, significantly enhances the training efficiency by

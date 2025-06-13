@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023lora
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00035"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Finetuned LLMs often exhibit poor uncertainty quantification, manifesting as
 overconfidence, poor calibration, and unreliable prediction results on test

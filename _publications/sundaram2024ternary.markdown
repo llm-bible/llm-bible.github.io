@@ -8,7 +8,7 @@ bibkey: sundaram2024ternary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.13402"}
   - {name: "Code", url: "https://huggingface.co/IntelLabs/LlavaOLMoBitnet1B"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MM-LLMs) have seen significant advancements
 in the last year, demonstrating impressive performance across tasks. However,

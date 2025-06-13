@@ -7,7 +7,7 @@ year: 2025
 bibkey: singh2025it
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13508"}
-tags: ['RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 The performance of Large Language Models (LLMs) on multiple-choice question
 (MCQ) benchmarks is frequently cited as proof of their medical capabilities. We

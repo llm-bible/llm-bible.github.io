@@ -7,7 +7,7 @@ year: 2022
 bibkey: yang2022glue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.08073"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Pre-trained language models (PLMs) are known to improve the generalization
 performance of natural language understanding models by leveraging large

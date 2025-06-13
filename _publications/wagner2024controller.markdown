@@ -7,7 +7,7 @@ year: 2024
 bibkey: wagner2024controller
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14627"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 We introduce Controller-Embedded Language Model Interactions (CELI), a
 framework that integrates control logic directly within language model (LM)

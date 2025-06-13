@@ -7,7 +7,7 @@ year: 2024
 bibkey: ko2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03818"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Reducing the likelihood of generating harmful and toxic output is an
 essential task when aligning large language models (LLMs). Existing methods

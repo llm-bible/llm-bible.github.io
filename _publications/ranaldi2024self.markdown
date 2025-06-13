@@ -7,7 +7,7 @@ year: 2024
 bibkey: ranaldi2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00402"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The alignments of reasoning abilities between smaller and larger Language
 Models are largely conducted via Supervised Fine-Tuning (SFT) using

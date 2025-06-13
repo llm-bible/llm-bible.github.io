@@ -7,7 +7,7 @@ year: 2024
 bibkey: pipatanakul2024typhoon
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13702"}
-tags: ['Responsible AI', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pre-Training', 'Applications']
+tags: ['Responsible AI', 'Pre-Training', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 This paper introduces Typhoon 2, a series of text and multimodal large
 language models optimized for the Thai language. The series includes models for

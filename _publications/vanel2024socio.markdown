@@ -7,7 +7,7 @@ year: 2024
 bibkey: vanel2024socio
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04492"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Applications']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
 ---
 Conversational systems are now capable of producing impressive and generally
 relevant responses. However, we have no visibility nor control of the

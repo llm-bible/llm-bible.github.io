@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023class
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20348"}
-tags: ['Multimodal Models', 'Model Architecture', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 With the advent of large-scale pre-trained models, interest in adapting and
 exploiting them for continual learning scenarios has grown.

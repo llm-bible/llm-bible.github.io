@@ -7,7 +7,7 @@ year: 2024
 bibkey: laurençon2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02246"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 The growing interest in vision-language models (VLMs) has been driven by
 improvements in large language models and vision transformers. Despite the

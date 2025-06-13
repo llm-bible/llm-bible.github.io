@@ -7,7 +7,7 @@ year: 2025
 bibkey: liang2025integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09754"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 Automated analysis for engineering structures offers considerable potential
 for boosting efficiency by minimizing repetitive tasks. Although AI-driven

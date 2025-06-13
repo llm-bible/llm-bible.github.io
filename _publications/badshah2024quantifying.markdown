@@ -7,7 +7,7 @@ year: 2024
 bibkey: badshah2024quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03146"}
-tags: ['Quantization', 'Efficiency and Optimization']
+tags: ['Efficiency and Optimization', 'Quantization']
 ---
 Scale is often attributed as one of the factors that cause an increase in the
 performance of LLMs, resulting in models with billion and trillion parameters.

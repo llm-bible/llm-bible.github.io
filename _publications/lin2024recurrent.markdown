@@ -8,7 +8,7 @@ bibkey: lin2024recurrent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08874"}
   - {name: "Code", url: "https://github.com/ECNU-Text-Computing/Markov-LLM"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 While large language models (LLMs) excel at understanding and generating
 plain text, they are not tailored to handle hierarchical text structures or

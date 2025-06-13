@@ -7,7 +7,7 @@ year: 2021
 bibkey: alabdulkarim2021goal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08593"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The advent of large pre-trained generative language models has provided a
 common framework for AI story generation via sampling the model to create

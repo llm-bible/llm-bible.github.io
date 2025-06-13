@@ -7,7 +7,7 @@ year: 2023
 bibkey: gao2023text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.15363"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have emerged as a new paradigm for Text-to-SQL
 task. However, the absence of a systematical benchmark inhibits the development

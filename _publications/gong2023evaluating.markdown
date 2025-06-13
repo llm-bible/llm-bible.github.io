@@ -7,7 +7,7 @@ year: 2023
 bibkey: gong2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07582"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Recent advances in Large Language Models (LLMs) have presented new
 opportunities for integrating Artificial General Intelligence (AGI) into

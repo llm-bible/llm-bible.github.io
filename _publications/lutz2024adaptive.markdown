@@ -7,7 +7,7 @@ year: 2024
 bibkey: lutz2024adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05902"}
-tags: ['Agentic', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In the realm of web agent research, achieving both generalization and
 accuracy remains a challenging problem. Due to high variance in website

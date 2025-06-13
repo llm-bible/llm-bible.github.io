@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024role
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02756"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Distillation', 'Merging', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Merging', 'Training Techniques', 'Prompting', 'Distillation']
 ---
 The growing interest in Large Language Models (LLMs) for specialized
 applications has revealed a significant challenge: when tailored to specific

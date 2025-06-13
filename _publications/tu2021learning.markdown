@@ -7,7 +7,7 @@ year: 2021
 bibkey: tu2021learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.11541"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Merging', 'BERT', 'ACL']
+tags: ['Agentic', 'Tools', 'Model Architecture', 'Merging', 'ACL', 'BERT']
 ---
 GuessWhat?! is a two-player visual dialog guessing game where player A asks a
 sequence of yes/no questions (Questioner) and makes a final guess (Guesser)

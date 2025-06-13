@@ -8,7 +8,7 @@ bibkey: zhou2024calibrated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14622"}
   - {name: "Code", url: "https://github.com/YiyangZhou/CSR"}
-tags: ['Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) have made substantial progress by
 integrating pre-trained large language models (LLMs) and vision models through

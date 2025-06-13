@@ -8,7 +8,7 @@ bibkey: chmura2025plausibility
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.12667"}
   - {name: "Code", url: "https://github.com/Jacob-Chmura/plausibility-vaccine"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Despite advances in language modelling, distributional methods that build
 semantic representations from co-occurrences fail to discriminate between

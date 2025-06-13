@@ -8,7 +8,7 @@ bibkey: song2024question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.17176"}
   - {name: "Code", url: "https://github.com/rese1f/MovieChat"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Has Code', 'Pretraining Methods']
 ---
 Recently, integrating video foundation models and large language models to
 build a video understanding system can overcome the limitations of specific

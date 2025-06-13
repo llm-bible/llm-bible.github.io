@@ -7,7 +7,7 @@ year: 2021
 bibkey: ji2021neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.09164"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Tools']
+tags: ['Tools', 'Attention Mechanism', 'Model Architecture']
 ---
 Conversation generation as a challenging task in Natural Language Generation
 (NLG) has been increasingly attracting attention over the last years. A number

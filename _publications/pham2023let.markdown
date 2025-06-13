@@ -7,7 +7,7 @@ year: 2023
 bibkey: pham2023let
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06272"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Model Architecture', 'Security', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Discussion and debate among Large Language Models (LLMs) have gained
 considerable attention due to their potential to enhance the reasoning ability

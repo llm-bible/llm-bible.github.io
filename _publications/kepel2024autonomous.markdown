@@ -7,7 +7,7 @@ year: 2024
 bibkey: kepel2024autonomous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11000"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Prompt engineering is a crucial yet challenging task for optimizing the
 performance of large language models (LLMs) on customized tasks. This

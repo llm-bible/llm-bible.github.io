@@ -7,7 +7,7 @@ year: 2024
 bibkey: rajan2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12830"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'ACL', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'ACL']
 ---
 In this work, we systematically expose and measure the inconsistency and
 knowledge gaps of Large Language Models (LLMs). Specifically, we propose an

@@ -7,7 +7,7 @@ year: 2021
 bibkey: kedia2021generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.15298"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Through recent advancements in speech technologies and introduction of smart
 assistants, such as Amazon Alexa, Apple Siri and Google Home, increasing number

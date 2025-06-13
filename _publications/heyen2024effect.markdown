@@ -7,7 +7,7 @@ year: 2024
 bibkey: heyen2024effect
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.05348"}
-tags: ['Interpretability', 'BERT', 'Model Architecture', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'BERT', 'Interpretability', 'Model Architecture']
 ---
 Large language models (LLMs) are becoming bigger to boost performance.
 However, little is known about how explainability is affected by this trend.

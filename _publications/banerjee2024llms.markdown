@@ -7,7 +7,7 @@ year: 2024
 bibkey: banerjee2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.05746"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications']
+tags: ['Applications', 'Training Techniques', 'Language Modeling']
 ---
 As Large Language Models become more ubiquitous across domains, it becomes
 important to examine their inherent limitations critically. This work argues

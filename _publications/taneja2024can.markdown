@@ -7,7 +7,7 @@ year: 2024
 bibkey: taneja2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05467"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'ACL', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'ACL', 'Training Techniques', 'Prompting']
 ---
 Modular AI systems can be developed using LLM-prompts-based modules to
 minimize deployment time even for complex tasks. However, these systems do not

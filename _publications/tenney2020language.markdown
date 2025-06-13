@@ -8,7 +8,7 @@ bibkey: tenney2020language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2008.05122"}
   - {name: "Code", url: "https://github.com/pair-code/lit"}
-tags: ['Tools', 'Reinforcement Learning', 'Language Modeling', 'Ethics and Bias', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning', 'Has Code']
 ---
 We present the Language Interpretability Tool (LIT), an open-source platform
 for visualization and understanding of NLP models. We focus on core questions

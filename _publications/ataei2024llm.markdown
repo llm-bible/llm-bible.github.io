@@ -7,7 +7,7 @@ year: 2024
 bibkey: ataei2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16045"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
 ---
 Requirements elicitation, a critical, yet time-consuming and challenging step
 in product development, often fails to capture the full spectrum of user needs.

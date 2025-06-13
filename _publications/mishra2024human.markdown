@@ -7,7 +7,7 @@ year: 2024
 bibkey: mishra2024human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.00260"}
-tags: ['Model Architecture', 'Survey Paper', 'RAG', 'GPT', 'BERT', 'Prompting']
+tags: ['GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'BERT', 'Prompting']
 ---
 The robotic intervention for individuals with Autism Spectrum Disorder (ASD)
 has generally used pre-defined scripts to deliver verbal content during

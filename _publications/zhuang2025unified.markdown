@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhuang2025unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12327"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present VARGPT, a novel multimodal large language model (MLLM) that
 unifies visual understanding and generation within a single autoregressive

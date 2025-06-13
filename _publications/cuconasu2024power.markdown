@@ -7,7 +7,7 @@ year: 2024
 bibkey: cuconasu2024power
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14887"}
-tags: ['Model Architecture', 'RAG', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 Retrieval-Augmented Generation (RAG) has recently emerged as a method to
 extend beyond the pre-trained knowledge of Large Language Models by augmenting

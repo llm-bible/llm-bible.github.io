@@ -7,7 +7,7 @@ year: 2024
 bibkey: pham2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.13808"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The rapid advancement of large language models (LLMs) has significantly
 impacted various domains, including healthcare and biomedicine. However, the

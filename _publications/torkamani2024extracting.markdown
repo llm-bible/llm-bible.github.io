@@ -7,7 +7,7 @@ year: 2024
 bibkey: torkamani2024extracting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08842"}
-tags: ['Prompting', 'RAG', 'Few-Shot']
+tags: ['RAG', 'Few-Shot', 'Prompting']
 ---
 Understanding and extracting the grammar of a domain-specific language (DSL)
 is crucial for various software engineering tasks; however, manually creating

@@ -7,7 +7,7 @@ year: 2025
 bibkey: rhee2025moving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10845"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), powered by Transformers, have demonstrated
 human-like intelligence capabilities, yet their underlying mechanisms remain

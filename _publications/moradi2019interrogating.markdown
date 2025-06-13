@@ -7,7 +7,7 @@ year: 2019
 bibkey: moradi2019interrogating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.00139"}
-tags: ['Applications', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Applications']
 ---
 Attention models have become a crucial component in neural machine
 translation (NMT). They are often implicitly or explicitly used to justify the

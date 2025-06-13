@@ -7,7 +7,7 @@ year: 2024
 bibkey: su2024unsupervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06448"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Tools']
+tags: ['Training Techniques', 'RAG', 'Tools', 'Applications']
 ---
 Hallucinations in large language models (LLMs) refer to the phenomenon of
 LLMs producing responses that are coherent yet factually inaccurate. This issue

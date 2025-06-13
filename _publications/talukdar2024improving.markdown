@@ -7,7 +7,7 @@ year: 2024
 bibkey: talukdar2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04023"}
-tags: ['Responsible AI', 'Security', 'Fairness', 'Tools', 'Reinforcement Learning', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Bias Mitigation', 'Reinforcement Learning', 'Interpretability', 'Security', 'Fairness']
 ---
 As Large Language Models (LLMs) become increasingly sophisticated and
 ubiquitous in natural language processing (NLP) applications, ensuring their

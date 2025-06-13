@@ -7,7 +7,7 @@ year: 2024
 bibkey: pfrommer2024ranking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03589"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Major search engine providers are rapidly incorporating Large Language Model
 (LLM)-generated content in response to user queries. These conversational

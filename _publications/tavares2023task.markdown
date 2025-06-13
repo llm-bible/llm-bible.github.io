@@ -7,7 +7,7 @@ year: 2023
 bibkey: tavares2023task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.06165"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT']
 ---
 Dialogue systems need to deal with the unpredictability of user intents to
 track dialogue state and the heterogeneity of slots to understand user

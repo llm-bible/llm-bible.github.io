@@ -8,7 +8,7 @@ bibkey: zhang2024narrative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05558"}
   - {name: "Code", url: "https://github.com/launchnlp/NoT"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Reasoning about time and temporal relations is an integral aspect of human
 cognition, essential for perceiving the world and navigating our experiences.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chern2024native
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06135"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Previous open-source large multimodal models (LMMs) have faced several
 limitations: (1) they often lack native integration, requiring adapters to

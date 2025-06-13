@@ -7,7 +7,7 @@ year: 2024
 bibkey: yamao2024question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09907"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 With the increasing complexity of video data and the need for more efficient
 long-term temporal understanding, existing long-term video understanding

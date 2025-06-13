@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10535"}
-tags: ['Security', 'Model Architecture', 'Applications', 'Tools']
+tags: ['Security', 'Tools', 'Applications', 'Model Architecture']
 ---
 The increasing reliance on large language models (LLMs) for diverse
 applications necessitates a thorough understanding of their robustness to

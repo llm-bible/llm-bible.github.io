@@ -7,7 +7,7 @@ year: 2025
 bibkey: padhi2025calibrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03788"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
 ---
 We introduce a novel approach for calibrating uncertainty quantification (UQ)
 tailored for multi-modal large language models (LLMs). Existing

@@ -8,7 +8,7 @@ bibkey: modarressi2022speeding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.08991"}
   - {name: "Code", url: "https://github.com/amodaresi/AdapLeR"}
-tags: ['Has Code', 'BERT', 'Attention Mechanism', 'Model Architecture']
+tags: ['BERT', 'Attention Mechanism', 'Has Code', 'Model Architecture']
 ---
 Pre-trained language models have shown stellar performance in various
 downstream tasks. But, this usually comes at the cost of high latency and

@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023two
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14279"}
-tags: ['Model Architecture', 'GPT', 'Few-Shot', 'Reinforcement Learning']
+tags: ['Few-Shot', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have achieved widespread success on a variety of
 in-context few-shot tasks, but this success is typically evaluated via

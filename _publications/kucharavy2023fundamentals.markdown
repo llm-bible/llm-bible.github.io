@@ -7,7 +7,7 @@ year: 2023
 bibkey: kucharavy2023fundamentals
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12132"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Generative Language Models gained significant attention in late 2022 / early
 2023, notably with the introduction of models refined to act consistently with

@@ -7,7 +7,7 @@ year: 2024
 bibkey: rathinasamy2024narrow
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03941"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper presents NT-Java-1.1B, an open-source specialized code language
 model built on StarCoderBase-1.1B, designed for coding tasks in Java

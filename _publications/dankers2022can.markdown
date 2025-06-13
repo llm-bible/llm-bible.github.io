@@ -7,7 +7,7 @@ year: 2022
 bibkey: dankers2022can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.15301"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Unlike literal expressions, idioms' meanings do not directly follow from
 their parts, posing a challenge for neural machine translation (NMT). NMT

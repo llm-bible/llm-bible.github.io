@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024object
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2403.00425v2"}
-tags: ['Multimodal Models', 'Training Techniques', 'Language Modeling', 'RAG', 'Applications']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Multimodal Models']
 ---
 While large vision-language models (LVLMs) have demonstrated impressive
 capabilities in interpreting multi-modal contexts, they invariably suffer from

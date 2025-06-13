@@ -7,7 +7,7 @@ year: 2023
 bibkey: rahdari2023logic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14345"}
-tags: ['Tools', 'Language Modeling', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Prompting']
 ---
 The unique capabilities of Large Language Models (LLMs), such as the natural
 language text generation ability, position them as strong candidates for

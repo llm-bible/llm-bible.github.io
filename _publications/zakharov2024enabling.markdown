@@ -7,7 +7,7 @@ year: 2024
 bibkey: zakharov2024enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00642"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) based agents are transforming the programming
 language landscape by facilitating learning for beginners, enabling code

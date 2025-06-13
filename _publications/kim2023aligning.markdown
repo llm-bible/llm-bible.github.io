@@ -8,7 +8,7 @@ bibkey: kim2023aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13735"}
   - {name: "Code", url: "https://github.com/naver-ai/almost"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Distillation', 'GPT', 'Has Code', 'Prompting']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting', 'Distillation']
 ---
 Aligning large language models (LLMs) to human values has become increasingly
 important as it enables sophisticated steering of LLMs. However, it requires

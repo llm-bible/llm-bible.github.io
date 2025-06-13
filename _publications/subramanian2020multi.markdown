@@ -7,7 +7,7 @@ year: 2020
 bibkey: subramanian2020multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00581"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Ethics and Bias', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We investigate multi-scale transformer language models that learn
 representations of text at multiple scales, and present three different

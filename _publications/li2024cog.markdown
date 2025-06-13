@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024cog
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02522"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 Vision Language Navigation in Continuous Environments (VLN-CE) represents a
 frontier in embodied AI, demanding agents to navigate freely in unbounded 3D

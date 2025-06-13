@@ -8,7 +8,7 @@ bibkey: zhang2024mme
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.13257"}
   - {name: "Code", url: "https://mme-realworld.github.io/"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Comprehensive evaluation of Multimodal Large Language Models (MLLMs) has
 recently garnered widespread attention in the research community. However, we

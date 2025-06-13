@@ -8,7 +8,7 @@ bibkey: han2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.17686"}
   - {name: "Code", url: "https://ficoco-accelerate.github.io/"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'Has Code']
+tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 The quadratic complexity of Multimodal Large Language Models (MLLMs) with
 respect to sequence length poses significant computational and memory

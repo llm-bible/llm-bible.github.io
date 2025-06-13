@@ -8,7 +8,7 @@ bibkey: hammoud2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20708"}
   - {name: "Code", url: "https://github.com/hammoudhasan/SubthoughtReasoner"}
-tags: ['Prompting', 'RAG', 'Has Code']
+tags: ['RAG', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) leverage step-by-step reasoning to solve complex
 problems. Standard evaluation practice involves generating a complete reasoning

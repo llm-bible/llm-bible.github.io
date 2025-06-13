@@ -8,7 +8,7 @@ bibkey: xing2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06596"}
   - {name: "Code", url: "https://github.com/AndroidArenaAgent/AndroidArena"}
-tags: ['Agentic', 'Security', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Security', 'Has Code']
 ---
 Large language models (LLMs) have empowered intelligent agents to execute
 intricate tasks within domain-specific software such as browsers and games.

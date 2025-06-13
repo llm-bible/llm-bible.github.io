@@ -7,7 +7,7 @@ year: 2023
 bibkey: sarti2023interpretability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.13942"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods']
 ---
 Past work in natural language processing interpretability focused mainly on
 popular classification tasks while largely overlooking generation settings,

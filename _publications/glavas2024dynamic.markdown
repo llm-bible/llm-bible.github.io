@@ -7,7 +7,7 @@ year: 2024
 bibkey: glavas2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20022"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'ACL', 'Prompting']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Pretraining Methods', 'Prompting']
 ---
 The vast size of Large Language Models (LLMs) has prompted a search to
 optimize inference. One effective approach is dynamic inference, which adapts

@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025gradient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.08963"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 In tasks like summarization and open-book question answering (QA), Large
 Language Models (LLMs) often encounter "contextual hallucination", where they

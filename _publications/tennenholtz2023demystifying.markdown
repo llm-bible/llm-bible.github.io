@@ -7,7 +7,7 @@ year: 2023
 bibkey: tennenholtz2023demystifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04475"}
-tags: ['RecSys', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'RecSys', 'Interpretability and Explainability']
 ---
 Embeddings have become a pivotal means to represent complex, multi-faceted
 information about entities, concepts, and relationships in a condensed and

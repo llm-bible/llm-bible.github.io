@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023survival
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12774"}
-tags: ['Efficiency and Optimization', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Pruning', 'Prompting']
+tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 Prompt-based learning has been an effective paradigm for large pretrained
 language models (LLM), enabling few-shot or even zero-shot learning. Black-box

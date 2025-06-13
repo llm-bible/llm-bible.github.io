@@ -7,7 +7,7 @@ year: 2023
 bibkey: fecher2023friend
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.09928"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 The advent of ChatGPT by OpenAI has prompted extensive discourse on its
 potential implications for science and higher education. While the impact on

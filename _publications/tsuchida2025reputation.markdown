@@ -7,7 +7,7 @@ year: 2025
 bibkey: tsuchida2025reputation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14382"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Tools']
+tags: ['RAG', 'Tools', 'GPT', 'Model Architecture']
 ---
 The purpose of this paper is to examine whether large language models (LLMs)
 can understand what is good and evil with respect to judging good/evil

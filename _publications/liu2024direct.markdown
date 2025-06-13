@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024direct
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11907"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Distillation', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Prompting', 'Distillation', 'Reinforcement Learning']
 ---
 Aligning large language models (LLMs) with human expectations without
 human-annotated preference data is an important problem. In this paper, we

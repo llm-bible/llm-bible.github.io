@@ -7,7 +7,7 @@ year: 2021
 bibkey: bao2021plato
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.09519"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 To explore the limit of dialogue generation pre-training, we present the
 models of PLATO-XL with up to 11 billion parameters, trained on both Chinese

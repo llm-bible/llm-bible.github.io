@@ -7,7 +7,7 @@ year: 2023
 bibkey: ciucă2023galactic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05406"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'Distillation']
 ---
 We demonstrate the potential of the state-of-the-art OpenAI GPT-4 large
 language model to engage in meaningful interactions with Astronomy papers using

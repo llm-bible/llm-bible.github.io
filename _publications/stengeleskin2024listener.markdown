@@ -7,7 +7,7 @@ year: 2024
 bibkey: stengeleskin2024listener
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.21028"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'RAG']
+tags: ['Training Techniques', 'RAG', 'Agentic', 'Efficiency and Optimization']
 ---
 When answering questions, LLMs can convey not only an answer, but a level of
 confidence about the answer being correct. This includes explicit confidence

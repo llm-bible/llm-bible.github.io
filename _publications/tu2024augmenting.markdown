@@ -7,7 +7,7 @@ year: 2024
 bibkey: tu2024augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16071"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 This workshop paper presents a critical examination of the integration of
 Generative AI (Gen AI) into the academic writing process, focusing on the use

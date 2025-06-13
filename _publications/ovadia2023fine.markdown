@@ -7,7 +7,7 @@ year: 2023
 bibkey: ovadia2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.05934"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) encapsulate a vast amount of factual information
 within their pre-trained weights, as evidenced by their ability to answer

@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025first
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12243"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 Large language models (LLMs) demonstrate remarkable performance, and
 improving their pre-training process appears to be key to enhancing their

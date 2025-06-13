@@ -8,7 +8,7 @@ bibkey: zhang2024distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18552"}
   - {name: "Code", url: "https://github.com/HITSZ-HLT/FSA-Distillation"}
-tags: ['Efficiency and Optimization', 'Distillation', 'Has Code', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Has Code', 'Prompting', 'Distillation']
 ---
 Fine-grained sentiment analysis (FSA) aims to extract and summarize user
 opinions from vast opinionated text. Recent studies demonstrate that large

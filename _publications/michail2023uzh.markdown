@@ -7,7 +7,7 @@ year: 2023
 bibkey: michail2023uzh
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.01194"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper describes the submission of UZH_CLyp for the SemEval 2023 Task 9
 "Multilingual Tweet Intimacy Analysis". We achieved second-best results in all

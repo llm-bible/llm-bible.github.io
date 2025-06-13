@@ -7,7 +7,7 @@ year: 2025
 bibkey: wen2025scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03147"}
-tags: ['Training Techniques', 'Few-Shot', 'RAG', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent studies have shown that large language models (LLMs), when customized
 with post-training on tabular data, can acquire general tabular in-context

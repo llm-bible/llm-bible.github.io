@@ -7,7 +7,7 @@ year: 2023
 bibkey: jang2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.17807"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Traditional Korean medicine (TKM) emphasizes individualized diagnosis and
 treatment. This uniqueness makes AI modeling difficult due to limited data and

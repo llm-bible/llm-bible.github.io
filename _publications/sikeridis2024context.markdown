@@ -7,7 +7,7 @@ year: 2024
 bibkey: sikeridis2024context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12170"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Recently, the number of off-the-shelf Large Language Models (LLMs) has
 exploded with many open-source options. This creates a diverse landscape

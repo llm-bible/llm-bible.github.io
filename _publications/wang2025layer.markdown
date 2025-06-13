@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025layer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04355"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Although large language models (LLMs) have achieved significant progress in
 handling long-context inputs, they still suffer from the ``lost-in-the-middle''

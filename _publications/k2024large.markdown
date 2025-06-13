@@ -7,7 +7,7 @@ year: 2024
 bibkey: k2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14578"}
-tags: ['RAG', 'Training Techniques', 'Pruning', 'Efficiency and Optimization']
+tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Pruning']
 ---
 Large language models (LLMs) demonstrate strong performance as text embedding
 models when finetuned with supervised contrastive training. However, their

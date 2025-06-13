@@ -7,7 +7,7 @@ year: 2024
 bibkey: boulesnane2024evolutionary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02790"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 The emergence of LLMs, like ChatGPT and Gemini, has marked the modern era of
 artificial intelligence applications characterized by high-impact applications

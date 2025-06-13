@@ -8,7 +8,7 @@ bibkey: li2024inference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.03312"}
   - {name: "Code", url: "https://github.com/locuslab/llava-token-compression"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Large-Scale Training', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Has Code', 'Scaling Laws', 'Prompting']
 ---
 Vision Language Models (VLMs) have demonstrated strong capabilities across
 various visual understanding and reasoning tasks, driven by incorporating image

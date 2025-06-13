@@ -8,7 +8,7 @@ bibkey: li2022fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.02515"}
   - {name: "Code", url: "https://github.com/YYJMJC/LOUPE"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large-scale vision-language pre-training has shown impressive advances in a
 wide range of downstream tasks. Existing methods mainly model the cross-modal

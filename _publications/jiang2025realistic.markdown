@@ -8,7 +8,7 @@ bibkey: jiang2025realistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.14654"}
   - {name: "Code", url: "https://github.com/stanfordmlgroup/MedAgentBench"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Recent large language models (LLMs) have demonstrated significant
 advancements, particularly in their ability to serve as agents thereby

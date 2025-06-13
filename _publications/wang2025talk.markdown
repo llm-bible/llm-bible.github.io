@@ -8,7 +8,7 @@ bibkey: wang2025talk
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11098"}
   - {name: "Code", url: "https://github.com/sony/talkhier"}
-tags: ['Agentic', 'Agent', 'Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Ethics and Bias', 'Has Code', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Model Architecture', 'Agent', 'Has Code']
 ---
 Recent advancements in LLM-based multi-agent (LLM-MA) systems have shown
 promise, yet significant challenges remain in managing communication and

@@ -7,7 +7,7 @@ year: 2023
 bibkey: tanzer2023benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16575"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Training Techniques', 'Applications']
 ---
 Large language models (LLMs) can perform impressive feats with in-context
 learning or lightweight finetuning. It is natural to wonder how well these

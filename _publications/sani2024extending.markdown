@@ -7,7 +7,7 @@ year: 2024
 bibkey: sani2024extending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13375"}
-tags: ['Training Techniques', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have made great progress in classification and
 text generation tasks. However, they are mainly trained on English data and

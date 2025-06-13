@@ -8,7 +8,7 @@ bibkey: zhang2023race
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09542"}
   - {name: "Code", url: "https://github.com/Hambaobao/Marathon"}
-tags: ['Efficiency and Optimization', 'Tools', 'Language Modeling', 'Ethics and Bias', 'Has Code', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Has Code']
 ---
 With the advancement of large language models (LLMs) and the expansion of
 their context windows, existing long-context benchmarks fall short in

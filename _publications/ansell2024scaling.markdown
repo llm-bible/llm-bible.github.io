@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16405"}
   - {name: "Code", url: "https://github.com/AlanAnsell/peft"}
   - {name: "Code", url: "https://github.com/ducdauge/sft-llm"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pruning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
 ---
 Large Language Models (LLMs) are difficult to fully fine-tune (e.g., with
 instructions or human feedback) due to their sheer number of parameters. A

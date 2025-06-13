@@ -7,7 +7,7 @@ year: 2024
 bibkey: pham2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07396"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 This study investigates whether OpenAI's ChatGPT-3.5 and ChatGPT-4 can
 forecast future events. To evaluate the accuracy of the predictions, we take

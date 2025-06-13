@@ -7,7 +7,7 @@ year: 2024
 bibkey: susnjak2024automating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08680"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 This research pioneers the use of fine-tuned Large Language Models (LLMs) to
 automate Systematic Literature Reviews (SLRs), presenting a significant and

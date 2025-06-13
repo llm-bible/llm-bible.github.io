@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14673"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Real-world applications of large language models (LLMs) in computational
 social science (CSS) tasks primarily depend on the effectiveness of instruction

@@ -7,7 +7,7 @@ year: 2021
 bibkey: shim2021layer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.03252"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pruning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 While Transformer-based models have shown impressive language modeling
 performance, the large computation cost is often prohibitive for practical use.

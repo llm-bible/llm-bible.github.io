@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024hints
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.13076"}
-tags: ['Responsible AI', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Merging', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'Merging', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 In light of the dynamic nature of autonomous driving environments and
 stringent safety requirements, general MLLMs combined with CLIP alone often

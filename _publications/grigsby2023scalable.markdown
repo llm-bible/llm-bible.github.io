@@ -7,7 +7,7 @@ year: 2023
 bibkey: grigsby2023scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09971"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 We introduce AMAGO, an in-context Reinforcement Learning (RL) agent that uses
 sequence models to tackle the challenges of generalization, long-term memory,

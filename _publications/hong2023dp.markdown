@@ -8,7 +8,7 @@ bibkey: hong2023dp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.03724"}
   - {name: "Code", url: "https://github.com/VITA-Group/DP-OPT"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'TACL', 'GPT', 'Has Code', 'ACL', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have emerged as dominant tools for various
 tasks, particularly when tailored for a specific target by prompt tuning.

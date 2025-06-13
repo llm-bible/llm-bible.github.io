@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.17140"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Self-correction has emerged as a promising solution to boost the reasoning
 performance of large language models (LLMs), where LLMs refine their solutions

@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.19994"}
-tags: ['Agentic', 'Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Applications']
+tags: ['Agentic', 'Tools', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have significantly transformed our daily life
 and established a new paradigm in natural language processing (NLP). However,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02203"}
-tags: ['RAG', 'Ethics and Bias', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Ethics and Bias', 'Applications', 'RAG', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) enhances large language models (LLMs) by
 incorporating demonstration examples, yet its effectiveness heavily depends on

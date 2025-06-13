@@ -8,7 +8,7 @@ bibkey: resta2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13130"}
   - {name: "Code", url: "https://github.com/m-resta/sg-rep"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Modern Neural Machine Translation systems exhibit strong performance in
 several different languages and are constantly improving. Their ability to

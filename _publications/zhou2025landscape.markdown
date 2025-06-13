@@ -8,7 +8,7 @@ bibkey: zhou2025landscape
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22165"}
   - {name: "Code", url: "https://github.com/tmlr-group/landscape-of-thoughts"}
-tags: ['Responsible AI', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Responsible AI', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Numerous applications of large language models (LLMs) rely on their ability
 to perform step-by-step reasoning. However, the reasoning behavior of LLMs

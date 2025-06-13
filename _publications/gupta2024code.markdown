@@ -7,7 +7,7 @@ year: 2024
 bibkey: gupta2024code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11079"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Multilingual Large Language Models (LLMs) have demonstrated exceptional
 performance in Machine Translation (MT) tasks. However, their MT abilities in

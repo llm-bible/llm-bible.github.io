@@ -7,7 +7,7 @@ year: 2024
 bibkey: vanroy2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15450"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
+tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 This paper introduces Fietje, a family of small language models (SLMs)
 specifically designed for the Dutch language. The model is based on Phi 2, an

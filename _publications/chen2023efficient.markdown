@@ -8,7 +8,7 @@ bibkey: chen2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18356"}
   - {name: "Code", url: "https://github.com/microsoft/lorashear"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have transformed the landscape of artificial
 intelligence, while their enormous size presents significant challenges in

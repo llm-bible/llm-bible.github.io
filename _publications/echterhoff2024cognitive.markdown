@@ -7,7 +7,7 @@ year: 2024
 bibkey: echterhoff2024cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00811"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) offer significant potential as tools to support
 an expanding range of decision-making tasks. Given their training on human

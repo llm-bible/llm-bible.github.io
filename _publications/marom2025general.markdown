@@ -7,7 +7,7 @@ year: 2025
 bibkey: marom2025general
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.05030"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Case-based reasoning (CBR) is an experience-based approach to problem
 solving, where a repository of solved cases is adapted to solve new cases.

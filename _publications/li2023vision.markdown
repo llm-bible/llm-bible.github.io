@@ -8,7 +8,7 @@ bibkey: li2023vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08172"}
   - {name: "Code", url: "https://github.com/palchenli/VL-Instruction-Tuning"}
-tags: ['Multimodal Models', 'Training Techniques', 'Survey Paper', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Survey Paper', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Instruction tuning is a crucial supervised training phase in Large Language
 Models (LLMs), aiming to enhance the LLM's ability to generalize instruction

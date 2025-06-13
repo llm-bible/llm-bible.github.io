@@ -7,7 +7,7 @@ year: 2024
 bibkey: ranjan2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16430"}
-tags: ['Fairness', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'Bias Mitigation', 'Ethics and Bias', 'Applications']
+tags: ['Survey Paper', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Language Modeling', 'Reinforcement Learning', 'Fairness']
 ---
 Large Language Models(LLMs) have revolutionized various applications in
 natural language processing (NLP) by providing unprecedented text generation,

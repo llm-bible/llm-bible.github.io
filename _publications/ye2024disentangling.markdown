@@ -7,7 +7,7 @@ year: 2024
 bibkey: ye2024disentangling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14780"}
-tags: ['Agentic', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Training Techniques', 'Pretraining Methods']
 ---
 When using agent-task datasets to enhance agent capabilities for Large
 Language Models (LLMs), current methodologies often treat all tokens within a

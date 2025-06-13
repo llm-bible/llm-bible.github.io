@@ -7,7 +7,7 @@ year: 2020
 bibkey: niu2020real
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.06823"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Pre-trained large-scale language models have increasingly demonstrated high
 accuracy on many natural language processing (NLP) tasks. However, the limited

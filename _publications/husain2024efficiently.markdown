@@ -8,7 +8,7 @@ bibkey: husain2024efficiently
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14280"}
   - {name: "Code", url: "https://github.com/AI4Bharat/romansetu"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Has Code']
+tags: ['RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 This study addresses the challenge of extending Large Language Models (LLMs)
 to non-English languages that use non-Roman scripts. We propose an approach

@@ -7,7 +7,7 @@ year: 2023
 bibkey: mishra2023stress
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16621"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 This report examines the effectiveness of Chain-of-Thought (CoT) prompting in
 improving the multi-step reasoning abilities of large language models (LLMs).

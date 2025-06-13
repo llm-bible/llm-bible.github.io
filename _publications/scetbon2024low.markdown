@@ -7,7 +7,7 @@ year: 2024
 bibkey: scetbon2024low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07902"}
-tags: ['Quantization', 'Efficiency and Optimization', 'Training Techniques']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Quantization']
 ---
 We consider the problem of model compression for Large Language Models (LLMs)
 at post-training time, where the task is to compress a well-trained model using

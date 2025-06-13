@@ -7,7 +7,7 @@ year: 2020
 bibkey: cao2020behind
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.07310"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Recent Transformer-based large-scale pre-trained models have revolutionized
 vision-and-language (V+L) research. Models such as ViLBERT, LXMERT and UNITER

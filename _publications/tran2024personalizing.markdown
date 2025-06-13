@@ -7,7 +7,7 @@ year: 2024
 bibkey: tran2024personalizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09205"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling']
 ---
 Content generation conditioning on users's readability is an important
 application for personalization. In an era of large language models (LLMs),

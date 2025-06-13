@@ -7,7 +7,7 @@ year: 2025
 bibkey: bambhaniya2025understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09775"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 The rapid evolution of Large Language Models (LLMs) has driven the need for
 increasingly sophisticated inference pipelines and hardware platforms. Modern

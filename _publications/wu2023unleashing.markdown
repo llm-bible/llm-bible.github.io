@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08380"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Incorporating external knowledge into dialogue generation (KIDG) is crucial
 for improving the correctness of response, where evidence fragments serve as

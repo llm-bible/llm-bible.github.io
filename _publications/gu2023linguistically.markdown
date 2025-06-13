@@ -7,7 +7,7 @@ year: 2023
 bibkey: gu2023linguistically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.15587"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 In the field of Japanese-Chinese translation linguistics, the issue of
 correctly translating attributive clauses has persistently proven to be

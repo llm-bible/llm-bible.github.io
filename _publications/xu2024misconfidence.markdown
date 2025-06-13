@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024misconfidence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06301"}
-tags: ['Tools', 'TACL', 'RAG', 'ACL', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'RAG', 'TACL', 'ACL', 'Prompting', 'In-Context Learning']
 ---
 In-context learning with large language models (LLMs) excels at adapting to
 various tasks rapidly. However, its success hinges on carefully selecting

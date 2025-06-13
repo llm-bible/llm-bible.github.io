@@ -8,7 +8,7 @@ bibkey: hou2025pruning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01296"}
   - {name: "Code", url: "https://github.com/UCSB-NLP-Chang/ThinkPrune"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Pruning', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Has Code']
 ---
 We present ThinkPrune, a simple yet effective method for pruning the thinking
 length for long-thinking LLMs, which has been found to often produce

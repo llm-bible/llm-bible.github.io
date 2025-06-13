@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04614"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 We propose a new method, instruction back-and-forth translation, to construct
 high-quality synthetic data grounded in world knowledge for aligning large

@@ -7,7 +7,7 @@ year: 2019
 bibkey: hardalov2019machine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.04574"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advances in deep neural networks, language modeling and language
 generation have introduced new ideas to the field of conversational agents. As

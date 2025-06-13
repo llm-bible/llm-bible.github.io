@@ -7,7 +7,7 @@ year: 2021
 bibkey: su2021non
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.08220"}
-tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Non-autoregressive generation (NAG) has recently attracted great attention
 due to its fast inference speed. However, the generation quality of existing

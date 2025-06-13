@@ -8,7 +8,7 @@ bibkey: li2024confidence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12563"}
   - {name: "Code", url: "https://github.com/MBZUAI-CLeaR/IoE-Prompting.git"}
-tags: ['Prompting', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Has Code', 'Prompting', 'Reinforcement Learning']
 ---
 The recent success of Large Language Models (LLMs) has catalyzed an
 increasing interest in their self-correction capabilities. This paper presents

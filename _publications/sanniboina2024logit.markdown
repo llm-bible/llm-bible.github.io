@@ -7,7 +7,7 @@ year: 2024
 bibkey: sanniboina2024logit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10042"}
-tags: ['Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Retrieval-based question answering systems often suffer from positional bias,
 leading to suboptimal answer generation. We propose LoRE (Logit-Ranked

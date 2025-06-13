@@ -7,7 +7,7 @@ year: 2024
 bibkey: faruqui2024integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00330"}
-tags: ['Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning']
 ---
 Learning never ends, and there is no age limit to grow yourself. However, the
 educational landscape may face challenges in effectively catering to students'

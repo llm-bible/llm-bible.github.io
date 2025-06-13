@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.00402"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 We address the challenge of societal bias in Large Language Models (LLMs),
 focusing on the Llama 2 7B Chat model. As LLMs are increasingly integrated into

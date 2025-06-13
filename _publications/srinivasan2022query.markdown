@@ -7,7 +7,7 @@ year: 2022
 bibkey: srinivasan2022query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.15718"}
-tags: ['RAG', 'Distillation', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['RAG', 'Efficiency and Optimization', 'Distillation', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have shown impressive results on a variety of
 text understanding tasks. Search queries though pose a unique challenge, given

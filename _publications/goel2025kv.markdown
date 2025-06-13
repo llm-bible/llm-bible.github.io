@@ -7,7 +7,7 @@ year: 2025
 bibkey: goel2025kv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14051"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 While long context support of large language models has extended their
 abilities, it also incurs challenges in memory and compute which becomes

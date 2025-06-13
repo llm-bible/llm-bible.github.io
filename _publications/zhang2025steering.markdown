@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025steering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03040"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advances in large language models have demonstrated impressive
 capabilities in task-oriented applications, yet building emotionally

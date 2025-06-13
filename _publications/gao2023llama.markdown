@@ -8,7 +8,7 @@ bibkey: gao2023llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.15010"}
   - {name: "Code", url: "https://github.com/ZrrSkywalker/LLaMA-Adapter"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Ethics and Bias', 'Has Code']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 How to efficiently transform large language models (LLMs) into instruction
 followers is recently a popular research direction, while training LLM for

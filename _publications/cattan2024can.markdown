@@ -7,7 +7,7 @@ year: 2024
 bibkey: cattan2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13632"}
-tags: ['Prompting', 'RAG', 'Few-Shot']
+tags: ['RAG', 'Few-Shot', 'Prompting']
 ---
 Despite recent advancements in Large Language Models (LLMs), their
 performance on tasks involving long contexts remains sub-optimal. In-Context

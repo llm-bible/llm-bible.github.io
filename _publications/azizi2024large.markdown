@@ -7,7 +7,7 @@ year: 2024
 bibkey: azizi2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12832"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Low-rank adaptation (LoRA) has become the default approach to fine-tune large
 language models (LLMs) due to its significant reduction in trainable

@@ -7,7 +7,7 @@ year: 2024
 bibkey: du2024diverse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14853"}
-tags: ['Agentic', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 Developing language model-based dialogue agents requires effective data to
 train models that can follow specific task logic. However, most existing data

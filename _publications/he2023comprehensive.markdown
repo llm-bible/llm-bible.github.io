@@ -7,7 +7,7 @@ year: 2023
 bibkey: he2023comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.10755"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Interpretability']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Multimodal Models']
 ---
 The rise in popularity of ChatGPT and GPT-4 has significantly accelerated the
 development of large models, leading to the creation of numerous impressive

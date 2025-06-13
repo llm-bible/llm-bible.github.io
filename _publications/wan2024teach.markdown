@@ -7,7 +7,7 @@ year: 2024
 bibkey: wan2024teach
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15708"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Large language models have demonstrated remarkable capabilities, but their
 performance is heavily reliant on effective prompt engineering. Automatic

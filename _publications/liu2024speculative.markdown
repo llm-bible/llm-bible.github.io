@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024speculative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03853"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Distillation', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
 ---
 The recent advancements in large language models (LLMs) have been
 extraordinary, yet the escalating inference costs associated with them present

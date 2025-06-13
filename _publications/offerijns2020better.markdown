@@ -7,7 +7,7 @@ year: 2020
 bibkey: offerijns2020better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.09598"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 For the field of education, being able to generate semantically correct and
 educationally relevant multiple choice questions (MCQs) could have a large

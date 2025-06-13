@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024innovative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10370"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Humor is previously regarded as a gift exclusive to humans for the following
 reasons. Humor is a culturally nuanced aspect of human language, presenting

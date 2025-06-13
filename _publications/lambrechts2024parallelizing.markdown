@@ -7,7 +7,7 @@ year: 2024
 bibkey: lambrechts2024parallelizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08415"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Attention-based models such as Transformers and recurrent models like state
 space models (SSMs) have emerged as successful methods for autoregressive

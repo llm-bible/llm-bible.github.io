@@ -7,7 +7,7 @@ year: 2024
 bibkey: yin2024transferable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11083"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Visual Question Answering (VQA) is a fundamental task in computer vision and
 natural language process fields. Although the ``pre-training & finetuning''

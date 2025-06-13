@@ -7,7 +7,7 @@ year: 2024
 bibkey: coscia2024visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04760"}
-tags: ['Ethics and Bias', 'Interpretability', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Tools', 'Interpretability', 'Ethics and Bias']
 ---
 The recent explosion in popularity of large language models (LLMs) has
 inspired learning engineers to incorporate them into adaptive educational tools

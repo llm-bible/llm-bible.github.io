@@ -7,7 +7,7 @@ year: 2024
 bibkey: qi2024model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13663"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 Ensuring the verifiability of model answers is a fundamental challenge for
 retrieval-augmented generation (RAG) in the question answering (QA) domain.

@@ -7,7 +7,7 @@ year: 2025
 bibkey: wadhwa2025discovering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15219"}
-tags: ['Prompting', 'Agentic', 'Tools']
+tags: ['Agentic', 'Prompting', 'Tools']
 ---
 Evaluation of language model outputs on structured writing tasks is typically
 conducted with a number of desirable criteria presented to human evaluators or

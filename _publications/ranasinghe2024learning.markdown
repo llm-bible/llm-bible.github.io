@@ -7,7 +7,7 @@ year: 2024
 bibkey: ranasinghe2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07449"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Integration of Large Language Models (LLMs) into visual domain tasks,
 resulting in visual-LLMs (V-LLMs), has enabled exceptional performance in

@@ -8,7 +8,7 @@ bibkey: xiong2023dq
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02954"}
   - {name: "Code", url: "https://github.com/AI4fun/DQ-LoRe}{https://github.com/AI4fun/DQ-LoRe"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Recent advances in natural language processing, primarily propelled by Large
 Language Models (LLMs), have showcased their remarkable capabilities grounded

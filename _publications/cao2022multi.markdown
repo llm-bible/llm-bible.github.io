@@ -8,7 +8,7 @@ bibkey: cao2022multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.02427"}
   - {name: "Code", url: "https://github.com/Aman-4-Real/MMTG"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 AI creation, such as poem or lyrics generation, has attracted increasing
 attention from both industry and academic communities, with many promising

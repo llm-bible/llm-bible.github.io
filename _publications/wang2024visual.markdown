@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06774"}
-tags: ['Multimodal Models', 'Training Techniques', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 We present Visual Lexicon, a novel visual language that encodes rich image
 information into the text space of vocabulary tokens while retaining intricate

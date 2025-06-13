@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024mini
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15892"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 We introduce Mini-Sequence Transformer (MsT), a simple and effective
 methodology for highly efficient and accurate LLM training with extremely long

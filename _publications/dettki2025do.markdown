@@ -7,7 +7,7 @@ year: 2025
 bibkey: dettki2025do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10215"}
-tags: ['Agentic', 'Ethics and Bias', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 Causal reasoning is a core component of intelligence. Large language models
 (LLMs) have shown impressive capabilities in generating human-like text,

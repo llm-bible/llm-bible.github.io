@@ -8,7 +8,7 @@ bibkey: ma2024sparsity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01392"}
   - {name: "Code", url: "https://github.com/OpenDFM/SAT"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated proficiency across various
 natural language processing (NLP) tasks but often require additional training,

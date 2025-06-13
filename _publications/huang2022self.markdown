@@ -7,7 +7,7 @@ year: 2022
 bibkey: huang2022self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.08753"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Personalized chatbots focus on endowing the chatbots with a consistent
 personality to behave like real users and further act as personal assistants.

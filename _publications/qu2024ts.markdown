@@ -8,7 +8,7 @@ bibkey: qu2024ts
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.11066"}
   - {name: "Code", url: "https://github.com/tingyu215/TS-LLaVA"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Has Code']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Recent advances in multimodal Large Language Models (LLMs) have shown great
 success in understanding multi-modal contents. For video understanding tasks,

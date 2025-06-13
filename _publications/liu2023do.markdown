@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.08072"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Prompting', 'In-Context Learning']
 ---
 Despite the superior performance, Large Language Models~(LLMs) require
 significant computational resources for deployment and use. To overcome this

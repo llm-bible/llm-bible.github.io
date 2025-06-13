@@ -8,7 +8,7 @@ bibkey: wang2024helpful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04606"}
   - {name: "Code", url: "https://github.com/JTWang2000/FreeShap"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The increasing complexity of foundational models underscores the necessity
 for explainability, particularly for fine-tuning, the most widely used training

@@ -7,7 +7,7 @@ year: 2024
 bibkey: alaofi2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08137"}
-tags: ['Training Techniques', 'Survey Paper', 'Tools', 'RAG', 'Merging', 'Applications']
+tags: ['Tools', 'Survey Paper', 'Applications', 'RAG', 'Merging', 'Training Techniques']
 ---
 In this chapter, we consider generative information retrieval evaluation from
 two distinct but interrelated perspectives. First, large language models (LLMs)

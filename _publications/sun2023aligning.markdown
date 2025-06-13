@@ -8,7 +8,7 @@ bibkey: sun2023aligning
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2309.14525v1"}
   - {name: "Code", url: "https://llava-rlhf.github.io"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Large Multimodal Models (LMM) are built across modalities and the
 misalignment between two modalities can result in "hallucination", generating

@@ -7,7 +7,7 @@ year: 2025
 bibkey: yuenyong2025openthaigpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01789"}
-tags: ['Training Techniques', 'GPT', 'Merging', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Merging']
 ---
 We present OpenThaiGPT 1.6 and R1 (OTG-1.6 and OTG-R1), Thai-centric Large
 Language Models (LLMs) developed through distinct methodologies to enhance

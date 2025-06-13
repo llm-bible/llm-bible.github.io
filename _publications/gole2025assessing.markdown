@@ -7,7 +7,7 @@ year: 2025
 bibkey: gole2025assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06166"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Sarcasm detection is challenging for both humans and machines. This work
 explores how model characteristics impact sarcasm detection in OpenAI's GPT,

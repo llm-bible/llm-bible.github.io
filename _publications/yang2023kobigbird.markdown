@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023kobigbird
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10339"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 This work presents KoBigBird-large, a large size of Korean BigBird that
 achieves state-of-the-art performance and allows long sequence processing for

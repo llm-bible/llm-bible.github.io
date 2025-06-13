@@ -8,7 +8,7 @@ bibkey: cheng2023black
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04155"}
   - {name: "Code", url: "https://github.com/thu-coai/BPO"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) have shown impressive success in various
 applications. However, these models are often not well aligned with human

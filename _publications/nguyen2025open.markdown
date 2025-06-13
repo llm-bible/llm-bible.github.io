@@ -7,7 +7,7 @@ year: 2025
 bibkey: nguyen2025open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00203"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated substantial potential in
 addressing complex reasoning tasks, yet their general-purpose nature often

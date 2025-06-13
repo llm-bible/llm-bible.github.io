@@ -7,7 +7,7 @@ year: 2023
 bibkey: anagnostidis2023dynamic
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.15805v3"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Autoregressive Transformers adopted in Large Language Models (LLMs) are hard
 to scale to long sequences. Despite several works trying to reduce their

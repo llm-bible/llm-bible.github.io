@@ -7,7 +7,7 @@ year: 2024
 bibkey: ong2024gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09464"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Merging', 'GPT', 'Prompting']
+tags: ['GPT', 'Survey Paper', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large Language Models have taken the cognitive science world by storm. It is
 perhaps timely now to take stock of the various research paradigms that have

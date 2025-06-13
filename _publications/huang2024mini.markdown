@@ -8,7 +8,7 @@ bibkey: huang2024mini
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02034"}
   - {name: "Code", url: "https://github.com/Yuliang-Liu/Monkey"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recently, scaling images to high resolution has received much attention in
 multimodal large language models (MLLMs). Most existing practices adopt a

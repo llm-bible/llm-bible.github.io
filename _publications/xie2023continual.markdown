@@ -7,7 +7,7 @@ year: 2023
 bibkey: xie2023continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06707"}
-tags: ['RAG', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'RAG', 'Pre-Training']
 ---
 In light of the success of the pre-trained language models (PLMs), continual
 pre-training of generic PLMs has been the paradigm of domain adaption. In this

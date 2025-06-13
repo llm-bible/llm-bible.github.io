@@ -7,7 +7,7 @@ year: 2024
 bibkey: feghhi2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01538"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Transformer', 'Pretraining Methods']
+tags: ['Model Architecture', 'Transformer', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Given the remarkable capabilities of large language models (LLMs), there has
 been a growing interest in evaluating their similarity to the human brain. One

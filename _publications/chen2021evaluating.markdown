@@ -7,7 +7,7 @@ year: 2021
 bibkey: chen2021evaluating
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2107.03374v2"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'GPT', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Prompting']
 ---
 We introduce Codex, a GPT language model fine-tuned on publicly available
 code from GitHub, and study its Python code-writing capabilities. A distinct

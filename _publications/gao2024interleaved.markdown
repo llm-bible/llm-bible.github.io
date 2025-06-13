@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024interleaved
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19488"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Chain-of-Thought (CoT) prompting elicits large language models (LLMs) to
 produce a series of intermediate reasoning steps before arriving at the final

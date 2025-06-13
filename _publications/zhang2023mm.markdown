@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023mm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17435"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 We present MM-Narrator, a novel system leveraging GPT-4 with multimodal
 in-context learning for the generation of audio descriptions (AD). Unlike

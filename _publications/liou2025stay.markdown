@@ -7,7 +7,7 @@ year: 2025
 bibkey: liou2025stay
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15013"}
-tags: ['RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG']
 ---
 The process of creating educational materials is both time-consuming and
 demanding for educators. This research explores the potential of Large Language

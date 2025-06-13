@@ -7,7 +7,7 @@ year: 2025
 bibkey: roy2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01305"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) are increasingly attracting the attention of
 healthcare professionals for their potential to assist in diagnostic

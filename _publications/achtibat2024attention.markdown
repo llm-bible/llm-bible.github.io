@@ -8,7 +8,7 @@ bibkey: achtibat2024attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05602"}
   - {name: "Code", url: "https://github.com/rachtibat/LRP-eXplains-Transformers"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Has Code', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Language Models are prone to biased predictions and hallucinations,
 underlining the paramount importance of understanding their model-internal

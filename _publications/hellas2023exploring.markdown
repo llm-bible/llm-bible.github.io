@@ -7,7 +7,7 @@ year: 2023
 bibkey: hellas2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.05715"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Background and Context: Over the past year, large language models (LLMs) have
 taken the world by storm. In computing education, like in other walks of life,

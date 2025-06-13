@@ -7,7 +7,7 @@ year: 2025
 bibkey: mehta2025make
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22275"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Tokenization', 'Quantization', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Tokenization', 'Multimodal Models', 'Quantization']
 ---
 Integrating audio comprehension and generation into large language models
 (LLMs) remains challenging due to the continuous nature of audio and the

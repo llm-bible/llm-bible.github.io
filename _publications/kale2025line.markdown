@@ -8,7 +8,7 @@ bibkey: kale2025line
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11256"}
   - {name: "Code", url: "https://github.com/knowledge-verse-ai/LLM-Self_Knowledge_Eval"}
-tags: ['Has Code', 'Model Architecture', 'GPT', 'Merging']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Merging']
 ---
 As LLMs grow more powerful, their most profound achievement may be
 recognising when to say "I don't know". Existing studies on LLM self-knowledge

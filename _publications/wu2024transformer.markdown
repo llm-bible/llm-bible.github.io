@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12151"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Even though large language models (LLMs) have demonstrated remarkable
 capability in solving various natural language tasks, the capability of an LLM

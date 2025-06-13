@@ -7,7 +7,7 @@ year: 2023
 bibkey: qian2023linking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05155"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Large Language Models (LLMs) have demonstrated remarkable progress in
 utilizing tools, but their closed-source nature and high inference costs pose

@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07093"}
   - {name: "Code", url: "https://github.com/LiqunMa/FBI-LLM"}
   - {name: "Code", url: "https://huggingface.co/LiqunMa/)"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
 ---
 This work presents a Fully BInarized Large Language Model (FBI-LLM),
 demonstrating for the first time how to train a large-scale binary language

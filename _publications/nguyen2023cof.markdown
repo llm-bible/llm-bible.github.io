@@ -7,7 +7,7 @@ year: 2023
 bibkey: nguyen2023cof
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14623"}
-tags: ['Prompting', 'RAG', 'Applications', 'Few-Shot']
+tags: ['RAG', 'Few-Shot', 'Prompting', 'Applications']
 ---
 While Chain-of-Thought prompting is popular in reasoning tasks, its
 application to Large Language Models (LLMs) in Natural Language Understanding

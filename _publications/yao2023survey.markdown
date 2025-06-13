@@ -7,7 +7,7 @@ year: 2023
 bibkey: yao2023survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02003"}
-tags: ['Security', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Security']
 ---
 Large Language Models (LLMs), such as ChatGPT and Bard, have revolutionized
 natural language understanding and generation. They possess deep language

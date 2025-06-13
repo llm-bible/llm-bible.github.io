@@ -8,7 +8,7 @@ bibkey: wijesiriwardene2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.00869"}
   - {name: "Code", url: "https://github.com/Thiliniiw/KnowledgePrompts/"}
-tags: ['Prompting', 'Training Techniques', 'Applications', 'Has Code']
+tags: ['Training Techniques', 'Has Code', 'Prompting', 'Applications']
 ---
 Making analogies is fundamental to cognition. Proportional analogies, which
 consist of four terms, are often used to assess linguistic and cognitive

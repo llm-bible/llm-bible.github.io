@@ -8,7 +8,7 @@ bibkey: fleischer2025sequential
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09390"}
   - {name: "Code", url: "https://github.com/IntelLabs/RAG-FiT/tree/square"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 In the rapidly evolving field of Natural Language Processing, Large Language
 Models (LLMs) are tasked with increasingly complex reasoning challenges.

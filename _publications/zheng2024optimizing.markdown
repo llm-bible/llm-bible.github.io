@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03594"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Prompting', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 Large language models (LLMs) increasingly play an important role in a wide
 range of information processing and management tasks. Many of these tasks are

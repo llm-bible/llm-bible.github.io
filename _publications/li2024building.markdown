@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16229"}
-tags: ['Prompting', 'RAG', 'Applications']
+tags: ['RAG', 'Prompting', 'Applications']
 ---
 Pretrained language models have shown strong effectiveness in code-related
 tasks, such as code retrieval, code generation, code summarization, and code

@@ -7,7 +7,7 @@ year: 2025
 bibkey: feng2025blobgen
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.07647"}
-tags: ['Model Architecture', 'Tools', 'Merging', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Prompting']
 ---
 Existing video generation models struggle to follow complex text prompts and
 synthesize multiple objects, raising the need for additional grounding input

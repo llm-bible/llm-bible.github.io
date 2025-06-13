@@ -7,7 +7,7 @@ year: 2020
 bibkey: xu2020generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.01652"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Recently, open-domain dialogue systems have attracted growing attention. Most
 of them use the sequence-to-sequence (Seq2Seq) architecture to generate

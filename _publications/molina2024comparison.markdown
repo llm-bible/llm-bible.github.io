@@ -7,7 +7,7 @@ year: 2024
 bibkey: molina2024comparison
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20578"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 This study explores the effectiveness of Large Language Models (LLMs) for
 Automatic Question Generation in educational settings. Three LLMs are compared

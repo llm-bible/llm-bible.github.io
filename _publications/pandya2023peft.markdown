@@ -7,7 +7,7 @@ year: 2023
 bibkey: pandya2023peft
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10697"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Chat models are capable of answering a wide range of questions, however, the
 accuracy of their responses is highly uncertain. In this research, we propose a

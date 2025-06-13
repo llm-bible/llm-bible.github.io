@@ -7,7 +7,7 @@ year: 2023
 bibkey: ott2023central
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.11596"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) such as GPT-4 have recently demonstrated
 impressive results across a wide range of tasks. LLMs are still limited,

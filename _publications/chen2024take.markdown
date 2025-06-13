@@ -8,7 +8,7 @@ bibkey: chen2024take
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14270"}
   - {name: "Code", url: "https://github.com/VITA-Group/HardFocusTraining"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Has Code']
 ---
 In the rapidly advancing arena of large language models (LLMs), a key
 challenge is to enhance their capabilities amid a looming shortage of

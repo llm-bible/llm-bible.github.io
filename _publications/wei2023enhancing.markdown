@@ -8,7 +8,7 @@ bibkey: wei2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.12626"}
   - {name: "Code", url: "https://github.com/weijingxuan/COCO-MMR}{https://github.com/weijingxuan/COCO-MMR"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Has Code', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Tools', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal reasoning is a critical component in the pursuit of artificial
 intelligence systems that exhibit human-like intelligence, especially when

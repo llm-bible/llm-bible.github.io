@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04945"}
   - {name: "Code", url: "https://github.com/qcri/LLMeBench/)"}
   - {name: "Code", url: "https://youtu.be/9cC2m_abk3A)"}
-tags: ['Few-Shot', 'Tools', 'Reinforcement Learning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 The recent development and success of Large Language Models (LLMs)
 necessitate an evaluation of their performance across diverse NLP tasks in

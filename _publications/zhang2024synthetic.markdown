@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09629"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) are proficient in capturing factual knowledge
 across various domains. However, refining their capabilities on previously seen

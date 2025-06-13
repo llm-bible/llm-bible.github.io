@@ -7,7 +7,7 @@ year: 2018
 bibkey: choi2018fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1803.11407"}
-tags: ['Applications', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Applications']
 ---
 Neural machine translation (NMT) has been a new paradigm in machine
 translation, and the attention mechanism has become the dominant approach with

@@ -8,7 +8,7 @@ bibkey: guo2023point
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.00615"}
   - {name: "Code", url: "https://github.com/ZiyuGuo99/Point-Bind_Point-LLM"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We introduce Point-Bind, a 3D multi-modality model aligning point clouds with
 2D image, language, audio, and video. Guided by ImageBind, we construct a joint

@@ -7,7 +7,7 @@ year: 2024
 bibkey: sia2024where
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04510"}
-tags: ['Training Techniques', 'Model Architecture', 'In-Context Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Self-supervised large language models have demonstrated the ability to
 perform Machine Translation (MT) via in-context learning, but little is known

@@ -8,7 +8,7 @@ bibkey: liao2024neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13203"}
   - {name: "Code", url: "https://github.com/Xnhyacinth/NesyCD"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'GPT', 'Has Code']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Has Code', 'Distillation']
 ---
 In this paper, we propose \\(\textbf\{Ne\}\\)ural-\\(\textbf\{Sy\}\\)mbolic
 \\(\textbf\{C\}\\)ollaborative \\(\textbf\{D\}\\)istillation (\\(\textbf\{NesyCD\}\\)), a novel

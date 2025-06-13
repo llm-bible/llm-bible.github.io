@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05128"}
-tags: ['Efficiency and Optimization', 'Few-Shot', 'RAG', 'Interpretability and Explainability', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Few-Shot']
 ---
 Large language models (LLMs) have achieved impressive performance on code
 generation. However, for complex programming tasks, generating the correct

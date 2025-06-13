@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhong2024balancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10999"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Applications']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning']
 ---
 This paper examines the role of cognitive biases in the decision-making
 processes of large language models (LLMs), challenging the conventional goal of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: patel2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20309"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Security', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Training models to act as agents that can effectively navigate and perform
 actions in a complex environment, such as a web browser, has typically been

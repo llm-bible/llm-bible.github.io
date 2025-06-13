@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024kv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19574"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The current large language models are mainly based on decode-only structure
 transformers, which have great in-context learning (ICL) capabilities. It is

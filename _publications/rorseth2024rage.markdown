@@ -7,7 +7,7 @@ year: 2024
 bibkey: rorseth2024rage
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13000"}
-tags: ['RAG', 'Pruning', 'Efficiency and Optimization', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Efficiency and Optimization', 'Pruning']
 ---
 This paper demonstrates RAGE, an interactive tool for explaining Large
 Language Models (LLMs) augmented with retrieval capabilities; i.e., able to

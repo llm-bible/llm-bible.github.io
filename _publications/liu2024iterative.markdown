@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11817"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Direct Preference Optimization (DPO), a standard method for aligning language
 models with human preferences, is traditionally applied to offline preferences.

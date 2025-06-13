@@ -7,7 +7,7 @@ year: 2023
 bibkey: hajali2023function
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15500"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Prompting']
 ---
 This work introduces (1) a technique that allows large language models (LLMs)
 to leverage user-provided code when solving programming tasks and (2) a method

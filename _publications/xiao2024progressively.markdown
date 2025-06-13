@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiao2024progressively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10896"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 This paper demonstrates that a progressively aligned language model can
 effectively bridge frozen vision encoders and large language models (LLMs).

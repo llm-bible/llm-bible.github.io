@@ -7,7 +7,7 @@ year: 2025
 bibkey: yuan2025attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01330"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'GPT', 'Merging', 'Pretraining Methods', 'Attention Mechanism']
+tags: ['GPT', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) use key-value (KV) cache to reduce redundant
 computation in autoregressive generation. However, the KV cache size increases

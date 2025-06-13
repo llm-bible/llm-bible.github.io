@@ -7,7 +7,7 @@ year: 2025
 bibkey: he2025supposedly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22362"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Understanding and mitigating hallucinations in Large Language Models (LLMs)
 is crucial for ensuring reliable content generation. While previous research

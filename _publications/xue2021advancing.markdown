@@ -7,7 +7,7 @@ year: 2021
 bibkey: xue2021advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.10337"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 We study joint video and language (VL) pre-training to enable cross-modality
 learning and benefit plentiful downstream VL tasks. Existing works either

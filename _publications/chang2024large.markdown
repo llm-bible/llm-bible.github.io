@@ -7,7 +7,7 @@ year: 2024
 bibkey: chang2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20404"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated impressive performances in
 complex text generation tasks. However, the contribution of the input prompt to

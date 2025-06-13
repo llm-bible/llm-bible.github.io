@@ -7,7 +7,7 @@ year: 2025
 bibkey: kongmanee2025attempt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15054"}
-tags: ['Responsible AI', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 This research aims to unravel how large language models (LLMs) iteratively
 refine token predictions (or, in a general sense, vector predictions). We

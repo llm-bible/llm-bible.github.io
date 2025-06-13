@@ -7,7 +7,7 @@ year: 2023
 bibkey: kawamoto2023application
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00845"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 In this study, we use the existing Large Language Models ENnhanced to See
 Framework (LENS Framework) to test the feasibility of multimodal task-oriented

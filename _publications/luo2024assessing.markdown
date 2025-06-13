@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08430"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture']
 ---
 This paper provides an in-depth evaluation of three state-of-the-art Large
 Language Models (LLMs) for personalized career mentoring in the computing

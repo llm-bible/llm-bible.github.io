@@ -7,7 +7,7 @@ year: 2025
 bibkey: ahmadi2025mcp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08999"}
-tags: ['Agentic', 'Security', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Security']
 ---
 Large Language Models (LLMs) are increasingly augmented with external tools
 through standardized interfaces like the Model Context Protocol (MCP). However,

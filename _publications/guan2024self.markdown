@@ -7,7 +7,7 @@ year: 2024
 bibkey: guan2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06813"}
-tags: ['Agentic', 'RAG', 'Applications']
+tags: ['RAG', 'Agentic', 'Applications']
 ---
 Diplomacy is one of the most sophisticated activities in human society,
 involving complex interactions among multiple parties that require skills in

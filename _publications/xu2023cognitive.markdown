@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09827"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Reinforcement Learning', 'GPT']
+tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 While large language models (LLMs) have demonstrated increasing power, they
 have also given rise to a wide range of harmful behaviors. As representatives,

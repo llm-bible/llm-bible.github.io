@@ -8,7 +8,7 @@ bibkey: ji2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16615"}
   - {name: "Code", url: "https://github.com/flyfree5/LaHoRe"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Despite the recent advancement in Retrieval-Augmented Generation (RAG)
 systems, most retrieval methodologies are often developed for factual

@@ -7,7 +7,7 @@ year: 2021
 bibkey: zaken2021simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.10199"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 We introduce BitFit, a sparse-finetuning method where only the bias-terms of
 the model (or a subset of them) are being modified. We show that with

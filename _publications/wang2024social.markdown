@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024social
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14447"}
-tags: ['Prompting', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) require well-crafted prompts for effective use.
 Prompt engineering, the process of designing prompts, is challenging,

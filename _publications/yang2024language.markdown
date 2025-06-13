@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07802"}
-tags: ['Training Techniques', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Tools']
 ---
 In this paper, we present Language Model as Visual Explainer LVX, a
 systematic approach for interpreting the internal workings of vision models

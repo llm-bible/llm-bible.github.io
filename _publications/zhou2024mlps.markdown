@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024mlps
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.01667"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 While Transformer-based pre-trained language models and their variants
 exhibit strong semantic representation capabilities, the question of

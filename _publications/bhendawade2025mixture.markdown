@@ -7,7 +7,7 @@ year: 2025
 bibkey: bhendawade2025mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.02040"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Residual transformations enhance the representational depth and expressive
 power of large language models (LLMs). However, applying static residual

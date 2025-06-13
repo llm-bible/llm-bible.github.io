@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023carefully
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.09296"}
-tags: ['Ethics and Bias', 'Merging', 'Reinforcement Learning']
+tags: ['Merging', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 The unprecedented performance of large language models (LLMs) necessitates
 improvements in evaluations. Rather than merely exploring the breadth of LLM

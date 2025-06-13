@@ -7,7 +7,7 @@ year: 2025
 bibkey: gooding2025writing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19711"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Open-ended tasks are particularly challenging for LLMs due to the vast
 solution space, demanding both expansive exploration and adaptable strategies,

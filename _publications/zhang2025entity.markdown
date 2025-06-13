@@ -8,7 +8,7 @@ bibkey: zhang2025entity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01097"}
   - {name: "Code", url: "https://github.com/modelscope/DiffSynth-Studio.git"}
-tags: ['Model Architecture', 'Tools', 'Merging', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Recent advancements in diffusion models have significantly advanced
 text-to-image generation, yet global text prompts alone remain insufficient for

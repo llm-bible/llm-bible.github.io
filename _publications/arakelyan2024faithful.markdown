@@ -7,7 +7,7 @@ year: 2024
 bibkey: arakelyan2024faithful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11900"}
-tags: ['Prompting', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Prompting', 'Applications']
 ---
 Modern Question Answering (QA) and Reasoning approaches based on Large
 Language Models (LLMs) commonly use prompting techniques, such as

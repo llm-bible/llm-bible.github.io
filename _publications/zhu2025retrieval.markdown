@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhu2025retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14361"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'RAG', 'Training Techniques', 'Reinforcement Learning']
 ---
 While large language models (LLMs) have significantly advanced mathematical
 reasoning, Process Reward Models (PRMs) have been developed to evaluate the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024momentum
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20999"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities across
 a wide range of tasks. Typically, LLMs are first pre-trained on large corpora

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wassie2023machine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.14530"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot']
 ---
 Machine translation (MT) for low-resource languages such as Ge'ez, an ancient
 language that is no longer the native language of any community, faces

@@ -7,7 +7,7 @@ year: 2023
 bibkey: jayakumar2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08890"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Realizing the recent advances in Natural Language Processing (NLP) to the
 legal sector poses challenging problems such as extremely long sequence

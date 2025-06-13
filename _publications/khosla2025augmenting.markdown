@@ -7,7 +7,7 @@ year: 2025
 bibkey: khosla2025augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.08648"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 While originally designed for unidirectional generative modeling,
 decoder-only large language models (LLMs) are increasingly being adapted for

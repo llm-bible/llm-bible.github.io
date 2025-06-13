@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05384"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 This paper investigates the performance of Large Language Models (LLMs) and
 Tool-augmented LLMs in tackling complex mathematical reasoning tasks. We

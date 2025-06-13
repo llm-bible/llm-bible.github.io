@@ -7,7 +7,7 @@ year: 2024
 bibkey: maity2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15211"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 We evaluate the effectiveness of GPT-4 Turbo in generating educational
 questions from NCERT textbooks in zero-shot mode. Our study highlights GPT-4

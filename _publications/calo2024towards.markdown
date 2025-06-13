@@ -7,7 +7,7 @@ year: 2024
 bibkey: calo2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14713"}
-tags: ['Prompting', 'RAG', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 Intelligent Tutoring Systems (ITSs) have shown great potential in delivering
 personalized and adaptive education, but their widespread adoption has been

@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024autoad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15850"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Our objective is to generate Audio Descriptions (ADs) for both movies and TV
 series in a training-free manner. We use the power of off-the-shelf

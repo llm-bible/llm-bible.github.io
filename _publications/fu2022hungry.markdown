@@ -7,7 +7,7 @@ year: 2022
 bibkey: fu2022hungry
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.14052"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
 ---
 State space models (SSMs) have demonstrated state-of-the-art sequence
 modeling performance in some modalities, but underperform attention in language

@@ -8,7 +8,7 @@ bibkey: yuan2023revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.04618"}
   - {name: "Code", url: "https://github.com/lifan-yuan/OOD_NLP"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 This paper reexamines the research on out-of-distribution (OOD) robustness in
 the field of NLP. We find that the distribution shift settings in previous

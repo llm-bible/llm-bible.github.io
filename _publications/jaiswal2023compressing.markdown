@@ -8,7 +8,7 @@ bibkey: jaiswal2023compressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01382"}
   - {name: "Code", url: "https://github.com/VITA-Group/llm-kick"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pruning', 'Quantization', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Quantization']
 ---
 Despite their remarkable achievements, modern Large Language Models (LLMs)
 face exorbitant computational and memory footprints. Recently, several works

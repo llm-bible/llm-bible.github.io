@@ -7,7 +7,7 @@ year: 2025
 bibkey: karov2025attentive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03669"}
-tags: ['Agentic', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Reinforcement Learning', 'Applications', 'Tools']
 ---
 We present Attentive Reasoning Queries (ARQs), a novel structured reasoning
 approach that significantly improves instruction-following in Large Language

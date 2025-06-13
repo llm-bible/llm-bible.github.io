@@ -7,7 +7,7 @@ year: 2025
 bibkey: gupta2025multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.17720"}
-tags: ['Ethics and Bias', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Ethics and Bias', 'Applications']
 ---
 Large language models (LLMs) are increasingly being adopted in educational
 settings. These applications expand beyond English, though current LLMs remain

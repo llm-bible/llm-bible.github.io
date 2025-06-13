@@ -7,7 +7,7 @@ year: 2021
 bibkey: chaffin2021ppl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.13582"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LM) based on Transformers allow to generate plausible
 long texts. In this paper, we explore how this generation can be further

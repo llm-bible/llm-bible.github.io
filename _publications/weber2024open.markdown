@@ -7,7 +7,7 @@ year: 2024
 bibkey: weber2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.12372"}
-tags: ['Training Techniques', 'TACL', 'RAG', 'Interpretability', 'Ethics and Bias', 'ACL']
+tags: ['Ethics and Bias', 'RAG', 'TACL', 'ACL', 'Interpretability', 'Training Techniques']
 ---
 Large language models are increasingly becoming a cornerstone technology in
 artificial intelligence, the sciences, and society as a whole, yet the optimal

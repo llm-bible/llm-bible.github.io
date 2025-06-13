@@ -7,7 +7,7 @@ year: 2022
 bibkey: tal2022fewer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.09860"}
-tags: ['Masked Language Model', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Prompting']
+tags: ['Ethics and Bias', 'Model Architecture', 'Masked Language Model', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 The size of pretrained models is increasing, and so is their performance on a
 variety of NLP tasks. However, as their memorization capacity grows, they might

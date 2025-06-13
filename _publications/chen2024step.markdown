@@ -8,7 +8,7 @@ bibkey: chen2024step
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10858"}
   - {name: "Code", url: "https://github.com/MARIO-Math-Reasoning/Super_MARIO"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Direct Preference Optimization (DPO) using an implicit reward model has
 proven to be an effective alternative to reinforcement learning from human

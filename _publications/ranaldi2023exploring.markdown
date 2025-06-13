@@ -7,7 +7,7 @@ year: 2023
 bibkey: ranaldi2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.04673"}
-tags: ['BERT', 'Training Techniques', 'Pre-Training', 'Model Architecture']
+tags: ['Training Techniques', 'BERT', 'Pre-Training', 'Model Architecture']
 ---
 Pre-trained Language Models such as BERT are impressive machines with the
 ability to memorize, possibly generalized learning examples. We present here a

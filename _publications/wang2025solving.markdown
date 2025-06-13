@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025solving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06802"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 With the vast and dynamic user-generated content on Roblox, creating
 effective game recommendations requires a deep understanding of game content.

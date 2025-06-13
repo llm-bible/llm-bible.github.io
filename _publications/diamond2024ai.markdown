@@ -7,7 +7,7 @@ year: 2024
 bibkey: diamond2024ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01726"}
-tags: ['Survey Paper', 'Tools']
+tags: ['Tools', 'Survey Paper']
 ---
 For many people, anxiety, depression, and other social and mental factors can
 make composing text messages an active challenge. To remedy this problem, large

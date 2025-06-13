@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024spin
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02288"}
-tags: ['Training Techniques', 'Model Architecture', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models show a surprising in-context learning ability -- being
 able to use a prompt to form a prediction for a query, yet without additional

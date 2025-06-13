@@ -7,7 +7,7 @@ year: 2025
 bibkey: saroufim2025neurips
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13507"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'NeurIPS']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'NeurIPS', 'Training Techniques', 'Pretraining Methods']
 ---
 Our analysis of the NeurIPS 2023 large language model (LLM) fine-tuning
 competition revealed the following trend: top-performing models exhibit

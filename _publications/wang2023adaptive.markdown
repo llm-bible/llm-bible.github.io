@@ -8,7 +8,7 @@ bibkey: wang2023adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15033"}
   - {name: "Code", url: "https://github.com/kugwzk/SmartTrim"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Distillation', 'Pruning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 Despite achieving remarkable performance on various vision-language tasks,
 Transformer-based Vision-Language Models (VLMs) suffer from redundancy in

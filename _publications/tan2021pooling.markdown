@@ -7,7 +7,7 @@ year: 2021
 bibkey: tan2021pooling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.02442"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Transformer-based models have achieved great success in various NLP, vision,
 and speech tasks. However, the core of Transformer, the self-attention

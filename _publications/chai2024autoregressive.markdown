@@ -8,7 +8,7 @@ bibkey: chai2024autoregressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10710"}
   - {name: "Code", url: "https://github.com/ernie-research/pixelgpt"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 The integration of visual and textual information represents a promising
 direction in the advancement of language models. In this paper, we explore the

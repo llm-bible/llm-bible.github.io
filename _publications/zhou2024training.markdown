@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.19446"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 A broad use case of large language models (LLMs) is in goal-directed
 decision-making tasks (or "agent" tasks), where an LLM needs to not just

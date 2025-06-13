@@ -7,7 +7,7 @@ year: 2024
 bibkey: deng2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15057"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 Web agents powered by Large Language Models (LLMs) have demonstrated
 remarkable abilities in planning and executing multi-step interactions within

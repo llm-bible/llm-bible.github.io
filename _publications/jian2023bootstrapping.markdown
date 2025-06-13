@@ -8,7 +8,7 @@ bibkey: jian2023bootstrapping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.07063"}
   - {name: "Code", url: "https://github.com/yiren-jian/BLIText"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 We present a novel methodology aimed at optimizing the application of frozen
 large language models (LLMs) for resource-intensive vision-language (VL)

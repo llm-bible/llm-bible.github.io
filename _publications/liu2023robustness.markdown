@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023robustness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07847"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs) undergo continuous updates to improve user
 experience. However, prior research on the security and safety implications of

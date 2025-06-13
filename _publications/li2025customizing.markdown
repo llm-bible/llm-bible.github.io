@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025customizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15709"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'BERT']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'BERT']
 ---
 The integration of AI in education offers significant potential to enhance
 learning efficiency. Large Language Models (LLMs), such as ChatGPT, Gemini, and

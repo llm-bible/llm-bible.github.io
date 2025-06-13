@@ -7,7 +7,7 @@ year: 2024
 bibkey: saharoy2024just
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23066"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
 ---
 State-of-the-art Extreme Multi-Label Text Classification (XMTC) models rely
 heavily on multi-label attention layers to focus on key tokens in input text,

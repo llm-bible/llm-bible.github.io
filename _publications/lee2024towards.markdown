@@ -8,7 +8,7 @@ bibkey: lee2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19898"}
   - {name: "Code", url: "https://github.com/DISL-Lab/UniSumEval-v1.0"}
-tags: ['Applications', 'Has Code']
+tags: ['Has Code', 'Applications']
 ---
 Existing benchmarks for summarization quality evaluation often lack diverse
 input scenarios, focus on narrowly defined dimensions (e.g., faithfulness), and

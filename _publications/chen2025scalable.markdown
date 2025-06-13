@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17857"}
-tags: ['Agentic', 'RAG', 'Tools']
+tags: ['RAG', 'Agentic', 'Tools']
 ---
 Previous research has shown that humans are more receptive towards language
 models that that exhibit empathetic behavior. While empathy is essential for

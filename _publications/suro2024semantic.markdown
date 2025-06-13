@@ -7,7 +7,7 @@ year: 2024
 bibkey: suro2024semantic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02563"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 Retrieval-Augmented Generation (RAG) architectures have recently garnered
 significant attention for their ability to improve truth grounding and

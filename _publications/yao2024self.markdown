@@ -8,7 +8,7 @@ bibkey: yao2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19215"}
   - {name: "Code", url: "https://github.com/THU-KEG/SeaKR"}
-tags: ['RAG', 'Applications', 'Has Code']
+tags: ['RAG', 'Has Code', 'Applications']
 ---
 This paper introduces Self-aware Knowledge Retrieval (SeaKR), a novel
 adaptive RAG model that extracts self-aware uncertainty of LLMs from their

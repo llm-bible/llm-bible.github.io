@@ -7,7 +7,7 @@ year: 2024
 bibkey: yoon2024token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16574"}
-tags: ['Agentic', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods']
+tags: ['Agentic', 'GPT', 'RAG', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reinforcement Learning from Human Feedback (RLHF) leverages human preference
 data to train language models to align more closely with human essence. These

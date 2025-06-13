@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024experimenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07713"}
-tags: ['RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Generative AI models, such as the GPT and Llama series, have significant
 potential to assist laypeople in answering legal questions. However, little

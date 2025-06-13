@@ -8,7 +8,7 @@ bibkey: viswanath2023toolkit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.05508"}
   - {name: "Code", url: "https://github.com/HrishikeshVish/Fairpy}{https://github.com/HrishikeshVish/Fairpy"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'BERT', 'Has Code']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'BERT']
 ---
 Recent studies have demonstrated that large pretrained language models (LLMs)
 such as BERT and GPT-2 exhibit biases in token prediction, often inherited from

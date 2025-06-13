@@ -7,7 +7,7 @@ year: 2023
 bibkey: elmadany2023multitask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16127"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Understanding Arabic text and generating human-like responses is a
 challenging endeavor. While many researchers have proposed models and solutions

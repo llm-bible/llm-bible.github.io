@@ -7,7 +7,7 @@ year: 2025
 bibkey: skripkin2025mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15381"}
-tags: ['Masked Language Model', 'RAG', 'Multimodal Models']
+tags: ['RAG', 'Multimodal Models', 'Masked Language Model']
 ---
 Multimodal language models (MLMs) integrate visual and textual information by
 coupling a vision encoder with a large language model through the specific

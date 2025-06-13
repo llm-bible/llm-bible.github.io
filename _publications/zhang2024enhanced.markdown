@@ -8,7 +8,7 @@ bibkey: zhang2024enhanced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05678"}
   - {name: "Code", url: "https://github.com/Dexter-GT-86/SinkLoRA"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'TACL', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'ACL', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Extending the functionality of the Transformer model to accommodate longer
 sequence lengths has become a critical challenge. This extension is crucial not

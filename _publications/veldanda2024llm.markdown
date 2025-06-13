@@ -7,7 +7,7 @@ year: 2024
 bibkey: veldanda2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13054"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have revolutionized various domains, yet their
 utility comes with significant challenges related to outdated or problematic

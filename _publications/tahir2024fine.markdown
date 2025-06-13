@@ -7,7 +7,7 @@ year: 2024
 bibkey: tahir2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.00251"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Cognitive Behavioral Therapy (CBT) is a well-established, evidence-based
 treatment for Major Depressive Disorder. Unfortunately, there exist significant

@@ -7,7 +7,7 @@ year: 2023
 bibkey: fayyazi2023advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00280"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Tactics, Techniques, and Procedures (TTPs) outline the methods attackers use
 to exploit vulnerabilities. The interpretation of TTPs in the MITRE ATT&CK

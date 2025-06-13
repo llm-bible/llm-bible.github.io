@@ -7,7 +7,7 @@ year: 2024
 bibkey: cui2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15281"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
+tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Security']
 ---
 With the broader usage and highly successful development of Large Language
 Models (LLMs), there has been a growth of interest and demand for applying LLMs

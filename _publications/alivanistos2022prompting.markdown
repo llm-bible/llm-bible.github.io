@@ -8,7 +8,7 @@ bibkey: alivanistos2022prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.11057"}
   - {name: "Code", url: "https://github.com/HEmile/iswc-challenge"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 Language Models (LMs) have proven to be useful in various downstream
 applications, such as summarisation, translation, question answering and text

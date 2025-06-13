@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024slm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12748"}
-tags: ['Tools', 'RAG', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Prompting']
 ---
 Large language models (LLMs) are highly capable but face latency challenges
 in real-time applications, such as conducting online hallucination detection.

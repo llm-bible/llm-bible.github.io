@@ -7,7 +7,7 @@ year: 2022
 bibkey: cao2022model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.09867"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Towards building intelligent dialogue agents, there has been a growing
 interest in introducing explicit personas in generation models. However, with

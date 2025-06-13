@@ -7,7 +7,7 @@ year: 2023
 bibkey: han2023chat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04275"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 In this note, we explore inference-time alignment through in-context
 learning. We consider a vanilla pretrained language model Llama-2 before any

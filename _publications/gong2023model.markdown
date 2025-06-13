@@ -8,7 +8,7 @@ bibkey: gong2023model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12567"}
   - {name: "Code", url: "https://github.com/gonglinyuan/metro_t0"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 This paper explores the effectiveness of model-generated signals in improving
 zero-shot generalization of text-to-text Transformers such as T5. We study

@@ -7,7 +7,7 @@ year: 2025
 bibkey: nguyen2025guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04463"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 The need for interpretability in deep learning has driven interest in
 counterfactual explanations, which identify minimal changes to an instance that

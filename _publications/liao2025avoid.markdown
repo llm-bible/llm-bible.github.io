@@ -8,7 +8,7 @@ bibkey: liao2025avoid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03336"}
   - {name: "Code", url: "https://github.com/microsoft/RecAI"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 Large Language Models (LLMs) have shown promise for generative recommender
 systems due to their transformative capabilities in user interaction. However,

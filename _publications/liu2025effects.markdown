@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025effects
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14255"}
-tags: ['Prompting', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Prompting', 'Applications', 'Model Architecture']
 ---
 In recent years, Large Language Models have garnered significant attention
 for their strong performance in various natural language tasks, such as machine

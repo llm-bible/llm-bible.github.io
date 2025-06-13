@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06798"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Despite significant progress in robotic systems for operation within
 human-centric environments, existing models still heavily rely on explicit

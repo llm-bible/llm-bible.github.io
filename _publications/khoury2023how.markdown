@@ -7,7 +7,7 @@ year: 2023
 bibkey: khoury2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09655"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 In recent years, large language models have been responsible for great
 advances in the field of artificial intelligence (AI). ChatGPT in particular,

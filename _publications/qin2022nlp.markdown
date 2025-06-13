@@ -7,7 +7,7 @@ year: 2022
 bibkey: qin2022nlp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.07856"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer models cannot easily scale to long sequences due to their O(N^2)
 time and space complexity. This has led to Transformer variants seeking to

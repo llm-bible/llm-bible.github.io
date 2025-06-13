@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12068"}
-tags: ['Security', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Security', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 various natural language processing tasks. Recently, several LLMs-based

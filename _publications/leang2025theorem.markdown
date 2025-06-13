@@ -7,7 +7,7 @@ year: 2025
 bibkey: leang2025theorem
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13137"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 The demand for synthetic data in mathematical reasoning has increased due to
 its potential to enhance the mathematical capabilities of large language models

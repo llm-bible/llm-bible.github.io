@@ -7,7 +7,7 @@ year: 2024
 bibkey: jain2024composition
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01868"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Model Architecture']
+tags: ['Training Techniques', 'RAG', 'Tools', 'Model Architecture']
 ---
 Large Language Models (LLMs) have achieved remarkable advancements, but their
 monolithic nature presents challenges in terms of scalability, cost, and

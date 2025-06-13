@@ -7,7 +7,7 @@ year: 2024
 bibkey: ignashina2024safe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19486"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Current text generation models are trained using real data which can
 potentially contain sensitive information, such as confidential patient

@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00273"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have been widely applied in various fields due
 to their excellent capability for memorizing knowledge and chain of thought

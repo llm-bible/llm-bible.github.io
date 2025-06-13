@@ -7,7 +7,7 @@ year: 2023
 bibkey: bietti2023birth
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.00802"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models based on transformers have achieved great empirical
 successes. However, as they are deployed more widely, there is a growing need

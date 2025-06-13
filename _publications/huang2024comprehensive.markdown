@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.15777"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Since the inception of the Transformer architecture in 2017, Large Language
 Models (LLMs) such as GPT and BERT have evolved significantly, impacting

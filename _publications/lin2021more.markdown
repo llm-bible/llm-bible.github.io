@@ -7,7 +7,7 @@ year: 2021
 bibkey: lin2021more
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.14600"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Applications']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 It is expensive to evaluate the results of Machine Translation(MT), which
 usually requires manual translation as a reference. Machine Translation Quality

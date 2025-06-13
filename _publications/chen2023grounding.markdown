@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023grounding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17117"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Temporal Sentence Grounding (TSG), which aims to localize moments from videos
 based on the given natural language queries, has attracted widespread

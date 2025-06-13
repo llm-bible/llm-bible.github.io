@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023universal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05126"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Text is ubiquitous in our visual world, conveying crucial information, such
 as in documents, websites, and everyday photographs. In this work, we propose

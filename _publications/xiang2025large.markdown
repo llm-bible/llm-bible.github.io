@@ -7,7 +7,7 @@ year: 2025
 bibkey: xiang2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18460"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Modelica is a widely adopted language for simulating complex physical
 systems, yet effective model creation and optimization require substantial

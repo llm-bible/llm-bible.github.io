@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024control
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04628"}
-tags: ['Prompting', 'Ethics and Bias', 'Language Modeling', 'Applications']
+tags: ['Language Modeling', 'Ethics and Bias', 'Prompting', 'Applications']
 ---
 This paper investigates controllable generation for large language models
 (LLMs) with prompt-based control, focusing on Lexically Constrained Generation

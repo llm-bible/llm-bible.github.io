@@ -7,7 +7,7 @@ year: 2024
 bibkey: locatelli2024examining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05035"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Ethics and Bias', 'Interpretability']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Interpretability']
 ---
 The Exame Nacional do Ensino M\'edio (ENEM) is a pivotal test for Brazilian
 students, required for admission to a significant number of universities in

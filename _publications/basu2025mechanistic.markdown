@@ -7,7 +7,7 @@ year: 2025
 bibkey: basu2025mechanistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08059"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Large language models are increasingly used to process documents and
 facilitate question-answering on them. In our paper, we extract mechanistic

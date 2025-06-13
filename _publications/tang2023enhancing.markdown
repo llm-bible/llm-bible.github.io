@@ -8,7 +8,7 @@ bibkey: tang2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.16195"}
   - {name: "Code", url: "https://github.com/tangg555/SaBART"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Incorporating external graph knowledge into neural chatbot models has been
 proven effective for enhancing dialogue generation. However, in conventional

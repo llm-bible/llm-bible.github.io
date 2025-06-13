@@ -7,7 +7,7 @@ year: 2024
 bibkey: tuli2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00888"}
-tags: ['Training Techniques', 'Tools', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Traditional language models operate autoregressively, i.e., they predict one
 token at a time. Rapid explosion in model sizes has resulted in high inference

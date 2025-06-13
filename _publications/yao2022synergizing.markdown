@@ -8,7 +8,7 @@ bibkey: yao2022synergizing
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.03629v3"}
   - {name: "Code", url: "https://react-lm.github.io"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Interpretability', 'Has Code', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Has Code', 'Prompting']
 ---
 While large language models (LLMs) have demonstrated impressive capabilities
 across tasks in language understanding and interactive decision making, their

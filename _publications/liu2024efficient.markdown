@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13344"}
-tags: ['Efficiency and Optimization', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization']
 ---
 Large language models (LLMs) often face a bottleneck in inference speed due
 to their reliance on auto-regressive decoding. Recently, parallel decoding has

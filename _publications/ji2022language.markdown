@@ -7,7 +7,7 @@ year: 2022
 bibkey: ji2022language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.07341"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Although Transformers with fully connected self-attentions are powerful to
 model long-term dependencies, they are struggling to scale to long texts with

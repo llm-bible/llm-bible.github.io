@@ -7,7 +7,7 @@ year: 2025
 bibkey: said2025deconstructing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01430"}
-tags: ['Training Techniques', 'Fairness', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Fairness', 'Prompting']
 ---
 The transformative potential of text-to-image (T2I) models hinges on their
 ability to synthesize culturally diverse, photorealistic images from textual

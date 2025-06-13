@@ -8,7 +8,7 @@ bibkey: yuan2023customizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.17428"}
   - {name: "Code", url: "https://github.com/lifan-yuan/CRAFT"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Large language models (LLMs) are often augmented with tools to solve complex
 tasks. By generating code snippets and executing them through task-specific

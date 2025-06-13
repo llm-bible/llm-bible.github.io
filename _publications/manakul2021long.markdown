@@ -7,7 +7,7 @@ year: 2021
 bibkey: manakul2021long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.03801"}
-tags: ['Arxiv', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Arxiv']
 ---
 Transformer-based models have achieved state-of-the-art results in a wide
 range of natural language processing (NLP) tasks including document

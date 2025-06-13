@@ -8,7 +8,7 @@ bibkey: yang2024test
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19142"}
   - {name: "Code", url: "https://github.com/ZhaoqiZachYang/TTT4Rec"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Has Code']
+tags: ['Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Sequential recommendation tasks, which aim to predict the next item a user
 will interact with, typically rely on models trained solely on historical data.

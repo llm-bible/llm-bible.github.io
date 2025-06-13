@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.13432"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Pretraining Methods', 'Attention Mechanism']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
 ---
 Large language models (LLM) trained using the next-token-prediction
 objective, such as GPT3 and PaLM, have revolutionized natural language

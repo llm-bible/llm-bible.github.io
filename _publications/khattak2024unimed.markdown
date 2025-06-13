@@ -8,7 +8,7 @@ bibkey: khattak2024unimed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10372"}
   - {name: "Code", url: "https://github.com/mbzuai-oryx/UniMed-CLIP"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Has Code']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision-Language Models (VLMs) trained via contrastive learning have achieved
 notable success in natural image tasks. However, their application in the

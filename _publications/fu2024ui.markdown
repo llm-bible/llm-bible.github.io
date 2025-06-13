@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024ui
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.04081"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'GPT', 'Pretraining Methods']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models']
 ---
 Generating user intent from a sequence of user interface (UI) actions is a
 core challenge in comprehensive UI understanding. Recent advancements in

@@ -8,7 +8,7 @@ bibkey: du2023manually
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.01861"}
   - {name: "Code", url: "https://github.com/FudanSELab/ClassEval"}
-tags: ['Has Code', 'Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Has Code', 'Applications', 'Model Architecture']
 ---
 In this work, we make the first attempt to evaluate LLMs in a more
 challenging code generation scenario, i.e. class-level code generation. We

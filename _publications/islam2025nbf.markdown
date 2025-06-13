@@ -7,7 +7,7 @@ year: 2025
 bibkey: islam2025nbf
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03711"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 We present our system submission for SemEval 2025 Task 5, which focuses on
 cross-lingual subject classification in the English and German academic

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.15891"}
-tags: ['Agentic', 'Agent', 'Training Techniques', 'Reinforcement Learning', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Agent']
 ---
 Large Language Models (LLMs) and Reinforcement Learning (RL) are two powerful
 approaches for building autonomous agents. However, due to limited

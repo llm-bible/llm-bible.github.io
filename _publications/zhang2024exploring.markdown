@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14500"}
-tags: ['Training Techniques', 'Fairness', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Fairness']
 ---
 Large Language Models (LLMs) have made significant strides in the field of
 artificial intelligence, showcasing their ability to interact with humans and

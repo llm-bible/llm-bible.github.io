@@ -7,7 +7,7 @@ year: 2023
 bibkey: tang2023gersteinlab
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.05001"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This paper presents our contribution to the MEDIQA-2023 Dialogue2Note shared
 task, encompassing both subtask A and subtask B. We approach the task as a

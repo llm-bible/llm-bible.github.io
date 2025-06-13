@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.08442"}
-tags: ['Pretraining Methods', 'Security', 'Training Techniques', 'Applications']
+tags: ['Security', 'Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 In this paper, we present a substantial step in better understanding the SOTA
 sequence-to-sequence (Seq2Seq) pretraining for neural machine

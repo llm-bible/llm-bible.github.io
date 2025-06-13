@@ -7,7 +7,7 @@ year: 2024
 bibkey: krishna2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06625"}
-tags: ['Prompting', 'Language Modeling', 'Applications']
+tags: ['Applications', 'Prompting', 'Language Modeling']
 ---
 The development of Large Language Models (LLMs) has notably transformed
 numerous sectors, offering impressive text generation capabilities. Yet, the

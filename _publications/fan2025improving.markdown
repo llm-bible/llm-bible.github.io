@@ -7,7 +7,7 @@ year: 2025
 bibkey: fan2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13208"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 Prompt-tuning (PT) for large language models (LLMs) can facilitate the
 performance on various conventional NLP tasks with significantly fewer

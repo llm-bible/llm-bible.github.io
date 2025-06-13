@@ -7,7 +7,7 @@ year: 2025
 bibkey: day2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.09158"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Generative artificial intelligence (GenAI) holds great promise as a tool to
 support personalized learning. Teachers need tools to efficiently and

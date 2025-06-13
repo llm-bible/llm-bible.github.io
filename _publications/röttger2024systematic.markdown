@@ -7,7 +7,7 @@ year: 2024
 bibkey: röttger2024systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05399"}
-tags: ['Responsible AI', 'Survey Paper', 'Tools', 'RAG', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Prompting']
 ---
 The last two years have seen a rapid growth in concerns around the safety of
 large language models (LLMs). Researchers and practitioners have met these

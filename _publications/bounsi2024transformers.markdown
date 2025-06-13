@@ -7,7 +7,7 @@ year: 2024
 bibkey: bounsi2024transformers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09308"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Transformers have revolutionized machine learning with their simple yet
 effective architecture. Pre-training Transformers on massive text datasets from

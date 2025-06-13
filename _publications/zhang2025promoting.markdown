@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025promoting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02869"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recent researches of large language models(LLM), which is pre-trained on
 massive general-purpose corpora, have achieved breakthroughs in responding

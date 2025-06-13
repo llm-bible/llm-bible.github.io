@@ -8,7 +8,7 @@ bibkey: pan2020x
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.14080"}
   - {name: "Code", url: "https://github.com/Panda-Peter/image-captioning"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Recent progress on fine-grained visual recognition and visual question
 answering has featured Bilinear Pooling, which effectively models the 2\\(^\{nd\}\\)

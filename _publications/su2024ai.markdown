@@ -7,7 +7,7 @@ year: 2024
 bibkey: su2024ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.09013"}
-tags: ['Agentic', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Reinforcement Learning', 'Applications', 'Tools']
 ---
 Truthfulness (adherence to factual accuracy) and utility (satisfying human
 needs and instructions) are both fundamental aspects of Large Language Models,

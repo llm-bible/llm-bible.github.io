@@ -7,7 +7,7 @@ year: 2020
 bibkey: jiang2020document
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.08775"}
-tags: ['Applications', 'Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
 ---
 Standard neural machine translation (NMT) is on the assumption of
 document-level context independent. Most existing document-level NMT methods

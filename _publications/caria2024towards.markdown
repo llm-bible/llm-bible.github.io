@@ -7,7 +7,7 @@ year: 2024
 bibkey: caria2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07355"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
 ---
 This perspective article aims at providing an outline of the state of the art
 and future developments towards the integration of cutting-edge predictive

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023universality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18787"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 Despite the demonstrated empirical efficacy of prompt tuning to adapt a
 pretrained language model for a new task, the theoretical underpinnings of the

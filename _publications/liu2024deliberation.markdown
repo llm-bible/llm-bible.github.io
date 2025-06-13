@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024deliberation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17747"}
-tags: ['Pretraining Methods', 'Language Modeling', 'Training Techniques']
+tags: ['Training Techniques', 'Language Modeling', 'Pretraining Methods']
 ---
 Techniques enabling large language models (LLMs) to "think more" by
 generating and attending to intermediate reasoning steps have shown promise in

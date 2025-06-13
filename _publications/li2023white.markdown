@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023white
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03655"}
-tags: ['Pretraining Methods', 'Security', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'Security', 'Transformer', 'Pretraining Methods']
 ---
 Pre-trained transformers are popular in state-of-the-art dialogue generation
 (DG) systems. Such language models are, however, vulnerable to various

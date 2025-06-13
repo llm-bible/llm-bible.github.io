@@ -8,7 +8,7 @@ bibkey: sun2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08808"}
   - {name: "Code", url: "https://github.com/zachysun/TS-Lang-Exp"}
-tags: ['Tools', 'RAG', 'Has Code', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have been applied to time series forecasting
 tasks, leveraging pre-trained language models as the backbone and incorporating

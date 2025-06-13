@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023coupling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.07696"}
-tags: ['Training Techniques', 'GPT', 'Few-Shot', 'Model Architecture']
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture']
 ---
 While large language models (LLMs), such as GPT-3, appear to be robust and
 general, their reasoning ability is not at a level to compete with the best

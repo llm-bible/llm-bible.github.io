@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00245"}
-tags: ['RecSys', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'RecSys', 'Pretraining Methods']
 ---
 Large language models (LLMs) have recently been used as backbones for
 recommender systems. However, their performance often lags behind conventional

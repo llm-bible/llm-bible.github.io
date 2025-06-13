@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11792"}
-tags: ['Agentic', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper investigates the impact of domain-specific model fine-tuning and
 of reasoning mechanisms on the performance of question-answering (Q&A) systems

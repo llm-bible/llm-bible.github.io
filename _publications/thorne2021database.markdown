@@ -7,7 +7,7 @@ year: 2021
 bibkey: thorne2021database
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.01074"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Reinforcement Learning']
+tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
 ---
 Neural models have shown impressive performance gains in answering queries
 from natural language text. However, existing works are unable to support

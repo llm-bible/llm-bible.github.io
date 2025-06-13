@@ -7,7 +7,7 @@ year: 2025
 bibkey: iyer2025xl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22973"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Cross-lingual open-ended generation -- i.e. generating responses in a desired
 language different from that of the user's query -- is an important yet

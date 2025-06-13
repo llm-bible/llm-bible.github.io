@@ -8,7 +8,7 @@ bibkey: song2023harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.03490"}
   - {name: "Code", url: "https://github.com/CodeMonsterPHD/PneumoLLM/tree/main"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods', 'Has Code']
+tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 The conventional pretraining-and-finetuning paradigm, while effective for
 common diseases with ample data, faces challenges in diagnosing data-scarce

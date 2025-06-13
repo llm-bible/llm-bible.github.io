@@ -8,7 +8,7 @@ bibkey: shen2024accurate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17029"}
   - {name: "Code", url: "https://github.com/xiaocaigou/qbaraqahira}{https://github.com/xiaocaigou/qbaraqahira"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
 ---
 Large Language Models (LLMs) have demonstrated impressive performance across
 various domains. However, the enormous number of model parameters makes

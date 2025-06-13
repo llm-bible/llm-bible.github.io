@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023epi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.02640"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Security', 'Training Techniques']
 ---
 Neural Machine Translation (NMT) models have become successful, but their
 performance remains poor when translating on new domains with a limited number

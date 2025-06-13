@@ -7,7 +7,7 @@ year: 2023
 bibkey: almeida2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.01264"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Large language models (LLMs) exhibit expert-level performance in tasks across
 a wide range of different domains. Ethical issues raised by LLMs and the need

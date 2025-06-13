@@ -7,7 +7,7 @@ year: 2024
 bibkey: salemi2024optimization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05970"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Distillation', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Distillation']
 ---
 This paper studies retrieval-augmented approaches for personalizing large
 language models (LLMs), which potentially have a substantial impact on various

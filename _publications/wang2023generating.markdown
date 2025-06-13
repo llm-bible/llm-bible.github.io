@@ -8,7 +8,7 @@ bibkey: wang2023generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01361"}
   - {name: "Code", url: "https://liruiw.github.io/gensim)"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Collecting large amounts of real-world interaction data to train general
 robotic policies is often prohibitively expensive, thus motivating the use of

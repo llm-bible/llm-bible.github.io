@@ -8,7 +8,7 @@ bibkey: zebaze2025compositional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04554"}
   - {name: "Code", url: "https://github.com/ArmelRandy/compositional-translation"}
-tags: ['Prompting', 'Has Code', 'Applications', 'Few-Shot']
+tags: ['Few-Shot', 'Has Code', 'Prompting', 'Applications']
 ---
 The ability of generative large language models (LLMs) to perform in-context
 learning has given rise to a large body of research into how best to prompt

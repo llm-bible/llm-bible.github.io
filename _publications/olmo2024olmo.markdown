@@ -7,7 +7,7 @@ year: 2024
 bibkey: olmo2024olmo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00656"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 We present OLMo 2, the next generation of our fully open language models.
 OLMo 2 includes dense autoregressive models with improved architecture and

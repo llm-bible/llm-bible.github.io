@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024testing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00551"}
-tags: ['Model Architecture', 'Fairness', 'Tools', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Fairness']
 ---
 Large language models (LLMs), such as ChatGPT, have rapidly penetrated into
 people's work and daily lives over the past few years, due to their

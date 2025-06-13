@@ -7,7 +7,7 @@ year: 2024
 bibkey: desalvo2024learn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16534"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We present a novel framework, SoftSRV, that is used to generate targeted
 synthetic fine-tuning data for improving task-specific model performance. Given

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wan2023are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05280"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Applications', 'Model Architecture']
 ---
 Recent advancements in Large Language Models empower them to follow freeform
 instructions, including imitating generic or specific demographic personas in

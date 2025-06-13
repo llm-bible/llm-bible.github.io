@@ -8,7 +8,7 @@ bibkey: chalkidis2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.12202"}
   - {name: "Code", url: "https://github.com/coastalcph/zeroshot_lexglue"}
-tags: ['Agentic', 'Model Architecture', 'Survey Paper', 'RAG', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Following the hype around OpenAI's ChatGPT conversational agent, the last
 straw in the recent development of Large Language Models (LLMs) that

@@ -8,7 +8,7 @@ bibkey: patel2024tool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10379"}
   - {name: "Code", url: "https://github.com/datadreamer-dev/DataDreamer"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Distillation', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
 ---
 Large language models (LLMs) have become a dominant and important tool for
 NLP researchers in a wide range of tasks. Today, many researchers use LLMs in

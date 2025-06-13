@@ -8,7 +8,7 @@ bibkey: patel2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17169"}
   - {name: "Code", url: "https://github.com/Mihir3009/Multi-LogiEval"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
 ---
 As Large Language Models (LLMs) continue to exhibit remarkable performance in
 natural language understanding tasks, there is a crucial need to measure their

@@ -8,7 +8,7 @@ bibkey: saha2022are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.07517"}
   - {name: "Code", url: "https://github.com/swarnaHub/ExplanationHardness"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Interpretability', 'Has Code', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent work on explainable NLP has shown that few-shot prompting can enable
 large pretrained language models (LLMs) to generate grammatical and factual

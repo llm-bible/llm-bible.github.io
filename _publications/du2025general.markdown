@@ -7,7 +7,7 @@ year: 2025
 bibkey: du2025general
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20028"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The integration of Large Language Models (LLMs) with specialized tools
 presents new opportunities for intelligent automation systems. However,

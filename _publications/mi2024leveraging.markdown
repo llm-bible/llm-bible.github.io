@@ -7,7 +7,7 @@ year: 2024
 bibkey: mi2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11014"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'RAG', 'Prompting', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Recent advances in agentic LLMs have demonstrated remarkable automated
 Verilog code generation capabilities. However, existing approaches either

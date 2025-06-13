@@ -7,7 +7,7 @@ year: 2024
 bibkey: magister2024way
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.13405"}
-tags: ['RAG', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have quickly become an invaluable assistant for
 a variety of tasks. However, their effectiveness is constrained by their

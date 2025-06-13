@@ -8,7 +8,7 @@ bibkey: wang2024mllm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10727"}
   - {name: "Code", url: "https://github.com/MLLM-Tool/MLLM-Tool"}
-tags: ['Agentic', 'Multimodal Models', 'Tools', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Has Code', 'Multimodal Models']
 ---
 Recently, the astonishing performance of large language models (LLMs) in
 natural language comprehension and generation tasks triggered lots of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zahraei2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06547"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We present TuringQ, the first benchmark designed to evaluate the reasoning
 capabilities of large language models (LLMs) in the theory of computation.

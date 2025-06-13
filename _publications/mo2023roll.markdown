@@ -7,7 +7,7 @@ year: 2023
 bibkey: mo2023roll
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.16081"}
-tags: ['Security', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Security', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 We introduce TacoBot, a user-centered task-oriented digital assistant
 designed to guide users through complex real-world tasks with multiple steps.

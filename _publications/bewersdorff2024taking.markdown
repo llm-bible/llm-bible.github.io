@@ -7,7 +7,7 @@ year: 2024
 bibkey: bewersdorff2024taking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00832"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The integration of Artificial Intelligence (AI), particularly Large Language
 Model (LLM)-based systems, in education has shown promise in enhancing teaching

@@ -7,7 +7,7 @@ year: 2023
 bibkey: kervadec2023unnatural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15829"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Language model prompt optimization research has shown that semantically and
 grammatically well-formed manually crafted prompts are routinely outperformed

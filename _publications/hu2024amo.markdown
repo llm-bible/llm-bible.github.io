@@ -8,7 +8,7 @@ bibkey: hu2024amo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19415"}
   - {name: "Code", url: "https://github.com/hxixixh/amo-release"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Has Code', 'Attention Mechanism']
+tags: ['Model Architecture', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Achieving precise alignment between textual instructions and generated images
 in text-to-image generation is a significant challenge, particularly in

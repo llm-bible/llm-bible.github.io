@@ -7,7 +7,7 @@ year: 2024
 bibkey: shen2024think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13050"}
-tags: ['RAG', 'Efficiency and Optimization', 'Tools']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization']
 ---
 Despite their impressive capabilities, large language models (LLMs) often
 face challenges such as temporal misalignment and generating hallucinatory

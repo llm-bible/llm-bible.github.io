@@ -8,7 +8,7 @@ bibkey: wang2024mfc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11288"}
   - {name: "Code", url: "https://github.com/wskbest/MFC-Bench,"}
-tags: ['Multimodal Models', 'Model Architecture', 'Ethics and Bias', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Large vision-language models (LVLMs) have significantly improved multimodal
 reasoning tasks, such as visual question answering and image captioning. These

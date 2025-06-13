@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11691"}
-tags: ['Training Techniques', 'Applications', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Retrieval augmentation has become an effective solution to empower large
 language models (LLMs) with external and verified knowledge sources from the

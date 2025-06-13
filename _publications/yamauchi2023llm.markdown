@@ -7,7 +7,7 @@ year: 2023
 bibkey: yamauchi2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.13078"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
 ---
 In utilizing large language models (LLMs) for mathematical reasoning,
 addressing the errors in the reasoning and calculation present in the generated

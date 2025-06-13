@@ -7,7 +7,7 @@ year: 2024
 bibkey: pourkamali2024machine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08429"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Generative large language models (LLMs) have demonstrated exceptional
 proficiency in various natural language processing (NLP) tasks, including

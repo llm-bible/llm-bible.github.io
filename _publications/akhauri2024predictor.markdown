@@ -8,7 +8,7 @@ bibkey: akhauri2024predictor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16635"}
   - {name: "Code", url: "https://github.com/abdelfattah-lab/shadow_llm/}{ShadowLLM"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Pruning', 'Quantization', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Quantization']
 ---
 The high power consumption and latency-sensitive deployments of large
 language models (LLMs) have motivated efficiency techniques like quantization

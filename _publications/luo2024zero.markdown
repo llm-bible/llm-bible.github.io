@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16215"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Multimodal Models']
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Tools']
 ---
 We present a scalable and agile approach for ads image content moderation at
 Google, addressing the challenges of moderating massive volumes of ads with

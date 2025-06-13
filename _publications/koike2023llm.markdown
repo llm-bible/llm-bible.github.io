@@ -7,7 +7,7 @@ year: 2023
 bibkey: koike2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.11729"}
-tags: ['Prompting', 'Security', 'In-Context Learning', 'Tools']
+tags: ['Security', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have achieved human-level fluency in text
 generation, making it difficult to distinguish between human-written and

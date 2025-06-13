@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00934"}
-tags: ['RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Leveraging large language models (LLMs) to generate high-stakes documents,
 such as informed consent forms (ICFs), remains a significant challenge due to

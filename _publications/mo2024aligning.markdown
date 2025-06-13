@@ -7,7 +7,7 @@ year: 2024
 bibkey: mo2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20189"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Conversational search supports multi-turn user-system interactions to solve
 complex information needs. Different from the traditional single-turn ad-hoc

@@ -8,7 +8,7 @@ bibkey: xu2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17617"}
   - {name: "Code", url: "https://github.com/quqxui/Awesome-LLM4IE-Papers}{LLM4IE"}
-tags: ['Survey Paper', 'Merging', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Survey Paper', 'Has Code', 'Merging']
 ---
 Information extraction (IE) aims to extract structural knowledge from plain
 natural language texts. Recently, generative Large Language Models (LLMs) have

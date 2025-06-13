@@ -8,7 +8,7 @@ bibkey: bsharat2025mobile
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20786"}
   - {name: "Code", url: "https://github.com/VILA-Lab/Mobile-MMLU"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Ethics and Bias', 'Has Code', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Has Code']
 ---
 Rapid advancements in large language models (LLMs) have increased interest in
 deploying them on mobile devices for on-device AI applications. Mobile users

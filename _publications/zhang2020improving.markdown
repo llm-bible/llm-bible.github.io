@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhang2020improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.01279"}
-tags: ['Security', 'Efficiency and Optimization', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Security']
 ---
 Auto-regressive text generation models usually focus on local fluency, and
 may cause inconsistent semantic meaning in long text generation. Further,

@@ -7,7 +7,7 @@ year: 2023
 bibkey: feng2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19347"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Efficiency and Optimization']
+tags: ['Applications', 'Training Techniques', 'Efficiency and Optimization', 'Language Modeling']
 ---
 Despite the recent progress in news summarization made by large language
 models (LLMs), they often generate summaries that are factually inconsistent

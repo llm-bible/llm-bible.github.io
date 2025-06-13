@@ -7,7 +7,7 @@ year: 2025
 bibkey: peters2025generalization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00025"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Artificial intelligence chatbots driven by large language models (LLMs) have
 the potential to increase public science literacy and support scientific

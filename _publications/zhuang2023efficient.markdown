@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhuang2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13227"}
-tags: ['Agentic', 'Agent', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Agent']
 ---
 Large language models (LLMs) have demonstrated powerful decision-making and
 planning capabilities in solving complicated real-world problems. LLM-based

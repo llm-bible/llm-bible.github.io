@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07898"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Recent studies have shown that large language models (LLMs) can assess
 relevance and support information retrieval (IR) tasks such as document ranking

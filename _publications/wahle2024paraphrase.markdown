@@ -7,7 +7,7 @@ year: 2024
 bibkey: wahle2024paraphrase
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19898"}
-tags: ['Prompting', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting']
 ---
 Much of the success of modern language models depends on finding a suitable
 prompt to instruct the model. Until now, it has been largely unknown how

@@ -7,7 +7,7 @@ year: 2024
 bibkey: akib2024analysis
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17094"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 Code summarization aims to generate concise natural language descriptions for
 source code. Deep learning has been used more and more recently in software

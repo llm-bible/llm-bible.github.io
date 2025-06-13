@@ -7,7 +7,7 @@ year: 2024
 bibkey: juroš2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00418"}
-tags: ['Few-Shot', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 News headlines often evoke sentiment by intentionally portraying entities in
 particular ways, making targeted sentiment analysis (TSA) of headlines a

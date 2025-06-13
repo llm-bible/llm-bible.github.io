@@ -7,7 +7,7 @@ year: 2023
 bibkey: mizrahi2023state
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00595"}
-tags: ['Prompting', 'Security', 'Applications']
+tags: ['Security', 'Prompting', 'Applications']
 ---
 Recent advances in large language models (LLMs) have led to the development
 of various evaluation benchmarks. These benchmarks typically rely on a single

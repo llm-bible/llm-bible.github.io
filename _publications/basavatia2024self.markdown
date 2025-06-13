@@ -7,7 +7,7 @@ year: 2024
 bibkey: basavatia2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05872"}
-tags: ['Agentic', 'Agent', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Agent']
 ---
 Interactive fiction games have emerged as an important application to improve
 the generalization capabilities of language-based reinforcement learning (RL)

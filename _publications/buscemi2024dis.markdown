@@ -7,7 +7,7 @@ year: 2024
 bibkey: buscemi2024dis
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15009"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Ethics and Bias', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The ethical implications and potentials for misuse of Generative Artificial
 Intelligence are increasingly worrying topics. This paper explores how easily

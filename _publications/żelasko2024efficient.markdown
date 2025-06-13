@@ -7,7 +7,7 @@ year: 2024
 bibkey: żelasko2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13523"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 A rising interest in the modality extension of foundation language models
 warrants discussion on the most effective, and efficient, multimodal training

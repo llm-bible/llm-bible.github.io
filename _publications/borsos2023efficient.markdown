@@ -7,7 +7,7 @@ year: 2023
 bibkey: borsos2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.09636"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Prompting', 'Attention Mechanism']
+tags: ['GPT', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 We present SoundStorm, a model for efficient, non-autoregressive audio
 generation. SoundStorm receives as input the semantic tokens of AudioLM, and

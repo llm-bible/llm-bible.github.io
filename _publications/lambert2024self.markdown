@@ -7,7 +7,7 @@ year: 2024
 bibkey: lambert2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18421"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Synthetic data has become an important tool in the fine-tuning of language
 models to follow instructions and solve complex problems. Nevertheless, the

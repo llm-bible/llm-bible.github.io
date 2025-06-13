@@ -8,7 +8,7 @@ bibkey: shang2024automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06153"}
   - {name: "Code", url: "https://github.com/tsinghua-fib-lab/AgentSquare"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'RAG', 'Has Code', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Recent advancements in Large Language Models (LLMs) have led to a rapid
 growth of agentic systems capable of handling a wide range of complex tasks.

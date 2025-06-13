@@ -7,7 +7,7 @@ year: 2025
 bibkey: kumar2025google
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.11935"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Prompting']
 ---
 LLMs such as ChatGPT have been widely adopted by students in higher education
 as tools for learning programming and related concepts. However, it remains

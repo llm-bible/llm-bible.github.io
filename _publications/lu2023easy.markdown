@@ -7,7 +7,7 @@ year: 2023
 bibkey: lu2023easy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.04725"}
-tags: ['Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown promising performance on various NLP
 tasks via task prompting. And their performance can be further improved by

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024supervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14198"}
-tags: ['Prompting', 'Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Prompting', 'Model Architecture', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing
 and hold immense potential for advancing Artificial Intelligence. However, the

@@ -8,7 +8,7 @@ bibkey: wang2024inner
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12902"}
   - {name: "Code", url: "https://github.com/360CVGroup/Inner-Adaptor-Architecture"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 In the field of multimodal large language models (MLLMs), common methods
 typically involve unfreezing the language model during training to foster

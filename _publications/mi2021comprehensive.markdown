@@ -7,7 +7,7 @@ year: 2021
 bibkey: mi2021comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.04645"}
-tags: ['Prompting', 'Few-Shot', 'Tools']
+tags: ['Few-Shot', 'Tools', 'Prompting']
 ---
 As labeling cost for different modules in task-oriented dialog (ToD) systems
 is high, a major challenge in practice is to learn different tasks with the

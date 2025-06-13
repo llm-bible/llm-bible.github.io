@@ -7,7 +7,7 @@ year: 2022
 bibkey: sun2022dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.02982"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Recent research has shown that large language models pretrained using
 unsupervised approaches can achieve significant performance improvement on many

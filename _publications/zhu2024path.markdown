@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024path
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01281"}
-tags: ['RAG', 'Applications', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
 ---
 To enhance the reasoning capabilities of large language models (LLMs),
 self-consistency has gained significant popularity by combining multiple

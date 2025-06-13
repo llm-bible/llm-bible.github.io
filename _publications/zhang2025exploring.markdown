@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07570"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Simulating user search behavior is a critical task in information retrieval,
 which can be employed for user behavior modeling, data augmentation, and system

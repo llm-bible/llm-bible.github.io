@@ -7,7 +7,7 @@ year: 2025
 bibkey: jones2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23674"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 We evaluated 4 systems (ELIZA, GPT-4o, LLaMa-3.1-405B, and GPT-4.5) in two
 randomised, controlled, and pre-registered Turing tests on independent

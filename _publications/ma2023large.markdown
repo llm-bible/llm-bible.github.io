@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.08559"}
-tags: ['Prompting', 'RAG', 'Few-Shot']
+tags: ['RAG', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLMs) have made remarkable strides in various tasks.
 Whether LLMs are competitive few-shot solvers for information extraction (IE)

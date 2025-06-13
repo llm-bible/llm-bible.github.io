@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17799"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Full-duplex spoken dialogue systems significantly surpass traditional
 turn-based dialogue systems, as they allow simultaneous bidirectional

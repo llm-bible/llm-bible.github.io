@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024reducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05928"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly
 enhanced their capacity to process long contexts. However, effectively

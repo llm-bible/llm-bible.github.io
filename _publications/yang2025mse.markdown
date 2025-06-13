@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025mse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12478"}
-tags: ['Multimodal Models', 'Training Techniques', 'Survey Paper', 'Tools']
+tags: ['Survey Paper', 'Training Techniques', 'Multimodal Models', 'Tools']
 ---
 Current Multimodal Sentiment Analysis (MSA) and Emotion Recognition in
 Conversations (ERC) methods based on pre-trained language models exhibit two

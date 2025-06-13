@@ -7,7 +7,7 @@ year: 2023
 bibkey: yuan2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.03896"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 In recent years, pretrained models have been widely used in various fields,
 including natural language understanding, computer vision, and natural language

@@ -7,7 +7,7 @@ year: 2022
 bibkey: hu2022retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.05221"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 In this paper, we propose an end-to-end Retrieval-Augmented Visual Language
 Model (REVEAL) that learns to encode world knowledge into a large-scale memory,

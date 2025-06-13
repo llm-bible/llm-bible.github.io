@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhong2024revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11890"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Distillation', 'GPT', 'Pretraining Methods']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Knowledge distillation (KD) is a common approach to compress a teacher model
 to reduce its inference cost and memory footprint, by training a smaller

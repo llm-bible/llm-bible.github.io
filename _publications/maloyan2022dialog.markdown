@@ -7,7 +7,7 @@ year: 2022
 bibkey: maloyan2022dialog
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.08029"}
-tags: ['Model Architecture', 'Language Modeling', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism']
 ---
 Text Generation Models (TGMs) succeed in creating text that matches human
 language style reasonably well. Detectors that can distinguish between

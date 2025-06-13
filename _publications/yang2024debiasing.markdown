@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024debiasing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09365"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Pre-trained vision-language models (VLMs), such as CLIP, have exhibited
 remarkable performance across various downstream tasks by aligning text and

@@ -8,7 +8,7 @@ bibkey: ai2025space
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06881"}
   - {name: "Code", url: "https://github.com/iDEA-iSAIL-Lab-UIUC/ResMoE"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Mixture-of-Experts (MoE) Transformer, the backbone architecture of multiple
 phenomenal language models, leverages sparsity by activating only a fraction of

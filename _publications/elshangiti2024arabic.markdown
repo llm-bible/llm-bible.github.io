@@ -7,7 +7,7 @@ year: 2024
 bibkey: elshangiti2024arabic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.07551"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) have recently emerged as a powerful tool for a
 wide range of language generation tasks. Nevertheless, this progress has been

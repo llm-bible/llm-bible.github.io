@@ -8,7 +8,7 @@ bibkey: li2024making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15700"}
   - {name: "Code", url: "https://github.com/FlagOpen/FlagEmbedding"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'In-Context Learning', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) with decoder-only architectures demonstrate
 remarkable in-context learning (ICL) capabilities. This feature enables them to

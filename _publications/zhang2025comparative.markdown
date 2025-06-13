@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025comparative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15243"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture']
 ---
 The advent of Large Language Models (LLMs) has revolutionized code
 completion, transforming it into a more intelligent and context-aware feature

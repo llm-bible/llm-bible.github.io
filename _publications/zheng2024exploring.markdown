@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08436"}
-tags: ['Efficiency and Optimization', 'RAG', 'Pruning', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Pruning', 'Interpretability', 'Prompting', 'In-Context Learning']
 ---
 When performing complex multi-step reasoning tasks, the ability of Large
 Language Models (LLMs) to derive structured intermediate proof steps is

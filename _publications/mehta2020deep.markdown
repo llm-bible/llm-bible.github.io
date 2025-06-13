@@ -8,7 +8,7 @@ bibkey: mehta2020deep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2008.00623"}
   - {name: "Code", url: "https://github.com/sacmehta/delight"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
 ---
 We introduce a deep and light-weight transformer, DeLighT, that delivers
 similar or better performance than standard transformer-based models with

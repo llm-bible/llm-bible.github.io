@@ -7,7 +7,7 @@ year: 2024
 bibkey: abedu2024synergizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03815"}
-tags: ['Prompting', 'Applications', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'Applications']
 ---
 Software repositories contain valuable information for gaining insights into
 their development process. However, extracting insights from these repository

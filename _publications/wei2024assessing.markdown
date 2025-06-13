@@ -7,7 +7,7 @@ year: 2024
 bibkey: wei2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05162"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) show inherent brittleness in their safety
 mechanisms, as evidenced by their susceptibility to jailbreaking and even

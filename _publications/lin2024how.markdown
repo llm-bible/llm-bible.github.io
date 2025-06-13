@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00970"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Few-Shot']
 ---
 One-on-one tutoring is widely acknowledged as an effective instructional
 method, conditioned on qualified tutors. However, the high demand for qualified

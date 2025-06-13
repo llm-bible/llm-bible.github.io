@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhou2022reflection
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.05075"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Numerical reasoning over natural language has been a long-standing goal for
 the research community. However, cutting-edge language models have proven

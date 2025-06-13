@@ -7,7 +7,7 @@ year: 2025
 bibkey: isazagiraldo2025meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12333"}
-tags: ['RAG', 'Model Architecture', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 The evaluation of open-ended responses in serious games presents a unique
 challenge, as correctness is often subjective. Large Language Models (LLMs) are

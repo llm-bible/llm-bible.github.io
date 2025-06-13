@@ -7,7 +7,7 @@ year: 2024
 bibkey: nooralahzadeh2024explainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18428"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning']
 ---
 International enterprises, organizations, or hospitals collect large amounts
 of multi-modal data stored in databases, text documents, images, and videos.

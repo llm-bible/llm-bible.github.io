@@ -7,7 +7,7 @@ year: 2021
 bibkey: finardi2021bert
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.12015"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Applications']
+tags: ['Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'BERT']
 ---
 In the last few years, three major topics received increased interest: deep
 learning, NLP and conversational agents. Bringing these three topics together

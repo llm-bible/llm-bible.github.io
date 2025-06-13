@@ -7,7 +7,7 @@ year: 2024
 bibkey: suglia2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13807"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 AI personal assistants deployed via robots or wearables require embodied
 understanding to collaborate with humans effectively. However, current

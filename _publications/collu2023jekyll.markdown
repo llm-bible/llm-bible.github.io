@@ -7,7 +7,7 @@ year: 2023
 bibkey: collu2023jekyll
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.03853"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'GPT', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Security']
 ---
 Recently, we have witnessed a rise in the use of Large Language Models
 (LLMs), especially in applications like chatbots. Safety mechanisms are

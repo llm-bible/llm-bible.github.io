@@ -8,7 +8,7 @@ bibkey: wu2020lite
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.11886"}
   - {name: "Code", url: "https://github.com/mit-han-lab/lite-transformer"}
-tags: ['WMT', 'Model Architecture', 'Efficiency and Optimization', 'Language Modeling', 'Pruning', 'Quantization', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'WMT', 'Language Modeling', 'Pruning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Quantization']
 ---
 Transformer has become ubiquitous in natural language processing (e.g.,
 machine translation, question answering); however, it requires enormous amount

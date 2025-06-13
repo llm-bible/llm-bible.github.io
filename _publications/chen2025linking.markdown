@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025linking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16574"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Transformer', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 Large language models (LLMs) have achieved remarkable progress, demonstrating
 unprecedented capabilities across various natural language processing tasks.

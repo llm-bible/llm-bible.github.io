@@ -7,7 +7,7 @@ year: 2023
 bibkey: ramu2023generation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.04120"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 The growing popularity of generative artificial intelligence (AI) chatbots
 such as ChatGPT is having transformative effects on social media. As the

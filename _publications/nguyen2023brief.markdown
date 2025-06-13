@@ -7,7 +7,7 @@ year: 2023
 bibkey: nguyen2023brief
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.05729"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 LawGPT 1.0 is a virtual legal assistant built on the state-of-the-art
 language model GPT-3, fine-tuned for the legal domain. The system is designed

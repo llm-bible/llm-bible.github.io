@@ -7,7 +7,7 @@ year: 2024
 bibkey: sarch2024vlm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14596"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 Large-scale LLMs and VLMs excel at few-shot learning but require high-quality
 examples. We introduce In-Context Abstraction Learning (ICAL), which

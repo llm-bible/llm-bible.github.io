@@ -7,7 +7,7 @@ year: 2024
 bibkey: yeh2024text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.08127"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 TIPO (Text-to-Image Prompt Optimization) introduces an efficient approach for
 automatic prompt refinement in text-to-image (T2I) generation. Starting from

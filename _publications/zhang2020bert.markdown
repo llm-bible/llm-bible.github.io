@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhang2020bert
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.04266"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 BERT-enhanced neural machine translation (NMT) aims at leveraging
 BERT-encoded representations for translation tasks. A recently proposed

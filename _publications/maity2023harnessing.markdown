@@ -8,7 +8,7 @@ bibkey: maity2023harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.01032"}
   - {name: "Code", url: "https://github.com/my625/PromptQG"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Designing high-quality educational questions is a challenging and
 time-consuming task. In this work, we propose a novel approach that utilizes

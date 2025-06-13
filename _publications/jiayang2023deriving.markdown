@@ -7,7 +7,7 @@ year: 2023
 bibkey: jiayang2023deriving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12874"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Analogy-making between narratives is crucial for human reasoning. In this
 paper, we evaluate the ability to identify and generate analogies by

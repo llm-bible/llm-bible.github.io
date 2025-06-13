@@ -7,7 +7,7 @@ year: 2021
 bibkey: kasai2021finetuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.13076"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers have outperformed recurrent neural networks (RNNs) in natural
 language generation. But this comes with a significant computational cost, as

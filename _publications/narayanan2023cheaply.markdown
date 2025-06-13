@@ -7,7 +7,7 @@ year: 2023
 bibkey: narayanan2023cheaply
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.02440"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods']
 ---
 Large language models (LLMs) power many state-of-the-art systems in natural
 language processing. However, these models are extremely computationally

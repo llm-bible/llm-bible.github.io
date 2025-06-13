@@ -7,7 +7,7 @@ year: 2025
 bibkey: shojaei2025ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08846"}
-tags: ['Training Techniques', 'Survey Paper', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 We introduce AI University (AI-U), a flexible framework for AI-driven course
 content delivery that adapts to instructors' teaching styles. At its core, AI-U

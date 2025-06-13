@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023multiqg
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.04643"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We study the new problem of automatic question generation (QG) from
 multi-modal sources containing images and texts, significantly expanding the

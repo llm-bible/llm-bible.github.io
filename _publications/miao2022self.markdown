@@ -7,7 +7,7 @@ year: 2022
 bibkey: miao2022self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.09957"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 As an important and challenging problem in vision-language tasks, referring
 expression comprehension (REC) generally requires a large amount of

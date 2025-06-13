@@ -7,7 +7,7 @@ year: 2024
 bibkey: obadinma2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18553"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Pretraining Methods']
 ---
 The world's healthcare systems and mental health agencies face both a growing
 demand for youth mental health services, alongside a simultaneous challenge of

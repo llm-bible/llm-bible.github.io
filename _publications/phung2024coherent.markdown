@@ -7,7 +7,7 @@ year: 2024
 bibkey: phung2024coherent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04337"}
-tags: ['Training Techniques', 'Merging', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Tools', 'Merging', 'Reinforcement Learning']
 ---
 Despite the advances in text-to-image synthesis, particularly with diffusion
 models, generating visual instructions that require consistent representation

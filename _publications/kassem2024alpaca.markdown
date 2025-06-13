@@ -8,7 +8,7 @@ bibkey: kassem2024alpaca
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04801"}
   - {name: "Code", url: "https://github.com/Alymostafa/Instruction_based_attack"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 In this paper, we introduce a black-box prompt optimization method that uses
 an attacker LLM agent to uncover higher levels of memorization in a victim

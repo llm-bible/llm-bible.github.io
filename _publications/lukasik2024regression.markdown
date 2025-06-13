@@ -7,7 +7,7 @@ year: 2024
 bibkey: lukasik2024regression
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04182"}
-tags: ['Pretraining Methods', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown strong results on a range of
 applications, including regression and scoring tasks. Typically, one obtains

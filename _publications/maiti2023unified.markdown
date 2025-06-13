@@ -7,7 +7,7 @@ year: 2023
 bibkey: maiti2023unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.07937"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications', 'INTERSPEECH']
+tags: ['Training Techniques', 'Applications', 'INTERSPEECH', 'Language Modeling']
 ---
 We propose a decoder-only language model, VoxtLM, that can perform four
 tasks: speech recognition, speech synthesis, text generation, and speech

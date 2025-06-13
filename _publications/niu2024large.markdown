@@ -7,7 +7,7 @@ year: 2024
 bibkey: niu2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.02387"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Applications', 'Survey Paper']
+tags: ['Applications', 'Survey Paper', 'Ethics and Bias', 'Model Architecture']
 ---
 This comprehensive review explores the intersection of Large Language Models
 (LLMs) and cognitive science, examining similarities and differences between

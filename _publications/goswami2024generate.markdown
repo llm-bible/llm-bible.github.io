@@ -7,7 +7,7 @@ year: 2024
 bibkey: goswami2024generate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06089"}
-tags: ['Prompting', 'Training Techniques', 'Merging', 'Tools']
+tags: ['Training Techniques', 'Tools', 'Prompting', 'Merging']
 ---
 Text-to-image (T2I) generation has seen significant progress with diffusion
 models, enabling generation of photo-realistic images from text prompts.

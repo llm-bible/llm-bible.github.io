@@ -7,7 +7,7 @@ year: 2025
 bibkey: schlicht2025do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.14719"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 Equitable access to reliable health information is vital for public health,
 but the quality of online health resources varies by language, raising concerns

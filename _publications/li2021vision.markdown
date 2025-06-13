@@ -7,7 +7,7 @@ year: 2021
 bibkey: li2021vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.07829"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision-language pre-training (VLP) on large-scale image-text pairs has
 recently witnessed rapid progress for learning cross-modal representations.

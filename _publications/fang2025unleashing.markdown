@@ -7,7 +7,7 @@ year: 2025
 bibkey: fang2025unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09485"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The success of foundation AI has motivated the research of circuit foundation
 models, which are customized to assist the integrated circuit (IC) design

@@ -7,7 +7,7 @@ year: 2023
 bibkey: cacciamani2023development
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.08974"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Applications']
+tags: ['Transformer', 'GPT', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods']
 ---
 The swift progress and ubiquitous adoption of Generative AI (GAI), Generative
 Pre-trained Transformers (GPTs), and large language models (LLMs) like ChatGPT,

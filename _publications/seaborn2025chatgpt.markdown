@@ -7,7 +7,7 @@ year: 2025
 bibkey: seaborn2025chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.15808"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Merging', 'Reinforcement Learning']
 ---
 ChatGPT, powered by a large language model (LLM), has revolutionized everyday
 human-computer interaction (HCI) since its 2022 release. While now used by

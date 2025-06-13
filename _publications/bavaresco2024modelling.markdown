@@ -7,7 +7,7 @@ year: 2024
 bibkey: bavaresco2024modelling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17914"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Text representations from language models have proven remarkably predictive
 of human neural activity involved in language processing, with the recent

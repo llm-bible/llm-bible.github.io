@@ -7,7 +7,7 @@ year: 2025
 bibkey: chan2025encrypted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23250"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'Security', 'Prompting']
 ---
 Security threats like prompt injection attacks pose significant risks to
 applications that integrate Large Language Models (LLMs), potentially leading

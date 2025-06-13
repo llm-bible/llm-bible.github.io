@@ -7,7 +7,7 @@ year: 2025
 bibkey: xiong2025minimalist
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11343"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Reinforcement learning (RL) has become a prevailing approach for fine-tuning
 large language models (LLMs) on complex reasoning tasks. Among recent methods,

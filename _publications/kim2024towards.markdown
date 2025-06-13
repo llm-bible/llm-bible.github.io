@@ -8,7 +8,7 @@ bibkey: kim2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09489"}
   - {name: "Code", url: "https://github.com/AttentionX/InstructBLIP_PEFT"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Recent advancements in large language models have demonstrated enhanced
 capabilities in visual reasoning tasks by employing additional encoders for

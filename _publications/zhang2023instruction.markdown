@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.10792"}
-tags: ['Training Techniques', 'Survey Paper', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper surveys research works in the quickly advancing field of
 instruction tuning (IT), which can also be referred to as supervised

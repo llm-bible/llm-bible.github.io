@@ -8,7 +8,7 @@ bibkey: jeronymo2023inpars
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.01820"}
   - {name: "Code", url: "https://github.com/zetaalphavector/inPars/tree/master/tpu"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting']
 ---
 Recently, InPars introduced a method to efficiently use large language models
 (LLMs) in information retrieval tasks: via few-shot examples, an LLM is induced

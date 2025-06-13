@@ -7,7 +7,7 @@ year: 2024
 bibkey: meng2024breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16141"}
-tags: ['Pretraining Methods', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods']
 ---
 Supervised fine-tuning is the most common method to adapt large language
 models (LLMs) to downstream tasks, but full fine-tuning LLMs requires massive

@@ -8,7 +8,7 @@ bibkey: kumar2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.21321"}
   - {name: "Code", url: "https://github.com/mbzuai-oryx/Awesome-LLM-Post-training"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have transformed the natural language processing
 landscape and brought to life diverse applications. Pretraining on vast

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01458"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques']
 ---
 Q-shaping is an extension of Q-value initialization and serves as an
 alternative to reward shaping for incorporating domain knowledge to accelerate

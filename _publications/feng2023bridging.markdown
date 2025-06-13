@@ -8,7 +8,7 @@ bibkey: feng2023bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.09200"}
   - {name: "Code", url: "https://github.com/waterhorse1/ChessGPT"}
-tags: ['Agentic', 'Agent', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Language Modeling', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Agent', 'Has Code']
 ---
 When solving decision-making tasks, humans typically depend on information
 from two key sources: (1) Historical policy data, which provides interaction

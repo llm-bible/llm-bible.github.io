@@ -7,7 +7,7 @@ year: 2024
 bibkey: ebubechukwu2024dialogue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01808"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
 ---
 As dialogue systems and chatbots increasingly integrate into everyday
 interactions, the need for efficient and accurate evaluation methods becomes

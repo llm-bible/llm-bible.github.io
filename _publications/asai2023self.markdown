@@ -7,7 +7,7 @@ year: 2023
 bibkey: asai2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11511"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Tools']
+tags: ['RAG', 'Tools', 'GPT', 'Model Architecture']
 ---
 Despite their remarkable capabilities, large language models (LLMs) often
 produce responses containing factual inaccuracies due to their sole reliance on

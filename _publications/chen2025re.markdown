@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025re
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23508"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'RAG', 'Prompting']
+tags: ['Agentic', 'RAG', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Language-based object detection (LOD) aims to align visual objects with
 language expressions. A large amount of paired data is utilized to improve LOD

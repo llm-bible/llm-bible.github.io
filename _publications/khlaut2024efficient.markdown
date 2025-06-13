@@ -8,7 +8,7 @@ bibkey: khlaut2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14654"}
   - {name: "Code", url: "https://github.com/raidium-med/MQG"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 In the expanding field of language model applications, medical knowledge
 representation remains a significant challenge due to the specialized nature of

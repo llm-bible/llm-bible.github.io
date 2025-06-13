@@ -7,7 +7,7 @@ year: 2023
 bibkey: xiao2023adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11819"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recently, ChatGPT or InstructGPT like large language models (LLM) has made a
 significant impact in the AI world. Many works have attempted to reproduce the

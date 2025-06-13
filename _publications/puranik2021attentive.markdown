@@ -7,7 +7,7 @@ year: 2021
 bibkey: puranik2021attentive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.08556"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper reports the Machine Translation (MT) systems submitted by the
 IIITT team for the English->Marathi and English->Irish language pairs LoResMT

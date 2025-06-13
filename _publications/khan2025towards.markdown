@@ -7,7 +7,7 @@ year: 2025
 bibkey: khan2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00781"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability']
+tags: ['Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have proven immensely beneficial in education by
 capturing vast amounts of literature-based information, allowing them to

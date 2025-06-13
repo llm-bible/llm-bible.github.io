@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.10799"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Pruning', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Model Architecture', 'Attention Mechanism']
 ---
 Structured pruning for large language models (LLMs) has garnered significant
 academic interest due to its ability to efficiently compress and accelerate

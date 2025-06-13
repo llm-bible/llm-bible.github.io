@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024implicit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03400"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Merging', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Prompting']
 ---
 Implicit assumptions and priors are often necessary in text-to-image
 generation tasks, especially when textual prompts lack sufficient context.

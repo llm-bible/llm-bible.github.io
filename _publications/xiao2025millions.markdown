@@ -7,7 +7,7 @@ year: 2025
 bibkey: xiao2025millions
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08247"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Scaling Laws', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Scaling Laws']
 ---
 State-based sequence models like RWKV-7 offer a compelling alternative to
 Transformer architectures, achieving linear complexity while demonstrating

@@ -7,7 +7,7 @@ year: 2020
 bibkey: lopez2020simplifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.01107"}
-tags: ['Security', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Pretraining Methods']
 ---
 Question generation (QG) is a natural language generation task where a model
 is trained to ask questions corresponding to some input text. Most recent

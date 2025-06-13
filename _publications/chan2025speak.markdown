@@ -7,7 +7,7 @@ year: 2025
 bibkey: chan2025speak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04322"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Responsible AI', 'Tools', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 Despite extensive safety alignment efforts, large language models (LLMs)
 remain vulnerable to jailbreak attacks that elicit harmful behavior. While

@@ -7,7 +7,7 @@ year: 2024
 bibkey: piergentili2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.08477"}
-tags: ['Prompting', 'Ethics and Bias', 'Applications']
+tags: ['Applications', 'Prompting', 'Ethics and Bias']
 ---
 Machine translation (MT) models are known to suffer from gender bias,
 especially when translating into languages with extensive gendered morphology.

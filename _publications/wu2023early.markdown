@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023early
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16534"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In this paper, we evaluate different abilities of GPT-4V including visual
 understanding, language understanding, visual puzzle solving, and understanding

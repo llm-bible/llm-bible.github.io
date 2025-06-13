@@ -7,7 +7,7 @@ year: 2024
 bibkey: fuchs2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21060"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Compliance checking is an essential part of a construction project. The
 recent rapid uptake of building information models (BIM) in the construction

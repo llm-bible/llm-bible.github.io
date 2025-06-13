@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025desktop
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14603"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Efficiency and Optimization', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Multimodal Models']
 ---
 Recent Computer-Using Agents (CUAs), powered by multimodal large language
 models (LLMs), offer a promising direction for automating complex desktop

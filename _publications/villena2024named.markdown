@@ -7,7 +7,7 @@ year: 2024
 bibkey: villena2024named
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04528"}
-tags: ['Prompting', 'In-Context Learning', 'Few-Shot', 'Tools']
+tags: ['Few-Shot', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) allow us to generate high-quality human-like
 text. One interesting task in natural language processing (NLP) is named entity

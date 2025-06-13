@@ -7,7 +7,7 @@ year: 2023
 bibkey: carta2023grounding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.02662"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent works successfully leveraged Large Language Models' (LLM) abilities to
 capture abstract knowledge about world's physics to solve decision-making

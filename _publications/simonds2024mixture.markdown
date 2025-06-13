@@ -7,7 +7,7 @@ year: 2024
 bibkey: simonds2024mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07490"}
-tags: ['Prompting', 'BERT', 'Efficiency and Optimization', 'Model Architecture']
+tags: ['BERT', 'Efficiency and Optimization', 'Prompting', 'Model Architecture']
 ---
 We propose a novel approach to enhancing the performance and efficiency of
 large language models (LLMs) by combining domain prompt routing with

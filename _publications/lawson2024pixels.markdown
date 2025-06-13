@@ -7,7 +7,7 @@ year: 2024
 bibkey: lawson2024pixels
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.15166"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Interpretability and Explainability']
+tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning']
 ---
 Generative AI, such as OpenAI's GPT-4V large-language model, has rapidly
 entered mainstream discourse. Novel capabilities in image processing and

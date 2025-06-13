@@ -7,7 +7,7 @@ year: 2022
 bibkey: luo2022choose
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.07522"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 While both extractive and generative readers have been successfully applied
 to the Question Answering (QA) task, little attention has been paid toward the

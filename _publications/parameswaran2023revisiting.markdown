@@ -7,7 +7,7 @@ year: 2023
 bibkey: parameswaran2023revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.03854"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Large language models (LLMs) are incredibly powerful at comprehending and
 generating data in the form of text, but are brittle and error-prone. There has

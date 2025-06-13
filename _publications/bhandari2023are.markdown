@@ -7,7 +7,7 @@ year: 2023
 bibkey: bhandari2023are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13002"}
-tags: ['Prompting', 'Pretraining Methods', 'GPT']
+tags: ['GPT', 'Prompting', 'Pretraining Methods']
 ---
 Despite the impressive performance of Large Language Models (LLM) for various
 natural language processing tasks, little is known about their comprehension of

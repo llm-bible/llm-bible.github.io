@@ -7,7 +7,7 @@ year: 2022
 bibkey: geiping2022training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.14034"}
-tags: ['Masked Language Model', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Large-Scale Training', 'BERT', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Large-Scale Training', 'Pretraining Methods', 'BERT', 'Scaling Laws']
 ---
 Recent trends in language modeling have focused on increasing performance
 through scaling, and have resulted in an environment where training language

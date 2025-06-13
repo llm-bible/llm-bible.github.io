@@ -7,7 +7,7 @@ year: 2025
 bibkey: tu2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.21851"}
-tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning', 'Tools']
 ---
 Objectives: While Large Language Models (LLMs) have been widely used to
 assist clinicians and support patients, no existing work has explored dialogue

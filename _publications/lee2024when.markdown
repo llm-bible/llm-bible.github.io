@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09049"}
-tags: ['Fairness', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Ethics and Bias', 'Applications', 'Bias Mitigation', 'Fairness', 'Prompting']
 ---
 Large Language Models (LLMs) exhibit non-deterministic behavior, and
 prompting has emerged as a primary method for steering their outputs toward

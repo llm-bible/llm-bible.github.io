@@ -7,7 +7,7 @@ year: 2021
 bibkey: sileo2021visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.13942"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'BERT']
+tags: ['RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Visual grounding is a promising path toward more robust and accurate Natural
 Language Processing (NLP) models. Many multimodal extensions of BERT (e.g.,

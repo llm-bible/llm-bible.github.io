@@ -7,7 +7,7 @@ year: 2025
 bibkey: rueda2025understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01482"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 natural language understanding, reasoning, and problem-solving across various

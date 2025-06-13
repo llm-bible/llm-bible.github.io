@@ -8,7 +8,7 @@ bibkey: conwell2024looking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.17066"}
   - {name: "Code", url: "https://github.com/ColinConwell/T2I-Probology"}
-tags: ['Multimodal Models', 'RAG', 'Merging', 'Has Code', 'Prompting']
+tags: ['RAG', 'Merging', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Despite remarkable progress in multi-modal AI research, there is a salient
 domain in which modern AI continues to lag considerably behind even human

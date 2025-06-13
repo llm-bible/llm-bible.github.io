@@ -7,7 +7,7 @@ year: 2024
 bibkey: nepal2024contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00487"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 MindScape aims to study the benefits of integrating time series behavioral
 patterns (e.g., conversational engagement, sleep, location) with Large Language

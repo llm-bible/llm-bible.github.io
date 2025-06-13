@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.18341"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning']
 ---
 With the rapid development of large language models (LLMs), aligning LLMs
 with human values and societal norms to ensure their reliability and safety has

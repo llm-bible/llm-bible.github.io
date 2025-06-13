@@ -7,7 +7,7 @@ year: 2024
 bibkey: friedman2024application
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21037"}
-tags: ['Prompting', 'Applications', 'In-Context Learning', 'Reinforcement Learning']
+tags: ['In-Context Learning', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 In recent years, Large Language Models (LLM) have demonstrated impressive
 capabilities in the field of natural language processing (NLP). This paper

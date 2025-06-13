@@ -7,7 +7,7 @@ year: 2024
 bibkey: gupta2024challenging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14702"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Multi-modal Large Language Models (MLLMs) exhibit impressive problem-solving
 abilities in various domains, but their visual comprehension and abstract

@@ -8,7 +8,7 @@ bibkey: jiang2022mutual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.15578"}
   - {name: "Code", url: "https://github.com/owenzx/met-primaug"}
-tags: ['Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Recent datasets expose the lack of the systematic generalization ability in
 standard sequence-to-sequence models. In this work, we analyze this behavior of

@@ -7,7 +7,7 @@ year: 2022
 bibkey: lamalfa2022emergent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.17406"}
-tags: ['Security', 'Model Architecture', 'Tools', 'RAG', 'BERT']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Security', 'BERT']
 ---
 Large Language Models (LLMs) have been reported to have strong performance on
 natural language processing tasks. However, performance metrics such as

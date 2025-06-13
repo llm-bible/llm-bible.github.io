@@ -8,7 +8,7 @@ bibkey: guo2023long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.14893"}
   - {name: "Code", url: "https://github.com/microsoft/CodeBERT"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 In this paper, we introduce a new task for code completion that focuses on
 handling long code input and propose a sparse Transformer model, called

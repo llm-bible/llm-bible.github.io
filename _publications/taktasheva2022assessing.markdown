@@ -7,7 +7,7 @@ year: 2022
 bibkey: taktasheva2022assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.12813"}
-tags: ['Pretraining Methods', 'Security', 'GPT', 'Few-Shot']
+tags: ['GPT', 'Security', 'Few-Shot', 'Pretraining Methods']
 ---
 Recent advances in zero-shot and few-shot learning have shown promise for a
 scope of research and practical purposes. However, this fast-growing area lacks

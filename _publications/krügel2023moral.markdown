@@ -7,7 +7,7 @@ year: 2023
 bibkey: krügel2023moral
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.07098"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Interpretability']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques']
 ---
 ChatGPT is not only fun to chat with, but it also searches information,
 answers questions, and gives advice. With consistent moral advice, it might

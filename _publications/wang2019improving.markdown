@@ -8,7 +8,7 @@ bibkey: wang2019improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1912.07491"}
   - {name: "Code", url: "https://github.com/siat-nlp/TransDG"}
-tags: ['Has Code', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Has Code', 'Applications', 'Model Architecture']
 ---
 Neural network models usually suffer from the challenge of incorporating
 commonsense knowledge into the open-domain dialogue systems. In this paper, we

@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025accommodate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12982"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning']
 ---
 The proliferation of large language models (LLMs) has significantly advanced
 information retrieval systems, particularly in response generation (RG).

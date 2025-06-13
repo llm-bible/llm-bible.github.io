@@ -7,7 +7,7 @@ year: 2021
 bibkey: rikters2021revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.02995"}
-tags: ['Applications', 'Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
 ---
 One of the most popular methods for context-aware machine translation (MT) is
 to use separate encoders for the source sentence and context as multiple

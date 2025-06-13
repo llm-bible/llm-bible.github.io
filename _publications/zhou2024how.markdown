@@ -8,7 +8,7 @@ bibkey: zhou2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05644"}
   - {name: "Code", url: "https://github.com/ydyjya/LLM-IHS-Explanation"}
-tags: ['Responsible AI', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Interpretability and Explainability', 'Pre-Training']
+tags: ['Responsible AI', 'Pre-Training', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large language models (LLMs) rely on safety alignment to avoid responding to
 malicious user inputs. Unfortunately, jailbreak can circumvent safety

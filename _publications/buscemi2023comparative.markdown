@@ -7,7 +7,7 @@ year: 2023
 bibkey: buscemi2023comparative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04477"}
-tags: ['Training Techniques', 'Applications', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) are advanced Artificial Intelligence (AI)
 systems that have undergone extensive training using large datasets in order to

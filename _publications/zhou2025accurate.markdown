@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025accurate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08141"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Quantization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Fine-tuning large language models (LLMs) is increasingly costly as models
 scale to hundreds of billions of parameters, and even parameter-efficient

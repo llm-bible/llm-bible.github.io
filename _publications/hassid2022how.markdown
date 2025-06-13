@@ -7,7 +7,7 @@ year: 2022
 bibkey: hassid2022how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.03495"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The attention mechanism is considered the backbone of the widely-used
 Transformer architecture. It contextualizes the input by computing

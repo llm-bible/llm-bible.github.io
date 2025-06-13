@@ -8,7 +8,7 @@ bibkey: tjuatja2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04076"}
   - {name: "Code", url: "https://github.com/lindiatjuatja/BiasMonkey"}
-tags: ['Survey Paper', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Has Code', 'Prompting']
+tags: ['Tools', 'Survey Paper', 'Ethics and Bias', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 As large language models (LLMs) become more capable, there is growing
 excitement about the possibility of using LLMs as proxies for humans in

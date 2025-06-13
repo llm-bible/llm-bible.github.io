@@ -7,7 +7,7 @@ year: 2019
 bibkey: kumar2019question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03407"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Automatic question generation from paragraphs is an important and challenging
 problem, particularly due to the long context from paragraphs. In this paper,

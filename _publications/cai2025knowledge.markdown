@@ -7,7 +7,7 @@ year: 2025
 bibkey: cai2025knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15108"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Distillation', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting', 'Distillation']
 ---
 The rapid advancement of large language models (LLMs) in biological-medical
 applications has highlighted a gap between their potential and the limited

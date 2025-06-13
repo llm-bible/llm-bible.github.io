@@ -7,7 +7,7 @@ year: 2023
 bibkey: yao2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.05215"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) greatly improves model quality for
 downstream tasks. However, serving many fine-tuned LLMs concurrently is

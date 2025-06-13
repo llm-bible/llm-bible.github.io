@@ -7,7 +7,7 @@ year: 2025
 bibkey: guo2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00868"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Fine-Tuning', 'Applications', 'INTERSPEECH']
+tags: ['Fine-Tuning', 'Tools', 'INTERSPEECH', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques']
 ---
 Simultaneous generation models write generation results while reading
 streaming inputs, necessitating a policy-maker to determine the appropriate

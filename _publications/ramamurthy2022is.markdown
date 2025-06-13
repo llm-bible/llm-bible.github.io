@@ -7,7 +7,7 @@ year: 2022
 bibkey: ramamurthy2022is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.01241"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 We tackle the problem of aligning pre-trained large language models (LMs)
 with human preferences. If we view text generation as a sequential

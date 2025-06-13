@@ -7,7 +7,7 @@ year: 2025
 bibkey: jain2025local
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20355"}
-tags: ['Prompting', 'Efficiency and Optimization']
+tags: ['Efficiency and Optimization', 'Prompting']
 ---
 In recent years, the use of prompts to guide the output of Large Language
 Models have increased dramatically. However, even the best of experts struggle

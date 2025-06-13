@@ -7,7 +7,7 @@ year: 2025
 bibkey: guan2025thinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01142"}
-tags: ['RAG', 'Efficiency and Optimization', 'Tools']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization']
 ---
 Large Language Models (LLMs) have shown remarkable potential in reasoning
 while they still suffer from severe factual hallucinations due to timeliness,

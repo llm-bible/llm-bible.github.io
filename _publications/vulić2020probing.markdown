@@ -7,7 +7,7 @@ year: 2020
 bibkey: vulić2020probing
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2010.05731v1"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'BERT']
 ---
 The success of large pretrained language models (LMs) such as BERT and
 RoBERTa has sparked interest in probing their representations, in order to

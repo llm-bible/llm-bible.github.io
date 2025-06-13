@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024desensitization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08930"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Prompt serves as a crucial link in interacting with large language models
 (LLMs), widely impacting the accuracy and interpretability of model outputs.

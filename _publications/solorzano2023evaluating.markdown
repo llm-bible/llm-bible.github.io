@@ -7,7 +7,7 @@ year: 2023
 bibkey: solorzano2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09237"}
-tags: ['Ethics and Bias', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 Large Language Models (LLMs), like ChatGPT, are fundamentally tools trained
 on vast data, reflecting diverse societal impressions. This paper aims to

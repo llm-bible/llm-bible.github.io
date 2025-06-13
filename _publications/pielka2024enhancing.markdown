@@ -7,7 +7,7 @@ year: 2024
 bibkey: pielka2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02973"}
-tags: ['Survey Paper', 'Tools']
+tags: ['Tools', 'Survey Paper']
 ---
 We present an outline of the first large language model (LLM) based chatbot
 application in the context of patient-reported outcome measures (PROMs) for

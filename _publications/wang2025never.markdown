@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025never
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13938"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 Personalization of Large Language Models (LLMs) is important in practical
 applications to accommodate the individual needs of different mobile users. Due

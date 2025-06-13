@@ -7,7 +7,7 @@ year: 2024
 bibkey: eppalapally2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16073"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Question-answering for domain-specific applications has recently attracted
 much interest due to the latest advancements in large language models (LLMs).

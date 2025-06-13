@@ -7,7 +7,7 @@ year: 2019
 bibkey: glass2019span
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.04120"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 BERT (Bidirectional Encoder Representations from Transformers) and related
 pre-trained Transformers have provided large gains across many language

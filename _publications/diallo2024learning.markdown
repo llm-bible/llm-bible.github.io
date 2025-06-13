@@ -7,7 +7,7 @@ year: 2024
 bibkey: diallo2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06930"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Understanding procedural texts, such as cooking recipes, is essential for
 enabling machines to follow instructions and reason about tasks, a key aspect

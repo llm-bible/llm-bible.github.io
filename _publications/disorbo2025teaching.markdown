@@ -7,7 +7,7 @@ year: 2025
 bibkey: disorbo2025teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02976"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs), initially developed for generative AI, are now
 evolving into agentic AI systems, which make decisions in complex, real-world

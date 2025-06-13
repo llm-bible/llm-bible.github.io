@@ -8,7 +8,7 @@ bibkey: wang2023element
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.13412v1"}
   - {name: "Code", url: "https://github.com/Alsace08/SumCoT"}
-tags: ['Applications', 'Has Code']
+tags: ['Has Code', 'Applications']
 ---
 Automatic summarization generates concise summaries that contain key ideas of
 source documents. As the most mainstream datasets for the news sub-domain,

@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023non
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14883"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Simultaneous machine translation (SiMT) models are trained to strike a
 balance between latency and translation quality. However, training these models

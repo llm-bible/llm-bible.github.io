@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.09997"}
-tags: ['Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Hallucination has emerged as a significant barrier to the effective
 application of Large Language Models (LLMs). In this work, we introduce a novel

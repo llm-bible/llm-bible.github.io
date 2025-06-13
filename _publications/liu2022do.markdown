@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.12786"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'BERT']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'BERT']
 ---
 Language models (LMs) trained on raw texts have no direct access to the
 physical world. Gordon and Van Durme (2013) point out that LMs can thus suffer

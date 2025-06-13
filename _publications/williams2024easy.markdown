@@ -7,7 +7,7 @@ year: 2024
 bibkey: williams2024easy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19616"}
-tags: ['Prompting', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Prompting', 'Applications']
 ---
 We introduce a comprehensive Linguistic Benchmark designed to evaluate the
 limitations of Large Language Models (LLMs) in domains such as logical

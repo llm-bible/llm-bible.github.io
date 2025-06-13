@@ -7,7 +7,7 @@ year: 2023
 bibkey: cheng2023lift
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.02437"}
-tags: ['Few-Shot', 'Tools', 'Language Modeling', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Few-Shot', 'Prompting']
 ---
 With direct access to human-written reference as memory, retrieval-augmented
 generation has achieved much progress in a wide range of text generation tasks.

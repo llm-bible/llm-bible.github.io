@@ -8,7 +8,7 @@ bibkey: tan2025can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13391"}
   - {name: "Code", url: "https://github.com/TamSiuhin/PerRecBench"}
-tags: ['Training Techniques', 'Merging', 'Pretraining Methods', 'Ethics and Bias', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) excel in various tasks, including personalized
 recommendations. Existing evaluation methods often focus on rating prediction,

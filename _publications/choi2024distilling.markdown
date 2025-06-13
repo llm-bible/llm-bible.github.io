@@ -7,7 +7,7 @@ year: 2024
 bibkey: choi2024distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18097"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Distillation', 'Tools']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Distillation', 'Tools']
 ---
 Large Language Models (LLMs) excel at understanding the semantic
 relationships between queries and documents, even with lengthy and complex

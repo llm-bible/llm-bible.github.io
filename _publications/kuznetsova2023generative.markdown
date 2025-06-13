@@ -7,7 +7,7 @@ year: 2023
 bibkey: kuznetsova2023generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13096"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 This article presents a comparative analysis of the ability of two large
 language model (LLM)-based chatbots, ChatGPT and Bing Chat, recently rebranded

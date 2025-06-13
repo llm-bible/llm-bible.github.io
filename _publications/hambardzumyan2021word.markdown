@@ -7,7 +7,7 @@ year: 2021
 bibkey: hambardzumyan2021word
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.00121"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 Transfer learning from pretrained language models recently became the
 dominant approach for solving many NLP tasks. A common approach to transfer

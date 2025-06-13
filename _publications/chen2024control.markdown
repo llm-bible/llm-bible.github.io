@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024control
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06854"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 The Directed Acyclic Transformer is a fast non-autoregressive (NAR) model
 that performs well in Neural Machine Translation. Two issues prevent its

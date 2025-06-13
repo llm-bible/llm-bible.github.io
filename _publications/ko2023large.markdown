@@ -8,7 +8,7 @@ bibkey: ko2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15747"}
   - {name: "Code", url: "https://github.com/mlvlab/Flipped-VQA"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Ethics and Bias', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Large Language Models (LLMs) have shown remarkable performances on a wide
 range of natural language understanding and generation tasks. We observe that

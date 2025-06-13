@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024word
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.09223"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 The problem of hallucination and omission, a long-standing problem in machine
 translation (MT), is more pronounced when a large language model (LLM) is used

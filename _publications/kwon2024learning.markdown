@@ -7,7 +7,7 @@ year: 2024
 bibkey: kwon2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15096"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Ethics and Bias', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 A critical component of the current generation of language models is
 preference alignment, which aims to precisely control the model's behavior to

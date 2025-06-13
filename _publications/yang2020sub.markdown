@@ -7,7 +7,7 @@ year: 2020
 bibkey: yang2020sub
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.02648"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods']
 ---
 There have been significant efforts to interpret the encoder of
 Transformer-based encoder-decoder architectures for neural machine translation

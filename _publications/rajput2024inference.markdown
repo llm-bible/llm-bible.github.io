@@ -7,7 +7,7 @@ year: 2024
 bibkey: rajput2024inference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15012"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 The size of the key-value (KV) cache plays a critical role in determining
 both the maximum context length and the number of concurrent requests supported

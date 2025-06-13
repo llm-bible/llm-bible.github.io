@@ -7,7 +7,7 @@ year: 2024
 bibkey: patton2024making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00229"}
-tags: ['Applications', 'Tools']
+tags: ['Tools', 'Applications']
 ---
 We present Aptly, an extension of the MIT App Inventor platform enabling
 mobile app development via natural language powered by code-generating large

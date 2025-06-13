@@ -7,7 +7,7 @@ year: 2024
 bibkey: ferrag2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12750"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Survey Paper', 'RAG', 'GPT', 'Quantization', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Agentic', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'BERT', 'Quantization', 'Prompting']
 ---
 This paper provides a comprehensive review of the future of cybersecurity
 through Generative AI and Large Language Models (LLMs). We explore LLM

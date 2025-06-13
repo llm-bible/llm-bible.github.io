@@ -7,7 +7,7 @@ year: 2017
 bibkey: calixto2017incorporating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1701.06521"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 We introduce multi-modal, attention-based neural machine translation (NMT)
 models which incorporate visual features into different parts of both the

@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11638"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Previous studies have relied on existing question-answering benchmarks to
 evaluate the knowledge stored in large language models (LLMs). However, this

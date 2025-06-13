@@ -7,7 +7,7 @@ year: 2016
 bibkey: caglayan2016multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1609.03976"}
-tags: ['Multimodal Models', 'Model Architecture', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 The attention mechanism is an important part of the neural machine
 translation (NMT) where it was reported to produce richer source representation

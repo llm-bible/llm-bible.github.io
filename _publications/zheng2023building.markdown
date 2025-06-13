@@ -7,7 +7,7 @@ year: 2023
 bibkey: zheng2023building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.11584"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 The integration of emotional support into various conversational scenarios
 presents profound societal benefits, such as social interactions, mental health

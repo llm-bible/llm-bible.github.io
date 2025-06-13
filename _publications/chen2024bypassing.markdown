@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024bypassing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11268"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In-context learning has been recognized as a key factor in the success of
 Large Language Models (LLMs). It refers to the model's ability to learn

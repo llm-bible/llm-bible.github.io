@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024output
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14033"}
-tags: ['Prompting', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Prompting', 'Tools']
 ---
 Despite the great success of large language models (LLMs), efficiently
 controlling the length of the output sequence still remains a challenge. In

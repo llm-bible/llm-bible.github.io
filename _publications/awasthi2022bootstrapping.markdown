@@ -7,7 +7,7 @@ year: 2022
 bibkey: awasthi2022bootstrapping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.07313"}
-tags: ['Prompting', 'In-Context Learning', 'Training Techniques', 'Few-Shot']
+tags: ['Few-Shot', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Despite cross-lingual generalization demonstrated by pre-trained multilingual
 models, the translate-train paradigm of transferring English datasets across

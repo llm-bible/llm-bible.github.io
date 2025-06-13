@@ -7,7 +7,7 @@ year: 2025
 bibkey: zaman2025causal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18848"}
-tags: ['Interpretability', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Tools', 'Interpretability']
 ---
 Large Language Models (LLMs) offer natural language explanations as an
 alternative to feature attribution methods for model interpretability. However,

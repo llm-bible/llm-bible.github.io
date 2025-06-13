@@ -7,7 +7,7 @@ year: 2024
 bibkey: kapu2024demo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00865"}
-tags: ['Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Generating executable code from natural language instructions using Large
 Language Models (LLMs) poses challenges such as semantic ambiguity and

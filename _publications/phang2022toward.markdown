@@ -7,7 +7,7 @@ year: 2022
 bibkey: phang2022toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.12485"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Fine-tuning large language models for different tasks can be costly and
 inefficient, and even methods that reduce the number of tuned parameters still

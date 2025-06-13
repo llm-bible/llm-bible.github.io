@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhong2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17439"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The recent revolutionary advance in generative AI enables the generation of
 realistic and coherent texts by large language models (LLMs). Despite many

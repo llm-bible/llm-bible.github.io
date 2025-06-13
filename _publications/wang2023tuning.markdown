@@ -8,7 +8,7 @@ bibkey: wang2023tuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.06975"}
   - {name: "Code", url: "https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 Large Language Models (LLMs), such as the LLaMA model, have demonstrated
 their effectiveness in various general-domain natural language processing (NLP)

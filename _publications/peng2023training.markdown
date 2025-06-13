@@ -8,7 +8,7 @@ bibkey: peng2023training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18313"}
   - {name: "Code", url: "https://github.com/Azure/MS-AMP}{aka.ms/MS.AMP"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 In this paper, we explore FP8 low-bit data formats for efficient training of
 large language models (LLMs). Our key insight is that most variables, such as

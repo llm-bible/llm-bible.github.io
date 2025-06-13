@@ -7,7 +7,7 @@ year: 2020
 bibkey: pfeiffer2020framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.07779"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 The current modus operandi in NLP involves downloading and fine-tuning
 pre-trained models consisting of millions or billions of parameters. Storing

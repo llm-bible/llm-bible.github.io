@@ -7,7 +7,7 @@ year: 2024
 bibkey: dewynter2024will
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05468"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 We show that GPT-4's reasoning and planning capabilities extend to the 1993
 first-person shooter Doom. This large language model (LLM) is able to run and

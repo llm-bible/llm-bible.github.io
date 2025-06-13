@@ -7,7 +7,7 @@ year: 2024
 bibkey: kurz2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.14398"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Language Modeling', 'Pruning', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Language Modeling', 'Training Techniques']
 ---
 Recent advances in large language model (LLM) pruning have shown
 state-of-the-art (SotA) compression results in post-training and

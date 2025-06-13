@@ -7,7 +7,7 @@ year: 2024
 bibkey: wiratunga2024cbr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04302"}
-tags: ['Prompting', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Retrieval-Augmented Generation (RAG) enhances Large Language Model (LLM)
 output by providing prior knowledge as context to input. This is beneficial for

@@ -7,7 +7,7 @@ year: 2016
 bibkey: kalchbrenner2016neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1610.10099"}
-tags: ['WMT', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'WMT']
 ---
 We present a novel neural network for processing sequences. The ByteNet is a
 one-dimensional convolutional neural network that is composed of two parts, one

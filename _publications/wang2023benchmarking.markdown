@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09174"}
-tags: ['Training Techniques', 'Few-Shot']
+tags: ['Few-Shot', 'Training Techniques']
 ---
 Cognitive research indicates that abstraction ability is essential in human
 intelligence, which remains under-explored in language models. In this paper,

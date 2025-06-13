@@ -7,7 +7,7 @@ year: 2023
 bibkey: abaskohi2023lm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18169"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 In recent years, there has been significant progress in developing
 pre-trained language models for NLP. However, these models often struggle when

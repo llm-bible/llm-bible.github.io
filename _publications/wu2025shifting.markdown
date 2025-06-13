@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025shifting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04723"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 Recent advancements in long-context Large Language Models (LLMs) have
 primarily concentrated on processing extended input contexts, resulting in

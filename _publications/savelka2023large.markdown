@@ -7,7 +7,7 @@ year: 2023
 bibkey: savelka2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.08033"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods']
 ---
 We analyzed effectiveness of three generative pre-trained transformer (GPT)
 models in answering multiple-choice question (MCQ) assessments, often involving

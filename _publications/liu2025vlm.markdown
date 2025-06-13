@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025vlm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18042"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Human drivers adeptly navigate complex scenarios by utilizing rich
 attentional semantics, but the current autonomous systems struggle to replicate

@@ -8,7 +8,7 @@ bibkey: ling2023unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00694"}
   - {name: "Code", url: "https://github.com/lz1oceani/LLM-As-Hierarchical-Policy"}
-tags: ['Prompting', 'Has Code', 'Fine-Tuning', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have achieved tremendous progress, yet they
 still often struggle with challenging reasoning problems. Current approaches

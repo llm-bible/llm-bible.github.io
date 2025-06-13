@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11607"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities across
 various domains, especially in text processing and generative tasks. Recent

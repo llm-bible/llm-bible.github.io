@@ -7,7 +7,7 @@ year: 2018
 bibkey: zheng2018ensemble
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.10592"}
-tags: ['Agentic', 'WMT', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'WMT', 'Training Techniques', 'Multimodal Models']
 ---
 This paper describes multimodal machine translation systems developed jointly
 by Oregon State University and Baidu Research for WMT 2018 Shared Task on

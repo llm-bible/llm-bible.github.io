@@ -7,7 +7,7 @@ year: 2025
 bibkey: baqar2025hallucinations
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10497"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in Generative AI have significantly improved the
 efficiency and adaptability of natural language processing (NLP) systems,

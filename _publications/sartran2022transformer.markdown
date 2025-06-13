@@ -7,7 +7,7 @@ year: 2022
 bibkey: sartran2022transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.00633"}
-tags: ['Model Architecture', 'Language Modeling', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We introduce Transformer Grammars (TGs), a novel class of Transformer
 language models that combine (i) the expressive power, scalability, and strong

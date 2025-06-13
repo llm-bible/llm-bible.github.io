@@ -7,7 +7,7 @@ year: 2021
 bibkey: xue2021towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.13626"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Most widely-used pre-trained language models operate on sequences of tokens
 corresponding to word or subword units. By comparison, token-free models that

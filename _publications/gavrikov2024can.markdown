@@ -8,7 +8,7 @@ bibkey: gavrikov2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09193"}
   - {name: "Code", url: "https://github.com/paulgavrikov/vlm_shapebias"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Merging', 'Ethics and Bias', 'Has Code', 'Prompting']
+tags: ['Ethics and Bias', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Unlike traditional vision-only models, vision language models (VLMs) offer an
 intuitive way to access visual content through language prompting by combining

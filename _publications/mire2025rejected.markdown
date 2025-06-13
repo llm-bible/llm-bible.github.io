@@ -7,7 +7,7 @@ year: 2025
 bibkey: mire2025rejected
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12858"}
-tags: ['Fairness', 'Tools', 'Reinforcement Learning', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Reinforcement Learning', 'Fairness', 'Prompting']
 ---
 Preference alignment via reward models helps build safe, helpful, and
 reliable large language models (LLMs). However, subjectivity in preference

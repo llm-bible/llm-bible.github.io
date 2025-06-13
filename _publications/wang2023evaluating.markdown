@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10691"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 To solve complex tasks, large language models (LLMs) often require multiple
 rounds of interactions with the user, sometimes assisted by external tools.

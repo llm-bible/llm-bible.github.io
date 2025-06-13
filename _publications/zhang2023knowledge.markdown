@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06185"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 many real-world applications. Nonetheless, LLMs are often criticized for their

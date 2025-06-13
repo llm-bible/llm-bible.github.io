@@ -8,7 +8,7 @@ bibkey: tang2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16944"}
   - {name: "Code", url: "https://github.com/RUCAIBox/LIVE"}
-tags: ['Model Architecture', 'RAG', 'Merging', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Merging', 'Has Code', 'Pretraining Methods']
 ---
 People often imagine relevant scenes to aid in the writing process. In this
 work, we aim to utilize visual information for composition in the same manner

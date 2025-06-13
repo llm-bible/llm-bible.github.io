@@ -7,7 +7,7 @@ year: 2023
 bibkey: fu2023specializing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.12726"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 The surprising ability of Large Language Models (LLMs) to perform well on
 complex reasoning with only few-shot chain-of-thought prompts is believed to

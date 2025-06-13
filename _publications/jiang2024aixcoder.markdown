@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024aixcoder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13187"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
 ---
 Large Language Models (LLMs) have been widely used in code completion, and
 researchers are focusing on scaling up LLMs to improve their accuracy. However,

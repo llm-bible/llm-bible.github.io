@@ -7,7 +7,7 @@ year: 2024
 bibkey: loakman2024train
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13901"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Previous work in phonologically and phonetically grounded language generation
 has mainly focused on domains such as puns and poetry. In this article, we

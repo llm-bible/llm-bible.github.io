@@ -7,7 +7,7 @@ year: 2024
 bibkey: hasan2024pruning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10862"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Quantization', 'Prompting']
 ---
 This paper investigates the impact of model compression on the way Large
 Language Models (LLMs) process prompts, particularly concerning jailbreak

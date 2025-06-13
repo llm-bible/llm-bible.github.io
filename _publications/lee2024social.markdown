@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024social
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03958"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 Humans share a wide variety of images related to their personal experiences
 within conversations via instant messaging tools. However, existing works focus

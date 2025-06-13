@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024choose
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14800"}
-tags: ['WMT', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper presents the submission of Huawei Translate Services Center
 (HW-TSC) to the WMT24 general machine translation (MT) shared task, where we

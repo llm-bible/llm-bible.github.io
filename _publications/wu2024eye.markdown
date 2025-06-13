@@ -8,7 +8,7 @@ bibkey: wu2024eye
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03622"}
   - {name: "Code", url: "https://microsoft.github.io/visualization-of-thought"}
-tags: ['Prompting', 'Multimodal Models', 'Has Code', 'Reinforcement Learning']
+tags: ['Has Code', 'Multimodal Models', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have exhibited impressive performance in
 language comprehension and various reasoning tasks. However, their abilities in

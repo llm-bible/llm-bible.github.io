@@ -7,7 +7,7 @@ year: 2024
 bibkey: gor2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06524"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advancements of large language models (LLMs) have led to claims of AI
 surpassing humans in natural language processing (NLP) tasks such as textual

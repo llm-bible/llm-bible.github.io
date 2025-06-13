@@ -8,7 +8,7 @@ bibkey: xu2022building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.08657"}
   - {name: "Code", url: "https://github.com/microsoft/BridgeTower"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Merging', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Vision-Language (VL) models with the Two-Tower architecture have dominated
 visual-language representation learning in recent years. Current VL models

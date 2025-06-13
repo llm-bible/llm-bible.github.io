@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11030"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we introduce Dynamic Layer Operations (DLO), a novel approach
 for vertically scaling transformer-based Large Language Models (LLMs) by

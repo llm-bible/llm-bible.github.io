@@ -7,7 +7,7 @@ year: 2023
 bibkey: song2023preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.17492"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Large language models (LLMs) often contain misleading content, emphasizing
 the need to align them with human values to ensure secure AI systems.

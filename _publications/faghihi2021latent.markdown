@@ -7,7 +7,7 @@ year: 2021
 bibkey: faghihi2021latent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.04727"}
-tags: ['Multimodal Models', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 We propose a novel alignment mechanism to deal with procedural reasoning on a
 newly released multimodal QA dataset, named RecipeQA. Our model is solving the

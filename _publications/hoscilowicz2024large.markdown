@@ -7,7 +7,7 @@ year: 2024
 bibkey: hoscilowicz2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02588"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Applications']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Spoken Language Understanding (SLU) models are a core component of voice
 assistants (VA), such as Alexa, Bixby, and Google Assistant. In this paper, we

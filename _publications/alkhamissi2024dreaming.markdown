@@ -7,7 +7,7 @@ year: 2024
 bibkey: alkhamissi2024dreaming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00828"}
-tags: ['Multimodal Models', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
 ---
 While today's large language models exhibit impressive abilities in
 generating human-like text, they require massive amounts of data during

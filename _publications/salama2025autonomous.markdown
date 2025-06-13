@@ -7,7 +7,7 @@ year: 2025
 bibkey: salama2025autonomous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21760"}
-tags: ['Agentic', 'RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Agentic', 'Applications', 'Tools']
 ---
 Large language model (LLM) agents have evolved to intelligently process
 information, make decisions, and interact with users or tools. A key capability

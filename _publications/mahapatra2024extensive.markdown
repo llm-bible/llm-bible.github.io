@@ -7,7 +7,7 @@ year: 2024
 bibkey: mahapatra2024extensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19203"}
-tags: ['Language Modeling', 'Applications', 'RAG']
+tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Large Language Models (LLMs) have shown exceptional performance across
 various Data-to-Text Generation (DTG) tasks. However, generating factually

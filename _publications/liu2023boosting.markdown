@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023boosting
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.06566v4"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'RecSys', 'Pretraining Methods', 'Prompting']
+tags: ['Tools', 'RAG', 'Training Techniques', 'RecSys', 'Pretraining Methods', 'Prompting']
 ---
 Personalized content-based recommender systems have become indispensable
 tools for users to navigate through the vast amount of content available on

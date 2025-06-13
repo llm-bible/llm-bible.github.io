@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhao2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00389"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 Advancements in large language models (LLMs) have enabled the development of
 intelligent educational tools that support inquiry-based learning across

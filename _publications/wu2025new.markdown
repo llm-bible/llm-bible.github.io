@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15944"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated increasingly sophisticated
 performance in medical and other fields of knowledge. Traditional methods of

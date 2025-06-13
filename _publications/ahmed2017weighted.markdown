@@ -7,7 +7,7 @@ year: 2017
 bibkey: ahmed2017weighted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1711.02132"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 State-of-the-art results on neural machine translation often use attentional
 sequence-to-sequence models with some form of convolution or recursion. Vaswani

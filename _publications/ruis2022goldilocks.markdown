@@ -7,7 +7,7 @@ year: 2022
 bibkey: ruis2022goldilocks
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.14986"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite widespread use of LLMs as conversational agents, evaluations of
 performance fail to capture a crucial aspect of communication: interpreting

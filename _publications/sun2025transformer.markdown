@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06252"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Self-adaptive large language models (LLMs) aim to solve the challenges posed
 by traditional fine-tuning methods, which are often computationally intensive

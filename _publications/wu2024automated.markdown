@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07261"}
-tags: ['Prompting', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have been shown to memorize and reproduce
 content from their training data, raising significant privacy concerns,

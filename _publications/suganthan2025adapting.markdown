@@ -7,7 +7,7 @@ year: 2025
 bibkey: suganthan2025adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02656"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Decoder-based transformers, while revolutionizing language modeling and
 scaling to immense sizes, have not completely overtaken encoder-heavy

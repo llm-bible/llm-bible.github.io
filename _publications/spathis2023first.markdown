@@ -7,7 +7,7 @@ year: 2023
 bibkey: spathis2023first
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.06236"}
-tags: ['Prompting', 'TACL', 'Multimodal Models', 'ACL']
+tags: ['ACL', 'TACL', 'Multimodal Models', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable generalization
 across diverse tasks, leading individuals to increasingly use them as personal

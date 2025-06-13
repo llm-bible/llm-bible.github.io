@@ -7,7 +7,7 @@ year: 2022
 bibkey: drozdov2022compositional
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2209.15003v2"}
-tags: ['Prompting', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Prompting', 'Applications']
 ---
 Humans can reason compositionally when presented with new tasks. Previous
 research shows that appropriate prompting techniques enable large language

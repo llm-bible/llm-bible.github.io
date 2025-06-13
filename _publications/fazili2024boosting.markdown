@@ -7,7 +7,7 @@ year: 2024
 bibkey: fazili2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10582"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Large language models (LLMs) are very proficient text generators. We leverage
 this capability of LLMs to generate task-specific data via zero-shot prompting

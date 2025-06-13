@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19099"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated remarkable potential in
 debugging for various programming languages. However, the application of LLMs

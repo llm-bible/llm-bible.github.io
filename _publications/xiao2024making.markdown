@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiao2024making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18093"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Applying large language models (LLMs) as teaching assists has attracted much
 attention as an integral part of intelligent education, particularly in

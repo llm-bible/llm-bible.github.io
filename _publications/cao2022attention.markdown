@@ -7,7 +7,7 @@ year: 2022
 bibkey: cao2022attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.10741"}
-tags: ['Model Architecture', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Document structure is critical for efficient information consumption.
 However, it is challenging to encode it efficiently into the modern Transformer

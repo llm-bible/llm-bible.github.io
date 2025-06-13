@@ -8,7 +8,7 @@ bibkey: balauca2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01370"}
   - {name: "Code", url: "https://github.com/insait-institute/Museum-65"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Museums serve as vital repositories of cultural heritage and historical
 artifacts spanning diverse epochs, civilizations, and regions, preserving

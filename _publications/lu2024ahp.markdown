@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024ahp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01246"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
 ---
 Question answering (QA) tasks have been extensively studied in the field of
 natural language processing (NLP). Answers to open-ended questions are highly

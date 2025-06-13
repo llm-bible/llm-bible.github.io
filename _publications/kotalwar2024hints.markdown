@@ -7,7 +7,7 @@ year: 2024
 bibkey: kotalwar2024hints
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05053"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Generative AI and large language models hold great promise in enhancing
 programming education by generating individualized feedback and hints for

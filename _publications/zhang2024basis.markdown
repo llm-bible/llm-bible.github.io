@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024basis
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08001"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are undergoing a period of rapid updates and
 changes, with state-of-the-art (SOTA) model frequently being replaced. When

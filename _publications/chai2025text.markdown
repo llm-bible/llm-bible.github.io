@@ -7,7 +7,7 @@ year: 2025
 bibkey: chai2025text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.18845"}
-tags: ['Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'Prompting', 'Applications']
+tags: ['Survey Paper', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 The increasing size and complexity of pre-trained language models have
 demonstrated superior performance in many applications, but they usually

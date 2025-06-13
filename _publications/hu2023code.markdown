@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18507"}
-tags: ['Prompting', 'Merging', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'Merging']
 ---
 Large language models (LLMs) have scaled up to unlock a wide range of complex
 reasoning tasks with the aid of various prompting methods. However, current

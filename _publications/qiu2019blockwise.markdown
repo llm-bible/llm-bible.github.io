@@ -7,7 +7,7 @@ year: 2019
 bibkey: qiu2019blockwise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.02972"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'BERT']
 ---
 We present BlockBERT, a lightweight and efficient BERT model for better
 modeling long-distance dependencies. Our model extends BERT by introducing

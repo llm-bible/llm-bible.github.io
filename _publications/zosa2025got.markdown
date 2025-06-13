@@ -7,7 +7,7 @@ year: 2025
 bibkey: zosa2025got
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09407"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 As LLMs gain more popularity as chatbots and general assistants, methods have
 been developed to enable LLMs to follow instructions and align with human

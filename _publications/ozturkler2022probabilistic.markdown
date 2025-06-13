@@ -7,7 +7,7 @@ year: 2022
 bibkey: ozturkler2022probabilistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.01293"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have a substantial capacity for high-level
 analogical reasoning: reproducing patterns in linear text that occur in their

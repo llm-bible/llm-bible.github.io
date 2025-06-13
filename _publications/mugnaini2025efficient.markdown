@@ -7,7 +7,7 @@ year: 2025
 bibkey: mugnaini2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.21174"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Pruning']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Pruning', 'Model Architecture']
 ---
 Deep learning drives a new wave in computing systems and triggers the
 automation of increasingly complex problems. In particular, Large Language

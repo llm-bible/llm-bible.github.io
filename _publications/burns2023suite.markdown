@@ -7,7 +7,7 @@ year: 2023
 bibkey: burns2023suite
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03668"}
-tags: ['Multimodal Models', 'Model Architecture', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 Webpages have been a rich, scalable resource for vision-language and language
 only tasks. Yet only pieces of webpages are kept in existing datasets:

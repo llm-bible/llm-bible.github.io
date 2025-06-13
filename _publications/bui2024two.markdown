@@ -7,7 +7,7 @@ year: 2024
 bibkey: bui2024two
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09152"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Hallucination detection in Large Language Models (LLMs) is crucial for
 ensuring their reliability. This work presents our participation in the CLEF

@@ -8,7 +8,7 @@ bibkey: chen2023unleashing
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2306.15195v2"}
   - {name: "Code", url: "https://github.com/shikras/shikra"}
-tags: ['Multimodal Models', 'Model Architecture', 'Applications', 'Has Code']
+tags: ['Multimodal Models', 'Has Code', 'Applications', 'Model Architecture']
 ---
 In human conversations, individuals can indicate relevant regions within a
 scene while addressing others. In turn, the other person can then respond by

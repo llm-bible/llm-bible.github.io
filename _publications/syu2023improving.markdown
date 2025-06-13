@@ -7,7 +7,7 @@ year: 2023
 bibkey: syu2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06345"}
-tags: ['Masked Language Model', 'WMT', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Distillation', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'SLT']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'SLT', 'Distillation']
 ---
 Non-autoregressive approaches aim to improve the inference speed of
 translation models, particularly those that generate output in a one-pass

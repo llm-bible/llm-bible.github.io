@@ -8,7 +8,7 @@ bibkey: shi2023open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13416"}
   - {name: "Code", url: "https://github.com/DeepSoftwareAnalytics/SoTaNa"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Software development plays a crucial role in driving innovation and
 efficiency across modern societies. To meet the demands of this dynamic field,

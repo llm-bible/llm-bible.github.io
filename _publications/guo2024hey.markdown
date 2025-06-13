@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024hey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15467"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Prompting']
 ---
 The widespread adoption of large language models (LLMs) and generative AI
 (GenAI) tools across diverse applications has amplified the importance of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14492"}
-tags: ['Pretraining Methods', 'Multimodal Models', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) on multi-task instruction-following
 data has been proven to be a powerful learning paradigm for improving their

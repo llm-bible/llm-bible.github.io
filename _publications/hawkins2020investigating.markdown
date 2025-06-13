@@ -7,7 +7,7 @@ year: 2020
 bibkey: hawkins2020investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.02375"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Languages typically provide more than one grammatical construction to express
 certain types of messages. A speaker's choice of construction is known to

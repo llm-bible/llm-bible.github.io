@@ -7,7 +7,7 @@ year: 2025
 bibkey: khelladi2025unify
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16144"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Attention Mechanism']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Large language model (LLM)-based test generation has gained attention in
 software engineering, yet most studies evaluate LLMs' ability to generate unit

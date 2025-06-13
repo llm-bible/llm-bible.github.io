@@ -8,7 +8,7 @@ bibkey: yu2025aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14504"}
   - {name: "Code", url: "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Survey Paper', 'Has Code', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Large language models (LLMs) can handle a wide variety of general tasks with
 simple prompts, without the need for task-specific training. Multimodal Large

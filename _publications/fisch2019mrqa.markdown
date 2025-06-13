@@ -7,7 +7,7 @@ year: 2019
 bibkey: fisch2019mrqa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.09753"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Applications']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'BERT']
 ---
 We present the results of the Machine Reading for Question Answering (MRQA)
 2019 shared task on evaluating the generalization capabilities of reading

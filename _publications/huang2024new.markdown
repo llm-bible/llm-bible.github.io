@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10903"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'RAG', 'Applications']
+tags: ['Efficiency and Optimization', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 Large Language Models (LLMs) have become extremely potent instruments with
 exceptional capacities for comprehending and producing human-like text in a

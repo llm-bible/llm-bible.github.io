@@ -7,7 +7,7 @@ year: 2023
 bibkey: dai2023syntactic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13413"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Although the Transformer model can effectively acquire context features via a
 self-attention mechanism, deeper syntactic knowledge is still not effectively

@@ -7,7 +7,7 @@ year: 2024
 bibkey: giovannotti2024calibrated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01122"}
-tags: ['Applications', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Applications']
 ---
 Quantifying the uncertainty of predictions made by large language models
 (LLMs) in binary text classification tasks remains a challenge. Calibration, in

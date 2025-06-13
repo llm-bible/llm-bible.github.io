@@ -8,7 +8,7 @@ bibkey: yin2023survey
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2306.13549v2"}
   - {name: "Code", url: "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Recently, Multimodal Large Language Model (MLLM) represented by GPT-4V has
 been a new rising research hotspot, which uses powerful Large Language Models

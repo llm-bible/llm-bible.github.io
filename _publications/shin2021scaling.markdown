@@ -7,7 +7,7 @@ year: 2021
 bibkey: shin2021scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.11294"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Recent advancement of large-scale pretrained models such as BERT, GPT-3,
 CLIP, and Gopher, has shown astonishing achievements across various task

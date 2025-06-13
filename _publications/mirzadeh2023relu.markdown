@@ -7,7 +7,7 @@ year: 2023
 bibkey: mirzadeh2023relu
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04564"}
-tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) with billions of parameters have drastically
 transformed AI applications. However, their demanding computation during

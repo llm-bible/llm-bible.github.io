@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12900"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Recent advancements in open-domain dialogue systems have been propelled by
 the emergence of high-quality large language models (LLMs) and various

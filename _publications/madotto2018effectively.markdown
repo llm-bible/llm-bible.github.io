@@ -7,7 +7,7 @@ year: 2018
 bibkey: madotto2018effectively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1804.08217"}
-tags: ['Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture']
 ---
 End-to-end task-oriented dialog systems usually suffer from the challenge of
 incorporating knowledge bases. In this paper, we propose a novel yet simple

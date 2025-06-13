@@ -7,7 +7,7 @@ year: 2023
 bibkey: clavié2023large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.07142v3"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'BERT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Few-Shot', 'Prompting']
 ---
 This case study investigates the task of job classification in a real-world
 setting, where the goal is to determine whether an English-language job posting

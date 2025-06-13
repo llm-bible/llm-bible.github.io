@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023vlm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11865"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite the rapid development of video Large Language Models (LLMs), a
 comprehensive evaluation is still absent. In this paper, we introduce a unified

@@ -8,7 +8,7 @@ bibkey: zhang2021are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.04564"}
   - {name: "Code", url: "https://github.com/jianguoz/Few-Shot-Intent-Detection"}
-tags: ['Security', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Pretraining Methods', 'Few-Shot']
 ---
 Pre-trained Transformer-based models were reported to be robust in intent
 classification. In this work, we first point out the importance of in-domain

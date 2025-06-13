@@ -8,7 +8,7 @@ bibkey: wang2023adaptively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.01955"}
   - {name: "Code", url: "https://github.com/ZihuaEvan/ACFModel/}{[here]"}
-tags: ['Multimodal Models', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 We propose a novel Transformer-based image-to-text generation model termed as
 \textbf\{ACF\} that adaptively clusters vision patches into object regions and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kmainasi2024native
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07054"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Large language models (LLMs) have shown remarkable abilities in different
 fields, including standard Natural Language Processing (NLP) tasks. To elicit

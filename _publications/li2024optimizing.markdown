@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10392"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Instruction tuning is a crucial technique for aligning language models with
 humans' actual goals in the real world. Extensive research has highlighted the

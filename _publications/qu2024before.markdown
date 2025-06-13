@@ -7,7 +7,7 @@ year: 2024
 bibkey: qu2024before
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15307"}
-tags: ['Security', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) driven by In-Context Learning (ICL) have
 significantly improved the performance of text-to-SQL. Previous methods

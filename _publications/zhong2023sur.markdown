@@ -8,7 +8,7 @@ bibkey: zhong2023sur
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.05189"}
   - {name: "Code", url: "https://github.com/Qrange-group/SUR-adapter"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Distillation', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'Distillation']
 ---
 Diffusion models, which have emerged to become popular text-to-image
 generation models, can produce high-quality and content-rich images guided by

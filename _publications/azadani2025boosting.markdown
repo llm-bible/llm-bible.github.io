@@ -7,7 +7,7 @@ year: 2025
 bibkey: azadani2025boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06986"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Multimodal Models']
 ---
 Enhanced visual understanding serves as a cornerstone for multimodal large
 language models (MLLMs). Recent hybrid MLLMs incorporate a mixture of vision

@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024use
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01955"}
-tags: ['Model Architecture', 'GPT', 'Survey Paper', 'Reinforcement Learning']
+tags: ['Reinforcement Learning', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Cancer clinical trials often face challenges in recruitment and engagement
 due to a lack of participant-facing informational and educational resources.

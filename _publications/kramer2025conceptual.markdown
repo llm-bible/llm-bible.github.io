@@ -7,7 +7,7 @@ year: 2025
 bibkey: kramer2025conceptual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01901"}
-tags: ['Prompting', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting']
 ---
 We introduce Conceptual Metaphor Theory (CMT) as a framework for enhancing
 large language models (LLMs) through cognitive prompting in complex reasoning

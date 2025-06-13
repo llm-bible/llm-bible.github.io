@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024post
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09600"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Safety aligned Large Language Models (LLMs) are vulnerable to harmful
 fine-tuning attacks \cite\{qi2023fine\}-- a few harmful data mixed in the

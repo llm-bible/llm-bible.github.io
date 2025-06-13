@@ -7,7 +7,7 @@ year: 2020
 bibkey: svyatkovskiy2020intellicode
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.08025"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 In software development through integrated development environments (IDEs),
 code completion is one of the most widely used features. Nevertheless, majority

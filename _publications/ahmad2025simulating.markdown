@@ -7,7 +7,7 @@ year: 2025
 bibkey: ahmad2025simulating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12813"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Model Architecture', 'GPT', 'Applications', 'Ethics and Bias']
 ---
 In this study, we explore the application of Large Language Models (LLMs) for
 generating synthetic users and simulating user conversations with a

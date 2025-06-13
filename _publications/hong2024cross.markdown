@@ -7,7 +7,7 @@ year: 2024
 bibkey: hong2024cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18027"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning']
 ---
 Reinforcement learning with human feedback (RLHF) is shown to largely benefit
 from precise reward models (RMs). However, recent studies in reward modeling

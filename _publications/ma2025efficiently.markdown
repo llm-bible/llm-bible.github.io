@@ -7,7 +7,7 @@ year: 2025
 bibkey: ma2025efficiently
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01524"}
-tags: ['Arxiv', 'Training Techniques', 'Multimodal Models', 'Efficiency and Optimization', 'Model Architecture', 'Survey Paper', 'Pretraining Methods']
+tags: ['Efficiency and Optimization', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Arxiv']
 ---
 The integration of vision-language modalities has been a significant focus in
 multimodal learning, traditionally relying on Vision-Language Pretrained

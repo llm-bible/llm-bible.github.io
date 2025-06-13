@@ -8,7 +8,7 @@ bibkey: hu2021investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.03983"}
   - {name: "Code", url: "https://github.com/huhailinguist/ChineseNLIProbing"}
-tags: ['Security', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Security', 'Has Code', 'Pretraining Methods']
 ---
 Multilingual transformers (XLM, mT5) have been shown to have remarkable
 transfer skills in zero-shot settings. Most transfer studies, however, rely on

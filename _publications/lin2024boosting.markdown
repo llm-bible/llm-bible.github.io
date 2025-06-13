@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.05803"}
-tags: ['Multimodal Models', 'Model Architecture', 'Attention Mechanism', 'Tools']
+tags: ['Tools', 'Multimodal Models', 'Attention Mechanism', 'Model Architecture']
 ---
 Multimodal large language models (MLLMs) demand considerable computations for
 inference due to the extensive parameters and the additional input tokens

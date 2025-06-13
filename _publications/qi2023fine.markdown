@@ -7,7 +7,7 @@ year: 2023
 bibkey: qi2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03693"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Optimizing large language models (LLMs) for downstream use cases often
 involves the customization of pre-trained LLMs through further fine-tuning.

@@ -8,7 +8,7 @@ bibkey: arabzadeh2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02178"}
   - {name: "Code", url: "https://bit.ly/3w3yKcS"}
-tags: ['Agentic', 'Security', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Has Code']
 ---
 The rapid development of Large Language Models (LLMs) has led to a surge in
 applications that facilitate collaboration among multiple agents, assisting

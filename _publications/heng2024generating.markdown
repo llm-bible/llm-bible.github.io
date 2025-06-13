@@ -7,7 +7,7 @@ year: 2024
 bibkey: heng2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11103"}
-tags: ['Prompting', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting']
 ---
 Although Large Language Models (LLMs) exhibit remarkable adaptability across
 domains, these models often fall short in structured knowledge extraction tasks

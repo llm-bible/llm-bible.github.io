@@ -7,7 +7,7 @@ year: 2025
 bibkey: srivastava2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11569"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Survey Paper', 'Distillation', 'Pruning', 'Quantization', 'Prompting']
+tags: ['Efficiency and Optimization', 'Survey Paper', 'Pruning', 'Security', 'Training Techniques', 'Quantization', 'Prompting', 'Distillation']
 ---
 Reasoning has long been viewed as an emergent property of large language
 models (LLMs), appearing at or above a certain scale (\\(\sim\\)100B parameters).

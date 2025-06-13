@@ -7,7 +7,7 @@ year: 2025
 bibkey: yin2025which
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14010"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'In-Context Learning', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) exhibit impressive in-context learning (ICL)
 capability, enabling them to perform new tasks using only a few demonstrations

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.02925"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Sequential user modeling, a critical task in personalized recommender
 systems, focuses on predicting the next item a user would prefer, requiring a

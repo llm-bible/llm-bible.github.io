@@ -7,7 +7,7 @@ year: 2020
 bibkey: variš2020unsupervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.09403"}
-tags: ['Training Techniques', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 This work presents our ongoing research of unsupervised pretraining in neural
 machine translation (NMT). In our method, we initialize the weights of the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024humanlike
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15501"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Attention Mechanism']
+tags: ['GPT', 'Survey Paper', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Research on emergent patterns in Large Language Models (LLMs) has gained
 significant traction in both psychology and artificial intelligence, motivating

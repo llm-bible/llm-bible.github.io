@@ -8,7 +8,7 @@ bibkey: sun2022length
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10554"}
   - {name: "Code", url: "https://aka.ms/LeX-Transformer"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Position modeling plays a critical role in Transformers. In this paper, we
 focus on length extrapolation, i.e., training on short texts while evaluating

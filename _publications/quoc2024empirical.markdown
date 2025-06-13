@@ -7,7 +7,7 @@ year: 2024
 bibkey: quoc2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15658"}
-tags: ['Prompting', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have recently advanced many applications on
 software engineering tasks, particularly the potential for code generation.

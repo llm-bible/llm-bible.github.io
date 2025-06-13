@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024chatlang
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03202"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
 ---
 We explore and improve the capabilities of LLMs to generate data for
 grammatical error correction (GEC). When merely producing parallel sentences,

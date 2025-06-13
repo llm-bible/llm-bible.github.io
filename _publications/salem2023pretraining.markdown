@@ -7,7 +7,7 @@ year: 2023
 bibkey: salem2023pretraining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08552"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advances in Transformer-based Large Language Models have made great
 strides in natural language generation. However, to decode K tokens, an

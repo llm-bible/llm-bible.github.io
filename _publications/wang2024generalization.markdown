@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024generalization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.14985"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pretraining Methods', 'Applications', 'Reinforcement Learning']
 ---
 The impressive capabilities of large language models (LLMs) have sparked
 debate over whether these models genuinely generalize to unseen tasks or

@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiang2025joint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.16551"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'GPT', 'Merging', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Prompting']
 ---
 Human motion generation has advanced markedly with the advent of diffusion
 models. Most recent studies have concentrated on generating motion sequences

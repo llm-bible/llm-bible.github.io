@@ -7,7 +7,7 @@ year: 2024
 bibkey: valmeekam2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13373"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Pretraining Methods']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods']
 ---
 The ability to plan a course of action that achieves a desired state of
 affairs has long been considered a core competence of intelligent agents and

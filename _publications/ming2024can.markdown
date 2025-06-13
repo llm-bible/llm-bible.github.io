@@ -8,7 +8,7 @@ bibkey: ming2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03727"}
   - {name: "Code", url: "https://github.com/SalesforceAIResearch/FaithEval"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Ensuring faithfulness to context in large language models (LLMs) and
 retrieval-augmented generation (RAG) systems is crucial for reliable deployment

@@ -8,7 +8,7 @@ bibkey: lv2023collaborative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.00407"}
   - {name: "Code", url: "https://github.com/OpenLMLab/collie"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) are increasingly pivotal in a wide range of
 natural language processing tasks. Access to pre-trained models, courtesy of

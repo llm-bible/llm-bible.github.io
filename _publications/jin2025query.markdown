@@ -7,7 +7,7 @@ year: 2025
 bibkey: jin2025query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23274"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Prompting', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 As large language models (LLMs) tackle increasingly complex tasks and longer
 documents, their computational and memory costs during inference become a major

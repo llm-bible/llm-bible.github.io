@@ -7,7 +7,7 @@ year: 2023
 bibkey: pandey2023semantic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16328"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Distillation', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Distillation']
 ---
 What is sentence meaning and its ideal representation? Much of the expressive
 power of human language derives from semantic composition, the mind's ability

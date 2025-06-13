@@ -7,7 +7,7 @@ year: 2023
 bibkey: chowdhury2023generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.06358"}
-tags: ['Security', 'Model Architecture', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Security', 'Attention Mechanism']
 ---
 Robustness in Natural Language Processing continues to be a pertinent issue,
 where state of the art models under-perform under naturally shifted

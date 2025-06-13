@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01323"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Instruction fine-tuning stands as a crucial advancement in leveraging large
 language models (LLMs) for enhanced task performance. However, the annotation

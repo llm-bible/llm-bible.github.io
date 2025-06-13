@@ -8,7 +8,7 @@ bibkey: huang2024integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19290"}
   - {name: "Code", url: "https://github.com/ictnlp/Multiscale-Contextualization"}
-tags: ['Model Architecture', 'Tokenization', 'RAG', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Tokenization', 'Has Code']
 ---
 Subword tokenization is a common method for vocabulary building in Neural
 Machine Translation (NMT) models. However, increasingly complex tasks have

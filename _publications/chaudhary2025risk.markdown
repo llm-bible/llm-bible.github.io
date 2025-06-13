@@ -7,7 +7,7 @@ year: 2025
 bibkey: chaudhary2025risk
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06911"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We consider the challenge of mitigating the generation of negative or toxic
 content by the Large Language Models (LLMs) in response to certain prompts. We

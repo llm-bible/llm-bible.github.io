@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13685"}
   - {name: "Code", url: "https://github.com/OpenSparseLLMs/MoM"}
   - {name: "Code", url: "https://github.com/OpenSparseLLMs/Linear-MoE"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Linear sequence modeling methods, such as linear attention, state space
 modeling, and linear RNNs, offer significant efficiency improvements by

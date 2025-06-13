@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11169"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Recently, Long Chain-of-Thoughts (CoTs) have gained widespread attention for
 improving the reasoning capabilities of Large Language Models (LLMs). This

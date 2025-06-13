@@ -8,7 +8,7 @@ bibkey: jiang2024tc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09199"}
   - {name: "Code", url: "https://https://github.com/Artessay/SAMA.git"}
-tags: ['RAG', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Has Code', 'Reinforcement Learning']
 ---
 In the pursuit of enhancing domain-specific Large Language Models (LLMs),
 Retrieval-Augmented Generation (RAG) emerges as a promising solution to

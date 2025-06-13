@@ -8,7 +8,7 @@ bibkey: zhang2024rest
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03816"}
   - {name: "Code", url: "https://github.com/THUDM/ReST-MCTS"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'ACL']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Recent methodologies in LLM self-training mostly rely on LLM generating
 responses and filtering those with correct output answers as training data.

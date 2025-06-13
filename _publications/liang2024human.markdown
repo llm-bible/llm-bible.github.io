@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17785"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Multimodal Models']
 ---
 Large Language Models (LLM) have shown encouraging progress in multimodal
 understanding and generation tasks. However, how to design a human-aligned and

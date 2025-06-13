@@ -7,7 +7,7 @@ year: 2025
 bibkey: deleon2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20051"}
-tags: ['BERT', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Multiword expressions, characterised by non-compositional meanings and
 syntactic irregularities, are an example of nuanced language. These expressions

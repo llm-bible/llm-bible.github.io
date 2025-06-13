@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiong2024uncertainty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03090"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism']
 ---
 Deploying large language models (LLMs) is challenging due to their high
 memory and computational demands, especially during long-context inference.

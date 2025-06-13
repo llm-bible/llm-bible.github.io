@@ -7,7 +7,7 @@ year: 2025
 bibkey: jia2025control
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11532"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Text-to-image diffusion models have shown remarkable capabilities of
 generating high-quality images closely aligned with textual inputs. However,

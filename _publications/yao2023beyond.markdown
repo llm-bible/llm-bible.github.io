@@ -7,7 +7,7 @@ year: 2023
 bibkey: yao2023beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.16582"}
-tags: ['Multimodal Models', 'Merging', 'Tools']
+tags: ['Tools', 'Multimodal Models', 'Merging']
 ---
 With the widespread use of language models (LMs) in NLP tasks, researchers
 have discovered the potential of Chain-of-thought (CoT) to assist LMs in

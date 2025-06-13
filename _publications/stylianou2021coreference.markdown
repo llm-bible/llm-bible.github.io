@@ -7,7 +7,7 @@ year: 2021
 bibkey: stylianou2021coreference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.02687"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'GPT', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Language Models are the underpin of all modern Natural Language Processing
 (NLP) tasks. The introduction of the Transformers architecture has contributed

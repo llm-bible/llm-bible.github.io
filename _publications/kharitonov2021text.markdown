@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.03264"}
   - {name: "Code", url: "https://speechbot.github.io/pgslm"}
   - {name: "Code", url: "https://github.com/pytorch/fairseq/tree/main/examples/textless_nlp/pgslm"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Speech pre-training has primarily demonstrated efficacy on classification
 tasks, while its capability of generating novel speech, similar to how GPT-2

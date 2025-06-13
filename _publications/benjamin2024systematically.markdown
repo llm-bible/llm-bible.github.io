@@ -7,7 +7,7 @@ year: 2024
 bibkey: benjamin2024systematically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23308"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 This study systematically analyzes the vulnerability of 36 large language
 models (LLMs) to various prompt injection attacks, a technique that leverages

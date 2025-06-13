@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05049"}
   - {name: "Code", url: "https://huggingface.co/datasets/israel/ProverbEval,"}
   - {name: "Code", url: "https://github.com/EthioNLP/EthioProverbEval"}
-tags: ['Model Architecture', 'Tools', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 With the rapid development of evaluation datasets to assess LLMs
 understanding across a wide range of subjects and domains, identifying a

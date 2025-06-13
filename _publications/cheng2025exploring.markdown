@@ -7,7 +7,7 @@ year: 2025
 bibkey: cheng2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11519"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Current Cross-Modality Generation Models (GMs) demonstrate remarkable
 capabilities in various generative tasks. Given the ubiquity and information

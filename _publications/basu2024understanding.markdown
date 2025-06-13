@@ -7,7 +7,7 @@ year: 2024
 bibkey: basu2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04236"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Understanding the mechanisms of information storage and transfer in
 Transformer-based models is important for driving model understanding progress.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: fernandez2024distractor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19356"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 High-quality distractors are crucial to both the assessment and pedagogical
 value of multiple-choice questions (MCQs), where manually crafting ones that

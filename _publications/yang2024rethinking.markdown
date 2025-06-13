@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00417"}
-tags: ['Tokenization', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Tokenization', 'Tools']
 ---
 Tokenization significantly influences language models(LMs)' performance. This
 paper traces the evolution of tokenizers from word-level to subword-level,

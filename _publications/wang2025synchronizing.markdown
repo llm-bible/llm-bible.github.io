@@ -8,7 +8,7 @@ bibkey: wang2025synchronizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16645"}
   - {name: "Code", url: "https://github.com/Lucky-voyage/Code-Sync"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code', 'Pre-Training']
+tags: ['Responsible AI', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large Language Models (LLMs) have exhibited exceptional performance in
 software engineering yet face challenges in adapting to continually evolving

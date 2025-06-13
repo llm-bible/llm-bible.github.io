@@ -7,7 +7,7 @@ year: 2024
 bibkey: fatemi2024test
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09170"}
-tags: ['Training Techniques', 'Pre-Training', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pre-Training', 'Reinforcement Learning', 'Tools']
 ---
 Large language models (LLMs) have showcased remarkable reasoning
 capabilities, yet they remain susceptible to errors, particularly in temporal

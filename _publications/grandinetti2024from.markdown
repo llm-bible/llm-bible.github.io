@@ -7,7 +7,7 @@ year: 2024
 bibkey: grandinetti2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11040"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have achieved remarkable progress, yet their
 application in specialized fields, such as medical physics, remains challenging

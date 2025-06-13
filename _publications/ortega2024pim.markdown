@@ -7,7 +7,7 @@ year: 2024
 bibkey: ortega2024pim
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.17309"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have become essential in a variety of
 applications due to their advanced language understanding and generation

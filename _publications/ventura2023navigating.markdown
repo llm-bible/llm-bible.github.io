@@ -7,7 +7,7 @@ year: 2023
 bibkey: ventura2023navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01929"}
-tags: ['Prompting', 'Merging', 'Applications']
+tags: ['Prompting', 'Applications', 'Merging']
 ---
 Text-To-Image (TTI) models, such as DALL-E and StableDiffusion, have
 demonstrated remarkable prompt-based image generation capabilities.

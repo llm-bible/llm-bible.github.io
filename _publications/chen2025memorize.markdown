@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025memorize
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02296"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) are known to exhibit a memorization phenomenon
 in code generation: instead of truly understanding the underlying principles of

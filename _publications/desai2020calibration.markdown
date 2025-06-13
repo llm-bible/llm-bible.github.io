@@ -7,7 +7,7 @@ year: 2020
 bibkey: desai2020calibration
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.07892"}
-tags: ['Pretraining Methods', 'BERT', 'Transformer', 'Model Architecture']
+tags: ['BERT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Pre-trained Transformers are now ubiquitous in natural language processing,
 but despite their high end-task performance, little is known empirically about

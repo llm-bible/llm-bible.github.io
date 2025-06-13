@@ -8,7 +8,7 @@ bibkey: ma2023examination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.10509"}
   - {name: "Code", url: "https://github.com/TeleeMa/SADE)"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'RAG', 'GPT', 'Ethics and Bias', 'Has Code']
+tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Security', 'Has Code', 'Multimodal Models']
 ---
 With the success of Large Language Models (LLMs), many Generative
 Vision-Language Models (GVLMs) have been constructed via multimodal instruction

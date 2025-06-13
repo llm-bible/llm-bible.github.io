@@ -8,7 +8,7 @@ bibkey: li2024empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11919"}
   - {name: "Code", url: "https://github.com/sunnynexus/RetroLLM"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Pruning', 'Has Code']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) exhibit remarkable generative capabilities but
 often suffer from hallucinations. Retrieval-augmented generation (RAG) offers

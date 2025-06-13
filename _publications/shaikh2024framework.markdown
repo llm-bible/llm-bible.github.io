@@ -7,7 +7,7 @@ year: 2024
 bibkey: shaikh2024framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03605"}
-tags: ['Ethics and Bias', 'Interpretability', 'Tools']
+tags: ['Interpretability', 'Tools', 'Ethics and Bias']
 ---
 Rapid advancements in Large Language models (LLMs) has significantly enhanced
 their reasoning capabilities. Despite improved performance on benchmarks, LLMs

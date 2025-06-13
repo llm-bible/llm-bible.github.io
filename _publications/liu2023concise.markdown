@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023concise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15838"}
-tags: ['Security', 'Model Architecture', 'GPT']
+tags: ['Security', 'GPT', 'Model Architecture']
 ---
 In this paper, we introduce SecQA, a novel dataset tailored for evaluating
 the performance of Large Language Models (LLMs) in the domain of computer

@@ -7,7 +7,7 @@ year: 2024
 bibkey: rony2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03153"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Model Architecture', 'GPT']
+tags: ['Responsible AI', 'GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 In the digital age, the prevalence of misleading news headlines poses a
 significant challenge to information integrity, necessitating robust detection

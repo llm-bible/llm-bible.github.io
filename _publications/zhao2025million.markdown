@@ -8,7 +8,7 @@ bibkey: zhao2025million
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19633"}
   - {name: "Code", url: "https://huggingface.co/datasets/a-m-team/AM-DeepSeek-R1-Distilled-1.4M}{https://huggingface.co/datasets/a-m-team/AM-DeepSeek-R1-Distilled-1.4M"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The AM-DeepSeek-R1-Distilled is a large-scale dataset with thinking traces
 for general reasoning tasks, composed of high-quality and challenging reasoning

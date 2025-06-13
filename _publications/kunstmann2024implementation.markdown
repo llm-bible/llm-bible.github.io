@@ -7,7 +7,7 @@ year: 2024
 bibkey: kunstmann2024implementation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04472"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'RecSys', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Prompting']
 ---
 Large language models (LLMs) present an enormous evolution in the strategic
 potential of conversational recommender systems (CRS). Yet to date, research

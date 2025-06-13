@@ -7,7 +7,7 @@ year: 2025
 bibkey: gawin2025navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14086"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have achieved remarkable performance in
 generating human-like text and solving reasoning tasks of moderate complexity,

@@ -7,7 +7,7 @@ year: 2020
 bibkey: su2020bert
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.02128"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Visual storytelling is a creative and challenging task, aiming to
 automatically generate a story-like description for a sequence of images. The

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024protecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13968"}
-tags: ['Prompting', 'Security', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Security', 'Prompting', 'Reinforcement Learning']
 ---
 The advent of large language models (LLMs) has revolutionized the field of
 natural language processing, yet they might be attacked to produce harmful

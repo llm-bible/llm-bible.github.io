@@ -7,7 +7,7 @@ year: 2024
 bibkey: belanec2024task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01119"}
-tags: ['Prompting', 'Training Techniques', 'Model Architecture']
+tags: ['Training Techniques', 'Prompting', 'Model Architecture']
 ---
 Prompt tuning is an efficient solution for training large language models
 (LLMs). However, current soft-prompt-based methods often sacrifice multi-task

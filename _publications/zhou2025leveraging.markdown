@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17710"}
-tags: ['RAG', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Tools']
 ---
 The rapid advancements in Large Language Models (LLMs) have revolutionized
 educational technology, enabling innovative approaches to automated and

@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14860"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Large language models (LLMs) often fail to ask effective questions under
 uncertainty, making them unreliable in domains where proactive

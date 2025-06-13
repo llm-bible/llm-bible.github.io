@@ -8,7 +8,7 @@ bibkey: wang2025seeing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02597"}
   - {name: "Code", url: "https://github.com/sony/aki"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Recent Multimodal Large Language Models (MLLMs) have demonstrated significant
 progress in perceiving and reasoning over multimodal inquiries, ushering in a

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024magnitude
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00969"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods']
 ---
 Large pretrained transformer models have revolutionized modern AI
 applications with their state-of-the-art performance in natural language

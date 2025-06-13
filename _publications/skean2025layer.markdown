@@ -7,7 +7,7 @@ year: 2025
 bibkey: skean2025layer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.02013"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 From extracting features to generating text, the outputs of large language
 models (LLMs) typically rely on their final layers, following the conventional

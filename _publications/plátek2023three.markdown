@@ -7,7 +7,7 @@ year: 2023
 bibkey: plátek2023three
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.06502"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Few-Shot']
+tags: ['Few-Shot', 'GPT', 'Prompting', 'Model Architecture']
 ---
 This paper describes the systems submitted by team6 for ChatEval, the DSTC 11
 Track 4 competition. We present three different approaches to predicting

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06320"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Survey Paper']
+tags: ['Fine-Tuning', 'Training Techniques', 'Survey Paper', 'Pretraining Methods']
 ---
 Systematic reviews are crucial for evidence-based medicine as they
 comprehensively analyse published research findings on specific questions.

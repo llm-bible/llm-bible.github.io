@@ -8,7 +8,7 @@ bibkey: shao2023tinylvlm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.03729"}
   - {name: "Code", url: "https://github.com/OpenGVLab/Multi-Modality-Arena"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Recent advancements in Large Vision-Language Models (LVLMs) have demonstrated
 significant progress in tackling complex multimodal tasks. Among these

@@ -7,7 +7,7 @@ year: 2023
 bibkey: v2023ability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18371"}
-tags: ['Prompting', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 Answering complex questions is a challenging task that requires question
 decomposition and multistep reasoning for arriving at the solution. While

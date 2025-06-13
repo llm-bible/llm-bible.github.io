@@ -7,7 +7,7 @@ year: 2024
 bibkey: dorbala2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11487"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 We present a novel approach to automatically synthesize "wayfinding
 instructions" for an embodied robot agent. In contrast to prior approaches that

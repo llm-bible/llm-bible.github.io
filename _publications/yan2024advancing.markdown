@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12735"}
-tags: ['RAG', 'Applications', 'Tools', 'Multimodal Models']
+tags: ['RAG', 'Tools', 'Multimodal Models', 'Applications']
 ---
 Knowledge-based Visual Question Answering (KVQA) tasks require answering
 questions about images using extensive background knowledge. Despite

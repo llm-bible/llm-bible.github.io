@@ -8,7 +8,7 @@ bibkey: ko2023revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.01530"}
   - {name: "Code", url: "https://github.com/jongwooko/CR-ILD"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Knowledge distillation (KD) is a highly promising method for mitigating the
 computational problems of pre-trained language models (PLMs). Among various KD

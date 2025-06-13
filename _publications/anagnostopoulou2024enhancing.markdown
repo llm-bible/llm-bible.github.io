@@ -7,7 +7,7 @@ year: 2024
 bibkey: anagnostopoulou2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04331"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'GPT']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Large language models (LLMs) and large multimodal models (LMMs) have
 significantly impacted the AI community, industry, and various economic

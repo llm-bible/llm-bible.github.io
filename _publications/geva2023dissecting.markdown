@@ -7,7 +7,7 @@ year: 2023
 bibkey: geva2023dissecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.14767"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer-based language models (LMs) are known to capture factual
 knowledge in their parameters. While previous work looked into where factual

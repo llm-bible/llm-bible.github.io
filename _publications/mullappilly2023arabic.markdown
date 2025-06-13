@@ -8,7 +8,7 @@ bibkey: mullappilly2023arabic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09366"}
   - {name: "Code", url: "https://github.com/mbzuai-oryx/ClimateGPT"}
-tags: ['Model Architecture', 'GPT', 'Has Code']
+tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Climate change is one of the most significant challenges we face together as
 a society. Creating awareness and educating policy makers the wide-ranging

@@ -8,7 +8,7 @@ bibkey: yu2017multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1708.01471"}
   - {name: "Code", url: "https://github.com/yuzcccc/mfb"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Merging', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Has Code']
 ---
 Visual question answering (VQA) is challenging because it requires a
 simultaneous understanding of both the visual content of images and the textual

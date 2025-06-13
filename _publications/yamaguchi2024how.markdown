@@ -7,7 +7,7 @@ year: 2024
 bibkey: yamaguchi2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11477"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'Pre-Training', 'Efficiency and Optimization']
 ---
 Large language models (LLMs) have shown remarkable capabilities in many
 languages beyond English. Yet, LLMs require more inference steps when

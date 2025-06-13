@@ -7,7 +7,7 @@ year: 2024
 bibkey: kowsher2024steering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.10927"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The rapid advancements in Large Language Models (LLMs) have revolutionized
 natural language processing (NLP) and related fields. However, fine-tuning

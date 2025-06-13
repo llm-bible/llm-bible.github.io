@@ -8,7 +8,7 @@ bibkey: zhu2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.08569"}
   - {name: "Code", url: "http://ai-researcher.net"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Large Language Models (LLMs) are increasingly utilized in scientific research
 assessment, particularly in automated paper review. However, existing LLM-based

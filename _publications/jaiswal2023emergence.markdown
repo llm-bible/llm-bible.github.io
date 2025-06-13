@@ -8,7 +8,7 @@ bibkey: jaiswal2023emergence
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2306.03805v2"}
   - {name: "Code", url: "https://github.com/VITA-Group/essential_sparsity"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Pruning', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Large pre-trained transformers are show-stealer in modern-day deep learning,
 and it becomes crucial to comprehend the parsimonious patterns that exist

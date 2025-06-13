@@ -7,7 +7,7 @@ year: 2024
 bibkey: srivastava2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19925"}
-tags: ['Security', 'Applications', 'Multimodal Models']
+tags: ['Security', 'Multimodal Models', 'Applications']
 ---
 Generative large language models (LLMs) exhibit impressive capabilities,
 which can be further augmented by integrating a pre-trained vision model into

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wong2023natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.02503"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 This paper provides a comprehensive review of the literature concerning the
 utilization of Natural Language Processing (NLP) techniques, with a particular

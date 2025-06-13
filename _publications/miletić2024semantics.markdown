@@ -7,7 +7,7 @@ year: 2024
 bibkey: miletić2024semantics
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15393"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Multiword expressions (MWEs) are composed of multiple words and exhibit
 variable degrees of compositionality. As such, their meanings are notoriously

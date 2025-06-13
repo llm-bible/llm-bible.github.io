@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14002"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Large language models (LLMs) exhibit remarkable performance across various
 NLP tasks. However, they often generate incorrect or hallucinated information,

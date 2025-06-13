@@ -8,7 +8,7 @@ bibkey: imam2024test
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15913"}
   - {name: "Code", url: "https://github.com/Razaimam45/TTL-Test-Time-Low-Rank-Adaptation"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 The conventional modus operandi for adapting pre-trained vision-language
 models (VLMs) during test-time involves tuning learnable prompts, ie, test-time

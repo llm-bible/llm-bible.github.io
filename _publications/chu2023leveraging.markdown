@@ -7,7 +7,7 @@ year: 2023
 bibkey: chu2023leveraging
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2308.10837v1"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'RecSys']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'RecSys']
 ---
 Recent advancements in recommendation systems have shifted towards more
 comprehensive and personalized recommendations by utilizing large language

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024explaining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05338"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Attribution scores indicate the importance of different input parts and can,
 thus, explain model behaviour. Currently, prompt-based models are gaining

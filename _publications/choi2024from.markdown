@@ -7,7 +7,7 @@ year: 2024
 bibkey: choi2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04139"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Large language models (LLMs) have achieved significant performance gains
 using advanced prompting techniques over various tasks. However, the increasing

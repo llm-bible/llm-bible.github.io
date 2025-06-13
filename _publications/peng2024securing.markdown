@@ -7,7 +7,7 @@ year: 2024
 bibkey: peng2024securing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.08087"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Prompting']
+tags: ['GPT', 'Survey Paper', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Security', 'Training Techniques', 'Prompting']
 ---
 Large Language Models (LLMs) demonstrate impressive capabilities across
 various fields, yet their increasing use raises critical security concerns.

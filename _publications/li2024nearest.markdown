@@ -8,7 +8,7 @@ bibkey: li2024nearest
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19325"}
   - {name: "Code", url: "https://github.com/facebookresearch/NEST/tree/main"}
-tags: ['Prompting', 'Language Modeling', 'Has Code', 'Reinforcement Learning']
+tags: ['Has Code', 'Prompting', 'Language Modeling', 'Reinforcement Learning']
 ---
 Large language models (LLMs) often hallucinate and lack the ability to
 provide attribution for their generations. Semi-parametric LMs, such as kNN-LM,

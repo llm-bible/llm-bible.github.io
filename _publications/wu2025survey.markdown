@@ -8,7 +8,7 @@ bibkey: wu2025survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.12016"}
   - {name: "Code", url: "https://github.com/Clin0212/Awesome-Federated-LLM-Learning}{GitHub"}
-tags: ['Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have achieved remarkable success across a wide
 range of tasks, with fine-tuning playing a pivotal role in adapting them to

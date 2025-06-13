@@ -8,7 +8,7 @@ bibkey: long2024graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14922"}
   - {name: "Code", url: "https://anonymous.4open.science/r/GOT4Rec"}
-tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'Interpretability and Explainability', 'Prompting']
+tags: ['Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 With their vast open-world knowledge and reasoning abilities, large language
 models (LLMs) have become a promising tool for sequential recommendation.

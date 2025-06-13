@@ -7,7 +7,7 @@ year: 2020
 bibkey: prakash2020compressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.05002"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 The current state-of-the-art task-oriented semantic parsing models use BERT
 or RoBERTa as pretrained encoders; these models have huge memory footprints.

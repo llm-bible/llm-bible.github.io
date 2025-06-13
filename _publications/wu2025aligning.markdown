@@ -8,7 +8,7 @@ bibkey: wu2025aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00911"}
   - {name: "Code", url: "https://github.com/portal-cornell/dial"}
-tags: ['Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Has Code', 'Few-Shot']
 ---
 Aligning large language models (LLMs) to human preferences is challenging in
 domains where preference data is unavailable. We address the problem of

@@ -7,7 +7,7 @@ year: 2019
 bibkey: kovaleva2019revealing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.08593"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT']
 ---
 BERT-based architectures currently give state-of-the-art performance on many
 NLP tasks, but little is known about the exact mechanisms that contribute to

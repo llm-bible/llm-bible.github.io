@@ -7,7 +7,7 @@ year: 2024
 bibkey: gomaa2024guidance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06822"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 We present Quasar-1, a novel architecture that introduces temperature-guided
 reasoning to large language models through the Token Temperature Mechanism

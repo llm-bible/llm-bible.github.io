@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07589"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Multimodal Models']
 ---
 Story visualization, the task of creating visual narratives from textual
 descriptions, has seen progress with text-to-image generation models. However,

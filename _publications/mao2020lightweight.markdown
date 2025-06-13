@@ -7,7 +7,7 @@ year: 2020
 bibkey: mao2020lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.04124"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Distillation', 'Pruning', 'Quantization', 'BERT']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Model Architecture', 'Training Techniques', 'BERT', 'Quantization', 'Distillation']
 ---
 BERT is a cutting-edge language representation model pre-trained by a large
 corpus, which achieves superior performances on various natural language

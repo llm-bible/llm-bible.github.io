@@ -8,7 +8,7 @@ bibkey: zhao2025fr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14856"}
   - {name: "Code", url: "https://github.com/thunlp/FR-Spec"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Language Modeling', 'RAG', 'Has Code']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Training Techniques', 'Has Code']
 ---
 Speculative sampling has emerged as an important technique for accelerating
 the auto-regressive generation process of large language models (LLMs) by

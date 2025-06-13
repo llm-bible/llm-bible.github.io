@@ -7,7 +7,7 @@ year: 2023
 bibkey: swaminathan2023schema
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.01201"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) is one of the most powerful and most unexpected
 capabilities to emerge in recent transformer-based large language models

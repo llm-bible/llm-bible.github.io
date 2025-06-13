@@ -7,7 +7,7 @@ year: 2023
 bibkey: vera2023rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11981"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 In the burgeoning field of artificial intelligence (AI), the unprecedented
 progress of large language models (LLMs) in natural language processing (NLP)

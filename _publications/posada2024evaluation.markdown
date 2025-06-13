@@ -8,7 +8,7 @@ bibkey: posada2024evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16611"}
   - {name: "Code", url: "https://github.com/anpoc/Language-models-in-medicine"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Has Code', 'Pretraining Methods']
 ---
 Since the Transformer architecture emerged, language model development has
 grown, driven by their promising potential. Releasing these models into

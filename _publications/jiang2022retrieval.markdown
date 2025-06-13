@@ -8,7 +8,7 @@ bibkey: jiang2022retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.02027"}
   - {name: "Code", url: "https://github.com/jzbjyb/ReAtt"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Systems for knowledge-intensive tasks such as open-domain question answering
 (QA) usually consist of two stages: efficient retrieval of relevant documents

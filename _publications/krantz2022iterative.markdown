@@ -7,7 +7,7 @@ year: 2022
 bibkey: krantz2022iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.03087"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 We present Iterative Vision-and-Language Navigation (IVLN), a paradigm for
 evaluating language-guided agents navigating in a persistent environment over

@@ -7,7 +7,7 @@ year: 2025
 bibkey: khalila2025investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16581"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Model Architecture', 'Applications']
 ---
 Accurate and contextually faithful responses are critical when applying large
 language models (LLMs) to sensitive and domain-specific tasks, such as

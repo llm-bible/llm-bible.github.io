@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhu2022syntax
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.09655"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Large neural language models are steadily contributing state-of-the-art
 performance to question answering and other natural language and information

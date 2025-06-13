@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024difficult
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11437"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) demonstrate a strong understanding
 of the real world and can even handle complex tasks. However, they still fail

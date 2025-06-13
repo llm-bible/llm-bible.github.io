@@ -7,7 +7,7 @@ year: 2022
 bibkey: wu2022generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.09358"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Though offering amazing contextualized token-level representations, current
 pre-trained language models actually take less attention on acquiring

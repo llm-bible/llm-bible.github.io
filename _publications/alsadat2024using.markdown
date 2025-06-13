@@ -7,7 +7,7 @@ year: 2024
 bibkey: alsadat2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07069"}
-tags: ['Prompting', 'Agentic', 'Few-Shot', 'Reinforcement Learning']
+tags: ['Few-Shot', 'Agentic', 'Prompting', 'Reinforcement Learning']
 ---
 We present LARL-RM (Large language model-generated Automaton for
 Reinforcement Learning with Reward Machine) algorithm in order to encode

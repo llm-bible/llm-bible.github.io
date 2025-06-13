@@ -7,7 +7,7 @@ year: 2024
 bibkey: stephan2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10893"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 The diversity of contexts in which large language models (LLMs) are deployed
 requires the ability to modify or customize default model behaviors to

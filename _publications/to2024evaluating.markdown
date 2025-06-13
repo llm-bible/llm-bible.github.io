@@ -7,7 +7,7 @@ year: 2024
 bibkey: to2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05641"}
-tags: ['Prompting', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), with gradually improving reading comprehension
 and reasoning capabilities, are being applied to a range of complex language

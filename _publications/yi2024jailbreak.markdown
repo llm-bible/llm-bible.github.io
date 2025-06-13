@@ -7,7 +7,7 @@ year: 2024
 bibkey: yi2024jailbreak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04295"}
-tags: ['Responsible AI', 'Security', 'Survey Paper', 'Ethics and Bias', 'Interpretability', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Interpretability', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs) have performed exceptionally in various
 text-generative tasks, including question answering, translation, code

@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025edubot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.17824"}
-tags: ['Security', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 The prevalence of Large Language Models (LLMs) is revolutionizing the process
 of writing code. General and code LLMs have shown impressive performance in

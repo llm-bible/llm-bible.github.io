@@ -7,7 +7,7 @@ year: 2023
 bibkey: roy2023unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.06424"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Few-Shot', 'Prompting']
 ---
 Semantic and Cross-language code clone generation may be useful for code
 reuse, code comprehension, refactoring and benchmarking. OpenAI's GPT model has

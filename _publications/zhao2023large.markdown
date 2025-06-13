@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11521"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 With the Generative Pre-trained Transformer 3.5 (GPT-3.5) exhibiting
 remarkable reasoning and comprehension abilities in Natural Language Processing

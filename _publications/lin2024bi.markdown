@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024bi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.12522"}
-tags: ['Prompting', 'Pretraining Methods', 'Efficiency and Optimization', 'GPT']
+tags: ['Efficiency and Optimization', 'GPT', 'Prompting', 'Pretraining Methods']
 ---
 Large language models (LLMs) commonly employ autoregressive generation during
 inference, leading to high memory bandwidth demand and consequently extended

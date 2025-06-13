@@ -7,7 +7,7 @@ year: 2025
 bibkey: ke2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19263"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Visual reasoning (VR), which is crucial in many fields for enabling
 human-like visual understanding, remains highly challenging. Recently,

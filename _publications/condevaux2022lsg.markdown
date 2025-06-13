@@ -7,7 +7,7 @@ year: 2022
 bibkey: condevaux2022lsg
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.15497"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer models achieve state-of-the-art performance on a wide range of
 NLP tasks. They however suffer from a prohibitive limitation due to the

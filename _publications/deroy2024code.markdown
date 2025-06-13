@@ -7,7 +7,7 @@ year: 2024
 bibkey: deroy2024code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19027"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Code generation by Llama 3.1 models, such as Meta's Llama 3.1 405B,
 represents a significant advancement in the field of artificial intelligence,

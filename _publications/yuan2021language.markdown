@@ -7,7 +7,7 @@ year: 2021
 bibkey: yuan2021language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.08531"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Survey Paper', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism']
 ---
 Visual question answering (VQA) is a challenging task, which has attracted
 more and more attention in the field of computer vision and natural language

@@ -7,7 +7,7 @@ year: 2025
 bibkey: aghzal2025survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12435"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 The planning ability of Large Language Models (LLMs) has garnered increasing
 attention in recent years due to their remarkable capacity for multi-step

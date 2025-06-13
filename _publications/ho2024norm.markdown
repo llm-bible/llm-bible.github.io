@@ -7,7 +7,7 @@ year: 2024
 bibkey: ho2024norm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08970"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'TACL', 'ACL', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Security', 'Training Techniques', 'Attention Mechanism']
 ---
 Hallucinations in Large Language Models (LLMs) remain a major obstacle,
 particularly in high-stakes applications where factual accuracy is critical.

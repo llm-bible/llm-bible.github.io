@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024diversify
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01952"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Distillation']
 ---
 Large Language Models (LLMs) have demonstrated strong reasoning capabilities
 in solving complex problems. However, current approaches primarily enhance

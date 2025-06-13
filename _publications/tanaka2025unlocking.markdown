@@ -7,7 +7,7 @@ year: 2025
 bibkey: tanaka2025unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06119"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 In this paper, we propose a unified framework that leverages a single
 pretrained LLM for Motion-related Multimodal Generation, referred to as MoMug.

@@ -8,7 +8,7 @@ bibkey: song2025injecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10708"}
   - {name: "Code", url: "https://github.com/abilliyb/Knowledge_Injection_Survey_Papers,"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Merging', 'Has Code', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Survey Paper', 'Applications', 'Merging', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable success in various
 tasks such as natural language understanding, text summarization, and machine

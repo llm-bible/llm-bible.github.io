@@ -8,7 +8,7 @@ bibkey: zhan2024unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09712"}
   - {name: "Code", url: "https://github.com/ZhanYang-nwpu/SkyEyeGPT"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Multimodal Models']
 ---
 Large language models (LLMs) have recently been extended to the
 vision-language realm, obtaining impressive general multi-modal capabilities.

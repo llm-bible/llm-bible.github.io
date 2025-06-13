@@ -7,7 +7,7 @@ year: 2024
 bibkey: filienko2024toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00112"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 While Large Language Models (LLMs) are being quickly adapted to many domains,
 including healthcare, their strengths and pitfalls remain under-explored. In

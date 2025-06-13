@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15282"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Preference learning is a widely adopted post-training technique that aligns
 large language models (LLMs) to human preferences and improves specific

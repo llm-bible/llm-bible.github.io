@@ -7,7 +7,7 @@ year: 2021
 bibkey: lu2021new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.13214"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
 ---
 Current visual question answering (VQA) tasks mainly consider answering
 human-annotated questions for natural images. However, aside from natural

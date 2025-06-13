@@ -7,7 +7,7 @@ year: 2021
 bibkey: wu2021graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.11823"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Multi-hop reading comprehension (MHRC) requires not only to predict the
 correct answer span in the given passage, but also to provide a chain of

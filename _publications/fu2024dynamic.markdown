@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16991"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Knowledge distillation (KD) has become a widely adopted approach for
 compressing large language models (LLMs) to reduce computational costs and

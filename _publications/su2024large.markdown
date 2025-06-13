@@ -7,7 +7,7 @@ year: 2024
 bibkey: su2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02059"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 The emergence of models like GPTs, Claude, LLaMA, and Qwen has reshaped AI
 applications, presenting vast new opportunities across industries. Yet, the

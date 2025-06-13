@@ -8,7 +8,7 @@ bibkey: batorski2025neuro
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04424"}
   - {name: "Code", url: "https://github.com/Batorskq/NSA"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The Abstraction and Reasoning Corpus (ARC) evaluates general reasoning
 capabilities that are difficult for both machine learning models and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kachris2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09890"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have emerged as powerful tools for natural
 language processing tasks, revolutionizing the field with their ability to

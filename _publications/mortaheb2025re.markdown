@@ -7,7 +7,7 @@ year: 2025
 bibkey: mortaheb2025re
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04695"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Retrieval-augmented generation (RAG) enhances large language models (LLMs) by
 incorporating external knowledge to generate a response within a context with

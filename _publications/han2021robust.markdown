@@ -7,7 +7,7 @@ year: 2021
 bibkey: han2021robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.02340"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Transfer learning with large pretrained transformer-based language models
 like BERT has become a dominating approach for most NLP tasks. Simply

@@ -7,7 +7,7 @@ year: 2024
 bibkey: sheng2024effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19563"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The era of Large Language Models (LLMs) raises new demands for automatic
 evaluation metrics, which should be adaptable to various application scenarios

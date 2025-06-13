@@ -8,7 +8,7 @@ bibkey: wang2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14902"}
   - {name: "Code", url: "https://github.com/mbzuai-nlp/M4"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 Large language models (LLMs) have demonstrated remarkable capability to
 generate fluent responses to a wide variety of user queries. However, this has

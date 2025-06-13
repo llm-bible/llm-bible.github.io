@@ -7,7 +7,7 @@ year: 2020
 bibkey: li2020dialogue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.04984"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Pre-Training']
+tags: ['Pre-Training', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Pre-trained language models (PrLMs) have achieved great success on a wide
 range of natural language processing tasks by virtue of the universal language

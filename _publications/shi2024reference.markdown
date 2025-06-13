@@ -8,7 +8,7 @@ bibkey: shi2024reference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.20181"}
   - {name: "Code", url: "https://github.com/ShiLuohe/ReferenceTrustableDecoding"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have rapidly advanced and demonstrated
 impressive capabilities. In-Context Learning (ICL) and Parameter-Efficient

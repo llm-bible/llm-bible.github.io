@@ -7,7 +7,7 @@ year: 2022
 bibkey: takagi2022effect
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.09817"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We empirically investigate how pre-training on data of different modalities,
 such as language and vision, affects fine-tuning of Transformer-based models to

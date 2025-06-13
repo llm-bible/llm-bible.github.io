@@ -7,7 +7,7 @@ year: 2023
 bibkey: seals2023long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.04537"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Psycholinguistic analyses provide a means of evaluating large language model
 (LLM) output and making systematic comparisons to human-generated text. These

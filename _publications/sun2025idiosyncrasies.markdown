@@ -8,7 +8,7 @@ bibkey: sun2025idiosyncrasies
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12150"}
   - {name: "Code", url: "https://github.com/locuslab/llm-idiosyncrasies"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 In this work, we unveil and study idiosyncrasies in Large Language Models
 (LLMs) -- unique patterns in their outputs that can be used to distinguish the

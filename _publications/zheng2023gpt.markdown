@@ -7,7 +7,7 @@ year: 2023
 bibkey: zheng2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16583"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Interpretability', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Prompting']
 ---
 With the rapid advancement of large language models (LLMs), there is a
 pressing need for a comprehensive evaluation suite to assess their capabilities

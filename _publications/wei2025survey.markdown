@@ -7,7 +7,7 @@ year: 2025
 bibkey: wei2025survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14333"}
-tags: ['Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Tools', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Recent progress in large language models (LLM) found chain-of-thought
 prompting strategies to improve the reasoning ability of LLMs by encouraging

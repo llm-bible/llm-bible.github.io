@@ -7,7 +7,7 @@ year: 2024
 bibkey: senel2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05255"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RecSys', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Pretraining Methods']
 ---
 Recommender systems are widely used to suggest engaging content, and Large
 Language Models (LLMs) have given rise to generative recommenders. Such systems

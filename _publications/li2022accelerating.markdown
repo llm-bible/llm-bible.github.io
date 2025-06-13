@@ -7,7 +7,7 @@ year: 2022
 bibkey: li2022accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.03227"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pruning', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Self-attention is a key enabler of state-of-art accuracy for various
 transformer-based Natural Language Processing models. This attention mechanism

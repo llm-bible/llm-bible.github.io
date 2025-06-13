@@ -7,7 +7,7 @@ year: 2023
 bibkey: neill2023gradient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.10098"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pruning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Pruning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning pretrained self-supervised language models is widely adopted for
 transfer learning to downstream tasks. Fine-tuning can be achieved by freezing

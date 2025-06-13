@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.14690"}
-tags: ['Quantization', 'Efficiency and Optimization', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'Pre-Training', 'Efficiency and Optimization', 'Quantization']
 ---
 Activation sparsity can enable practical inference speedups in large language
 models (LLMs) by reducing the compute and memory-movement required for matrix

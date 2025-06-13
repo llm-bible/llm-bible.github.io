@@ -8,7 +8,7 @@ bibkey: hu2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05714"}
   - {name: "Code", url: "https://github.com/LaVi-Lab/TG-Vid"}
-tags: ['Has Code', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Has Code', 'Applications', 'Model Architecture']
 ---
 Video Large Language Models (Video LLMs) have achieved impressive performance
 on video-and-language tasks, such as video question answering. However, most

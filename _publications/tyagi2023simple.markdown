@@ -7,7 +7,7 @@ year: 2023
 bibkey: tyagi2023simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12272"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Attention Mechanism']
+tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT']
 ---
 Foundational Language Models (FLMs) have advanced natural language processing
 (NLP) research. Current researchers are developing larger FLMs (e.g., XLNet,

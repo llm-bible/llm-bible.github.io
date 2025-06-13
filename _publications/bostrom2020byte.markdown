@@ -7,7 +7,7 @@ year: 2020
 bibkey: bostrom2020byte
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.03720"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Tokenization', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'BERT']
 ---
 The success of pretrained transformer language models (LMs) in natural
 language processing has led to a wide range of pretraining setups. In

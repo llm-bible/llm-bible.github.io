@@ -7,7 +7,7 @@ year: 2024
 bibkey: delorenzo2024make
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03289"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 Existing large language models (LLMs) for register transfer level code
 generation face challenges like compilation failures and suboptimal power,

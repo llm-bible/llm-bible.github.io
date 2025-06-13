@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01783"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Attention Mechanism']
 ---
 We present context parallelism for long-context large language model
 inference, which achieves near-linear scaling for long-context prefill latency

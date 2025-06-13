@@ -7,7 +7,7 @@ year: 2016
 bibkey: mei2016coherent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1611.06997"}
-tags: ['Model Architecture', 'Transformer', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 We model coherent conversation continuation via RNN-based dialogue models
 equipped with a dynamic attention mechanism. Our attention-RNN language model

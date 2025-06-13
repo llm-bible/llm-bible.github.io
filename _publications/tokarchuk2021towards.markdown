@@ -7,7 +7,7 @@ year: 2021
 bibkey: tokarchuk2021towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.13097"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Pivot-based neural machine translation (NMT) is commonly used in low-resource
 setups, especially for translation between non-English language pairs. It

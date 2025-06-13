@@ -7,7 +7,7 @@ year: 2025
 bibkey: harcourt2025structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08947"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Token representations in high-dimensional latent spaces often exhibit
 redundancy, limiting computational efficiency and reducing structural coherence

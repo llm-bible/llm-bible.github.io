@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04350"}
   - {name: "Code", url: "https://huggingface.co/datasets/causalNLP/cladder,"}
   - {name: "Code", url: "https://github.com/causalNLP/cladder"}
-tags: ['Prompting', 'Has Code', 'ACL', 'Reinforcement Learning']
+tags: ['ACL', 'Has Code', 'Prompting', 'Reinforcement Learning']
 ---
 The ability to perform causal reasoning is widely considered a core feature
 of intelligence. In this work, we investigate whether large language models

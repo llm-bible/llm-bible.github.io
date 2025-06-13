@@ -8,7 +8,7 @@ bibkey: tian2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00253"}
   - {name: "Code", url: "https://github.com/yuchen814/CodeHalu"}
-tags: ['Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have made significant progress in code
 generation, offering developers groundbreaking automated programming support.

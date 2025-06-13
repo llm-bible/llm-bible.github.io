@@ -8,7 +8,7 @@ bibkey: li2023distributed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03294"}
   - {name: "Code", url: "https://github.com/RulinShao/LightSeq"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 FlashAttention (Dao, 2023) effectively reduces the quadratic peak memory
 usage to linear in training transformer-based large language models (LLMs) on a

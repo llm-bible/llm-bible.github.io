@@ -7,7 +7,7 @@ year: 2023
 bibkey: gupta2023targeted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17876"}
-tags: ['Prompting', 'Ethics and Bias', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Prompting', 'Ethics and Bias', 'Tools']
 ---
 The rapid advancement of large language models (LLMs) has sparked interest in
 data synthesis techniques, aiming to generate diverse and high-quality

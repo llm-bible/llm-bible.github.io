@@ -7,7 +7,7 @@ year: 2025
 bibkey: phang2025investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03888"}
-tags: ['Model Architecture', 'GPT', 'Survey Paper', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 As AI chatbots see increased adoption and integration into everyday life,
 questions have been raised about the potential impact of human-like or

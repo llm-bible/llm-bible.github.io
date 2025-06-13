@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18460"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'TACL', 'RAG', 'ACL', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) have gained significant attention in the medical
 domain for their human-level capabilities, leading to increased efforts to

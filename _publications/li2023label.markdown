@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023label
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01208"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'BERT', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT', 'Few-Shot', 'Prompting']
 ---
 The recent success of Large Language Models (LLMs) has gained significant
 attention in both academia and industry. Substantial efforts have been made to

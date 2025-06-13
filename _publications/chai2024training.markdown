@@ -8,7 +8,7 @@ bibkey: chai2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07840"}
   - {name: "Code", url: "https://github.com/ernie-research/gptfluence"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Amidst the rapid advancements in generative language models, the
 investigation of how training data shapes the performance of GPT models is

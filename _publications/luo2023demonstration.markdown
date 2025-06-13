@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023demonstration
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14128"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+tags: ['Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL), teaching a large language model (LLM) to perform a
 task with few-shot demonstrations rather than adjusting the model parameters,

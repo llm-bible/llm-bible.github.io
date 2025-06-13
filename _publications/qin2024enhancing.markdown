@@ -7,7 +7,7 @@ year: 2024
 bibkey: qin2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.06377"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Sequence recommendation (SeqRec) aims to predict the next item a user will
 interact with by understanding user intentions and leveraging collaborative

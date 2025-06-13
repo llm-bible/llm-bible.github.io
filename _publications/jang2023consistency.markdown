@@ -7,7 +7,7 @@ year: 2023
 bibkey: jang2023consistency
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.06273"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 ChatGPT has gained a huge popularity since its introduction. Its positive
 aspects have been reported through many media platforms, and some analyses even

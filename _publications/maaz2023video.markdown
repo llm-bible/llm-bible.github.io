@@ -8,7 +8,7 @@ bibkey: maaz2023video
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.05424"}
   - {name: "Code", url: "https://github.com/mbzuai-oryx/Video-ChatGPT"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Tools', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Has Code', 'Multimodal Models']
 ---
 Conversation agents fueled by Large Language Models (LLMs) are providing a
 new way to interact with visual data. While there have been initial attempts

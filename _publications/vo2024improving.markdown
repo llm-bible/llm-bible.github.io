@@ -7,7 +7,7 @@ year: 2024
 bibkey: vo2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19161"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Machine translation for Vietnamese-English in the medical domain is still an
 under-explored research area. In this paper, we introduce MedEV -- a

@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023history
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.00907"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 With the evolution of pre-trained language models, current open-domain
 dialogue systems have achieved great progress in conducting one-session

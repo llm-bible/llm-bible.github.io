@@ -7,7 +7,7 @@ year: 2024
 bibkey: ratzlaff2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03467"}
-tags: ['Multimodal Models', 'Training Techniques', 'Merging', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Multimodal Models', 'Merging']
 ---
 Multimodal models typically combine a powerful large language model (LLM)
 with a vision encoder and are then trained on multimodal data via instruction

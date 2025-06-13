@@ -7,7 +7,7 @@ year: 2024
 bibkey: fang2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12163"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated great potential in various
 language processing tasks, and recent studies have explored their application

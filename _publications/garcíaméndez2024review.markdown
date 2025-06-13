@@ -7,7 +7,7 @@ year: 2024
 bibkey: garcíaméndez2024review
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11983"}
-tags: ['Model Architecture', 'Survey Paper', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Survey Paper', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Transformer architectures contribute to managing long-term dependencies for
 Natural Language Processing, representing one of the most recent changes in the

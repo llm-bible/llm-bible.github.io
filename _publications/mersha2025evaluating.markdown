@@ -7,7 +7,7 @@ year: 2025
 bibkey: mersha2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15374"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'BERT', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Security', 'Attention Mechanism', 'BERT']
 ---
 The black-box nature of large language models (LLMs) necessitates the
 development of eXplainable AI (XAI) techniques for transparency and

@@ -7,7 +7,7 @@ year: 2021
 bibkey: asai2021one
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.11976"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We present Cross-lingual Open-Retrieval Answer Generation (CORA), the first
 unified many-to-many question answering (QA) model that can answer questions

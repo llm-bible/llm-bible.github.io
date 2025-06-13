@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01552"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown success in generating high-quality
 responses. In order to achieve better alignment with LLMs with human

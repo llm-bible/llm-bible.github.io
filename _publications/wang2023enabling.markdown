@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00898"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Prompting', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 open-ended text generation tasks. However, the inherent open-ended nature of

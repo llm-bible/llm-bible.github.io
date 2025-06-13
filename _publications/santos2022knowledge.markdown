@@ -7,7 +7,7 @@ year: 2022
 bibkey: santos2022knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.04726"}
-tags: ['Prompting', 'Pretraining Methods', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pretraining Methods', 'Prompting', 'Reinforcement Learning']
 ---
 Soft prompts have been recently proposed as a tool for adapting large frozen
 language models (LMs) to new tasks. In this work, we repurpose soft prompts to

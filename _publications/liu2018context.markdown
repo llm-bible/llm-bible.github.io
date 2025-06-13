@@ -8,7 +8,7 @@ bibkey: liu2018context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.05864"}
   - {name: "Code", url: "https://github.com/daqingliu/CAVP"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Has Code', 'Attention Mechanism']
+tags: ['Agentic', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Many vision-language tasks can be reduced to the problem of sequence
 prediction for natural language output. In particular, recent advances in image

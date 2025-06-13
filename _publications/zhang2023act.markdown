@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023act
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17342"}
-tags: ['Prompting', 'In-Context Learning', 'Few-Shot', 'Tools']
+tags: ['Few-Shot', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Recently Large Language Models (LLMs) have been proven to have strong
 abilities in various domains and tasks. We study the problem of prompt

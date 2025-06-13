@@ -7,7 +7,7 @@ year: 2021
 bibkey: rothermel2021sweep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.12460"}
-tags: ['Arxiv', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Arxiv']
 ---
 Self-supervised pre-training of large-scale transformer models on text
 corpora followed by finetuning has achieved state-of-the-art on a number of

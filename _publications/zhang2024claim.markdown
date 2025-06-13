@@ -8,7 +8,7 @@ bibkey: zhang2024claim
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12558"}
   - {name: "Code", url: "https://github.com/FBzzh/CACDD"}
-tags: ['Few-Shot', 'Reinforcement Learning', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Has Code', 'Few-Shot']
 ---
 The advancement of LLMs has significantly boosted the performance of complex
 long-form question answering tasks. However, one prominent issue of LLMs is the

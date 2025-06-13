@@ -7,7 +7,7 @@ year: 2025
 bibkey: le2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08746"}
-tags: ['RecSys', 'BERT', 'Model Architecture']
+tags: ['BERT', 'RecSys', 'Model Architecture']
 ---
 Recent advancements in language models and pre-trained language models like
 BERT and RoBERTa have revolutionized natural language processing, enabling a

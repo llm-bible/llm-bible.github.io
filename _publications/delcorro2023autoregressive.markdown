@@ -7,7 +7,7 @@ year: 2023
 bibkey: delcorro2023autoregressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.02628"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Autoregressive large language models (LLMs) have made remarkable progress in
 various natural language generation tasks. However, they incur high computation

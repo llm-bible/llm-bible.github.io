@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025controlling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.05764"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 As large language models (LLMs) are widely deployed across various domains,
 the ability to control their generated outputs has become more critical. This

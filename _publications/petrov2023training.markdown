@@ -7,7 +7,7 @@ year: 2023
 bibkey: petrov2023training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06165"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Sequential Recommendation is a popular recommendation task that uses the
 order of user-item interaction to model evolving users' interests and

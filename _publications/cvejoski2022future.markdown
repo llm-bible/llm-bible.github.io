@@ -7,7 +7,7 @@ year: 2022
 bibkey: cvejoski2022future
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.00384"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Large pre-trained language models (LPLM) have shown spectacular success when
 fine-tuned on downstream supervised tasks. Yet, it is known that their

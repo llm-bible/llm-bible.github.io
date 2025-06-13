@@ -7,7 +7,7 @@ year: 2024
 bibkey: minaee2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06196"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Scaling Laws', 'Tools', 'GPT', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Scaling Laws']
 ---
 Large Language Models (LLMs) have drawn a lot of attention due to their
 strong performance on a wide range of natural language tasks, since the release

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yue2023building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05653"}
-tags: ['RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 We introduce MAmmoTH, a series of open-source large language models (LLMs)
 specifically tailored for general math problem-solving. The MAmmoTH models are

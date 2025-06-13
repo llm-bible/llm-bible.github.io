@@ -7,7 +7,7 @@ year: 2024
 bibkey: banerjee2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15302"}
-tags: ['Responsible AI', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 In this study, we tackle a growing concern around the safety and ethical use
 of large language models (LLMs). Despite their potential, these models can be

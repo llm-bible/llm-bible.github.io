@@ -7,7 +7,7 @@ year: 2024
 bibkey: goldstein2024high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12077"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We introduce GoldFinch, a hybrid Linear Attention/Transformer sequence model
 that uses a new technique to efficiently generate a highly compressed and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: khan2024reinforcement
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14454"}
-tags: ['Model Architecture', 'Merging', 'GPT', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Merging', 'Interpretability', 'Prompting']
 ---
 Addressing the global challenge of breast cancer, this research explores the
 fusion of generative AI, focusing on ChatGPT 3.5 turbo model, and the

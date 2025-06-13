@@ -7,7 +7,7 @@ year: 2018
 bibkey: meng2018neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1806.11249"}
-tags: ['WMT', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'WMT']
 ---
 Although attention-based Neural Machine Translation (NMT) has achieved
 remarkable progress in recent years, it still suffers from issues of repeating

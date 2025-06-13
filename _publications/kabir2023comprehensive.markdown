@@ -7,7 +7,7 @@ year: 2023
 bibkey: kabir2023comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.13173"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have emerged as one of the most important
 breakthroughs in NLP for their impressive skills in language generation and

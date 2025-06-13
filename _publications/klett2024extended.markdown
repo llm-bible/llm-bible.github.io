@@ -7,7 +7,7 @@ year: 2024
 bibkey: klett2024extended
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02332"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Pre-trained language models demonstrate general intelligence and common
 sense, but long inputs quickly become a bottleneck for memorizing information

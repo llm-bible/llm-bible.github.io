@@ -7,7 +7,7 @@ year: 2024
 bibkey: piau2024closer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10806"}
-tags: ['Pretraining Methods', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Despite advancements in Natural Language Processing (NLP) and the growing
 availability of pretrained models, the English language remains the primary

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024region
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06558"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 Regional prompting, or compositional generation, which enables fine-grained
 spatial control, has gained increasing attention for its practicality in

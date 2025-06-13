@@ -7,7 +7,7 @@ year: 2018
 bibkey: jiang2018closed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.04585"}
-tags: ['Training Techniques', 'Applications', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 A good neural sequence-to-sequence summarization model should have a strong
 encoder that can distill and memorize the important information from long input

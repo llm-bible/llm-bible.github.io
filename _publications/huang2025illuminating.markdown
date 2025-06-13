@@ -8,7 +8,7 @@ bibkey: huang2025illuminating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01934"}
   - {name: "Code", url: "https://illume-unified-mllm.github.io/"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Tokenization', 'RAG', 'Merging', 'Has Code', 'Applications']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Tokenization', 'Has Code', 'Multimodal Models']
 ---
 We present ILLUME+ that leverages dual visual tokenization and a diffusion
 decoder to improve both deep semantic understanding and high-fidelity image

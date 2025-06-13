@@ -7,7 +7,7 @@ year: 2019
 bibkey: cai2019graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.07470"}
-tags: ['Model Architecture', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 The dominant graph-to-sequence transduction models employ graph neural
 networks for graph representation learning, where the structural information is

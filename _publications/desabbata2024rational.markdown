@@ -7,7 +7,7 @@ year: 2024
 bibkey: desabbata2024rational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05563"}
-tags: ['Prompting', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning']
+tags: ['Few-Shot', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
 ---
 Being prompted to engage in reasoning has emerged as a core technique for
 using large language models (LLMs), deploying additional inference-time compute

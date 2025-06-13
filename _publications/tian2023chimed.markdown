@@ -8,7 +8,7 @@ bibkey: tian2023chimed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06025"}
   - {name: "Code", url: "https://github.com/synlp/ChiMed-GPT"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Recently, the increasing demand for superior medical services has highlighted
 the discrepancies in the medical infrastructure. With big data, especially

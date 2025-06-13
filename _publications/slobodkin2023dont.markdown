@@ -7,7 +7,7 @@ year: 2023
 bibkey: slobodkin2023dont
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09017"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Distillation', 'GPT', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Distillation']
 ---
 The recently introduced Controlled Text Reduction (CTR) task isolates the
 text generation step within typical summarization-style tasks. It does so by

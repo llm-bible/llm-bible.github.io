@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08098"}
-tags: ['Prompting', 'Security', 'Applications']
+tags: ['Security', 'Prompting', 'Applications']
 ---
 Recent studies have demonstrated outstanding capabilities of large language
 models (LLMs) in software engineering tasks, including code generation and

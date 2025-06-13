@@ -8,7 +8,7 @@ bibkey: xu2023harmonizing
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2310.06830v2"}
   - {name: "Code", url: "https://github.com/OpenLemur/Lemur"}
-tags: ['Agentic', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We introduce Lemur and Lemur-Chat, openly accessible language models
 optimized for both natural language and coding capabilities to serve as the

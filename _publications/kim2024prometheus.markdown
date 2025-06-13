@@ -8,7 +8,7 @@ bibkey: kim2024prometheus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01535"}
   - {name: "Code", url: "https://github.com/prometheus-eval/prometheus-eval"}
-tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Interpretability', 'Has Code']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Has Code']
 ---
 Proprietary LMs such as GPT-4 are often employed to assess the quality of
 responses from various LMs. However, concerns including transparency,

@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15130"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Distillation', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 Transformers have been favored in both uni-modal and multi-modal foundation
 models for their flexible scalability in attention modules. Consequently, a

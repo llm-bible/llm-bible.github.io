@@ -7,7 +7,7 @@ year: 2024
 bibkey: makridis2024personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09467"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 In the diverse world of AI-driven storytelling, there is a unique opportunity
 to engage young audiences with customized, and personalized narratives. This

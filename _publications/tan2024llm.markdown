@@ -8,7 +8,7 @@ bibkey: tan2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19021"}
   - {name: "Code", url: "https://github.com/agiresearch/IDGenRec"}
-tags: ['Training Techniques', 'Tools', 'Language Modeling', 'RecSys', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'Language Modeling', 'Training Techniques', 'RecSys', 'Has Code']
 ---
 Generative recommendation based on Large Language Models (LLMs) have
 transformed the traditional ranking-based recommendation style into a

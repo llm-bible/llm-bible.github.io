@@ -7,7 +7,7 @@ year: 2025
 bibkey: ling2025mmkb
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10074"}
-tags: ['Security', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Security']
 ---
 Recent advancements in large language models (LLMs) and multi-modal LLMs have
 been remarkable. However, these models still rely solely on their parametric

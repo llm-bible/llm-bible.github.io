@@ -7,7 +7,7 @@ year: 2021
 bibkey: wu2021not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.04692"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Beyond the success story of pre-trained language models (PrLMs) in recent
 natural language processing, they are susceptible to over-fitting due to

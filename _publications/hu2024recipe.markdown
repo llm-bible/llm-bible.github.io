@@ -8,7 +8,7 @@ bibkey: hu2024recipe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00509"}
   - {name: "Code", url: "https://github.com/zhiyuanhubj/LongRecipe"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Has Code']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) face significant challenges in handling
 long-context tasks because of their limited effective context window size

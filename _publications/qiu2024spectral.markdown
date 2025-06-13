@@ -7,7 +7,7 @@ year: 2024
 bibkey: qiu2024spectral
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.09719"}
-tags: ['Ethics and Bias', 'Efficiency and Optimization']
+tags: ['Efficiency and Optimization', 'Ethics and Bias']
 ---
 Large language models (LLMs) often exhibit undesirable behaviours, such as
 generating untruthful or biased content. Editing their internal representations

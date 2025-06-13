@@ -7,7 +7,7 @@ year: 2024
 bibkey: rasool2024emotion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01306"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'BERT']
 ---
 Empathetic and coherent responses are critical in auto-mated
 chatbot-facilitated psychotherapy. This study addresses the challenge of

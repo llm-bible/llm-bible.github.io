@@ -7,7 +7,7 @@ year: 2023
 bibkey: iqbal2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10254"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Responsible AI', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Security']
 ---
 Large language model (LLM) platforms, such as ChatGPT, have recently begun
 offering an app ecosystem to interface with third-party services on the

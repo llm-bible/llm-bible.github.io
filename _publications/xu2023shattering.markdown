@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023shattering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11455"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 A centerpiece of the ever-popular reinforcement learning from human feedback
 (RLHF) approach to fine-tuning autoregressive language models is the explicit

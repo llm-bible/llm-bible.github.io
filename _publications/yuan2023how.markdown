@@ -8,7 +8,7 @@ bibkey: yuan2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09071"}
   - {name: "Code", url: "https://github.com/CONE-MT/Vocabulary-Sharing-Facilitates-Multilingualism}."}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), often show strong performance on English tasks,
 while exhibiting limitations on other languages. What is an LLM's multilingual

@@ -7,7 +7,7 @@ year: 2023
 bibkey: rose2023personalisation
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.05453v1"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Tools', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) are used to generate content for a wide range of
 tasks, and are set to reach a growing audience in coming years due to

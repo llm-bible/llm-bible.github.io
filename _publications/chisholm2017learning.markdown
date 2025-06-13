@@ -7,7 +7,7 @@ year: 2017
 bibkey: chisholm2017learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1702.06235"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 We investigate the generation of one-sentence Wikipedia biographies from
 facts derived from Wikidata slot-value pairs. We train a recurrent neural

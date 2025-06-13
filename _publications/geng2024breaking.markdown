@@ -7,7 +7,7 @@ year: 2024
 bibkey: geng2024breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19347"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'TACL', 'RAG', 'ACL']
+tags: ['Efficiency and Optimization', 'RAG', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques']
 ---
 With the rise of large language models (LLMs), recent works have leveraged
 LLMs to improve the performance of click-through rate (CTR) prediction.

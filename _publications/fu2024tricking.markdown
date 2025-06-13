@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024tricking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14923"}
-tags: ['Agentic', 'Security', 'Efficiency and Optimization', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Merging', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Merging', 'Security', 'Multimodal Models', 'Prompting']
 ---
 Large Language Model (LLM) Agents are an emerging computing paradigm that
 blends generative machine learning with tools such as code interpreters, web

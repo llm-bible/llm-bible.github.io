@@ -7,7 +7,7 @@ year: 2021
 bibkey: shavarani2021better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.02831"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Adding linguistic information (syntax or semantics) to neural machine
 translation (NMT) has mostly focused on using point estimates from pre-trained

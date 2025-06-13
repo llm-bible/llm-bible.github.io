@@ -7,7 +7,7 @@ year: 2024
 bibkey: qiu2024it
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01992"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 Since the success of GPT, large language models (LLMs) have been
 revolutionizing machine learning and have initiated the so-called LLM prompting

@@ -8,7 +8,7 @@ bibkey: liang2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12163"}
   - {name: "Code", url: "https://github.com/dropreg/Fennec"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 The rapid advancement of large language models has given rise to a plethora
 of applications across a myriad of real-world tasks, mainly centered on

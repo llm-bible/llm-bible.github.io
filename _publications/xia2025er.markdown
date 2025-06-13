@@ -7,7 +7,7 @@ year: 2025
 bibkey: xia2025er
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06271"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'RAG', 'Pretraining Methods', 'KDD', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques', 'KDD', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large language models (LLMs) excel in question-answering (QA) tasks, and
 retrieval-augmented generation (RAG) enhances their precision by incorporating

@@ -8,7 +8,7 @@ bibkey: fereidouni2024grounded
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10887"}
   - {name: "Code", url: "https://github.com/MultifacetedNLP/WebAgents-Unsupervised"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 The development of agents powered by large language models (LLMs) to
 accomplish complex high-level user intents, has attracted significant attention

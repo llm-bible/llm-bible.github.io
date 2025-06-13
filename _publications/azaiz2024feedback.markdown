@@ -7,7 +7,7 @@ year: 2024
 bibkey: azaiz2024feedback
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04449"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Ever since Large Language Models (LLMs) and related applications have become
 broadly available, several studies investigated their potential for assisting

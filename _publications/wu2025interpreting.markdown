@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025interpreting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15576"}
-tags: ['Ethics and Bias', 'Security', 'Applications', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Security', 'Ethics and Bias', 'Applications']
 ---
 Large language models (LLMs) excel at handling human queries, but they can
 occasionally generate flawed or unexpected responses. Understanding their

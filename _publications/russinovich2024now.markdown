@@ -7,7 +7,7 @@ year: 2024
 bibkey: russinovich2024now
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01833"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Multimodal Models', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Security', 'Multimodal Models', 'Prompting']
 ---
 Large Language Models (LLMs) have risen significantly in popularity and are
 increasingly being adopted across multiple applications. These LLMs are heavily

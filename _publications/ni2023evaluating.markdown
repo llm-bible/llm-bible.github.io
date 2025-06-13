@@ -7,7 +7,7 @@ year: 2023
 bibkey: ni2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.17446"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'Pretraining Methods', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Recently, large language models (LLMs), especially those that are pretrained
 on code, have demonstrated strong capabilities in generating programs from

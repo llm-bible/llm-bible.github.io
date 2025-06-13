@@ -8,7 +8,7 @@ bibkey: zhang2024scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.07089"}
   - {name: "Code", url: "https://huggingface.co/datasets/flagopen/InfinityMATH"}
-tags: ['Security', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'RAG', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Recent advancements in Chain-of-Thoughts (CoT) and Program-of-Thoughts (PoT)
 methods have greatly enhanced language models' mathematical reasoning

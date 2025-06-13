@@ -8,7 +8,7 @@ bibkey: zhang2023sharing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15477"}
   - {name: "Code", url: "https://github.com/TsinghuaC3I/CRaSh"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Instruction tuning has recently been recognized as an effective way of
 aligning Large Language Models (LLMs) to enhance their generalization ability

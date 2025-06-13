@@ -7,7 +7,7 @@ year: 2019
 bibkey: shen2019pragmatically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.01301"}
-tags: ['Model Architecture', 'Language Modeling', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Attention Mechanism']
 ---
 We improve the informativeness of models for conditional text generation
 using techniques from computational pragmatics. These techniques formulate

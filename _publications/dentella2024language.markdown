@@ -7,7 +7,7 @@ year: 2024
 bibkey: dentella2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14883"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 Understanding the limits of language is a prerequisite for Large Language
 Models (LLMs) to act as theories of natural language. LLM performance in some

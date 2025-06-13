@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024weak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07456"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recently, large language models (LLMs) have demonstrated remarkable potential
 as an intelligent agent. However, existing researches mainly focus on enhancing

@@ -7,7 +7,7 @@ year: 2025
 bibkey: gu2025text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11426"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We challenge the prevailing assumption that LLMs must rely fully on sub-word
 tokens for high-quality text generation. To this end, we propose the

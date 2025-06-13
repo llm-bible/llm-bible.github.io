@@ -7,7 +7,7 @@ year: 2024
 bibkey: asiedu2024contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.09201"}
-tags: ['Prompting', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Prompting']
 ---
 While large language models (LLMs) have shown promise for medical question
 answering, there is limited work focused on tropical and infectious

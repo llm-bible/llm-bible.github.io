@@ -8,7 +8,7 @@ bibkey: khot2022decomposed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.02406"}
   - {name: "Code", url: "https://github.com/allenai/DecomP"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Few-shot prompting is a surprisingly powerful way to use Large Language
 Models (LLMs) to solve various tasks. However, this approach struggles as the

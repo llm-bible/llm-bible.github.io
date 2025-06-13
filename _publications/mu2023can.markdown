@@ -7,7 +7,7 @@ year: 2023
 bibkey: mu2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04235"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 As Large Language Models (LLMs) are deployed with increasing real-world
 responsibilities, it is important to be able to specify and constrain the

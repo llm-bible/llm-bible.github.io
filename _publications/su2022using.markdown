@@ -7,7 +7,7 @@ year: 2022
 bibkey: su2022using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.06538"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Multi-hop question generation (MQG) aims to generate complex questions which
 require reasoning over multiple pieces of information of the input passage.

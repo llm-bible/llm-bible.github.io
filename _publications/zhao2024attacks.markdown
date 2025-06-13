@@ -8,7 +8,7 @@ bibkey: zhao2024attacks
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16891"}
   - {name: "Code", url: "https://github.com/vk0812/Third-Party-Attacks-on-LLMs"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning', 'Has Code']
+tags: ['Responsible AI', 'Tools', 'Reinforcement Learning', 'Security', 'Has Code']
 ---
 Large language model (LLM) services have recently begun offering a plugin
 ecosystem to interact with third-party API services. This innovation enhances

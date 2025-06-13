@@ -8,7 +8,7 @@ bibkey: yan2024predicting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17287"}
   - {name: "Code", url: "https://github.com/kuri-leo/BigFive-LLM-Predictor},"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Accurate assessment of personality traits is crucial for effective
 psycho-counseling, yet traditional methods like self-report questionnaires are

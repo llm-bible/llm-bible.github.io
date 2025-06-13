@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09582"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 This report presents a study on the emotional dialogue capability of ChatGPT,
 an advanced language model developed by OpenAI. The study evaluates the

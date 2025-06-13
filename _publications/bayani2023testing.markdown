@@ -7,7 +7,7 @@ year: 2023
 bibkey: bayani2023testing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.16806"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Distillation', 'GPT', 'Attention Mechanism']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Distillation']
 ---
 Over the eight months since its release, ChatGPT and its underlying model,
 GPT3.5, have garnered massive attention, due to their potent mix of capability

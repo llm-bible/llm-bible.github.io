@@ -8,7 +8,7 @@ bibkey: yan2023multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19061"}
   - {name: "Code", url: "https://github.com/ZhilingYan/GPT4V-Medical-Report"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 In this paper, we critically evaluate the capabilities of the
 state-of-the-art multimodal large language model, i.e., GPT-4 with Vision

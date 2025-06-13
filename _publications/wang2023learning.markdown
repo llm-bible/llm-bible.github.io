@@ -8,7 +8,7 @@ bibkey: wang2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06323"}
   - {name: "Code", url: "https://github.com/Vill-Lab/2024-AAAI-HPT"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'AAAI', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'AAAI', 'Multimodal Models', 'Prompting']
 ---
 Prompt learning has become a prevalent strategy for adapting vision-language
 foundation models to downstream tasks. As large language models (LLMs) have

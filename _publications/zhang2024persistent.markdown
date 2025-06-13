@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024persistent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13722"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models are pre-trained on uncurated text datasets consisting
 of trillions of tokens scraped from the Web. Prior work has shown that: (1)

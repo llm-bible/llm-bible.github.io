@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025blessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16759"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RecSys', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'RecSys']
 ---
 Modern recommender systems use ML models to predict consumer preferences from
 consumption history. Although these "black-box" models achieve impressive

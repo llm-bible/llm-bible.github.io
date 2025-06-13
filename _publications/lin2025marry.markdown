@@ -8,7 +8,7 @@ bibkey: lin2025marry
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.05422"}
   - {name: "Code", url: "https://github.com/TencentARC/TokLIP"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'GPT', 'Quantization', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Quantization']
 ---
 Pioneering token-based works such as Chameleon and Emu3 have established a
 foundation for multimodal unification but face challenges of high training

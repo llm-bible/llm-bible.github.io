@@ -7,7 +7,7 @@ year: 2025
 bibkey: siska2025leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12321"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'RAG', 'GPT', 'Transformer', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Prompting']
 ---
 In the past few years, Language Models (LMs) have shown par-human
 capabilities in several domains. Despite their practical applications and

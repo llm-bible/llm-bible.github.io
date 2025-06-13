@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024cutting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18154"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Recently, retrieval augmentation and tool augmentation have demonstrated a
 remarkable capability to expand the internal memory boundaries of language

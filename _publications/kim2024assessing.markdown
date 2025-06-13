@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05547"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Thanks to unprecedented language understanding and generation capabilities of
 large language model (LLM), Retrieval-augmented Code Generation (RaCG) has

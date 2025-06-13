@@ -7,7 +7,7 @@ year: 2022
 bibkey: hao2022learnable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.10128"}
-tags: ['Pretraining Methods', 'Training Techniques']
+tags: ['Training Techniques', 'Pretraining Methods']
 ---
 Sequential Recommendation aims to predict the next item based on user
 behaviour. Recently, Self-Supervised Learning (SSL) has been proposed to

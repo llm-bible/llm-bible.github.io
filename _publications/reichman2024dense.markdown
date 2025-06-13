@@ -7,7 +7,7 @@ year: 2024
 bibkey: reichman2024dense
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11035"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Dense passage retrieval (DPR) is the first step in the retrieval augmented
 generation (RAG) paradigm for improving the performance of large language

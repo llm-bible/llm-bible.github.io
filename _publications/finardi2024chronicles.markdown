@@ -7,7 +7,7 @@ year: 2024
 bibkey: finardi2024chronicles
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07883"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture']
 ---
 Retrieval Augmented Generation (RAG) has become one of the most popular
 paradigms for enabling LLMs to access external data, and also as a mechanism

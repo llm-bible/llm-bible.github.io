@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06664"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 Continual fine-tuning of large language models (LLMs) suffers from
 catastrophic forgetting. Rehearsal-based methods mitigate this problem by

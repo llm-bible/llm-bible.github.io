@@ -7,7 +7,7 @@ year: 2025
 bibkey: cheng2025human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06567"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Large language models (LLMs) have demonstrated transformative potential
 across various domains, yet they face significant challenges in knowledge

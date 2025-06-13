@@ -8,7 +8,7 @@ bibkey: ruscio2023attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.08288"}
   - {name: "Code", url: "https://github.com/Flegyas/AttentionLikelihood"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 We analyze how large language models (LLMs) represent out-of-context words,
 investigating their reliance on the given context to capture their semantics.

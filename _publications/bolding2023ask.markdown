@@ -7,7 +7,7 @@ year: 2023
 bibkey: bolding2023ask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13469"}
-tags: ['Security', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Pretraining Methods']
 ---
 Transformer models have demonstrated remarkable performance in neural machine
 translation (NMT). However, their vulnerability to noisy input poses a

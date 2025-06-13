@@ -7,7 +7,7 @@ year: 2024
 bibkey: kirsten2024impact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22118"}
-tags: ['Quantization', 'Ethics and Bias', 'Efficiency and Optimization', 'Pruning']
+tags: ['Efficiency and Optimization', 'Quantization', 'Pruning', 'Ethics and Bias']
 ---
 Last few years have seen unprecedented advances in capabilities of Large
 Language Models (LLMs). These advancements promise to benefit a vast array of

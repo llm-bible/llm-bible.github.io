@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025qe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04062"}
-tags: ['Security', 'Training Techniques', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Training Techniques', 'Security', 'Reinforcement Learning']
 ---
 Retriever-augmented generation (RAG) has become a widely adopted approach for
 enhancing the factual accuracy of large language models (LLMs). While current

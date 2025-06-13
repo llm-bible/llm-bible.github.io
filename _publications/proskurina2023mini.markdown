@@ -7,7 +7,7 @@ year: 2023
 bibkey: proskurina2023mini
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.03216"}
-tags: ['Masked Language Model', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Attention Mechanism']
+tags: ['Model Architecture', 'Masked Language Model', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 In this paper, we describe the University of Lyon 2 submission to the
 Strict-Small track of the BabyLM competition. The shared task is created with

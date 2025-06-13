@@ -7,7 +7,7 @@ year: 2020
 bibkey: marasović2020natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.07526"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Natural language rationales could provide intuitive, higher-level
 explanations that are easily understandable by humans, complementing the more

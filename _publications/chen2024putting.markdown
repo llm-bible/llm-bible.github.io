@@ -8,7 +8,7 @@ bibkey: chen2024putting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10573"}
   - {name: "Code", url: "https://github.com/3244we/Question-Rewriter"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated significant capabilities,
 particularly in the domain of question answering (QA). However, their

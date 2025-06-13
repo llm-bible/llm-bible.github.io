@@ -7,7 +7,7 @@ year: 2025
 bibkey: ding2025mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02754"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 In recent years, attention-based models have excelled across various domains
 but remain vulnerable to backdoor attacks, often from downloading or

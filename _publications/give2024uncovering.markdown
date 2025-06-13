@@ -7,7 +7,7 @@ year: 2024
 bibkey: give2024uncovering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15871"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'In-Context Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Today, the detection of AI-generated content is receiving more and more
 attention. Our idea is to go beyond detection and try to recover the prompt

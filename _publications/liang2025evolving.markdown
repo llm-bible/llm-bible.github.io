@@ -8,7 +8,7 @@ bibkey: liang2025evolving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16922"}
   - {name: "Code", url: "https://github.com/SYSUSELab/RustEvo"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large Language Models (LLMs) have become pivotal tools for automating code
 generation in software development. However, these models face significant

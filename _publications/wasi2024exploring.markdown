@@ -7,7 +7,7 @@ year: 2024
 bibkey: wasi2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02885"}
-tags: ['Responsible AI', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias']
+tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning']
 ---
 Integrating cognitive ergonomics with LLMs is crucial for improving safety,
 reliability, and user satisfaction in human-AI interactions. Current LLM

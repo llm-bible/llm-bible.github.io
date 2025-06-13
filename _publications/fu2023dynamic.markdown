@@ -7,7 +7,7 @@ year: 2023
 bibkey: fu2023dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14882"}
-tags: ['Multimodal Models', 'Applications', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Multimodal Models', 'Applications']
 ---
 Recent advances in multimodal large language models (LLMs) have shown extreme
 effectiveness in visual question answering (VQA). However, the design nature of

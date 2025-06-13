@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024can
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2403.04260v2"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Distillation', 'GPT', 'RecSys', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'RecSys', 'Prompting', 'Distillation']
 ---
 Large language models (LLMs) open up new horizons for sequential
 recommendations, owing to their remarkable language comprehension and

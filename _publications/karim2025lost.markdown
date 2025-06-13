@@ -8,7 +8,7 @@ bibkey: karim2025lost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18018"}
   - {name: "Code", url: "https://github.com/akarim23131/Lost_in_Cultural_Translation"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code']
 ---
 Large Language Models (LLMs) have significantly advanced various fields,
 particularly coding, mathematical reasoning, and logical problem solving.

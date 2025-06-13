@@ -7,7 +7,7 @@ year: 2024
 bibkey: pang2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10877"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'GPT', 'Ethics and Bias', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Large-Scale Training', 'Scaling Laws']
 ---
 Instruction tuning is critical for adapting large language models (LLMs) to
 downstream tasks, and recent studies have demonstrated that small amounts of

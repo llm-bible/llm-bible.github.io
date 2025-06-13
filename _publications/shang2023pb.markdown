@@ -8,7 +8,7 @@ bibkey: shang2023pb
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00034"}
   - {name: "Code", url: "https://github.com/hahnyuan/BinaryLLM"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Quantization', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Quantization']
 ---
 This paper explores network binarization, a radical form of quantization,
 compressing model weights to a single bit, specifically for Large Language

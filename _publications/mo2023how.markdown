@@ -7,7 +7,7 @@ year: 2023
 bibkey: mo2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09447"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Fairness', 'Tools', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Ethics and Bias', 'Bias Mitigation', 'Security', 'Training Techniques', 'Pretraining Methods', 'Fairness', 'Prompting']
 ---
 The rapid progress in open-source Large Language Models (LLMs) is
 significantly driving AI development forward. However, there is still a limited

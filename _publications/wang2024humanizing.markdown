@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024humanizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19230"}
-tags: ['Agentic', 'Security', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Applications']
+tags: ['Agentic', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Security']
 ---
 The advent of large language models (LLMs) has revolutionized the field of
 text generation, producing outputs that closely mimic human-like writing.

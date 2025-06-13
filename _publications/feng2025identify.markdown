@@ -7,7 +7,7 @@ year: 2025
 bibkey: feng2025identify
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03805"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pruning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models have revolutionized natural language processing but
 face significant challenges of high storage and runtime costs, due to the

@@ -8,7 +8,7 @@ bibkey: khalifa2023discriminator
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14934"}
   - {name: "Code", url: "https://github.com/mukhal/grace"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 In the context of multi-step reasoning, e.g., with chain-of-thought, language
 models (LMs) can easily assign a high likelihood to incorrect steps. As a

@@ -7,7 +7,7 @@ year: 2025
 bibkey: sheokand2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.05063"}
-tags: ['Security', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs) have achieved remarkable success in code
 generation tasks, powering various applications like code completion,

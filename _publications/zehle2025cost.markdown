@@ -7,7 +7,7 @@ year: 2025
 bibkey: zehle2025cost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16005"}
-tags: ['Security', 'Efficiency and Optimization', 'Few-Shot', 'RAG', 'Prompting']
+tags: ['Efficiency and Optimization', 'RAG', 'Security', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) have revolutionized natural language processing
 by solving a wide range of tasks simply guided by a prompt. Yet their

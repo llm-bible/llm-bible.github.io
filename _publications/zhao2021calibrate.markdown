@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhao2021calibrate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.09690"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 GPT-3 can perform numerous tasks when provided a natural language prompt that
 contains a few training examples. We show that this type of few-shot learning

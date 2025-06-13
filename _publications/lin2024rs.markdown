@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024rs
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01595"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Remote Sensing Image Captioning (RSIC) presents unique challenges and plays a
 critical role in applications. Traditional RSIC methods often struggle to

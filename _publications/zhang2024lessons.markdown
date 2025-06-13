@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024lessons
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12956"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 We present SnakModel, a Danish large language model (LLM) based on Llama2-7B,
 which we continuously pre-train on 13.6B Danish words, and further tune on 3.7M

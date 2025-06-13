@@ -7,7 +7,7 @@ year: 2023
 bibkey: dou2023alleviate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09979"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Supervised fine-tuning (SFT) is a crucial step for large language models
 (LLMs), enabling them to align with human instructions and enhance their

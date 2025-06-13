@@ -7,7 +7,7 @@ year: 2017
 bibkey: zhou2017generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1711.04090"}
-tags: ['Agentic', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'RAG', 'Agentic', 'Reinforcement Learning']
 ---
 Generating emotional language is a key step towards building empathetic
 natural language processing agents. However, a major challenge for this line of

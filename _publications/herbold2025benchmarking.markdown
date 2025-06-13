@@ -7,7 +7,7 @@ year: 2025
 bibkey: herbold2025benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08312"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Sorting is a tedious but simple task for human intelligence and can be solved
 fairly easily algorithmically. However, for Large Language Models (LLMs) this

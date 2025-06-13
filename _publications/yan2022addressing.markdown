@@ -8,7 +8,7 @@ bibkey: yan2022addressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.11790"}
   - {name: "Code", url: "https://github.com/hanqi-qi/tokenUni.git"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Token uniformity is commonly observed in transformer-based models, in which
 different tokens share a large proportion of similar information after going

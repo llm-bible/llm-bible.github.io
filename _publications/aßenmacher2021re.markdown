@@ -7,7 +7,7 @@ year: 2021
 bibkey: aßenmacher2021re
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.12330"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 The lack of a commonly used benchmark data set (collection) such as
 (Super-)GLUE (Wang et al., 2018, 2019) for the evaluation of non-English

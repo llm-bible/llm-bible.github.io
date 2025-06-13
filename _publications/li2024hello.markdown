@@ -8,7 +8,7 @@ bibkey: li2024hello
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05925"}
   - {name: "Code", url: "https://github.com/leolee99/LD-Agent"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Tools', 'Agentic', 'Applications', 'Reinforcement Learning', 'Has Code']
 ---
 Open-domain dialogue systems have seen remarkable advancements with the
 development of large language models (LLMs). Nonetheless, most existing

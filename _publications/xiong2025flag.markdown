@@ -7,7 +7,7 @@ year: 2025
 bibkey: xiong2025flag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11433"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large language models (LLMs) fine-tuned on multimodal financial data have
 demonstrated impressive reasoning capabilities in various financial tasks.

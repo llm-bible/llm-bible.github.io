@@ -7,7 +7,7 @@ year: 2025
 bibkey: vishwanath2025medical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01201"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have the potential to transform medicine, but
 real-world clinical scenarios contain extraneous information that can hinder

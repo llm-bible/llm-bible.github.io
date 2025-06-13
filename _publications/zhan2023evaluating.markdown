@@ -8,7 +8,7 @@ bibkey: zhan2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14389"}
   - {name: "Code", url: "https://github.com/honglizhan/CovidET-Appraisals-Public"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 The emotions we experience involve complex processes; besides physiological
 aspects, research in psychology has studied cognitive appraisals where people

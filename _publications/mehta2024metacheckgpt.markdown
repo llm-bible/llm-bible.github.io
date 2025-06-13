@@ -7,7 +7,7 @@ year: 2024
 bibkey: mehta2024metacheckgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06948"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Hallucinations in large language models (LLMs) have recently become a
 significant problem. A recent effort in this direction is a shared task at

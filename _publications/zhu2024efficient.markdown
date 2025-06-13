@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05775"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'RAG', 'Pretraining Methods', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Vision-language models have showcased impressive zero-shot classification
 capabilities when equipped with suitable text prompts. Previous studies have

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024divide
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12207"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent studies show LLMs struggle with complex instructions involving
 multiple constraints (e.g., length, format, sentiment). Existing works address

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yadlowsky2023pretraining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00871"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Transformer models, notably large language models (LLMs), have the remarkable
 ability to perform in-context learning (ICL) -- to perform new tasks when

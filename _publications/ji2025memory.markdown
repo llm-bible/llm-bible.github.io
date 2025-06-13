@@ -7,7 +7,7 @@ year: 2025
 bibkey: ji2025memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23095"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 Multi-hop question answering (QA) requires models to retrieve and reason over
 multiple pieces of evidence. While Retrieval-Augmented Generation (RAG) has

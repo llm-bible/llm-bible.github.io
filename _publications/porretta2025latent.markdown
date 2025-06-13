@@ -7,7 +7,7 @@ year: 2025
 bibkey: porretta2025latent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06302"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Token prediction stability remains a challenge in autoregressive generative
 models, where minor variations in early inference steps often lead to

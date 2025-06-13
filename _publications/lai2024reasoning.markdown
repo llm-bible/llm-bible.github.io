@@ -7,7 +7,7 @@ year: 2024
 bibkey: lai2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02340"}
-tags: ['Prompting', 'Applications', 'In-Context Learning', 'Tools']
+tags: ['In-Context Learning', 'Tools', 'Prompting', 'Applications']
 ---
 With an increasing social demand for fine-grained sentiment analysis (SA),
 implicit sentiment analysis (ISA) poses a significant challenge with the

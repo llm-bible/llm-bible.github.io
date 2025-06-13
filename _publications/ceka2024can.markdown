@@ -7,7 +7,7 @@ year: 2024
 bibkey: ceka2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12039"}
-tags: ['Prompting', 'Security', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Security', 'Tools', 'Prompting']
 ---
 Despite their remarkable success, large language models (LLMs) have shown
 limited ability on applied tasks such as vulnerability detection. We

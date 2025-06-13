@@ -7,7 +7,7 @@ year: 2025
 bibkey: ahmed2025zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01485"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Linear Programming (LP) problems aim to find the optimal solution to an
 objective under constraints. These problems typically require domain knowledge,

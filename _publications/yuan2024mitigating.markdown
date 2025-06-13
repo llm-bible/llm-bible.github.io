@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuan2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.20429"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) have shown remarkable performance on
 many visual-language tasks. However, these models still suffer from multimodal

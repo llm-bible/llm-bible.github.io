@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024more
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17830"}
-tags: ['Training Techniques', 'Fine-Tuning', 'Attention Mechanism', 'Model Architecture']
+tags: ['Fine-Tuning', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
 ---
 The performance on general tasks decreases after Large Language Models (LLMs)
 are fine-tuned on domain-specific tasks, the phenomenon is known as

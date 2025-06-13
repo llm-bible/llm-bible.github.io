@@ -7,7 +7,7 @@ year: 2024
 bibkey: yoo2024code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02460"}
-tags: ['Responsible AI', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pre-Training']
+tags: ['Responsible AI', 'Pre-Training', 'Tools', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) now exhibit near human-level performance in
 various tasks, but their performance drops drastically after a handful of

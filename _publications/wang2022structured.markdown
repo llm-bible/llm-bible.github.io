@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.12652"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 Abstractive dialogue summarization has long been viewed as an important
 standalone task in natural language processing, but no previous work has

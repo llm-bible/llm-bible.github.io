@@ -8,7 +8,7 @@ bibkey: xu2022learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.09305"}
   - {name: "Code", url: "https://github.com/xu1998hz/SEScore2"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Has Code']
+tags: ['Applications', 'Training Techniques', 'Has Code', 'Language Modeling']
 ---
 Is it possible to train a general metric for evaluating text generation
 quality without human annotated ratings? Existing learned metrics either

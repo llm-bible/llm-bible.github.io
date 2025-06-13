@@ -7,7 +7,7 @@ year: 2024
 bibkey: abrahamyan2024stackrag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13840"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Developers spend much time finding information that is relevant to their
 questions. Stack Overflow has been the leading resource, and with the advent of

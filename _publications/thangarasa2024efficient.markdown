@@ -7,7 +7,7 @@ year: 2024
 bibkey: thangarasa2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00952"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) are typically trained on general source data for
 various domains, but a recent surge in domain-specific LLMs has shown their

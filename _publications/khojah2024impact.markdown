@@ -7,7 +7,7 @@ year: 2024
 bibkey: khojah2024impact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.20545"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLMs) are increasingly used by software engineers for
 code generation. However, limitations of LLMs such as irrelevant or incorrect

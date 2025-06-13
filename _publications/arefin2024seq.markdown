@@ -7,7 +7,7 @@ year: 2024
 bibkey: arefin2024seq
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02344"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 Decoder-only Transformers often struggle with complex reasoning tasks,
 particularly arithmetic reasoning requiring multiple sequential operations. In

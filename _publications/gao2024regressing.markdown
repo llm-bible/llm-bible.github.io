@@ -8,7 +8,7 @@ bibkey: gao2024regressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04612"}
   - {name: "Code", url: "https://github.com/ZhaolinGao/REFUEL/,"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large Language Models (LLMs) have achieved remarkable success at tasks like
 summarization that involve a single turn of interaction. However, they can

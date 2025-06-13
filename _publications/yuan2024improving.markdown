@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuan2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13331"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 In the Retrieval-Augmented Generation (RAG) system, advanced Large Language
 Models (LLMs) have emerged as effective Query Likelihood Models (QLMs) in an

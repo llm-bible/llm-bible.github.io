@@ -8,7 +8,7 @@ bibkey: zhang2025nexus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.21356"}
   - {name: "Code", url: "https://github.com/modelscope/Nexus-Gen.git"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'GPT', 'Pretraining Methods', 'Has Code']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Unified multimodal large language models (MLLMs) aim to integrate multimodal
 understanding and generation abilities through a single framework. Despite

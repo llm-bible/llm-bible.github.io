@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19227"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'In-Context Learning', 'Distillation', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'In-Context Learning', 'Prompting', 'Distillation']
 ---
 Large Language Models (LLMs) have shown significant promise as copilots in
 various tasks. Local deployment of LLMs on edge devices is necessary when

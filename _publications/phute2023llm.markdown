@@ -8,7 +8,7 @@ bibkey: phute2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07308"}
   - {name: "Code", url: "https://github.com/poloclub/llm-self-defense"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) are popular for high-quality text generation but
 can produce harmful content, even when aligned with human values through

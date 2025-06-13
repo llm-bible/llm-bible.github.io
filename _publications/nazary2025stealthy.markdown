@@ -7,7 +7,7 @@ year: 2025
 bibkey: nazary2025stealthy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.05196"}
-tags: ['RecSys', 'Security', 'RAG']
+tags: ['RAG', 'RecSys', 'Security']
 ---
 We present a systematic study of provider-side data poisoning in
 retrieval-augmented recommender systems (RAG-based). By modifying only a small

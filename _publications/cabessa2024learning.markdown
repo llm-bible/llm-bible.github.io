@@ -7,7 +7,7 @@ year: 2024
 bibkey: cabessa2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06699"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have become ubiquitous in NLP and deep learning.
 In-Context Learning (ICL) has been suggested as a bridging paradigm between the

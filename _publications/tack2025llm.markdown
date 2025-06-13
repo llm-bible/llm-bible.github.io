@@ -7,7 +7,7 @@ year: 2025
 bibkey: tack2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08524"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Distillation', 'Pretraining Methods', 'Interpretability and Explainability']
+tags: ['Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Next token prediction has been the standard training objective used in large
 language model pretraining. Representations are learned as a result of

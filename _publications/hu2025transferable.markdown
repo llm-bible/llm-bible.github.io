@@ -7,7 +7,7 @@ year: 2025
 bibkey: hu2025transferable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04360"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Tools', 'RAG', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Security', 'Prompting']
 ---
 Retrieval-Augmented Generation (RAG) offers a solution to mitigate
 hallucinations in Large Language Models (LLMs) by grounding their outputs to

@@ -7,7 +7,7 @@ year: 2024
 bibkey: du2024internal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12979"}
-tags: ['Prompting', 'Applications', 'Survey Paper', 'Tools']
+tags: ['Tools', 'Survey Paper', 'Prompting', 'Applications']
 ---
 Recent works have attempted to integrate external knowledge into LLMs to
 address the limitations and potential factual errors in LLM-generated content.

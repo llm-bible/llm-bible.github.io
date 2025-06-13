@@ -7,7 +7,7 @@ year: 2025
 bibkey: jahrens2025why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09211"}
-tags: ['Language Modeling', 'Training Techniques', 'Model Architecture']
+tags: ['Training Techniques', 'Language Modeling', 'Model Architecture']
 ---
 This paper elucidates that current state-of-the-art Large Language Models
 (LLMs) are fundamentally incapable of making decisions or developing "thoughts"

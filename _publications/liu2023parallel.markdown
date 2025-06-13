@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023parallel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.10707"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Interpretability and Explainability']
+tags: ['GPT', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In order to reveal the rationale behind model predictions, many works have
 exploited providing explanations in various forms. Recently, to further

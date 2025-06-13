@@ -7,7 +7,7 @@ year: 2025
 bibkey: yoshida2025do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01035"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 This study investigates the necessity and impact of a detailed rubric in
 automated essay scoring (AES) using large language models (LLMs). While using

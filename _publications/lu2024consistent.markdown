@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024consistent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18401"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 Large-scale text-guided image diffusion models have shown astonishing results
 in text-to-image (T2I) generation. However, applying these models to synthesize

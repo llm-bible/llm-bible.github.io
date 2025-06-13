@@ -7,7 +7,7 @@ year: 2025
 bibkey: shervedani2025from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01007"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 Recent advances in large language models (LLMs) have demonstrated their
 potential as planners in human-robot collaboration (HRC) scenarios, offering a

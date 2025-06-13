@@ -7,7 +7,7 @@ year: 2023
 bibkey: tao2023rolecraft
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09432"}
-tags: ['Language Modeling', 'Tools']
+tags: ['Tools', 'Language Modeling']
 ---
 This study presents RoleCraft-GLM, an innovative framework aimed at enhancing
 personalized role-playing with Large Language Models (LLMs). RoleCraft-GLM

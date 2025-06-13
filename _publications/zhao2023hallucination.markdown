@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023hallucination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15319"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 We investigate the problem of generating instructions to guide humans to
 navigate in simulated residential environments. A major issue with current

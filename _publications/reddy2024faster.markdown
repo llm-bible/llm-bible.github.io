@@ -7,7 +7,7 @@ year: 2024
 bibkey: reddy2024faster
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15657"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Distillation', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
 ---
 Large Language Models (LLMs) have significantly advanced the field of
 information retrieval, particularly for reranking. Listwise LLM rerankers have

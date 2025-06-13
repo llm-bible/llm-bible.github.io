@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024your
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10193"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are typically trained in two phases:
 pre-training on large internet-scale datasets, and fine-tuning for downstream

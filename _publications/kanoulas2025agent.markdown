@@ -7,7 +7,7 @@ year: 2025
 bibkey: kanoulas2025agent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19298"}
-tags: ['Agentic', 'Security', 'RAG', 'Tools']
+tags: ['RAG', 'Agentic', 'Security', 'Tools']
 ---
 As large language models (LLMs) become more specialized, we envision a future
 where millions of expert LLMs exist, each trained on proprietary data and

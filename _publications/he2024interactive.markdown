@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03843"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Few-Shot', 'Reinforcement Learning', 'Prompting']
+tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 Large language models (LLMs) have exhibited impressive abilities for
 multimodal content comprehension and reasoning with proper prompting in zero-

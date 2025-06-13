@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiang2025probe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04043"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
 ---
 Language models (LMs) can produce texts that appear accurate and coherent but
 contain untruthful or toxic content. Inference-time interventions that edit the

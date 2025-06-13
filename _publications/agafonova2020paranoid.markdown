@@ -7,7 +7,7 @@ year: 2020
 bibkey: agafonova2020paranoid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.06290"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
 ---
 This papers revisits the receptive theory in context of computational
 creativity. It presents a case study of a Paranoid Transformer - a fully

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhao2025open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00865"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have revolutionized natural language processing
 (NLP), yet open-source multilingual LLMs remain scarce, with existing models

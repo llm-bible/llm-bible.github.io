@@ -7,7 +7,7 @@ year: 2023
 bibkey: xiang2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10626"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 While large language models (LMs) have shown remarkable capabilities across
 numerous tasks, they often struggle with simple reasoning and planning in

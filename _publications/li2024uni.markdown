@@ -8,7 +8,7 @@ bibkey: li2024uni
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11273"}
   - {name: "Code", url: "https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Recent advancements in Multimodal Large Language Models (MLLMs) underscore
 the significance of scalable models and data to boost performance, yet this

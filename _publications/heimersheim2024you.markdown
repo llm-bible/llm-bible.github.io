@@ -8,7 +8,7 @@ bibkey: heimersheim2024you
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13710"}
   - {name: "Code", url: "https://github.com/ApolloResearch/gpt2_noLN,"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The LayerNorm (LN) layer in GPT-style transformer models has long been a
 hindrance to mechanistic interpretability. LN is a crucial component required

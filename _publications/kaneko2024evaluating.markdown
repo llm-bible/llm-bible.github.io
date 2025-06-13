@@ -7,7 +7,7 @@ year: 2024
 bibkey: kaneko2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15585"}
-tags: ['Prompting', 'Ethics and Bias', 'RAG']
+tags: ['RAG', 'Prompting', 'Ethics and Bias']
 ---
 There exist both scalable tasks, like reading comprehension and
 fact-checking, where model performance improves with model size, and unscalable

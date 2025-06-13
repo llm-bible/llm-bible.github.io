@@ -7,7 +7,7 @@ year: 2025
 bibkey: ishay2025bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00830"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
 ---
 Large Language Models (LLMs) have made significant strides in various
 intelligent tasks but still struggle with complex action reasoning tasks that

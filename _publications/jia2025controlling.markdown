@@ -7,7 +7,7 @@ year: 2025
 bibkey: jia2025controlling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21383"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Adapting Large Language Models (LLMs) to downstream tasks using Reinforcement
 Learning (RL) has proven to be an effective approach. However, LLMs do not

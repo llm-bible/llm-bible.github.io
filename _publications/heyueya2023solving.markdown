@@ -8,7 +8,7 @@ bibkey: heyueya2023solving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09102"}
   - {name: "Code", url: "https://github.com/joyheyueya/declarative-math-word-problem"}
-tags: ['Tools', 'Ethics and Bias', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Has Code', 'Prompting']
 ---
 Automatically generating high-quality step-by-step solutions to math word
 problems has many applications in education. Recently, combining large language

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024loss
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02688"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Pre-trained Large Language Models (LLMs) require post-training methods such
 as supervised fine-tuning (SFT) on instruction-response pairs to enable

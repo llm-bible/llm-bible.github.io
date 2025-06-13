@@ -7,7 +7,7 @@ year: 2023
 bibkey: salehi2023integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13278"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Quality-Diversity is a branch of stochastic optimization that is often
 applied to problems from the Reinforcement Learning and control domains in

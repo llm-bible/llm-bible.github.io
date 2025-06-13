@@ -8,7 +8,7 @@ bibkey: ma2025teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12853"}
   - {name: "Code", url: "https://github.com/NineAbyss/S2R"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Recent studies have demonstrated the effectiveness of LLM test-time scaling.
 However, existing approaches to incentivize LLMs' deep thinking abilities

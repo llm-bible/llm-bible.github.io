@@ -7,7 +7,7 @@ year: 2024
 bibkey: kahl2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04645"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 This study evaluates the performance of Large Language Models (LLMs) as an
 Artificial Intelligence-based tutor for a university course. In particular,

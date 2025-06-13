@@ -7,7 +7,7 @@ year: 2020
 bibkey: bukhtiyarov2020advances
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.05044"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Pretrained language models based on Transformer architecture are the reason
 for recent breakthroughs in many areas of NLP, including sentiment analysis,

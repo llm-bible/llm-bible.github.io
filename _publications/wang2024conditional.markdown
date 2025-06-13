@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024conditional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16136"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 We introduce C3LLM (Conditioned-on-Three-Modalities Large Language Models), a
 novel framework combining three tasks of video-to-audio, audio-to-text, and

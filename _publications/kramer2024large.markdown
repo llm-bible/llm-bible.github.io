@@ -7,7 +7,7 @@ year: 2024
 bibkey: kramer2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10999"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) exhibit world knowledge and inference
 capabilities, making them powerful tools for various applications. This paper

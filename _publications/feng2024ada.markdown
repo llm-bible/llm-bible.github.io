@@ -7,7 +7,7 @@ year: 2024
 bibkey: feng2024ada
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11550"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
 ---
 Large Language Models have excelled in various domains but face efficiency
 challenges due to the growing Key-Value (KV) cache required for long-sequence

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yue2023two
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2311.02089v1"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recently, large language models (LLMs) have exhibited significant progress in
 language understanding and generation. By leveraging textual features,

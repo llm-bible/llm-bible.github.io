@@ -7,7 +7,7 @@ year: 2024
 bibkey: borazjanizadeh2024navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12172"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'In-Context Learning']
+tags: ['GPT', 'Prompting', 'In-Context Learning', 'Model Architecture']
 ---
 Recently, Large Language Models (LLMs) attained impressive performance in
 math and reasoning benchmarks. However, they still often struggle with logic

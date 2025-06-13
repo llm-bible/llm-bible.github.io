@@ -7,7 +7,7 @@ year: 2024
 bibkey: lai2024executing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07896"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 a wide range of natural language processing and reasoning tasks. However, their

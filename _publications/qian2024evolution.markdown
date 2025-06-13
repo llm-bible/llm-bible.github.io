@@ -7,7 +7,7 @@ year: 2024
 bibkey: qian2024evolution
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16089"}
-tags: ['Merging', 'Survey Paper', 'Reinforcement Learning']
+tags: ['Survey Paper', 'Merging', 'Reinforcement Learning']
 ---
 As large language models (LLMs) grow increasingly adept at processing
 unstructured text data, they offer new opportunities to enhance data curation

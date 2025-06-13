@@ -8,7 +8,7 @@ bibkey: zhao2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14818"}
   - {name: "Code", url: "https://huggingface.co/OpenDFM/ChemDFM-v1.0-13B)"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'GPT', 'Has Code']
+tags: ['GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Artificial intelligence (AI) has played an increasingly important role in
 chemical research. However, most models currently used in chemistry are

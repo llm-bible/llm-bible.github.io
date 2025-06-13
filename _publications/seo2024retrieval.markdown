@@ -7,7 +7,7 @@ year: 2024
 bibkey: seo2024retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13482"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Tools']
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Tools']
 ---
 Despite large successes of recent language models on diverse tasks, they
 suffer from severe performance degeneration in low-resource settings with

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhong2024sniff
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06950"}
-tags: ['Ethics and Bias', 'Multimodal Models', 'Reinforcement Learning']
+tags: ['Multimodal Models', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Aligning AI with human intent is important, yet perceptual alignment-how AI
 interprets what we see, hear, or smell-remains underexplored. This work focuses

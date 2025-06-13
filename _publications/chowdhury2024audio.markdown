@@ -7,7 +7,7 @@ year: 2024
 bibkey: chowdhury2024audio
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01851"}
-tags: ['RAG', 'Model Architecture', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Model Architecture']
 ---
 Leveraging Large Language Models' remarkable proficiency in text-based tasks,
 recent works on Multi-modal LLMs (MLLMs) extend them to other modalities like

@@ -8,7 +8,7 @@ bibkey: yuan2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02936"}
   - {name: "Code", url: "https://github.com/ZIKEYUAN/GraCoRe"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 Evaluating the graph comprehension and reasoning abilities of Large Language
 Models (LLMs) is challenging and often incomplete. Existing benchmarks focus

@@ -7,7 +7,7 @@ year: 2023
 bibkey: pan2023data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.02248"}
-tags: ['Model Architecture', 'RAG', 'Merging', 'GPT', 'Ethics and Bias', 'Fine-Tuning', 'Prompting', 'In-Context Learning', 'INTERSPEECH']
+tags: ['Fine-Tuning', 'INTERSPEECH', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Merging', 'Prompting', 'In-Context Learning']
 ---
 We present a cost-effective method to integrate speech into a large language
 model (LLM), resulting in a Contextual Speech Model with

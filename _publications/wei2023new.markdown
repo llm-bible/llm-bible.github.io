@@ -7,7 +7,7 @@ year: 2023
 bibkey: wei2023new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05157"}
-tags: ['Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Large language models (LLMs) have shown nearly saturated performance on many
 natural language processing (NLP) tasks. As a result, it is natural for people

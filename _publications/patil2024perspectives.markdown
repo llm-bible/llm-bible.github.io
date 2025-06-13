@@ -8,7 +8,7 @@ bibkey: patil2024perspectives
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06921"}
   - {name: "Code", url: "https://github.com/ShishirPatil/gorilla/"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Tools', 'Agentic', 'Applications', 'Reinforcement Learning', 'Has Code']
 ---
 Large Language Models (LLMs) are evolving beyond their classical role of
 providing information within dialogue systems to actively engaging with tools

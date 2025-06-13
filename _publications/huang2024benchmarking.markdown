@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12753"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The evolution of Artificial Intelligence (AI) has been significantly
 accelerated by advancements in Large Language Models (LLMs) and Large

@@ -7,7 +7,7 @@ year: 2024
 bibkey: singh2024measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02653"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'RAG', 'Tools', 'Reinforcement Learning']
 ---
 LLMs are increasingly being used in workflows involving generating content to
 be consumed by humans (e.g., marketing) and also in directly interacting with

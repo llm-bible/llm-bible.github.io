@@ -8,7 +8,7 @@ bibkey: zhang2024dlp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01497"}
   - {name: "Code", url: "https://github.com/MeCuping/DLP-LoRA"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Recent advancements in Large Language Models (LLMs) have achieved robust
 performance across diverse tasks, but fine-tuning these models for specific

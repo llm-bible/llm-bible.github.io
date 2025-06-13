@@ -7,7 +7,7 @@ year: 2022
 bibkey: gowda2022checks
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.05096"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism']
 ---
 Code-switching is a common phenomenon among multilingual speakers, where
 alternation between two or more languages occurs within the context of a single

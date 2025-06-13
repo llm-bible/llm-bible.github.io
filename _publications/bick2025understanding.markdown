@@ -7,7 +7,7 @@ year: 2025
 bibkey: bick2025understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18574"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 SSMs offer efficient processing of long sequences with fixed state sizes, but
 struggle with algorithmic tasks like retrieving past context. In this work, we

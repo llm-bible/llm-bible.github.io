@@ -7,7 +7,7 @@ year: 2025
 bibkey: shaki2025understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.10408"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Ethics and Bias', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 We study the capabilities of Large Language Models (LLM) on binary relations,
 a ubiquitous concept in math employed in most reasoning, math and logic

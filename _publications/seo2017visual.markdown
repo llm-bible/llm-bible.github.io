@@ -7,7 +7,7 @@ year: 2017
 bibkey: seo2017visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1709.07992"}
-tags: ['Applications', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Applications']
 ---
 Visual dialog is a task of answering a series of inter-dependent questions
 given an input image, and often requires to resolve visual references among the

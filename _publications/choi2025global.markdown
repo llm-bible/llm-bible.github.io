@@ -7,7 +7,7 @@ year: 2025
 bibkey: choi2025global
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17782"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision-language models like CLIP have shown impressive capabilities in
 aligning images and text, but they often struggle with lengthy and detailed

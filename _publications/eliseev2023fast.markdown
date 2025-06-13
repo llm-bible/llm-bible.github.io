@@ -7,7 +7,7 @@ year: 2023
 bibkey: eliseev2023fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17238"}
-tags: ['Quantization', 'Efficiency and Optimization', 'Model Architecture']
+tags: ['Efficiency and Optimization', 'Quantization', 'Model Architecture']
 ---
 With the widespread adoption of Large Language Models (LLMs), many deep
 learning practitioners are looking for strategies of running these models more

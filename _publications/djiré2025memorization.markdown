@@ -7,7 +7,7 @@ year: 2025
 bibkey: djiré2025memorization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03019"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 While Large Language Models (LLMs) achieve remarkable performance through
 training on massive datasets, they can exhibit concerning behaviors such as

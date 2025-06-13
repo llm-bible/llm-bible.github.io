@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023ecomgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15696"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) pre-trained on massive corpora have exhibited
 remarkable performance on various NLP tasks. However, applying these models to

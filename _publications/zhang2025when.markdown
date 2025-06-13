@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02010"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'Distillation', 'GPT', 'Pruning', 'Quantization']
+tags: ['Efficiency and Optimization', 'GPT', 'Language Modeling', 'Pruning', 'Model Architecture', 'Quantization', 'Distillation']
 ---
 Recent open-source large reasoning models (LRMs) exhibit strong performance
 on complex reasoning tasks, but their large parameter count makes them

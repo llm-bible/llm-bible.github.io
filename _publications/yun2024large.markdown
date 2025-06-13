@@ -8,7 +8,7 @@ bibkey: yun2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.20098"}
   - {name: "Code", url: "https://github.com/MBZUAI-LLM/web2code"}
-tags: ['RAG', 'Has Code', 'Tools', 'Multimodal Models']
+tags: ['RAG', 'Tools', 'Multimodal Models', 'Has Code']
 ---
 Multimodal large language models (MLLMs) have shown impressive success across
 modalities such as image, video, and audio in a variety of understanding and

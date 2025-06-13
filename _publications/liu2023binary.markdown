@@ -8,7 +8,7 @@ bibkey: liu2023binary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.01841"}
   - {name: "Code", url: "https://github.com/facebookresearch/Ternary_Binary_Transformer"}
-tags: ['WMT', 'Model Architecture', 'Efficiency and Optimization', 'Language Modeling', 'GPT', 'Quantization', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Language Modeling', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Quantization']
 ---
 Ternary and binary neural networks enable multiplication-free computation and
 promise multiple orders of magnitude efficiency gains over full-precision

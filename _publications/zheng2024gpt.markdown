@@ -8,7 +8,7 @@ bibkey: zheng2024gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.01614"}
   - {name: "Code", url: "https://github.com/OSU-NLP-Group/SeeAct"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code', 'ACL', 'Prompting', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'ACL', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 The recent development on large multimodal models (LMMs), especially
 GPT-4V(ision) and Gemini, has been quickly expanding the capability boundaries

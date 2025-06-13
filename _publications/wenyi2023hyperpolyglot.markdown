@@ -7,7 +7,7 @@ year: 2023
 bibkey: wenyi2023hyperpolyglot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.18034"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'BERT', 'Fine-Tuning', 'Interpretability and Explainability', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
 ---
 Cross-lingual transfer learning is an important property of multilingual
 large language models (LLMs). But how do LLMs represent relationships between

@@ -7,7 +7,7 @@ year: 2024
 bibkey: shibli2024abuse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09728"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 SMS phishing, also known as "smishing", is a growing threat that tricks users
 into disclosing private information or clicking into URLs with malicious

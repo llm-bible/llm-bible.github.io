@@ -7,7 +7,7 @@ year: 2025
 bibkey: estermann2025reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.15113"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications']
+tags: ['Applications', 'Training Techniques', 'Language Modeling']
 ---
 Large Language Models (LLMs) have demonstrated remarkable text generation
 capabilities, and recent advances in training paradigms have led to

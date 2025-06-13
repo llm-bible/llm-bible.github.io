@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15956"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Ethics and Bias', 'Model Architecture']
 ---
 Current Large Language Models (LLMs) are predominantly designed with English
 as the primary language, and even the few that are multilingual tend to exhibit

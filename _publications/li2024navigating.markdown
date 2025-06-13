@@ -8,7 +8,7 @@ bibkey: li2024navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10464"}
   - {name: "Code", url: "https://github.com/LizLizLi/DeStein"}
-tags: ['Merging', 'Has Code']
+tags: ['Has Code', 'Merging']
 ---
 Despite the remarkable achievements of language models (LMs) across a broad
 spectrum of tasks, their propensity for generating toxic outputs remains a

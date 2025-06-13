@@ -7,7 +7,7 @@ year: 2023
 bibkey: bebensee2023span
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.09340"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In schema-guided dialogue state tracking models estimate the current state of
 a conversation using natural language descriptions of the service schema for

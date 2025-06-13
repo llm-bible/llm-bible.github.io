@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024diversifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13785"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 Alignment of large language models (LLMs) involves training models on
 preference-contrastive output pairs to adjust their responses according to

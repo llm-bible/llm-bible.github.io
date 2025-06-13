@@ -7,7 +7,7 @@ year: 2024
 bibkey: rizvi2024simulating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09728"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformers are ubiquitous models in the natural language processing (NLP)
 community and have shown impressive empirical successes in the past few years.

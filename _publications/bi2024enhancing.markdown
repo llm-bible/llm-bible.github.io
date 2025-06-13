@@ -7,7 +7,7 @@ year: 2024
 bibkey: bi2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09906"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated remarkable performance across
 a wide range of tasks. Advances in prompt engineering and fine-tuning

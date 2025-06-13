@@ -7,7 +7,7 @@ year: 2023
 bibkey: yan2023refining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.04039"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Prompting']
 ---
 In this paper, we propose a simple yet efficient approach based on prompt
 engineering that leverages the large language model itself to optimize its

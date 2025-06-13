@@ -7,7 +7,7 @@ year: 2025
 bibkey: yuan2025native
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11089"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Long-context modeling is crucial for next-generation language models, yet the
 high computational cost of standard attention mechanisms poses significant

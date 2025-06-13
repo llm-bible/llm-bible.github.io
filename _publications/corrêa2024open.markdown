@@ -8,7 +8,7 @@ bibkey: corrêa2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16640"}
   - {name: "Code", url: "https://github.com/Nkluge-correa/TeenyTinyLlama"}
-tags: ['Language Modeling', 'Applications', 'Has Code']
+tags: ['Applications', 'Has Code', 'Language Modeling']
 ---
 Large language models (LLMs) have significantly advanced natural language
 processing, but their progress has yet to be equal across languages. While most

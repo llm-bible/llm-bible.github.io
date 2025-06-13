@@ -7,7 +7,7 @@ year: 2024
 bibkey: rangel2024sparql
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.04627"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'TACL', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'ACL', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods']
 ---
 The recent success of Large Language Models (LLM) in a wide range of Natural
 Language Processing applications opens the path towards novel Question

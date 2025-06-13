@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023flm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.03852"}
-tags: ['Multimodal Models', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'Pre-Training', 'Multimodal Models']
 ---
 Large language models (LLMs) are considered important approaches towards
 foundational machine intelligence, achieving remarkable success in Natural

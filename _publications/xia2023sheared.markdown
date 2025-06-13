@@ -7,7 +7,7 @@ year: 2023
 bibkey: xia2023sheared
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06694"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pruning', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Training Techniques']
 ---
 The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged
 moderate-sized large language models (LLMs) highlights the potential of

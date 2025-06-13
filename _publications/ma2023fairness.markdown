@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023fairness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.13217"}
-tags: ['Training Techniques', 'Fairness', 'Few-Shot', 'Model Architecture', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Fairness', 'Prompting', 'In-Context Learning']
 ---
 Large language models have demonstrated surprising ability to perform
 in-context learning, i.e., these models can be directly applied to solve

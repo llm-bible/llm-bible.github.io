@@ -7,7 +7,7 @@ year: 2018
 bibkey: schuster2018cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1810.13327"}
-tags: ['Training Techniques', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Applications']
 ---
 One of the first steps in the utterance interpretation pipeline of many
 task-oriented conversational AI systems is to identify user intents and the

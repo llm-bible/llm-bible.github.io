@@ -8,7 +8,7 @@ bibkey: lin2024delving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18808"}
   - {name: "Code", url: "https://github.com/alibaba/thinking_bias.git"}
-tags: ['Ethics and Bias', 'Training Techniques', 'Has Code']
+tags: ['Training Techniques', 'Has Code', 'Ethics and Bias']
 ---
 While large language models (LLMs) showcase unprecedented capabilities, they
 also exhibit certain inherent limitations when facing seemingly trivial tasks.

@@ -7,7 +7,7 @@ year: 2025
 bibkey: fu2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01702"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Prompting']
 ---
 Large Language Model (LLM) based agents have proved their ability to perform
 complex tasks like humans. However, there is still a large gap between

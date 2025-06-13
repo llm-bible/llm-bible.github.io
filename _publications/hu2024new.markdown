@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09072"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models in the past have typically relied on some form of
 reinforcement learning with human feedback (RLHF) to better align model

@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheong2024am
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01864"}
-tags: ['Survey Paper', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are increasingly capable of providing users with
 advice in a wide range of professional domains, including legal advice.

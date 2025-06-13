@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024inducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17934"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Adapting pretrained large language models (LLMs) to various downstream tasks
 in tens or hundreds of human languages is computationally expensive.

@@ -7,7 +7,7 @@ year: 2021
 bibkey: martins2021infinite
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.00301"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers are unable to model long-term memories effectively, since the
 amount of computation they need to perform grows with the context length. While

@@ -7,7 +7,7 @@ year: 2023
 bibkey: nikpour2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07800"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Tools', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Few-Shot']
 ---
 Attention mechanisms have demonstrated significant potential in enhancing
 learning models by identifying key portions of input data, particularly in

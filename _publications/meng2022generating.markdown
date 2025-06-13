@@ -7,7 +7,7 @@ year: 2022
 bibkey: meng2022generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.04538"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
 ---
 Pretrained language models (PLMs) have demonstrated remarkable performance in
 various natural language processing tasks: Unidirectional PLMs (e.g., GPT) are

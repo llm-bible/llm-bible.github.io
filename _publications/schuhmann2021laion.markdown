@@ -7,7 +7,7 @@ year: 2021
 bibkey: schuhmann2021laion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.02114"}
-tags: ['Multimodal Models', 'Training Techniques', 'Few-Shot']
+tags: ['Few-Shot', 'Training Techniques', 'Multimodal Models']
 ---
 Multi-modal language-vision models trained on hundreds of millions of
 image-text pairs (e.g. CLIP, DALL-E) gained a recent surge, showing remarkable

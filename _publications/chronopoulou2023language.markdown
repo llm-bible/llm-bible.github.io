@@ -7,7 +7,7 @@ year: 2023
 bibkey: chronopoulou2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09344"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Parameter-efficient fine-tuning (PEFT) using labeled task data can
 significantly improve the performance of large language models (LLMs) on the

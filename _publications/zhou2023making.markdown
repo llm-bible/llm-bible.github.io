@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.02105"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Applications', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown great potential as general-purpose AI
 assistants in various domains. To meet the requirements of different

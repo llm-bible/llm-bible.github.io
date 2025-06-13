@@ -7,7 +7,7 @@ year: 2025
 bibkey: lübberstedt2025visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00156"}
-tags: ['Training Techniques', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Vision Language Models (LVLMs) have shown strong capabilities in
 understanding and analyzing visual scenes across various domains. However, in

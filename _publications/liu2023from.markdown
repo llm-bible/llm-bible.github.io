@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.07995"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning language models on tasks with instructions has demonstrated
 potential in facilitating zero-shot generalization to unseen tasks. In this

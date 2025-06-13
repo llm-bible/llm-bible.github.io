@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023janus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15469"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The rapid advancements of large language models (LLMs) have raised public
 concerns about the privacy leakage of personally identifiable information (PII)

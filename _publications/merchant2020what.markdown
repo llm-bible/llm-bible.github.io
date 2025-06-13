@@ -7,7 +7,7 @@ year: 2020
 bibkey: merchant2020what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.14448"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 While there has been much recent work studying how linguistic information is
 encoded in pre-trained sentence representations, comparatively little is

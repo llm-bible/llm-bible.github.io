@@ -7,7 +7,7 @@ year: 2024
 bibkey: gupta2024systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15386"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Long-context large language models (LC LLMs) promise to increase reliability
 of LLMs in real-world tasks requiring processing and understanding of long

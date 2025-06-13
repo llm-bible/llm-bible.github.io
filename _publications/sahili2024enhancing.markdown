@@ -7,7 +7,7 @@ year: 2024
 bibkey: sahili2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09070"}
-tags: ['Multimodal Models', 'Training Techniques', 'Fairness', 'Tools', 'Reinforcement Learning', 'Merging', 'Bias Mitigation', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Merging', 'Fairness', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 In the domain of text-to-image generative models, biases inherent in training
 datasets often propagate into generated content, posing significant ethical

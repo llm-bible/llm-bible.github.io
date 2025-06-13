@@ -7,7 +7,7 @@ year: 2024
 bibkey: trusca2024object
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13766"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Current diffusion models create photorealistic images given a text prompt as
 input but struggle to correctly bind attributes mentioned in the text to the

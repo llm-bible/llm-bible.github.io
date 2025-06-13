@@ -7,7 +7,7 @@ year: 2021
 bibkey: kahardipraja2021towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.07364"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Incremental processing allows interactive systems to respond based on partial
 inputs, which is a desirable property e.g. in dialogue agents. The currently

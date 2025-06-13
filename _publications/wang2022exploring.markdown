@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.04173"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Ethics and Bias', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 Pre-trained language models (LMs) are shown to easily generate toxic
 language. In this work, we systematically explore domain-adaptive training to

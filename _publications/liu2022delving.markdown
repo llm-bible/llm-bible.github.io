@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022delving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.07630"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Visual question answering (VQA) is one of the crucial vision-and-language
 tasks. Yet, existing VQA research has mostly focused on the English language,

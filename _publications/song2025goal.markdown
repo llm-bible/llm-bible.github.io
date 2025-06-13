@@ -7,7 +7,7 @@ year: 2025
 bibkey: song2025goal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06139"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Using Large Language Models (LLMs) to evaluate and compare two answers from
 different models typically involves having LLM-based judges select the better

@@ -7,7 +7,7 @@ year: 2024
 bibkey: siyan2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13764"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Existing English-teaching chatbots rarely incorporate empathy explicitly in
 their feedback, but empathetic feedback could help keep students engaged and

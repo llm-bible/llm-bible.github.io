@@ -8,7 +8,7 @@ bibkey: zhao2024looking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14279"}
   - {name: "Code", url: "https://lacing-lvlm.github.io)"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Large vision-language models (LVLMs) have achieved impressive results in
 various vision-language tasks. However, despite showing promising performance,

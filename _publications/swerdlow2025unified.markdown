@@ -8,7 +8,7 @@ bibkey: swerdlow2025unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20853"}
   - {name: "Code", url: "https://unidisc.github.io"}
-tags: ['Multimodal Models', 'Language Modeling', 'Merging', 'GPT', 'RAG', 'Pretraining Methods', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Language Modeling', 'Merging', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal generative models that can understand and generate across multiple
 modalities are dominated by autoregressive (AR) approaches, which process

@@ -8,7 +8,7 @@ bibkey: sammani2023uni
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.09033"}
   - {name: "Code", url: "https://github.com/fawazsammani/uni-nlx"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Language Modeling', 'RAG', 'Has Code', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Language Modeling', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Natural Language Explanations (NLE) aim at supplementing the prediction of a
 model with human-friendly natural text. Existing NLE approaches involve

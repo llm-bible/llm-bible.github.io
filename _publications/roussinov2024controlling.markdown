@@ -7,7 +7,7 @@ year: 2024
 bibkey: roussinov2024controlling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.20595"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'BERT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This study demonstrates that the modern generation of Large Language Models
 (LLMs, such as GPT-4) suffers from the same out-of-domain (OOD) performance gap

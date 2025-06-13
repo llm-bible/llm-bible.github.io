@@ -7,7 +7,7 @@ year: 2023
 bibkey: song2023dynamics
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19651"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Instruction tuning is a burgeoning method to elicit the general intelligence
 of Large Language Models (LLMs). While numerous studies have examined the

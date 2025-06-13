@@ -8,7 +8,7 @@ bibkey: shi2023transfer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15542"}
   - {name: "Code", url: "https://github.com/bfshi/TOAST"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Transfer learning involves adapting a pre-trained model to novel downstream
 tasks. However, we observe that current transfer learning methods often fail to

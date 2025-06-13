@@ -7,7 +7,7 @@ year: 2024
 bibkey: acharya2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.03542"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 A proliferation of Large Language Models (the GPT series, BLOOM, LLaMA, and
 more) are driving forward novel development of multipurpose AI for a variety of

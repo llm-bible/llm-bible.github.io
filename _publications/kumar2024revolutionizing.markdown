@@ -8,7 +8,7 @@ bibkey: kumar2024revolutionizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16385"}
   - {name: "Code", url: "https://github.com/AiAI-99/katzbot"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Effective communication within universities is crucial for addressing the
 diverse information needs of students, alumni, and external stakeholders.

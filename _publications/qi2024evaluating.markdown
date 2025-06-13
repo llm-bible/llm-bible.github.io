@@ -7,7 +7,7 @@ year: 2024
 bibkey: qi2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07097"}
-tags: ['Pretraining Methods', 'Security', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Stakeholders -- from model developers to policymakers -- seek to minimize the
 dual-use risks of large language models (LLMs). An open challenge to this goal

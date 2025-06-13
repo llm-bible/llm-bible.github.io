@@ -8,7 +8,7 @@ bibkey: woo2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17812"}
   - {name: "Code", url: "https://github.com/WooSunghyeon/dropbp"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved significant success across various
 domains. However, training these LLMs typically involves substantial memory and

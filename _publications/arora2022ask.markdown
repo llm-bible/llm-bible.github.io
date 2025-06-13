@@ -8,7 +8,7 @@ bibkey: arora2022ask
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.02441v3"}
   - {name: "Code", url: "https://github.com/HazyResearch/ama_prompting"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) transfer well to new tasks out-of-the-box simply
 given a natural language prompt that demonstrates how to perform the task and

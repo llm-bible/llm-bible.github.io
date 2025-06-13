@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03921"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Sentence Embedding stands as a fundamental task within the realm of Natural
 Language Processing, finding extensive application in search engines, expert

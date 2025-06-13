@@ -7,7 +7,7 @@ year: 2024
 bibkey: lv2024segment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12490"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Attention Mechanism']
 ---
 Large language models have achieved notable success across various domains,
 yet efficient inference is still limited by the quadratic computation

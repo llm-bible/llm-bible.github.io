@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10840"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Recent advancements in Multimodal Large Language Models (MLLMs) have
 generated significant interest in their ability to autonomously interact with

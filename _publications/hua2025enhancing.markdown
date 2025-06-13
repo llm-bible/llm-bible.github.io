@@ -8,7 +8,7 @@ bibkey: hua2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11681"}
   - {name: "Code", url: "https://github.com/AnonymousCode-ComputerScience/RIDE"}
-tags: ['Responsible AI', 'Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Responsible AI', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Alignment tuning is crucial for ensuring large language models (LLMs) behave
 ethically and helpfully. Current alignment approaches require high-quality

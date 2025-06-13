@@ -7,7 +7,7 @@ year: 2019
 bibkey: zhang2019addressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.06356"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Applications']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT']
 ---
 Text-based Question Generation (QG) aims at generating natural and relevant
 questions that can be answered by a given answer in some context. Existing QG

@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.05383"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Code execution is a fundamental aspect of programming language semantics that
 reflects the exact behavior of the code. However, most pre-trained models for

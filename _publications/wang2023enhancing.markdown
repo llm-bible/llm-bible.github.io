@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00260"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'Tools', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Visual gaze estimation, with its wide-ranging application scenarios, has
 garnered increasing attention within the research community. Although existing

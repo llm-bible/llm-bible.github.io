@@ -7,7 +7,7 @@ year: 2023
 bibkey: galatolo2023cerbero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15698"}
-tags: ['Masked Language Model', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Masked Language Model', 'Pretraining Methods', 'BERT']
 ---
 This study introduces a novel approach for generating high-quality,
 language-specific chat corpora using a self-chat mechanism. We combine a

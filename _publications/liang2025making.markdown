@@ -8,7 +8,7 @@ bibkey: liang2025making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02248"}
   - {name: "Code", url: "https://github.com/ltong1130ztr/HAPrompts}{https://github.com/ltong1130ztr/HAPrompts"}
-tags: ['Prompting', 'RAG', 'Has Code']
+tags: ['RAG', 'Has Code', 'Prompting']
 ---
 Recent studies are leveraging advancements in large language models (LLMs)
 trained on extensive internet-crawled text data to generate textual

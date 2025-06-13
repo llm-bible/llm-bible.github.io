@@ -7,7 +7,7 @@ year: 2024
 bibkey: sharami2024guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07970"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The quality of output from large language models (LLMs), particularly in
 machine translation (MT), is closely tied to the quality of in-context examples

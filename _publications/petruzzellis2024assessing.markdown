@@ -7,7 +7,7 @@ year: 2024
 bibkey: petruzzellis2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06588"}
-tags: ['Prompting', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) achieve impressive performance in a wide range
 of tasks, even if they are often trained with the only objective of chatting

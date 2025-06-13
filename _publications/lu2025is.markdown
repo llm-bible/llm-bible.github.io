@@ -8,7 +8,7 @@ bibkey: lu2025is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06029"}
   - {name: "Code", url: "https://github.com/Lucky-Lance/SmartBench"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Has Code']
 ---
 Large Language Models (LLMs) have become integral to daily life, especially
 advancing as intelligent assistants through on-device deployment on

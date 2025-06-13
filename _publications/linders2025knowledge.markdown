@@ -7,7 +7,7 @@ year: 2025
 bibkey: linders2025knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08893"}
-tags: ['Training Techniques', 'RAG', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) and Knowledge Graphs (KGs) offer a promising
 approach to robust and explainable Question Answering (QA). While LLMs excel at

@@ -8,7 +8,7 @@ bibkey: nolte2024transformers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05117"}
   - {name: "Code", url: "https://github.com/facebookresearch/maze_navigation_MLMU"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Despite their remarkable success in language modeling, transformers trained
 to predict the next token in a sequence struggle with long-term planning. This

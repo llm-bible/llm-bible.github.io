@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024bag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.15102"}
-tags: ['Reinforcement Learning', 'RAG', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 The influence of contextual input on the behavior of large language models
 (LLMs) has prompted the development of context attribution methods that aim to

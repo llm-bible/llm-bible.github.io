@@ -7,7 +7,7 @@ year: 2025
 bibkey: fu2025vita
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01957"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 Recent Multimodal Large Language Models (MLLMs) have typically focused on
 integrating visual and textual modalities, with less emphasis placed on the

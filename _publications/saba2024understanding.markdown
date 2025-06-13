@@ -7,7 +7,7 @@ year: 2024
 bibkey: saba2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19630"}
-tags: ['Language Modeling', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'Language Modeling', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are the result of a massive experiment in
 bottom-up, data-driven reverse engineering of language at scale. Despite their

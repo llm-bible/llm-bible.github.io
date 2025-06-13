@@ -7,7 +7,7 @@ year: 2023
 bibkey: peng2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.03277"}
-tags: ['Model Architecture', 'Training Techniques', 'GPT', 'Reinforcement Learning']
+tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Prior work has shown that finetuning large language models (LLMs) using
 machine-generated instruction-following data enables such models to achieve

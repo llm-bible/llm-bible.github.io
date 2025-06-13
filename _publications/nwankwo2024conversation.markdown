@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11838"}
   - {name: "Code", url: "https://osf.io/wzyf6"}
   - {name: "Code", url: "https://github.com/LinusNEP/TCC_IRoNL.git)"}
-tags: ['Agentic', 'Multimodal Models', 'Agent', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Agent', 'Has Code', 'Multimodal Models']
 ---
 In recent years, autonomous agents have surged in real-world environments
 such as our homes, offices, and public spaces. However, natural human-robot

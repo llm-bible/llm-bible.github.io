@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11123"}
-tags: ['Model Architecture', 'Few-Shot', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) have the potential to enhance K-12 STEM
 education by improving both teaching and learning processes. While previous

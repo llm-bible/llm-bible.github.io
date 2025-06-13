@@ -7,7 +7,7 @@ year: 2024
 bibkey: goknil2024privacy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14879"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Ethics and Bias', 'Interpretability', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 Privacy policies are often obfuscated by their complexity, which impedes
 transparency and informed consent. Conventional machine learning approaches for

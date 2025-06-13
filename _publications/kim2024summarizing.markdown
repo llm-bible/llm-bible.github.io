@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024summarizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13081"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have made significant advancements in various
 natural language processing tasks, including question answering (QA) tasks.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: berberette2024redefining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01769"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Ethics and Bias']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture']
 ---
 In recent years, large language models (LLMs) have become incredibly popular,
 with ChatGPT for example being used by over a billion users. While these models

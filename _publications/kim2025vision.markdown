@@ -7,7 +7,7 @@ year: 2025
 bibkey: kim2025vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06843"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 Traditional autonomous driving systems often struggle with reasoning in
 complex, unexpected scenarios due to limited comprehension of spatial

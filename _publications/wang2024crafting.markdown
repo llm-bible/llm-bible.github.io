@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024crafting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19401"}
-tags: ['Agentic', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Applications', 'Reinforcement Learning']
 ---
 In the age of mobile internet, user data, often referred to as memories, is
 continuously generated on personal devices. Effectively managing and utilizing

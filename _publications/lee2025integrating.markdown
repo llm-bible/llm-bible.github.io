@@ -7,7 +7,7 @@ year: 2025
 bibkey: lee2025integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08109"}
-tags: ['Interpretability', 'Model Architecture', 'GPT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'GPT', 'Interpretability', 'Model Architecture']
 ---
 Recent advances in large language models (LLMs) have shown promising
 improvements, often surpassing existing methods across a wide range of

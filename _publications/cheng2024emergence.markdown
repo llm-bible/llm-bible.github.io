@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheng2024emergence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15471"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Reinforcement Learning']
+tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
 ---
 A language model (LM) is a mapping from a linguistic context to an output
 token. However, much remains to be known about this mapping, including how its

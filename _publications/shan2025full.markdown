@@ -7,7 +7,7 @@ year: 2025
 bibkey: shan2025full
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13344"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Prompting']
 ---
 In this paper, we address the lifelong sequential behavior incomprehension
 problem in large language models (LLMs) for recommendation, where LLMs struggle

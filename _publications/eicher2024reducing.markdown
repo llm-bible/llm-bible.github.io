@@ -7,7 +7,7 @@ year: 2024
 bibkey: eicher2024reducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01740"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) like gpt-3.5-turbo-0613 and claude-instant-1.2
 are vital in interpreting and executing semantic tasks. Unfortunately, these

@@ -7,7 +7,7 @@ year: 2025
 bibkey: cao2025out
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08231"}
-tags: ['Security', 'Applications', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Security', 'Applications', 'Reinforcement Learning']
 ---
 Despite the impressive performance of Retrieval-augmented Generation (RAG)
 systems across various NLP benchmarks, their robustness in handling real-world

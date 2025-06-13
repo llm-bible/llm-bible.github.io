@@ -7,7 +7,7 @@ year: 2025
 bibkey: riaz2025say
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17839"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 We propose a simple, unsupervised method that injects pragmatic principles in
 retrieval-augmented generation (RAG) frameworks such as Dense Passage Retrieval

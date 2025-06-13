@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024cascade
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16306"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Aligning large language models (LLMs) with human preferences is essential for
 their applications. Recently, decoding-time alignment has emerged as an

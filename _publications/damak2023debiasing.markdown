@@ -7,7 +7,7 @@ year: 2023
 bibkey: damak2023debiasing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.09210"}
-tags: ['Masked Language Model', 'Security', 'Model Architecture', 'Language Modeling', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Ethics and Bias', 'Language Modeling', 'Model Architecture', 'Security', 'Masked Language Model', 'Pretraining Methods', 'BERT']
 ---
 Bidirectional Transformer architectures are state-of-the-art sequential
 recommendation models that use a bi-directional representation capacity based

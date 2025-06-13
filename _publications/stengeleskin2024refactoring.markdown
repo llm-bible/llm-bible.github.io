@@ -7,7 +7,7 @@ year: 2024
 bibkey: stengeleskin2024refactoring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16467"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 While large language models (LLMs) are increasingly being used for program
 synthesis, they lack the global view needed to develop useful abstractions;

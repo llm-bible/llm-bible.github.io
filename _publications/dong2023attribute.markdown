@@ -7,7 +7,7 @@ year: 2023
 bibkey: dong2023attribute
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05344"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Model alignment with human preferences is an essential step in making Large
 Language Models (LLMs) helpful and consistent with human values. It typically

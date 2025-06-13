@@ -7,7 +7,7 @@ year: 2024
 bibkey: lamott2024layout
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09841"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent advances in training large language models (LLMs) using massive
 amounts of solely textual data lead to strong generalization across many

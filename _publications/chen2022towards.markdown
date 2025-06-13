@@ -7,7 +7,7 @@ year: 2022
 bibkey: chen2022towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.01877"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Despite the success achieved in neural abstractive summarization based on
 pre-trained language models, one unresolved issue is that the generated

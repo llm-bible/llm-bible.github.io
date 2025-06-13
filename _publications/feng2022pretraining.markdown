@@ -7,7 +7,7 @@ year: 2022
 bibkey: feng2022pretraining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.04303"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 User sessions empower many search and recommendation tasks on a daily basis.
 Such session data are semi-structured, which encode heterogeneous relations

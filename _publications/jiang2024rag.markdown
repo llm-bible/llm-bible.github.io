@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024rag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12881"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Existing large language models (LLMs) show exceptional problem-solving
 capabilities but might struggle with complex reasoning tasks. Despite the

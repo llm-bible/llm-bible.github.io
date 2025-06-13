@@ -7,7 +7,7 @@ year: 2021
 bibkey: guan2021block
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08560"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Transformer models have achieved promising results on natural language
 processing (NLP) tasks including extractive question answering (QA). Common

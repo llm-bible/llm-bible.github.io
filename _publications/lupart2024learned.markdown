@@ -7,7 +7,7 @@ year: 2024
 bibkey: lupart2024learned
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14739"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 The Interactive Knowledge Assistant Track (iKAT) 2024 focuses on advancing
 conversational assistants, able to adapt their interaction and responses from

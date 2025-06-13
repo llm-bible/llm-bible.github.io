@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025enhanced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17039"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 In recent years, large language models (LLMs) have demonstrated exceptional
 power in various domains, including information retrieval. Most of the previous

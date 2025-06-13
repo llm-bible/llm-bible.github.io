@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07013"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Distillation', 'GPT']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Distillation']
 ---
 Given the exceptional performance of proprietary large language models (LLMs)
 like GPT-4, recent research has increasingly focused on boosting the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: juravsky2024high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05099"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Transformer-based large language models (LLMs) are now deployed to hundreds
 of millions of users. LLM inference is commonly performed on batches of

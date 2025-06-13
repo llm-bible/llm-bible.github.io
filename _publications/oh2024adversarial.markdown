@@ -7,7 +7,7 @@ year: 2024
 bibkey: oh2024adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00312"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'In-Context Learning', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Security', 'RecSys', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Text-aware recommender systems incorporate rich textual features, such as
 titles and descriptions, to generate item recommendations for users. The use of

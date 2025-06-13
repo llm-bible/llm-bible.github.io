@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04528"}
-tags: ['Prompting', 'Efficiency and Optimization']
+tags: ['Efficiency and Optimization', 'Prompting']
 ---
 This paper explores the use of foundational large language models (LLMs) in
 hyperparameter optimization (HPO). Hyperparameters are critical in determining

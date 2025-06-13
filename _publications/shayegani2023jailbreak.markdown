@@ -7,7 +7,7 @@ year: 2023
 bibkey: shayegani2023jailbreak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.14539"}
-tags: ['Security', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['RAG', 'Reinforcement Learning', 'Security', 'Multimodal Models', 'Prompting']
 ---
 We introduce new jailbreak attacks on vision language models (VLMs), which
 use aligned LLMs and are resilient to text-only jailbreak attacks.

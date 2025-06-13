@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024llm
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.09959v2"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), with their advanced contextual understanding
 abilities, have demonstrated considerable potential in enhancing recommendation

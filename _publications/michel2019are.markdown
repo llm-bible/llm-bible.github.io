@@ -7,7 +7,7 @@ year: 2019
 bibkey: michel2019are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.10650"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pruning', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Attention is a powerful and ubiquitous mechanism for allowing neural models
 to focus on particular salient pieces of information by taking their weighted

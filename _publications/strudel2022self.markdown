@@ -7,7 +7,7 @@ year: 2022
 bibkey: strudel2022self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.04236"}
-tags: ['Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Merging', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Can continuous diffusion models bring the same performance breakthrough on
 natural language they did for image generation? To circumvent the discrete

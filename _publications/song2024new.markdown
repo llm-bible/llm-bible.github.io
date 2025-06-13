@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05911"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 With the rapid development of large language models in recent years, there
 has been an increasing demand for domain-specific Agents that can cater to the

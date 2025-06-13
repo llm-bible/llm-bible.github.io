@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13919"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The rapid advancement of large language models (LLMs) has led to a new era
 marked by the development of autonomous applications in real-world scenarios,

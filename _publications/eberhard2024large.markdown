@@ -7,7 +7,7 @@ year: 2024
 bibkey: eberhard2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13604"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Narrative-driven recommenders aim to provide personalized suggestions for
 user requests expressed in free-form text such as "I want to watch a thriller

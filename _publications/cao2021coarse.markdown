@@ -7,7 +7,7 @@ year: 2021
 bibkey: cao2021coarse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.05988"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Recent advances regarding question answering and reading comprehension have
 resulted in models that surpass human performance when the answer is contained

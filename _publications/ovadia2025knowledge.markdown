@@ -7,7 +7,7 @@ year: 2025
 bibkey: ovadia2025knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05571"}
-tags: ['Pre-Training', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'RAG', 'Pre-Training']
 ---
 While Large Language Models (LLMs) acquire vast knowledge during
 pre-training, they often lack domain-specific, new, or niche information.

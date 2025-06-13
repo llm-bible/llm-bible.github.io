@@ -7,7 +7,7 @@ year: 2025
 bibkey: hao2025personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03920"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 We study the task of personalized federated fine-tuning with heterogeneous
 data in the context of language models, where clients collaboratively fine-tune

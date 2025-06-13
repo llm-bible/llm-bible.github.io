@@ -7,7 +7,7 @@ year: 2025
 bibkey: jain2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17785"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Reading comprehension is a key for individual success, yet the assessment of
 question difficulty remains challenging due to the extensive human annotation

@@ -8,7 +8,7 @@ bibkey: frantar2023massive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.00774"}
   - {name: "Code", url: "https://github.com/IST-DASLab/sparsegpt"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pruning', 'Quantization', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Pruning', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
 ---
 We show for the first time that large-scale generative pretrained transformer
 (GPT) family models can be pruned to at least 50% sparsity in one-shot, without

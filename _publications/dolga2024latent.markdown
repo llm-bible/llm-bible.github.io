@@ -7,7 +7,7 @@ year: 2024
 bibkey: dolga2024latent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17512"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The time complexity of the standard attention mechanism in transformers
 scales quadratically with sequence length. We propose a probabilistic framework

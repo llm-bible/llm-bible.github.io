@@ -7,7 +7,7 @@ year: 2024
 bibkey: raihan2024masontigers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14982"}
-tags: ['Prompting', 'In-Context Learning', 'Applications', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 Our paper presents team MasonTigers submission to the SemEval-2024 Task 9 -
 which provides a dataset of puzzles for testing natural language understanding.

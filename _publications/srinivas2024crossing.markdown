@@ -7,7 +7,7 @@ year: 2024
 bibkey: srinivas2024crossing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11866"}
-tags: ['Prompting', 'RAG', 'Tools', 'Multimodal Models']
+tags: ['RAG', 'Tools', 'Multimodal Models', 'Prompting']
 ---
 Molecule design is a multifaceted approach that leverages computational
 methods and experiments to optimize molecular properties, fast-tracking new

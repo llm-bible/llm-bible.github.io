@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024compositional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.19431"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) have achieved exceptional performance in code
 generation. However, the performance remains unsatisfactory in generating

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024designing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19308"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have transformed natural language processing,
 yet face challenges in specialized tasks such as simulating opinions on

@@ -7,7 +7,7 @@ year: 2024
 bibkey: bronnec2024state
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.17919"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 State-space models are a low-complexity alternative to transformers for
 encoding long sequences and capturing long-term dependencies. We propose

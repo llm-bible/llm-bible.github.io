@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024elevating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11397"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multi-modal Large Language Models have recently experienced rapid
 developments and excel in various multi-modal tasks. However, they still

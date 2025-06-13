@@ -7,7 +7,7 @@ year: 2023
 bibkey: fu2023improving
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.10142v1"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 We study whether multiple large language models (LLMs) can autonomously
 improve each other in a negotiation game by playing, reflecting, and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zoumpoulidi2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04094"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Despite the continuous progress of Large Language Models (LLMs) across
 various tasks, their performance on mathematical problems and reasoning tasks

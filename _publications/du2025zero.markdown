@@ -7,7 +7,7 @@ year: 2025
 bibkey: du2025zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05694"}
-tags: ['Applications', 'Efficiency and Optimization', 'Model Architecture', 'GPT']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture']
 ---
 This study investigates the performance of various large language models
 (LLMs) on zero-shot end-to-end relation extraction (RE) in Chinese, a task that

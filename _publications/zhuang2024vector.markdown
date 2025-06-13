@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhuang2024vector
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05629"}
-tags: ['Training Techniques', 'Few-Shot', 'Language Modeling', 'Pretraining Methods', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown remarkable in-context learning (ICL)
 capabilities on textual data. We explore whether these capabilities can be

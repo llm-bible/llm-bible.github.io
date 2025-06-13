@@ -7,7 +7,7 @@ year: 2024
 bibkey: cegin2024use
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10756"}
-tags: ['Training Techniques', 'Few-Shot', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 The generative large language models (LLMs) are increasingly used for data
 augmentation tasks, where text samples are paraphrased (or generated anew) and

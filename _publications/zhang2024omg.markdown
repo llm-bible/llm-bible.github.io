@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024omg
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19389"}
-tags: ['Prompting', 'Multimodal Models', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Multimodal Models', 'Prompting', 'Tools']
 ---
 Current universal segmentation methods demonstrate strong capabilities in
 pixel-level image and video understanding. However, they lack reasoning

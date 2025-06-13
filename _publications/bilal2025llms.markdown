@@ -7,7 +7,7 @@ year: 2025
 bibkey: bilal2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00125"}
-tags: ['Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Survey Paper', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability']
 ---
 Large Language Models (LLMs) offer a promising approach to enhancing
 Explainable AI (XAI) by transforming complex machine learning outputs into

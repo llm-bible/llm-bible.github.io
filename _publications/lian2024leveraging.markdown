@@ -8,7 +8,7 @@ bibkey: lian2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06465"}
   - {name: "Code", url: "https://github.com/microsoft/RecAI"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'RecSys', 'Has Code']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'RecSys', 'Has Code']
 ---
 This paper introduces RecAI, a practical toolkit designed to augment or even
 revolutionize recommender systems with the advanced capabilities of Large

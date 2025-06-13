@@ -8,7 +8,7 @@ bibkey: liu2023reinforcement
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.04349"}
   - {name: "Code", url: "https://github.com/Zyq-scut/RLTF"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 The goal of program synthesis, or code generation, is to generate executable
 code based on given descriptions. Recently, there has been an increasing number

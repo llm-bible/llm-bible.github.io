@@ -7,7 +7,7 @@ year: 2023
 bibkey: hasan2023zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.10783"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 The rapid expansion of the digital world has propelled sentiment analysis
 into a critical tool across diverse sectors such as marketing, politics,

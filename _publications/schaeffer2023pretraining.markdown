@@ -7,7 +7,7 @@ year: 2023
 bibkey: schaeffer2023pretraining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08632"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Inspired by recent work demonstrating the promise of smaller
 Transformer-based language models pretrained on carefully curated data, we

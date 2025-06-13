@@ -7,7 +7,7 @@ year: 2024
 bibkey: ke2024hyper
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12884"}
-tags: ['Agentic', 'Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent advances in visual reasoning (VR), particularly with the aid of Large
 Vision-Language Models (VLMs), show promise but require access to large-scale

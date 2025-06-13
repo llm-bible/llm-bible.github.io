@@ -7,7 +7,7 @@ year: 2025
 bibkey: hui2025can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20094"}
-tags: ['Responsible AI', 'Agentic', 'Tools', 'RAG', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'Interpretability and Explainability', 'RAG', 'Interpretability']
 ---
 In this paper, we propose a multi-agent collaboration framework called MATCHA
 for conversational recommendation system, leveraging large language models

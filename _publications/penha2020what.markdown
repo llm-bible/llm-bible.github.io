@@ -7,7 +7,7 @@ year: 2020
 bibkey: penha2020what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.15356"}
-tags: ['Masked Language Model', 'Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Security', 'Training Techniques', 'Masked Language Model', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Heavily pre-trained transformer models such as BERT have recently shown to be
 remarkably powerful at language modelling by achieving impressive results on

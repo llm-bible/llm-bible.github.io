@@ -7,7 +7,7 @@ year: 2022
 bibkey: luo2022frustratingly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.12723"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'Merging', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Image Captioning is a fundamental task to join vision and language,
 concerning about cross-modal understanding and text generation. Recent years

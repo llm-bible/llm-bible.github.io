@@ -8,7 +8,7 @@ bibkey: song2024cs
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08587"}
   - {name: "Code", url: "https://github.com/csbench/csbench"}
-tags: ['Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated significant potential in
 advancing various fields of research and society. However, the current

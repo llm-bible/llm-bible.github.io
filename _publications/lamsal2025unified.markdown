@@ -8,7 +8,7 @@ bibkey: lamsal2025unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09170"}
   - {name: "Code", url: "https://langformers.com"}
-tags: ['Masked Language Model', 'Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Transformer-based language models have revolutionized the field of natural
 language processing (NLP). However, using these models often involves

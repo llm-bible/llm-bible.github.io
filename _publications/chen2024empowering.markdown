@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15426"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 In this paper, we introduce CodingTeachLLM, a large language model (LLM)
 designed for coding teaching. Specially, we aim to enhance the coding ability

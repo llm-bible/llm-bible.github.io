@@ -7,7 +7,7 @@ year: 2024
 bibkey: cui2024rtl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.16237"}
-tags: ['Security', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security']
 ---
 Recent studies have demonstrated the significant potential of Large Language
 Models (LLMs) in generating Register Transfer Level (RTL) code, with notable

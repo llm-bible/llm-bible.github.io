@@ -8,7 +8,7 @@ bibkey: lee2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17977"}
   - {name: "Code", url: "https://github.com/kaistAI/Janus"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Although humans inherently have diverse values, current large language model
 (LLM) alignment methods often assume that aligning LLMs with the general

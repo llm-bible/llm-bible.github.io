@@ -7,7 +7,7 @@ year: 2023
 bibkey: ovalle2023tokenization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11779"}
-tags: ['Tokenization', 'RAG', 'Training Techniques']
+tags: ['RAG', 'Training Techniques', 'Tokenization']
 ---
 Gender-inclusive NLP research has documented the harmful limitations of
 gender binary-centric large language models (LLM), such as the inability to

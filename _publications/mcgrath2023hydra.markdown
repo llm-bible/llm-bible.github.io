@@ -7,7 +7,7 @@ year: 2023
 bibkey: mcgrath2023hydra
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.15771"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Efficiency and Optimization', 'Model Architecture']
 ---
 We investigate the internal structure of language model computations using
 causal analysis and demonstrate two motifs: (1) a form of adaptive computation

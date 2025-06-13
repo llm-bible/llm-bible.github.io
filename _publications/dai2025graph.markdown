@@ -7,7 +7,7 @@ year: 2025
 bibkey: dai2025graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04303"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Chart question answering (ChartQA) is challenged by the heterogeneous
 composition of chart elements and the subtle data patterns they encode. This

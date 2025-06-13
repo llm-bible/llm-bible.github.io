@@ -7,7 +7,7 @@ year: 2024
 bibkey: hashemzadeh2024sub
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02749"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Distillation', 'ACL']
+tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'ACL', 'Distillation']
 ---
 While Large Language Models (LLMs) have demonstrated significant promise as
 agents in interactive tasks, their substantial computational requirements and

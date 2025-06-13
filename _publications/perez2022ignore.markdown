@@ -8,7 +8,7 @@ bibkey: perez2022ignore
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.09527"}
   - {name: "Code", url: "https://github.com/agencyenterprise/PromptInject"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Tools', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Applications']
+tags: ['Transformer', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Merging', 'Security', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Transformer-based large language models (LLMs) provide a powerful foundation
 for natural language tasks in large-scale customer-facing applications.

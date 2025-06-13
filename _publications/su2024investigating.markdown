@@ -8,7 +8,7 @@ bibkey: su2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10923"}
   - {name: "Code", url: "https://ander1119.github.io/TiM"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have demonstrated effectiveness not only in
 language tasks but also in video reasoning. This paper introduces a novel

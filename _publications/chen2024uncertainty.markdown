@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024uncertainty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02768"}
-tags: ['Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 The development of multi-modal models has been rapidly advancing, with some
 demonstrating remarkable capabilities. However, annotating video-text pairs

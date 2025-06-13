@@ -7,7 +7,7 @@ year: 2025
 bibkey: burgess2025multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13399"}
-tags: ['Prompting', 'Multimodal Models', 'Agentic', 'Applications']
+tags: ['Agentic', 'Multimodal Models', 'Prompting', 'Applications']
 ---
 Scientific research demands sophisticated reasoning over multimodal data, a
 challenge especially prevalent in biology. Despite recent advances in

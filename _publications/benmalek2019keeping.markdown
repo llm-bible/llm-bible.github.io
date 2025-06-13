@@ -7,7 +7,7 @@ year: 2019
 bibkey: benmalek2019keeping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1906.05275"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 We introduce the Scratchpad Mechanism, a novel addition to the
 sequence-to-sequence (seq2seq) neural network architecture and demonstrate its

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02886"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 The rapid advancement of Large Language Models (LLMs) has driven growing
 demand for processing extended context sequences in contemporary applications.

@@ -7,7 +7,7 @@ year: 2025
 bibkey: fang2025could
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04279"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Interpretability and Explainability', 'Applications']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 AI-generated content is becoming increasingly prevalent in the real world,
 leading to serious ethical and societal concerns. For instance, adversaries

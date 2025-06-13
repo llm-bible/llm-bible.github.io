@@ -7,7 +7,7 @@ year: 2025
 bibkey: luo2025test
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04155"}
-tags: ['Prompting', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are advancing at an unprecedented pace globally,
 with regions increasingly adopting these models for applications in their

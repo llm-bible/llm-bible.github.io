@@ -7,7 +7,7 @@ year: 2021
 bibkey: zeng2021wechat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.02401"}
-tags: ['WMT', 'Model Architecture', 'Efficiency and Optimization', 'Distillation', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'WMT', 'Pretraining Methods', 'Distillation']
 ---
 This paper introduces WeChat AI's participation in WMT 2021 shared news
 translation task on English->Chinese, English->Japanese, Japanese->English and

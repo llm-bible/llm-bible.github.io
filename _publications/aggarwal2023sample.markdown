@@ -8,7 +8,7 @@ bibkey: aggarwal2023sample
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11860"}
   - {name: "Code", url: "https://www.sample-step-by-step.info"}
-tags: ['RAG', 'Applications', 'Has Code']
+tags: ['RAG', 'Has Code', 'Applications']
 ---
 A popular approach for improving the correctness of output from large
 language models (LLMs) is Self-Consistency - poll the LLM multiple times and

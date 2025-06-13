@@ -7,7 +7,7 @@ year: 2024
 bibkey: clarke2024peft
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18078"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The recent emergence of Large Language Models (LLMs) has heralded a new era
 of human-AI interaction. These sophisticated models, exemplified by Chat-GPT

@@ -7,7 +7,7 @@ year: 2025
 bibkey: nahin2025family
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11187"}
-tags: ['Pretraining Methods', 'Training Techniques']
+tags: ['Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we present TituLLMs, the first large pretrained Bangla LLMs,
 available in 1b and 3b parameter sizes. Due to computational constraints during

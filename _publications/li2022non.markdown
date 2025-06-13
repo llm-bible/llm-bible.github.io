@@ -7,7 +7,7 @@ year: 2022
 bibkey: li2022non
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.13304"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We study the text generation task under the approach of pre-trained language
 models (PLMs). Typically, an auto-regressive (AR) method is adopted for

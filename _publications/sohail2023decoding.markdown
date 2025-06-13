@@ -7,7 +7,7 @@ year: 2023
 bibkey: sohail2023decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.14107"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Chat Generative Pre-trained Transformer (ChatGPT) has gained significant
 interest and attention since its launch in November 2022. It has shown

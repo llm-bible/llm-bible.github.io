@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025progressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00392"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Processing long contexts has become a critical capability for modern large
 language models (LLMs). However, serving long-context LLMs comes with

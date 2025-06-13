@@ -7,7 +7,7 @@ year: 2022
 bibkey: zimmerman2022future
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.09947"}
-tags: ['Agentic', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent advances in deep learning research, such as transformers, have
 bolstered the ability for automated agents to generate creative texts similar

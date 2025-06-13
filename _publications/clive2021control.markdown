@@ -7,7 +7,7 @@ year: 2021
 bibkey: clive2021control
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08329"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Prefix-tuning is a powerful lightweight technique for adapting a large
 pre-trained language model to a downstream application. However, it uses the

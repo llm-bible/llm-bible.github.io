@@ -8,7 +8,7 @@ bibkey: mishra2025long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13615"}
   - {name: "Code", url: "https://github.com/ritwikmishra/IndicGenQA"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Transformer', 'Has Code', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Question Answering (QA) tasks, which involve extracting answers from a given
 context, are relatively straightforward for modern Large Language Models (LLMs)

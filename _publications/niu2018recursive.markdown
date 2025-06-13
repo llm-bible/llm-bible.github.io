@@ -8,7 +8,7 @@ bibkey: niu2018recursive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1812.02664"}
   - {name: "Code", url: "https://github.com/yuleiniu/rva"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Visual dialog is a challenging vision-language task, which requires the agent
 to answer multi-round questions about an image. It typically needs to address

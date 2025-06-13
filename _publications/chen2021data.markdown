@@ -8,7 +8,7 @@ bibkey: chen2021data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.10407"}
   - {name: "Code", url: "https://github.com/Vision-CAIR/VisualGPT"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 The ability to quickly learn from a small quantity oftraining data widens the
 range of machine learning applications. In this paper, we propose a

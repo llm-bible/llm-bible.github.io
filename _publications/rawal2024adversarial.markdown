@@ -7,7 +7,7 @@ year: 2024
 bibkey: rawal2024adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10054"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Agentic', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 In the last few years, the research interest in Vision-and-Language
 Navigation (VLN) has grown significantly. VLN is a challenging task that

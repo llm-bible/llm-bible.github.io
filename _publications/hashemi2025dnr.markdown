@@ -7,7 +7,7 @@ year: 2025
 bibkey: hashemi2025dnr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.15793"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 Test-time scaling has significantly improved large language model
 performance, enabling deeper reasoning to solve complex problems. However, this

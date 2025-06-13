@@ -7,7 +7,7 @@ year: 2022
 bibkey: scheurer2022training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.14146"}
-tags: ['Training Techniques', 'Applications', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
 ---
 Pretrained language models often do not perform tasks in ways that are in
 line with our preferences, e.g., generating offensive text or factually

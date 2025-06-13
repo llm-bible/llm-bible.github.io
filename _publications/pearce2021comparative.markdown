@@ -7,7 +7,7 @@ year: 2021
 bibkey: pearce2021comparative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.03142"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Question Answering (QA) is a task in natural language processing that has
 seen considerable growth after the advent of transformers. There has been a

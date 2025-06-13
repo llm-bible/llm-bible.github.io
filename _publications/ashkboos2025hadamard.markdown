@@ -8,7 +8,7 @@ bibkey: ashkboos2025hadamard
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02625"}
   - {name: "Code", url: "https://github.com/IST-DASLab/HALO"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
 ---
 Quantized training of Large Language Models (LLMs) remains an open challenge,
 as maintaining accuracy while performing all matrix multiplications in low

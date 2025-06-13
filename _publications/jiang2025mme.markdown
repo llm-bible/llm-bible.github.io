@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiang2025mme
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09621"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Multimodal Models', 'RAG', 'GPT', 'Prompting']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Multimodal Models', 'Prompting']
 ---
 Answering questions with Chain-of-Thought (CoT) has significantly enhanced
 the reasoning capabilities of Large Language Models (LLMs), yet its impact on

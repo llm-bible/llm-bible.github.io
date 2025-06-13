@@ -7,7 +7,7 @@ year: 2024
 bibkey: welivita2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05063"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Prompting']
 ---
 With the emergence of large language models (LLMs), investigating if they can
 surpass humans in areas such as emotion recognition and empathetic responding

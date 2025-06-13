@@ -8,7 +8,7 @@ bibkey: gong2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06001"}
   - {name: "Code", url: "https://github.com/ModelTC/llmc"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pruning', 'Quantization', 'Has Code']
+tags: ['Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Quantization']
 ---
 Recent advancements in large language models (LLMs) are propelling us toward
 artificial general intelligence with their remarkable emergent abilities and

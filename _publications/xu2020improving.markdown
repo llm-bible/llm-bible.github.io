@@ -7,7 +7,7 @@ year: 2020
 bibkey: xu2020improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.10345"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Fine-tuning pre-trained language models like BERT has become an effective way
 in NLP and yields state-of-the-art results on many downstream tasks. Recent

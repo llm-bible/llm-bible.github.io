@@ -7,7 +7,7 @@ year: 2024
 bibkey: salecha2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06058"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'GPT', 'Ethics and Bias']
+tags: ['Tools', 'Survey Paper', 'GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 As Large Language Models (LLMs) become widely used to model and simulate
 human behavior, understanding their biases becomes critical. We developed an

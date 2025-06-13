@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022controlling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.08909"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Controlling styles in neural machine translation (NMT) has attracted wide
 attention, as it is crucial for enhancing user experience. Earlier studies on

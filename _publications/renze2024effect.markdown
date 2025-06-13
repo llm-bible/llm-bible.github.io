@@ -8,7 +8,7 @@ bibkey: renze2024effect
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05201"}
   - {name: "Code", url: "https://github.com/matthewrenze/jhu-llm-temperature"}
-tags: ['Prompting', 'Has Code']
+tags: ['Has Code', 'Prompting']
 ---
 In this research study, we empirically investigate the effect of sampling
 temperature on the performance of Large Language Models (LLMs) on various

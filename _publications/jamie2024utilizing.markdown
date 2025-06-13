@@ -7,7 +7,7 @@ year: 2024
 bibkey: jamie2024utilizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08899"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Integrating large language models (LLMs) like ChatGPT into computer science
 education offers transformative potential for complex courses such as data

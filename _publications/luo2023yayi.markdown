@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023yayi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14862"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 As the latest advancements in natural language processing, large language
 models (LLMs) have achieved human-level language understanding and generation

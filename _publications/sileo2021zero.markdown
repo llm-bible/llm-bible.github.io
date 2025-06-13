@@ -8,7 +8,7 @@ bibkey: sileo2021zero
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2112.04184v1"}
   - {name: "Code", url: "https://colab.research.google.com/drive/1f1mlZ-FGaLGdo5rPzxf3vemKllbh2esT?usp=sharing)"}
-tags: ['Training Techniques', 'Tools', 'Language Modeling', 'Has Code', 'Prompting']
+tags: ['Tools', 'Language Modeling', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Recommendation is the task of ranking items (e.g. movies or products)
 according to individual user needs. Current systems rely on collaborative

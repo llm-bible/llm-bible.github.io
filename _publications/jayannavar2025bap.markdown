@@ -7,7 +7,7 @@ year: 2025
 bibkey: jayannavar2025bap
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10836"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Interactive agents capable of understanding and executing instructions in the
 physical world have long been a central goal in AI research. The Minecraft

@@ -7,7 +7,7 @@ year: 2024
 bibkey: slonski2024detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01014"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 Large language models (LLMs) have achieved impressive results in natural
 language processing but are prone to memorizing portions of their training

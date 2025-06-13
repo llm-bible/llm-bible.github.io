@@ -7,7 +7,7 @@ year: 2023
 bibkey: ioste2023transforming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13317"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 This paper presents a novel approach named Persona-Grouping-Intelligence
 (PGI), which has been crafted to tackle the challenges posed by GPT models when

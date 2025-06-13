@@ -8,7 +8,7 @@ bibkey: oh2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10689"}
   - {name: "Code", url: "https://github.com/DISL-Lab/FineSumFact"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Training automatic summary fact verifiers often faces the challenge of a lack
 of human-labeled data. In this paper, we explore alternative way of leveraging

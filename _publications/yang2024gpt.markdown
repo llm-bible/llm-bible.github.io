@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11858"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 In the rapidly evolving field of artificial intelligence (AI), the
 application of large language models (LLMs) in agriculture, particularly in

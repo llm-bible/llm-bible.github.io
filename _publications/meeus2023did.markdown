@@ -7,7 +7,7 @@ year: 2023
 bibkey: meeus2023did
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15007"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Interpretability']
+tags: ['Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Security', 'Training Techniques']
 ---
 With large language models (LLMs) poised to become embedded in our daily
 lives, questions are starting to be raised about the data they learned from.

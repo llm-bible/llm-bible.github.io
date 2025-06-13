@@ -7,7 +7,7 @@ year: 2025
 bibkey: guerra2025assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19518"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated significant promise in
 automating software development tasks, yet their capabilities with respect to

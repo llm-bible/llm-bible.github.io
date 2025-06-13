@@ -7,7 +7,7 @@ year: 2024
 bibkey: poulis2024transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09613"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements in transformer-based language models have sparked
 research into their logical reasoning capabilities. Most of the benchmarks used

@@ -8,7 +8,7 @@ bibkey: yi2023empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.14352"}
   - {name: "Code", url: "https://github.com/UbiquitousLearning/mllm"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'GPT', 'Has Code']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Large language models (LLMs) such as GPTs and Mixtral-8x7B have
 revolutionized machine intelligence due to their exceptional abilities in

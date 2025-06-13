@@ -7,7 +7,7 @@ year: 2023
 bibkey: oba2023second
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02920"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 With the success of neural language models (LMs), their language acquisition
 has gained much attention. This work sheds light on the second language (L2)

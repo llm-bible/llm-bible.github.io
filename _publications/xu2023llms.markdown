@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18354"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Can a Large Language Model (LLM) solve simple abstract reasoning problems? We
 explore this broad question through a systematic analysis of GPT on the

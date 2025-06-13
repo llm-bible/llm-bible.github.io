@@ -8,7 +8,7 @@ bibkey: uzunoglu2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.06698"}
   - {name: "Code", url: "https://github.com/"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Understanding procedural natural language (e.g., step-by-step instructions)
 is a crucial step to execution and planning. However, while there are ample

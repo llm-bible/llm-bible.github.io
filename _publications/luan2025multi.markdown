@@ -8,7 +8,7 @@ bibkey: luan2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.08019"}
   - {name: "Code", url: "https://github.com/bzluan/AdaptPrune"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Ethics and Bias', 'Has Code', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Pruning', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 As the computational needs of Large Vision-Language Models (LVLMs) increase,
 visual token pruning has proven effective in improving inference speed and

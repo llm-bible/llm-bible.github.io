@@ -7,7 +7,7 @@ year: 2025
 bibkey: ma2025tevatron
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.02466"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have driven interest in
 billion-scale retrieval models with strong generalization across retrieval

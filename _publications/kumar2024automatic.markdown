@@ -7,7 +7,7 @@ year: 2024
 bibkey: kumar2024automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01382"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Pretrained Large Language Models (LLMs) have gained significant attention for
 addressing open-domain Question Answering (QA). While they exhibit high

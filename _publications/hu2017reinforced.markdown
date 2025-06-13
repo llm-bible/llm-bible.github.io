@@ -7,7 +7,7 @@ year: 2017
 bibkey: hu2017reinforced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1705.02798"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism']
 ---
 In this paper, we introduce the Reinforced Mnemonic Reader for machine
 reading comprehension tasks, which enhances previous attentive readers in two

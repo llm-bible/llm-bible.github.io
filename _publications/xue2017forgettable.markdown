@@ -7,7 +7,7 @@ year: 2017
 bibkey: xue2017forgettable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1705.01253"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 A number of visual question answering approaches have been proposed recently,
 aiming at understanding the visual scenes by answering the natural language

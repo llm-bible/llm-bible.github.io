@@ -7,7 +7,7 @@ year: 2021
 bibkey: sun2021know
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.07771"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Model Architecture', 'Applications']
 ---
 End-to-End intelligent neural dialogue systems suffer from the problems of
 generating inconsistent and repetitive responses. Existing dialogue models pay

@@ -7,7 +7,7 @@ year: 2025
 bibkey: evans2025generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05926"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Tokenization', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Multimodal Models']
 ---
 The rapid advancements in large language models (LLMs) have unlocked their
 potential for multimodal tasks, where text and visual data are processed

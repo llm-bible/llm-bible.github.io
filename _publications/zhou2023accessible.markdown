@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023accessible
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.06358"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Humans can collaborate and complete tasks based on visual signals and
 instruction from the environment. Training such a robot is difficult especially

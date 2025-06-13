@@ -7,7 +7,7 @@ year: 2024
 bibkey: rangan2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17081"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 This study presents an innovative enhancement to retrieval-augmented
 generation (RAG) systems by seamlessly integrating fine-tuned large language

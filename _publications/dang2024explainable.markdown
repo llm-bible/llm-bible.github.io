@@ -7,7 +7,7 @@ year: 2024
 bibkey: dang2024explainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02104"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Language Modeling', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Language Modeling', 'Interpretability', 'Training Techniques', 'Multimodal Models']
 ---
 The rapid development of Artificial Intelligence (AI) has revolutionized
 numerous fields, with large language models (LLMs) and computer vision (CV)

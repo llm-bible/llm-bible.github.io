@@ -7,7 +7,7 @@ year: 2022
 bibkey: brooks2022large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.03821"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This work presents In-Context Policy Iteration, an algorithm for performing
 Reinforcement Learning (RL), in-context, using foundation models. While the

@@ -7,7 +7,7 @@ year: 2022
 bibkey: cui2022generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.08084"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pruning', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'RecSys', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Industrial recommender systems have been growing increasingly complex, may
 involve *diverse domains* such as e-commerce products and user-generated

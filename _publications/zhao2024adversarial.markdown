@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16743"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 With the widespread application of Large Language Models (LLMs), it has
 become a significant concern to ensure their safety and prevent harmful

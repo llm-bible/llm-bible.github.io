@@ -7,7 +7,7 @@ year: 2023
 bibkey: baheri2023llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.02268"}
-tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'RAG', 'Agentic', 'Reinforcement Learning']
 ---
 Contextual bandits have emerged as a cornerstone in reinforcement learning,
 enabling systems to make decisions with partial feedback. However, as contexts

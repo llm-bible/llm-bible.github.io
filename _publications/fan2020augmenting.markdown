@@ -7,7 +7,7 @@ year: 2020
 bibkey: fan2020augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.12744"}
-tags: ['Pretraining Methods', 'RAG', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
 ---
 Various machine learning tasks can benefit from access to external
 information of different modalities, such as text and images. Recent work has

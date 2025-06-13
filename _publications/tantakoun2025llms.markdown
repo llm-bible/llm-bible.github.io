@@ -7,7 +7,7 @@ year: 2025
 bibkey: tantakoun2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18971"}
-tags: ['RAG', 'Survey Paper', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Survey Paper', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) excel in various natural language tasks but
 often struggle with long-horizon planning problems requiring structured

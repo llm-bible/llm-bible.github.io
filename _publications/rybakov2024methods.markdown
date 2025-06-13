@@ -7,7 +7,7 @@ year: 2024
 bibkey: rybakov2024methods
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16682"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Training stability of large language models(LLMs) is an important research
 topic. Reproducing training instabilities can be costly, so we use a small

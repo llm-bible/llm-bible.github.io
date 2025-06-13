@@ -7,7 +7,7 @@ year: 2022
 bibkey: del2022true
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10114"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Tools']
+tags: ['RAG', 'Tools', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have demonstrated solid zero-shot reasoning
 capabilities, which is reflected in their performance on the current test

@@ -7,7 +7,7 @@ year: 2025
 bibkey: huo2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01275"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated significant progress in
 multilingual language understanding and generation. However, due to the

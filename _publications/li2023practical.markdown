@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023practical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.13205"}
-tags: ['Efficiency and Optimization', 'Few-Shot', 'Survey Paper', 'Prompting', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'Survey Paper', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 The remarkable advancements in large language models (LLMs) have brought
 about significant improvements in Natural Language Processing(NLP) tasks. This

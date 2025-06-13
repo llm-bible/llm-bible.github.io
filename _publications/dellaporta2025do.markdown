@@ -7,7 +7,7 @@ year: 2025
 bibkey: dellaporta2025do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13656"}
-tags: ['Security', 'Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLMs) have rapidly transformed software development,
 especially in code generation. However, their inconsistent performance, prone

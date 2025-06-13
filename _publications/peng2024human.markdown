@@ -7,7 +7,7 @@ year: 2024
 bibkey: peng2024human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16855"}
-tags: ['Prompting', 'Multimodal Models', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Multimodal Models', 'Prompting', 'Model Architecture']
 ---
 Personalized image generation holds great promise in assisting humans in
 everyday work and life due to its impressive ability to creatively generate

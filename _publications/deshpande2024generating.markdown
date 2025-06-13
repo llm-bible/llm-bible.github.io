@@ -7,7 +7,7 @@ year: 2024
 bibkey: deshpande2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10764"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Pretraining Methods']
 ---
 Language Models have previously shown strong negotiation capabilities in
 closed domains where the negotiation strategy prediction scope is constrained

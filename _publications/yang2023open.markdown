@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06031"}
   - {name: "Code", url: "https://github.com/AI4Finance-Foundation/FinGPT"}
   - {name: "Code", url: "https://github.com/AI4Finance-Foundation/FinNLP"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) have shown the potential of revolutionizing
 natural language processing tasks in diverse domains, sparking great interest

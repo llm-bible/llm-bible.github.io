@@ -8,7 +8,7 @@ bibkey: sun2025armor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06542"}
   - {name: "Code", url: "https://armor.github.io"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Unified models (UniMs) for multimodal understanding and generation have
 recently received much attention in the area of vision and language. Existing

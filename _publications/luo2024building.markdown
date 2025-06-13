@@ -8,7 +8,7 @@ bibkey: luo2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13028"}
   - {name: "Code", url: "https://github.com/suntea233/DuetSim"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 User Simulators play a pivotal role in training and evaluating task-oriented
 dialogue systems. Traditional user simulators typically rely on

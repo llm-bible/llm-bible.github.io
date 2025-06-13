@@ -8,7 +8,7 @@ bibkey: zuo2023incorporating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17133"}
   - {name: "Code", url: "https://github.com/libeineu/MMT-VQA"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 This paper presents an in-depth study of multimodal machine translation
 (MMT), examining the prevailing understanding that MMT systems exhibit

@@ -7,7 +7,7 @@ year: 2025
 bibkey: karanjai2025synthesizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00241"}
-tags: ['Few-Shot', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Prompting', 'In-Context Learning']
+tags: ['Survey Paper', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This paper investigates the use of Large Language Models (LLMs) to synthesize
 public opinion data, addressing challenges in traditional survey methods like

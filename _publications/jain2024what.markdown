@@ -7,7 +7,7 @@ year: 2024
 bibkey: jain2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10264"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Safety fine-tuning helps align Large Language Models (LLMs) with human
 preferences for their safe deployment. To better understand the underlying

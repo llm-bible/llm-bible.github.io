@@ -7,7 +7,7 @@ year: 2025
 bibkey: du2025optimising
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18221"}
-tags: ['Prompting', 'Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
 ---
 This study examines the variability of Chat-GPT machine translation (MT)
 outputs across six different configurations in four languages,with a focus on

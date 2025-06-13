@@ -8,7 +8,7 @@ bibkey: hong2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07311"}
   - {name: "Code", url: "https://github.com/tony-hong/causal-script"}
-tags: ['Model Architecture', 'GPT', 'Has Code', 'Reinforcement Learning']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recently, large pre-trained language models (LLMs) have demonstrated superior
 language understanding abilities, including zero-shot causal reasoning.

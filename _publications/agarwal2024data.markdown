@@ -7,7 +7,7 @@ year: 2024
 bibkey: agarwal2024data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.04425"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) is essential for enhancing their
 performance on specific tasks but is often resource-intensive due to redundant

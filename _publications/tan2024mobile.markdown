@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024mobile
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.13933"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Quantization', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Quantization']
 ---
 Large language models (LLMs) have revolutionized language processing,
 delivering outstanding results across multiple applications. However, deploying

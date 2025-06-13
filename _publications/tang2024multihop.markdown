@@ -8,7 +8,7 @@ bibkey: tang2024multihop
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15391"}
   - {name: "Code", url: "https://github.com/yixuantt/MultiHop-RAG/"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Retrieval-augmented generation (RAG) augments large language models (LLM) by
 retrieving relevant knowledge, showing promising potential in mitigating LLM

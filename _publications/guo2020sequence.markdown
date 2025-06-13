@@ -7,7 +7,7 @@ year: 2020
 bibkey: guo2020sequence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.09039"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite their empirical success, neural networks still have difficulty
 capturing compositional aspects of natural language. This work proposes a

@@ -7,7 +7,7 @@ year: 2023
 bibkey: luukkonen2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05640"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) excel in many tasks in NLP and beyond, but most
 open models have very limited coverage of smaller languages and LLM work tends

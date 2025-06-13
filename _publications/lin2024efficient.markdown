@@ -8,7 +8,7 @@ bibkey: lin2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05165"}
   - {name: "Code", url: "https://github.com/Linxyhaha/AtSpeed"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Has Code']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Model (LLM)-based generative recommendation has achieved
 notable success, yet its practical deployment is costly particularly due to

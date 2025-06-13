@@ -7,7 +7,7 @@ year: 2024
 bibkey: mao2024visually
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.16516"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Prior study shows that pre-training techniques can boost the performance of
 visual document understanding (VDU), which typically requires models to gain

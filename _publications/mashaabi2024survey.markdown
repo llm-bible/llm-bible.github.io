@@ -7,7 +7,7 @@ year: 2024
 bibkey: mashaabi2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20238"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 This survey offers a comprehensive overview of Large Language Models (LLMs)
 designed for Arabic language and its dialects. It covers key architectures,

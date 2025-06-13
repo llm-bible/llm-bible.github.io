@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023augmenting
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2306.03901v2"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) with memory are computationally universal.
 However, mainstream LLMs are not taking full advantage of memory, and the

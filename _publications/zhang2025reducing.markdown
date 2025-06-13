@@ -8,7 +8,7 @@ bibkey: zhang2025reducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07448"}
   - {name: "Code", url: "https://github.com/juzhengz/LoRI"}
-tags: ['Responsible AI', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Low-Rank Adaptation (LoRA) has emerged as a popular parameter-efficient
 fine-tuning (PEFT) method for Large Language Models (LLMs), yet it still incurs

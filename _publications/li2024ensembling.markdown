@@ -8,7 +8,7 @@ bibkey: li2024ensembling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12746"}
   - {name: "Code", url: "https://github.com/limiaoyu/DietCoke"}
-tags: ['Merging', 'Has Code']
+tags: ['Has Code', 'Merging']
 ---
 Knowledge-based Visual Question-answering (K-VQA) often requires the use of
 background knowledge beyond the image. However, we discover that a single

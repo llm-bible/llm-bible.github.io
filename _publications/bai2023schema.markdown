@@ -7,7 +7,7 @@ year: 2023
 bibkey: bai2023schema
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14336"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 In this paper, we explore the question of whether large language models can
 support cost-efficient information extraction from tables. We introduce

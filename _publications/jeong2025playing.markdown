@@ -8,7 +8,7 @@ bibkey: jeong2025playing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20823"}
   - {name: "Code", url: "https://github.com/naver-ai/JOOD"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'GPT', 'Ethics and Bias', 'Has Code']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Has Code', 'Multimodal Models']
 ---
 Despite the remarkable versatility of Large Language Models (LLMs) and
 Multimodal LLMs (MLLMs) to generalize across both language and vision tasks,

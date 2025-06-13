@@ -8,7 +8,7 @@ bibkey: gema2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04127"}
   - {name: "Code", url: "https://huggingface.co/datasets/edinburgh-dawg/mmlu-redux-2.0"}
-tags: ['Has Code', 'Tools']
+tags: ['Tools', 'Has Code']
 ---
 Maybe not. We identify and analyse errors in the popular Massive Multitask
 Language Understanding (MMLU) benchmark. Even though MMLU is widely adopted,

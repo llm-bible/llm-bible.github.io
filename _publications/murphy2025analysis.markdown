@@ -7,7 +7,7 @@ year: 2025
 bibkey: murphy2025analysis
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23415"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'RAG', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Training Techniques']
 ---
 Large Language Models (LLMs) frequently produce factually inaccurate outputs
 - a phenomenon known as hallucination - which limits their accuracy in

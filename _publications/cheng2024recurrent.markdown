@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheng2024recurrent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09919"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Distillation']
 ---
 We present Recurrent Drafter (ReDrafter), an advanced speculative decoding
 approach that achieves state-of-the-art speedup for large language models

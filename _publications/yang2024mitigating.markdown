@@ -8,7 +8,7 @@ bibkey: yang2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13817"}
   - {name: "Code", url: "https://github.com/Ziwei-Zheng/Nullu"}
-tags: ['Prompting', 'Multimodal Models', 'Has Code']
+tags: ['Has Code', 'Multimodal Models', 'Prompting']
 ---
 Recent studies have shown that large vision-language models (LVLMs) often
 suffer from the issue of object hallucinations (OH). To mitigate this issue, we

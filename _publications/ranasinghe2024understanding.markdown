@@ -8,7 +8,7 @@ bibkey: ranasinghe2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.16998"}
   - {name: "Code", url: "https://github.com/kahnchana/mvu"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have allowed recent LLM-based approaches to
 achieve excellent performance on long-video understanding benchmarks. We

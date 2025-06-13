@@ -8,7 +8,7 @@ bibkey: haji2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11527"}
   - {name: "Code", url: "https://github.com/SecureAIAutonomyLab/MA-ToT"}
-tags: ['Agentic', 'Security', 'RAG', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Security', 'Has Code']
 ---
 Multi-agent strategies have emerged as a promising approach to enhance the
 reasoning abilities of Large Language Models (LLMs) by assigning specialized

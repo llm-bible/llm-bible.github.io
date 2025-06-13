@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022relational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.09680"}
-tags: ['WMT', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'WMT', 'Pretraining Methods']
 ---
 We present a memory-augmented approach to condition an autoregressive
 language model on a knowledge graph. We represent the graph as a collection of

@@ -8,7 +8,7 @@ bibkey: zhang2024chemical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06852"}
   - {name: "Code", url: "https://hf.co/AI4Chem"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Has Code']
 ---
 Large language models (LLMs) have made impressive progress in chemistry
 applications. However, the community lacks an LLM specifically designed for

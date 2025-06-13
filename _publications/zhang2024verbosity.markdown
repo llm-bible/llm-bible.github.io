@@ -8,7 +8,7 @@ bibkey: zhang2024verbosity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07858"}
   - {name: "Code", url: "https://github.com/psunlpgroup/VerbosityLLM"}
-tags: ['Model Architecture', 'GPT', 'Has Code']
+tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Although Large Language Models (LLMs) have demonstrated their strong
 capabilities in various tasks, recent work has revealed LLMs also exhibit

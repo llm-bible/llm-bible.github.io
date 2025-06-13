@@ -8,7 +8,7 @@ bibkey: etxaniz2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07302"}
   - {name: "Code", url: "https://github.com/juletx/BertaQA"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'BERT']
 ---
 Large Language Models (LLMs) exhibit extensive knowledge about the world, but
 most evaluations have been limited to global or anglocentric subjects. This

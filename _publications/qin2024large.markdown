@@ -7,7 +7,7 @@ year: 2024
 bibkey: qin2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03359"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Survey Paper', 'RAG', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Tools', 'Survey Paper', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 We introduce LAMPO, a novel paradigm that leverages Large Language Models
 (LLMs) for solving few-shot multi-class ordinal classification tasks. Unlike

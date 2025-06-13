@@ -7,7 +7,7 @@ year: 2019
 bibkey: guo2019reweighted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.12486"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pruning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Recently, pre-trained language representation flourishes as the mainstay of
 the natural language understanding community, e.g., BERT. These pre-trained

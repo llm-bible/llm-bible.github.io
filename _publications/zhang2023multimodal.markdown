@@ -8,7 +8,7 @@ bibkey: zhang2023multimodal
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.00923v5"}
   - {name: "Code", url: "https://github.com/amazon-science/mm-cot"}
-tags: ['Multimodal Models', 'Tools', 'RAG', 'Has Code', 'Prompting']
+tags: ['Tools', 'RAG', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Large language models (LLMs) have shown impressive performance on complex
 reasoning by leveraging chain-of-thought (CoT) prompting to generate

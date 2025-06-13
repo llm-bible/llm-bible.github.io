@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21534"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 In this work, we propose a training-free method to inject visual prompts into
 Multimodal Large Language Models (MLLMs) through test-time optimization of a

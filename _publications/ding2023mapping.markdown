@@ -7,7 +7,7 @@ year: 2023
 bibkey: ding2023mapping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.06430"}
-tags: ['Prompting', 'Language Modeling', 'Applications', 'RAG']
+tags: ['RAG', 'Prompting', 'Language Modeling', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated impressive text generation
 capabilities, prompting us to reconsider the future of human-AI co-creation and

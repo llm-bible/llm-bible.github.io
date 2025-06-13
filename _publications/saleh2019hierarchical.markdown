@@ -7,7 +7,7 @@ year: 2019
 bibkey: saleh2019hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.07547"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Open-domain dialog generation is a challenging problem; maximum likelihood
 training can lead to repetitive outputs, models have difficulty tracking

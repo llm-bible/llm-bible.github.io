@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeng2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19702"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have demonstrated impressive
 performance in short video understanding. However, understanding long-form

@@ -8,7 +8,7 @@ bibkey: dou2021is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.01294"}
   - {name: "Code", url: "https://yao-dou.github.io/scarecrow/"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Modern neural language models can produce remarkably fluent and grammatical
 text. So much, in fact, that recent work by Clark et al. (2021) has reported

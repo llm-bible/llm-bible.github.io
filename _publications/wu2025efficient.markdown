@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14992"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent advances in large language models have demonstrated the effectiveness
 of length scaling during post-training, yet its potential in pre-training

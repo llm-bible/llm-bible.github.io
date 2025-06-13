@@ -7,7 +7,7 @@ year: 2022
 bibkey: li2022composing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.11522"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'RAG', 'Merging', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Multimodal Models']
 ---
 Large pre-trained models exhibit distinct and complementary capabilities
 dependent on the data they are trained on. Language models such as GPT-3 are

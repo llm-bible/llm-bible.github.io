@@ -7,7 +7,7 @@ year: 2023
 bibkey: kou2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.01220"}
-tags: ['Model Architecture', 'GPT', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) have recently been widely used for code
 generation. Due to the complexity and opacity of LLMs, little is known about

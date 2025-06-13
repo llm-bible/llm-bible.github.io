@@ -7,7 +7,7 @@ year: 2024
 bibkey: hawkins2024effect
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15821"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning language models has become increasingly popular following the
 proliferation of open models and improvements in cost-effective parameter

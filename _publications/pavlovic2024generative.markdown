@@ -7,7 +7,7 @@ year: 2024
 bibkey: pavlovic2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.05285"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias']
+tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
 ---
 This study investigates the metacognitive capabilities of Large Language
 Models relative to human metacognition in the context of the International

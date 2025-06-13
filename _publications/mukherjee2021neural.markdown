@@ -7,7 +7,7 @@ year: 2021
 bibkey: mukherjee2021neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.01633"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 State-of-the-art neural models of source code tend to be evaluated on the
 generation of individual expressions and lines of code, and commonly fail on

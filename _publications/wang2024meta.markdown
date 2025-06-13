@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13781"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Despite the remarkable capabilities of large language models (LLMs) in
 natural language understanding and reasoning, they often display undesirable

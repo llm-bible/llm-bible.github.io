@@ -7,7 +7,7 @@ year: 2024
 bibkey: khojah2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14901"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are frequently discussed in academia and the
 general public as support tools for virtually any use case that relies on the

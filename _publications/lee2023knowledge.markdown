@@ -8,7 +8,7 @@ bibkey: lee2023knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18076"}
   - {name: "Code", url: "https://github.com/xfactlab/emnlp2023-knowledge-corpus-error"}
-tags: ['Applications', 'Has Code', 'EMNLP']
+tags: ['EMNLP', 'Has Code', 'Applications']
 ---
 Recent works in open-domain question answering (QA) have explored generating
 context passages from large language models (LLMs), replacing the traditional

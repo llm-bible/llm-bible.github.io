@@ -7,7 +7,7 @@ year: 2025
 bibkey: srinivasan2025performance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05074"}
-tags: ['Prompting', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) have shown significant abilities in retrieving
 medical knowledge, reasoning over it and answering medical questions comparably

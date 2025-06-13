@@ -7,7 +7,7 @@ year: 2023
 bibkey: meng2023representation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.02060"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Masked Language Modeling (MLM) has been one of the most prominent approaches
 for pretraining bidirectional text encoders due to its simplicity and

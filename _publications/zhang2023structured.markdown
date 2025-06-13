@@ -8,7 +8,7 @@ bibkey: zhang2023structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18403"}
   - {name: "Code", url: "https://github.com/aim-uofa/LoRAPrune"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Merging', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Pruning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), such as LLaMA and T5, have shown exceptional
 performance across various tasks through fine-tuning. Although low-rank

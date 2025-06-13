@@ -8,7 +8,7 @@ bibkey: saxena2024eigen
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05646"}
   - {name: "Code", url: "https://github.com/UtkarshSaxena1/EigenAttn"}
-tags: ['Has Code', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) represent a groundbreaking advancement in the
 domain of natural language processing due to their impressive reasoning

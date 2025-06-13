@@ -7,7 +7,7 @@ year: 2024
 bibkey: hübotter2024efficiently
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08020"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent efforts in fine-tuning language models often rely on automatic data
 selection, commonly using Nearest Neighbors retrieval from large datasets.

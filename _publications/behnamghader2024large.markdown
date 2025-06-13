@@ -7,7 +7,7 @@ year: 2024
 bibkey: behnamghader2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05961"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Dataset', 'Attention Mechanism']
+tags: ['GPT', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Dataset']
 ---
 Large decoder-only language models (LLMs) are the state-of-the-art models on
 most of today's NLP tasks and benchmarks. Yet, the community is only slowly

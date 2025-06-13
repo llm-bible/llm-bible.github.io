@@ -8,7 +8,7 @@ bibkey: shi2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12638"}
   - {name: "Code", url: "https://github.com/shijxcs/Candle"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Has Code', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Multimodal Models']
 ---
 Pre-trained vision-language models like CLIP have shown powerful zero-shot
 inference ability via image-text matching and prove to be strong few-shot

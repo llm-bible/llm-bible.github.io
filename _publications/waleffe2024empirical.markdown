@@ -7,7 +7,7 @@ year: 2024
 bibkey: waleffe2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07887"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Selective state-space models (SSMs) like Mamba overcome some of the
 shortcomings of Transformers, such as quadratic computational complexity with

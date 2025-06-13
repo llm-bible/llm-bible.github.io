@@ -7,7 +7,7 @@ year: 2024
 bibkey: bernard2024deterministic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00257"}
-tags: ['Ethics and Bias', 'RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Ethics and Bias', 'Applications']
 ---
 Despite the remarkable coherence of Large Language Models (LLMs), existing
 evaluation methods often suffer from fluency bias and rely heavily on

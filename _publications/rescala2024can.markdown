@@ -8,7 +8,7 @@ bibkey: rescala2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00750"}
   - {name: "Code", url: "https://go.epfl.ch/persuasion-llm)"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 The capabilities of large language models (LLMs) have raised concerns about
 their potential to create and propagate convincing narratives. Here, we study

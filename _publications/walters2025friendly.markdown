@@ -8,7 +8,7 @@ bibkey: walters2025friendly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06781"}
   - {name: "Code", url: "https://github.com/ai16z/eliza"}
-tags: ['Agentic', 'Tools', 'RAG', 'Has Code', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Has Code']
 ---
 AI Agent, powered by large language models (LLMs) as its cognitive core, is
 an intelligent agentic system capable of autonomously controlling and

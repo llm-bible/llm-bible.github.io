@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10648"}
   - {name: "Code", url: "https://huggingface.co/dnotitia/Llama-DNA-1.0-8B-Instruct"}
   - {name: "Code", url: "https://www.dnotitia.com/contact/post-form"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
 ---
 In this report, we present DNA 1.0 8B Instruct, a state-of-the-art bilingual
 language model optimized for Korean and English language tasks. By applying

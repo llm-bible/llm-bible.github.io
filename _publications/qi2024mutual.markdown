@@ -8,7 +8,7 @@ bibkey: qi2024mutual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06195"}
   - {name: "Code", url: "https://github.com/zhentingqi/rStar"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 This paper introduces rStar, a self-play mutual reasoning approach that
 significantly improves reasoning capabilities of small language models (SLMs)

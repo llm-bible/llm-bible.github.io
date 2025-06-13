@@ -7,7 +7,7 @@ year: 2021
 bibkey: van2021cheap
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.04134"}
-tags: ['Training Techniques', 'BERT', 'Model Architecture']
+tags: ['BERT', 'Training Techniques', 'Model Architecture']
 ---
 We propose a simple and effective strategy for data augmentation for
 low-resource machine reading comprehension (MRC). Our approach first pretrains

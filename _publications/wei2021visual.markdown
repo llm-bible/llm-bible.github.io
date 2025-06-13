@@ -7,7 +7,7 @@ year: 2021
 bibkey: wei2021visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.02257"}
-tags: ['Agentic', 'Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Pretraining Methods']
 ---
 When a human asks questions online, or when a conversational virtual agent
 asks human questions, questions triggering emotions or with details might more

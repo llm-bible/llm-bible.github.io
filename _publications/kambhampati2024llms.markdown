@@ -7,7 +7,7 @@ year: 2024
 bibkey: kambhampati2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01817"}
-tags: ['Prompting', 'Merging', 'Tools']
+tags: ['Tools', 'Prompting', 'Merging']
 ---
 There is considerable confusion about the role of Large Language Models
 (LLMs) in planning and reasoning tasks. On one side are over-optimistic claims

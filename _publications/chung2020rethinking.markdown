@@ -7,7 +7,7 @@ year: 2020
 bibkey: chung2020rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.12821"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 We re-evaluate the standard practice of sharing weights between input and
 output embeddings in state-of-the-art pre-trained language models. We show that

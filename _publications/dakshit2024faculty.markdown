@@ -7,7 +7,7 @@ year: 2024
 bibkey: dakshit2024faculty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01462"}
-tags: ['Ethics and Bias', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'RAG', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 The emergence of Large Language Models (LLMs) has significantly impacted the
 field of Natural Language Processing and has transformed conversational tasks

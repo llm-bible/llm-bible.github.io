@@ -8,7 +8,7 @@ bibkey: bao2023bi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08434"}
   - {name: "Code", url: "https://github.com/SAI990323/Grounding4Rec"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot']
 ---
 As the focus on Large Language Models (LLMs) in the field of recommendation
 intensifies, the optimization of LLMs for recommendation purposes (referred to

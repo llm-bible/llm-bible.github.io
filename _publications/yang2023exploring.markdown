@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.03667"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recently, there has been a surge in interest in NLP driven by ChatGPT.
 ChatGPT, a transformer-based generative language model of substantial scale,

@@ -7,7 +7,7 @@ year: 2023
 bibkey: mujadia2023assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09216"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Generative Large Language Models (LLMs) have achieved remarkable advancements
 in various NLP tasks. In this work, our aim is to explore the multilingual

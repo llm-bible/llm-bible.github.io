@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024planning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15915"}
-tags: ['Ethics and Bias', 'Tools']
+tags: ['Tools', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have shown promise in solving natural
 language-described planning tasks, but their direct use often leads to

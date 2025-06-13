@@ -7,7 +7,7 @@ year: 2025
 bibkey: sandwar2025town
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15725"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Model Architecture', 'GPT']
+tags: ['Efficiency and Optimization', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Debate is a commonly used form of human communication catered towards
 problem-solving because of its efficiency. Debate fundamentally allows multiple

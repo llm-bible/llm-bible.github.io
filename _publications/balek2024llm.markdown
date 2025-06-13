@@ -7,7 +7,7 @@ year: 2024
 bibkey: balek2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07132"}
-tags: ['Model Architecture', 'BERT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'BERT', 'Model Architecture']
 ---
 Existing text representations such as embeddings and bag-of-words are not
 suitable for rule learning due to their high dimensionality and absent or

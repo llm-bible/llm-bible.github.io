@@ -7,7 +7,7 @@ year: 2025
 bibkey: bonomo2025visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10834"}
-tags: ['Multimodal Models', 'Training Techniques', 'Few-Shot', 'Tools', 'TACL', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'ACL', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'TACL', 'ACL', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Multimodal Large Language Models (MLLMs) have achieved notable performance in
 computer vision tasks that require reasoning across visual and textual

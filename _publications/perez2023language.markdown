@@ -7,7 +7,7 @@ year: 2023
 bibkey: perez2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.10985"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning']
 ---
 Goal-conditioned and Multi-Task Reinforcement Learning (GCRL and MTRL)
 address numerous problems related to robot learning, including locomotion,

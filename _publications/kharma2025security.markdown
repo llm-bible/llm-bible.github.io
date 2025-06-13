@@ -7,7 +7,7 @@ year: 2025
 bibkey: kharma2025security
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01853"}
-tags: ['Security', 'Tools', 'Reinforcement Learning', 'Merging', 'Applications']
+tags: ['Tools', 'Applications', 'Merging', 'Reinforcement Learning', 'Security']
 ---
 Artificial Intelligence (AI)-driven code generation tools are increasingly
 used throughout the software development lifecycle to accelerate coding tasks.

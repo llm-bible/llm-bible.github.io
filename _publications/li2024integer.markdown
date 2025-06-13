@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024integer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14597"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 We introduce Integer Scale, a novel post-training quantization scheme for
 large language models that effectively resolves the inference bottleneck in

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00862"}
-tags: ['Responsible AI', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture']
 ---
 We present NewsBench, a novel evaluation framework to systematically assess
 the capabilities of Large Language Models (LLMs) for editorial capabilities in

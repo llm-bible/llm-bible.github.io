@@ -7,7 +7,7 @@ year: 2024
 bibkey: satoh2024proceedings
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05339"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Reasoning is an essential component of human intelligence as it plays a
 fundamental role in our ability to think critically, support responsible

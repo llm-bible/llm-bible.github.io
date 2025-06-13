@@ -8,7 +8,7 @@ bibkey: dai2023towards
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.06500v2"}
   - {name: "Code", url: "https://github.com/salesforce/LAVIS/tree/main/projects/instructblip"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large-scale pre-training and instruction tuning have been successful at
 creating general-purpose language models with broad competence. However,

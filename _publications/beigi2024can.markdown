@@ -7,7 +7,7 @@ year: 2024
 bibkey: beigi2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04616"}
-tags: ['Multimodal Models', 'Tools']
+tags: ['Tools', 'Multimodal Models']
 ---
 Traditional fact-checking relies on humans to formulate relevant and targeted
 fact-checking questions (FCQs), search for evidence, and verify the factuality

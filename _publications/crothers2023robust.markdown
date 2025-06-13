@@ -7,7 +7,7 @@ year: 2023
 bibkey: crothers2023robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.06795"}
-tags: ['Masked Language Model', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Masked Language Model', 'Pretraining Methods', 'BERT']
 ---
 A common approach to quantifying neural text classifier interpretability is
 to calculate faithfulness metrics based on iteratively masking salient input

@@ -7,7 +7,7 @@ year: 2024
 bibkey: shi2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01694"}
-tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Distillation', 'Interpretability', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Distillation']
 ---
 This paper tackles the problem of video question answering (VideoQA), a task
 that often requires multi-step reasoning and a profound understanding of

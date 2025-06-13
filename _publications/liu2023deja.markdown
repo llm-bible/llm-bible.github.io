@@ -8,7 +8,7 @@ bibkey: liu2023deja
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17157"}
   - {name: "Code", url: "https://github.com/FMInference/DejaVu"}
-tags: ['Training Techniques', 'Model Architecture', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) with hundreds of billions of parameters have
 sparked a new wave of exciting AI applications. However, they are

@@ -7,7 +7,7 @@ year: 2022
 bibkey: gutiérrez2022thinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.08410"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Survey Paper', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 The strong few-shot in-context learning capability of large pre-trained
 language models (PLMs) such as GPT-3 is highly appealing for application

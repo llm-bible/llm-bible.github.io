@@ -7,7 +7,7 @@ year: 2023
 bibkey: bevilacqua2023when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.14488"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The use of machine learning (ML) models to assess and score textual data has
 become increasingly pervasive in an array of contexts including natural

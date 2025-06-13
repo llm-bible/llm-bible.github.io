@@ -7,7 +7,7 @@ year: 2023
 bibkey: richardson2023commonsense
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.07926"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Large, transformer-based pretrained language models like BERT, GPT, and T5
 have demonstrated a deep understanding of contextual semantics and language

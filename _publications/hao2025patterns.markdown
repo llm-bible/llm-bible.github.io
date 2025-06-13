@@ -7,7 +7,7 @@ year: 2025
 bibkey: hao2025patterns
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03189"}
-tags: ['Pretraining Methods', 'Security', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Controlling the behavior of Large Language Models (LLMs) remains a
 significant challenge due to their inherent complexity and opacity. While

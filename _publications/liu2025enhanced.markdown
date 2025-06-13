@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025enhanced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.08769"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'BERT', 'Interpretability and Explainability']
+tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'BERT']
 ---
 Depressive and anxiety disorders are widespread, necessitating timely
 identification and management. Recent advances in Large Language Models (LLMs)

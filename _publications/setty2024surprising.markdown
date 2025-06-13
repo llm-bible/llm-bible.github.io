@@ -7,7 +7,7 @@ year: 2024
 bibkey: setty2024surprising
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12147"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we explore the challenges associated with establishing an
 end-to-end fact-checking pipeline in a real-world context, covering over 90

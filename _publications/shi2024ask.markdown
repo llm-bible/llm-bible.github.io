@@ -7,7 +7,7 @@ year: 2024
 bibkey: shi2024ask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06575"}
-tags: ['Agentic', 'RAG', 'Applications']
+tags: ['RAG', 'Agentic', 'Applications']
 ---
 Electronic design engineers are challenged to find relevant information
 efficiently for a myriad of tasks within design construction, verification and

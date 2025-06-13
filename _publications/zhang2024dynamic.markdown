@@ -8,7 +8,7 @@ bibkey: zhang2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.00467"}
   - {name: "Code", url: "https://github.com/sqzhang-lazy/D-PoT"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 The advent of large language models (LLMs) has spurred considerable interest
 in advancing autonomous LLMs-based agents, particularly in intriguing

@@ -7,7 +7,7 @@ year: 2024
 bibkey: rao2024multitask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19150"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 The scaling of large language models to encode all the world's knowledge in
 model parameters is unsustainable and has exacerbated resource barriers.

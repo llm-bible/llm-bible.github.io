@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023generation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.11872"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 The remarkable performance of large language models (LLMs) in zero-shot
 language understanding has garnered significant attention. However, employing

@@ -8,7 +8,7 @@ bibkey: chen2024query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19886"}
   - {name: "Code", url: "https://github.com/shuhao02/RouterDC"}
-tags: ['Pretraining Methods', 'Has Code']
+tags: ['Has Code', 'Pretraining Methods']
 ---
 Recent works show that assembling multiple off-the-shelf large language
 models (LLMs) can harness their complementary abilities. To achieve this,

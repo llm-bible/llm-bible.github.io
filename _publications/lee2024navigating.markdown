@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13919"}
-tags: ['Language Modeling', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Applications', 'Tools', 'Language Modeling', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have impacted the writing process, enhancing
 productivity by collaborating with humans in content creation platforms.

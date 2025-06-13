@@ -7,7 +7,7 @@ year: 2025
 bibkey: alhoshan2025how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16768"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 In recent years, transformer-based large language models (LLMs) have
 revolutionised natural language processing (NLP), with generative models

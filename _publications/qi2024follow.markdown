@@ -7,7 +7,7 @@ year: 2024
 bibkey: qi2024follow
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17840"}
-tags: ['Security', 'Model Architecture', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Security', 'Prompting']
 ---
 Retrieval-Augmented Generation (RAG) improves pre-trained models by
 incorporating external knowledge at test time to enable customized adaptation.

@@ -7,7 +7,7 @@ year: 2023
 bibkey: baykal2023alternating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.13310"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 It has been well established that increasing scale in deep transformer
 networks leads to improved quality and performance. However, this increase in

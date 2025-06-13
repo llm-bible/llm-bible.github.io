@@ -8,7 +8,7 @@ bibkey: colakoglu2025problem
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18179"}
   - {name: "Code", url: "https://github.com/gayecolakoglu/LayIE-LLM"}
-tags: ['Prompting', 'Multimodal Models', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Multimodal Models', 'Prompting', 'Has Code']
 ---
 This paper defines and explores the design space for information extraction
 (IE) from layout-rich documents using large language models (LLMs). The three

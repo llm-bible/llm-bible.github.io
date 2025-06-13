@@ -8,7 +8,7 @@ bibkey: dong2024understand
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18676"}
   - {name: "Code", url: "https://github.com/dongguanting/DPA-RAG"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Retrieval-augmented generation (RAG) has demonstrated effectiveness in
 mitigating the hallucination problem of large language models (LLMs). However,

@@ -7,7 +7,7 @@ year: 2023
 bibkey: bhattacharyya2023remember
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.17778"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Multi-modal language models (LM) have recently shown promising performance in
 high-level reasoning tasks on videos. However, existing methods still fall

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhai2025optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19988"}
-tags: ['RAG', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Text-to-SQL demands precise reasoning to convert natural language questions
 into structured queries. While large language models (LLMs) excel in many

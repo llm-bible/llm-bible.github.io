@@ -7,7 +7,7 @@ year: 2024
 bibkey: akter2024math
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12881"}
-tags: ['Pretraining Methods', 'Training Techniques']
+tags: ['Training Techniques', 'Pretraining Methods']
 ---
 The utility of synthetic data to enhance pretraining data quality and hence
 to improve downstream task accuracy has been widely explored in recent large

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024realistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03658"}
-tags: ['Security', 'Applications', 'RAG']
+tags: ['RAG', 'Security', 'Applications']
 ---
 Large language models (LLMs) have exhibited remarkable fluency across various
 tasks. However, their unethical applications, such as disseminating

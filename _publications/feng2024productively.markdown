@@ -7,7 +7,7 @@ year: 2024
 bibkey: feng2024productively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09151"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'Applications']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging']
 ---
 While existing machine learning (ML) frameworks focus on established
 platforms, like running CUDA on server-grade GPUs, there have been growing

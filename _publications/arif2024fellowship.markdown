@@ -7,7 +7,7 @@ year: 2024
 bibkey: arif2024fellowship
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08688"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Prompting']
 ---
 This paper presents a novel methodology for generating synthetic Preference
 Optimization (PO) datasets using multi-agent workflows. We evaluate the

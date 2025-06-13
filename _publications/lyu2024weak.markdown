@@ -7,7 +7,7 @@ year: 2024
 bibkey: lyu2024weak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07672"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 As large language models (LLMs) are rapidly advancing and achieving
 near-human capabilities on specific tasks, aligning them with human values is

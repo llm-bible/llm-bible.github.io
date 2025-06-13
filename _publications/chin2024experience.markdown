@@ -7,7 +7,7 @@ year: 2024
 bibkey: chin2024experience
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16769"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Prompting']
 ---
 Text-to-image (T2I) models have shown remarkable progress, but their
 potential to generate harmful content remains a critical concern in the ML

@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15166"}
-tags: ['Multimodal Models', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Visual reasoning requires multimodal perception and commonsense cognition of
 the world. Recently, multiple vision-language models (VLMs) have been proposed

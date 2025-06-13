@@ -7,7 +7,7 @@ year: 2024
 bibkey: dechezelles2024browsergym
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05467"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 The BrowserGym ecosystem addresses the growing need for efficient evaluation
 and benchmarking of web agents, particularly those leveraging automation and

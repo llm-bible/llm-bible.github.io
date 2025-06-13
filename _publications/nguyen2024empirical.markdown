@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03611"}
-tags: ['Security', 'Training Techniques', 'Tools', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Security', 'Training Techniques']
 ---
 Large Language Models for Code (code LLMs) have demonstrated remarkable
 performance across various software engineering (SE) tasks, increasing the

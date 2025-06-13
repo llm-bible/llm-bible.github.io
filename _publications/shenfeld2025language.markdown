@@ -7,7 +7,7 @@ year: 2025
 bibkey: shenfeld2025language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06358"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Modern large language models (LLMs) are optimized for human-aligned responses
 using Reinforcement Learning from Human Feedback (RLHF). However, existing RLHF

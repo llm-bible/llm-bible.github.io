@@ -7,7 +7,7 @@ year: 2025
 bibkey: yifeng2025swallowing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18518"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'Distillation', 'Quantization']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Quantization', 'Distillation']
 ---
 Modern large language models (LLMs) exhibit critical vulnerabilities to
 poison pill attacks: localized data poisoning that alters specific factual

@@ -7,7 +7,7 @@ year: 2022
 bibkey: yuan2022can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.06442"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Acquiring factual knowledge with Pretrained Language Models (PLMs) has
 attracted increasing attention, showing promising performance in many

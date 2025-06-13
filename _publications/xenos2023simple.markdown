@@ -8,7 +8,7 @@ bibkey: xenos2023simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13570"}
   - {name: "Code", url: "https://github.com/alexandrosXe/ASimple-Baseline-For-Knowledge-Based-VQA"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 This paper is on the problem of Knowledge-Based Visual Question Answering
 (KB-VQA). Recent works have emphasized the significance of incorporating both

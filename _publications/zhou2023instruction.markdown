@@ -8,7 +8,7 @@ bibkey: zhou2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07911"}
   - {name: "Code", url: "https://github.com/google-research/google-research/tree/master/instruction_following_eval"}
-tags: ['Prompting', 'Ethics and Bias', 'Has Code']
+tags: ['Has Code', 'Prompting', 'Ethics and Bias']
 ---
 One core capability of Large Language Models (LLMs) is to follow natural
 language instructions. However, the evaluation of such abilities is not

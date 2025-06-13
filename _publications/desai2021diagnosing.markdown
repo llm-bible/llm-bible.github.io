@@ -7,7 +7,7 @@ year: 2021
 bibkey: desai2021diagnosing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.13496"}
-tags: ['Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Modern task-oriented semantic parsing approaches typically use seq2seq
 transformers to map textual utterances to semantic frames comprised of intents

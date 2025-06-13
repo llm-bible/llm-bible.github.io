@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025trapped
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02074"}
-tags: ['Responsible AI', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Functional fixedness, a cognitive bias that restricts users' interactions
 with a new system or tool to expected or familiar ways, limits the full

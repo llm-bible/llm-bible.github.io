@@ -7,7 +7,7 @@ year: 2024
 bibkey: robinson2024al
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04193"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot']
 ---
 Dialectal Arabic (DA) varieties are under-served by language technologies,
 particularly large language models (LLMs). This trend threatens to exacerbate

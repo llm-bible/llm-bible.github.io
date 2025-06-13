@@ -7,7 +7,7 @@ year: 2022
 bibkey: yan2022probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.12529"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Hallucination, one kind of pathological translations that bothers Neural
 Machine Translation, has recently drawn much attention. In simple terms,

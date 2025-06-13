@@ -7,7 +7,7 @@ year: 2022
 bibkey: andreas2022comparative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.08687"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The recent development of language models has shown promising results by
 achieving state-of-the-art performance on various natural language tasks by

@@ -7,7 +7,7 @@ year: 2023
 bibkey: krishna2023intersection
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.02801"}
-tags: ['Ethics and Bias', 'Interpretability']
+tags: ['Interpretability', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 performing complex cognitive tasks. However, their complexity and lack of

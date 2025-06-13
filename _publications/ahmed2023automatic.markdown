@@ -7,7 +7,7 @@ year: 2023
 bibkey: ahmed2023automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.06815"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLM) are a new class of computation engines,
 "programmed" via prompt engineering. We are still learning how to best

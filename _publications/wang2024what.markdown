@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03450"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Interpretability and Explainability', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 Machine translation (MT) has historically faced significant challenges when
 applied to literary works, particularly in the domain of poetry translation.

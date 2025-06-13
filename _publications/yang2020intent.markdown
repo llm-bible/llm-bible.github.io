@@ -7,7 +7,7 @@ year: 2020
 bibkey: yang2020intent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.00571"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
 ---
 Personal assistant systems, such as Apple Siri, Google Assistant, Amazon
 Alexa, and Microsoft Cortana, are becoming ever more widely used. Understanding

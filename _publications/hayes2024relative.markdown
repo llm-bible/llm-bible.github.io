@@ -7,7 +7,7 @@ year: 2024
 bibkey: hayes2024relative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14530"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Studies of reinforcement learning in humans and animals have demonstrated a
 preference for options that yielded relatively better outcomes in the past,

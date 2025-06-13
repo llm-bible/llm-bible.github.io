@@ -8,7 +8,7 @@ bibkey: ying2024internlm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06332"}
   - {name: "Code", url: "https://github.com/InternLM/InternLM-Math"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The math abilities of large language models can represent their abstract
 reasoning ability. In this paper, we introduce and open-source our math

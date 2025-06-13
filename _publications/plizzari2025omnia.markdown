@@ -8,7 +8,7 @@ bibkey: plizzari2025omnia
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13646"}
   - {name: "Code", url: "https://github.com/google-research-datasets/egotempo.git"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 Understanding fine-grained temporal dynamics is crucial in egocentric videos,
 where continuous streams capture frequent, close-up interactions with objects.

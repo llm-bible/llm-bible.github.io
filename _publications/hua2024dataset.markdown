@@ -7,7 +7,7 @@ year: 2024
 bibkey: hua2024dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12843"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Accurate nutrition estimation helps people make informed dietary choices and
 is essential in the prevention of serious health complications. We present

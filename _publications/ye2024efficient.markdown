@@ -7,7 +7,7 @@ year: 2024
 bibkey: ye2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.07883"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision Transformers (ViTs) have become increasingly popular in large-scale
 Vision and Language Pre-training (VLP) models. Although previous VLP research

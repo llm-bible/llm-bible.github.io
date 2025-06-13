@@ -7,7 +7,7 @@ year: 2023
 bibkey: bujel2023finding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.07991"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Long-sequence transformers are designed to improve the representation of
 longer texts by language models and their performance on downstream

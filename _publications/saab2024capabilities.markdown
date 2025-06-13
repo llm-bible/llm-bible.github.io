@@ -7,7 +7,7 @@ year: 2024
 bibkey: saab2024capabilities
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18416"}
-tags: ['Responsible AI', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Responsible AI', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Excellence in a wide variety of medical applications poses considerable
 challenges for AI, requiring advanced reasoning, access to up-to-date medical

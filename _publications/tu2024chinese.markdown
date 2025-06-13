@@ -8,7 +8,7 @@ bibkey: tu2024chinese
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.01275"}
   - {name: "Code", url: "https://github.com/morecry/CharacterEval"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Attention Mechanism']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 Recently, the advent of large language models (LLMs) has revolutionized
 generative agents. Among them, Role-Playing Conversational Agents (RPCAs)

@@ -7,7 +7,7 @@ year: 2023
 bibkey: menon2023generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04552"}
-tags: ['Multimodal Models', 'Merging', 'Applications']
+tags: ['Multimodal Models', 'Applications', 'Merging']
 ---
 We introduce the new task of generating Illustrated Instructions, i.e.,
 visual instructions customized to a user's needs. We identify desiderata unique

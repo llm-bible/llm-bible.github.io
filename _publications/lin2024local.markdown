@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024local
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.17588"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Merging']
+tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Merging']
 ---
 The context in conversation is the dialog history crucial for multi-turn
 dialogue. Learning from the relevant contexts in dialog history for grounded

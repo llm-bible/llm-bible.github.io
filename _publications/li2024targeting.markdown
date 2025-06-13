@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024targeting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04415"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Model Architecture', 'Fairness', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability']
+tags: ['Responsible AI', 'Agentic', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Interpretability', 'Security', 'Fairness']
 ---
 AI agents, powered by large language models (LLMs), have transformed
 human-computer interactions by enabling seamless, natural, and context-aware

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zha2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05796"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Tokenization', 'RAG', 'Merging', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Merging', 'Tokenization', 'Pretraining Methods']
 ---
 Image tokenization, the process of transforming raw image pixels into a
 compact low-dimensional latent representation, has proven crucial for scalable

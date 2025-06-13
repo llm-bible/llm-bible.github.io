@@ -7,7 +7,7 @@ year: 2024
 bibkey: kwon2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13550"}
-tags: ['Agentic', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 A successful negotiation requires a range of capabilities, including
 comprehension of the conversation context, Theory-of-Mind (ToM) skills to infer

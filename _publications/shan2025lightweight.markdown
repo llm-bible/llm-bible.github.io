@@ -7,7 +7,7 @@ year: 2025
 bibkey: shan2025lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.04844"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Retrieval-Augmented Generation (RAG) systems have gained widespread adoption
 by application builders because they leverage sources of truth to enable Large

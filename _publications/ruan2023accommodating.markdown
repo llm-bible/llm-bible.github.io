@@ -7,7 +7,7 @@ year: 2023
 bibkey: ruan2023accommodating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.06591"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal processing has attracted much attention lately especially with the
 success of pre-training. However, the exploration has mainly focused on

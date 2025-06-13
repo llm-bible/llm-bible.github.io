@@ -7,7 +7,7 @@ year: 2022
 bibkey: drori2022from
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2206.05442v7"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 A final exam in machine learning at a top institution such as MIT, Harvard,
 or Cornell typically takes faculty days to write, and students hours to solve.

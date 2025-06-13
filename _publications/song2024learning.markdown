@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13116"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Developing effective text summarizers remains a challenge due to issues like
 hallucinations, key information omissions, and verbosity in LLM-generated

@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023cached
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12742"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Training Techniques', 'Pretraining Methods']
 ---
 This work introduces a new Transformer model called Cached Transformer, which
 uses Gated Recurrent Cached (GRC) attention to extend the self-attention

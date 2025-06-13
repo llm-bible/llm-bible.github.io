@@ -7,7 +7,7 @@ year: 2024
 bibkey: duan2024prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04869"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 The utilization of Large Language Models (LLMs) within the realm of
 reinforcement learning, particularly as planners, has garnered a significant

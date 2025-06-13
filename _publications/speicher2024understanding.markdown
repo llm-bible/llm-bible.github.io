@@ -7,7 +7,7 @@ year: 2024
 bibkey: speicher2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19262"}
-tags: ['Prompting', 'Training Techniques', 'In-Context Learning', 'Tools']
+tags: ['Training Techniques', 'Prompting', 'In-Context Learning', 'Tools']
 ---
 Understanding whether and to what extent large language models (LLMs) have
 memorised training data has important implications for the reliability of their

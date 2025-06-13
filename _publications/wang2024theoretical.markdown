@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024theoretical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18634"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Going beyond mimicking limited human experiences, recent studies show initial
 evidence that, like humans, large language models (LLMs) are capable of

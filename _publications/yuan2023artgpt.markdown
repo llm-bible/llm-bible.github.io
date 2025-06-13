@@ -8,7 +8,7 @@ bibkey: yuan2023artgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.07490"}
   - {name: "Code", url: "https://github.com/DLYuanGod/ArtGPT-4"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 The success of large language models (LLMs) has inspired an emerging research
 field of multimodal learning. However, a grand challenge of exploiting LLMs for

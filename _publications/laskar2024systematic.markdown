@@ -7,7 +7,7 @@ year: 2024
 bibkey: laskar2024systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04069"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) have recently gained significant attention due
 to their remarkable capabilities in performing diverse tasks across various

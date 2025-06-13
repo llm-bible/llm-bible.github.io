@@ -7,7 +7,7 @@ year: 2025
 bibkey: gajjar2025oransight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.05200"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 Despite the transformative impact of Large Language Models (LLMs) across
 critical domains such as healthcare, customer service, and business marketing,

@@ -7,7 +7,7 @@ year: 2021
 bibkey: cobbe2021training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.14168"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 State-of-the-art language models can match human performance on many tasks,
 but they still struggle to robustly perform multi-step mathematical reasoning.

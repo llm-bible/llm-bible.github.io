@@ -7,7 +7,7 @@ year: 2023
 bibkey: diallo2023comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.07772"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 In recent years, the field of neural machine translation (NMT) for SPARQL
 query generation has witnessed significant growth. Incorporating the copy

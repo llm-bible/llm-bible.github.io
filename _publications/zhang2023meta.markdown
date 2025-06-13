@@ -8,7 +8,7 @@ bibkey: zhang2023meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11482"}
   - {name: "Code", url: "https://github.com/meta-prompting/meta-prompting"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We introduce Meta Prompting (MP), a prompting paradigm designed to enhance
 the utilization of large language models (LLMs) and AI systems in complex

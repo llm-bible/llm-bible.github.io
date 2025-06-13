@@ -7,7 +7,7 @@ year: 2024
 bibkey: maini2024rephrasing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16380"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Large-Scale Training', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws', 'Prompting']
 ---
 Large language models are trained on massive scrapes of the web, which are
 often unstructured, noisy, and poorly phrased. Current scaling laws show that

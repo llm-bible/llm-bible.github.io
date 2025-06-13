@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14624"}
-tags: ['Model Architecture', 'GPT', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture']
 ---
 The remarkable progress of Multi-modal Large Language Models (MLLMs) has
 garnered unparalleled attention, due to their superior performance in visual

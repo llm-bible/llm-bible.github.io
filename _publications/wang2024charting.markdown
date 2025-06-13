@@ -8,7 +8,7 @@ bibkey: wang2024charting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18521"}
   - {name: "Code", url: "https://charxiv.github.io/"}
-tags: ['Arxiv', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Arxiv']
 ---
 Chart understanding plays a pivotal role when applying Multimodal Large
 Language Models (MLLMs) to real-world tasks such as analyzing scientific papers

@@ -8,7 +8,7 @@ bibkey: cheng2025hkcanto
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.12440"}
   - {name: "Code", url: "https://github.com/hon9kon9ize/hkeval2025"}
-tags: ['Training Techniques', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
 ---
 The ability of language models to comprehend and interact in diverse
 linguistic and cultural landscapes is crucial. The Cantonese language used in

@@ -8,7 +8,7 @@ bibkey: ansell2023distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.01709"}
   - {name: "Code", url: "https://github.com/AlanAnsell/bistil"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Massively multilingual Transformers (MMTs), such as mBERT and XLM-R, are
 widely used for cross-lingual transfer learning. While these are pretrained to

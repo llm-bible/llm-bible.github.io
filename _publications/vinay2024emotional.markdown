@@ -7,7 +7,7 @@ year: 2024
 bibkey: vinay2024emotional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03550"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'GPT', 'Ethics and Bias', 'Interpretability', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Interpretability', 'Prompting']
 ---
 This study investigates the generation of synthetic disinformation by
 OpenAI's Large Language Models (LLMs) through prompt engineering and explores

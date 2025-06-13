@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024retrieve
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03227"}
-tags: ['Applications', 'Tools']
+tags: ['Tools', 'Applications']
 ---
 The context window of large language models (LLMs) has been extended
 significantly in recent years. However, while the context length that the LLM

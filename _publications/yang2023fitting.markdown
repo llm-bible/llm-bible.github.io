@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023fitting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18347"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The Retrieval Question Answering (ReQA) task employs the retrieval-augmented
 framework, composed of a retriever and generator. The generator formulates the

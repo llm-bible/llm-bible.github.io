@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025audio
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14727"}
-tags: ['RAG', 'INTERSPEECH', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'INTERSPEECH', 'Reinforcement Learning', 'Tools']
 ---
 Retrieval Augmented Generation (RAG) has gained widespread adoption owing to
 its capacity to empower large language models (LLMs) to integrate external

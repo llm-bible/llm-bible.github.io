@@ -7,7 +7,7 @@ year: 2025
 bibkey: shen2025qwenlong
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.18092"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'GPT', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Language Modeling', 'Attention Mechanism']
 ---
 This technical report presents QwenLong-CPRS, a context compression framework designed for explicit long-context optimization, addressing prohibitive computation overhead during the prefill stage and the "lost in the middle" performance degradation of large language models (LLMs) during long sequence processing. Implemented through a novel dynamic context optimization mechanism, QwenLong-CPRS enables multi-granularity context compression guided by natural language instructions, achieving both efficiency gains and improved performance.
   Evolved from the Qwen architecture series, QwenLong-CPRS introduces four key innovations: (1) Natural language-guided dynamic optimization, (2) Bidirectional reasoning layers for enhanced boundary awareness, (3) Token critic mechanisms with language modeling heads, and (4) Window-parallel inference.

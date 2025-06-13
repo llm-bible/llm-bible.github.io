@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12022"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 Existing approaches to mathematical reasoning with large language models
 (LLMs) rely on Chain-of-Thought (CoT) for generalizability or Tool-Integrated

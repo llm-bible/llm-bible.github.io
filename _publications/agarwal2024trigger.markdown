@@ -7,7 +7,7 @@ year: 2024
 bibkey: agarwal2024trigger
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01714"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism']
 ---
 Data-to-text (D2T) generation is a crucial task in many natural language
 understanding (NLU) applications and forms the foundation of task-oriented

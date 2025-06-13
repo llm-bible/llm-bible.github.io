@@ -8,7 +8,7 @@ bibkey: tao2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14387"}
   - {name: "Code", url: "https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/Awesome-Self-Evolution-of-LLM"}
-tags: ['Agentic', 'Training Techniques', 'Survey Paper', 'Tools', 'Has Code', 'Applications']
+tags: ['Agentic', 'Tools', 'Survey Paper', 'Applications', 'Training Techniques', 'Has Code']
 ---
 Large language models (LLMs) have significantly advanced in various fields
 and intelligent agent applications. However, current LLMs that learn from human

@@ -7,7 +7,7 @@ year: 2025
 bibkey: yin2025detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09893"}
-tags: ['Efficiency and Optimization', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Task execution for object rearrangement could be challenged by Task-Level
 Perturbations (TLP), i.e., unexpected object additions, removals, and

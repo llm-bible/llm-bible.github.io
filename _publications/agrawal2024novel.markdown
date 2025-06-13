@@ -7,7 +7,7 @@ year: 2024
 bibkey: agrawal2024novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05127"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This paper introduces a novel paradigm for depression detection and treatment
 using advanced Large Language Models (LLMs): Generative Pre-trained Transformer

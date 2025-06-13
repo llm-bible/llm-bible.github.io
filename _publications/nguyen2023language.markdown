@@ -7,7 +7,7 @@ year: 2023
 bibkey: nguyen2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17760"}
-tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'RAG', 'Agentic', 'Reinforcement Learning']
 ---
 How do language models "think"? This paper formulates a probabilistic
 cognitive model called the bounded pragmatic speaker, which can characterize

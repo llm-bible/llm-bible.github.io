@@ -8,7 +8,7 @@ bibkey: khattak2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03690"}
   - {name: "Code", url: "https://mbzuai-oryx.github.io/CVRR-Evaluation-Suite/"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Recent advancements in Large Language Models (LLMs) have led to the
 development of Video Large Multi-modal Models (Video-LMMs) that can handle a

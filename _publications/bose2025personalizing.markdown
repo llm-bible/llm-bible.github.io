@@ -7,7 +7,7 @@ year: 2025
 bibkey: bose2025personalizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14439"}
-tags: ['Agentic', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Few-Shot']
 ---
 Personalizing large language models (LLMs) to accommodate diverse user
 preferences is essential for enhancing alignment and user satisfaction.

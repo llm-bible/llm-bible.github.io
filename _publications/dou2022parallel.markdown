@@ -7,7 +7,7 @@ year: 2022
 bibkey: dou2022parallel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.03237"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Attention-based autoregressive models have achieved state-of-the-art
 performance in various sequence-to-sequence tasks, including Text-To-Speech

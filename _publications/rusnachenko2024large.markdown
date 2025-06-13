@@ -8,7 +8,7 @@ bibkey: rusnachenko2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12342"}
   - {name: "Code", url: "https://github.com/nicolay-r/Reasoning-for-Sentiment-Analysis-Framework"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 In this paper we investigate the use of decoder-based generative transformers
 for extracting sentiment towards the named entities in Russian news articles.

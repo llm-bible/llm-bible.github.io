@@ -7,7 +7,7 @@ year: 2024
 bibkey: joshi2024coding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05674"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) present an opportunity to create automated
 assistants that can help users navigate complex tasks. However, existing

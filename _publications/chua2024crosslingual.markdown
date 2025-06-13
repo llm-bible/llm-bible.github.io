@@ -8,7 +8,7 @@ bibkey: chua2024crosslingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16135"}
   - {name: "Code", url: "https://github.com/google-research/crosslingual-knowledge-barriers"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) are typically multilingual due to pretraining on
 diverse multilingual corpora. But can these models relate corresponding

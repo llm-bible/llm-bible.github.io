@@ -8,7 +8,7 @@ bibkey: song2024better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09972"}
   - {name: "Code", url: "https://github.com/LinxinS97/Mask-LRP"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Transformer-based models excel in various natural language processing (NLP)
 tasks, attracting countless efforts to explain their inner workings. Prior

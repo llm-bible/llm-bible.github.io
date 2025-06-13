@@ -7,7 +7,7 @@ year: 2023
 bibkey: saha2023can
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2306.09299v2"}
-tags: ['Agentic', 'Few-Shot', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Agentic', 'Tools']
 ---
 A hallmark property of explainable AI models is the ability to teach other
 agents, communicating knowledge of how to perform a task. While Large Language

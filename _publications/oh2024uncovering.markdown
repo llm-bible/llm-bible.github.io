@@ -7,7 +7,7 @@ year: 2024
 bibkey: oh2024uncovering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06965"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 Despite advancements in Large Language Model (LLM) alignment, understanding
 the reasons behind LLM preferences remains crucial for bridging the gap between

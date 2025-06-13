@@ -7,7 +7,7 @@ year: 2024
 bibkey: deshpande2024class
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01573"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
 ---
 LLMs have demonstrated significant potential in code generation tasks,
 achieving promising results at the function or statement level across various

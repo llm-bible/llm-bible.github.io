@@ -8,7 +8,7 @@ bibkey: mai2025real
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04877"}
   - {name: "Code", url: "https://github.com/mailong25/rts2s-dg"}
-tags: ['Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have led to significant
 progress in text-based dialogue systems. These systems can now generate

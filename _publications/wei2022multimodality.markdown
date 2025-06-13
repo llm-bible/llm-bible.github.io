@@ -7,7 +7,7 @@ year: 2022
 bibkey: wei2022multimodality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.05175"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recently, masked image modeling (MIM) has become a promising direction for
 visual pre-training. In the context of vision transformers, MIM learns

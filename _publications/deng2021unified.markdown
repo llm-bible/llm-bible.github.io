@@ -7,7 +7,7 @@ year: 2021
 bibkey: deng2021unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.06379"}
-tags: ['Training Techniques', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Training Techniques', 'Applications', 'Reinforcement Learning']
 ---
 Natural language generation (NLG) spans a broad range of tasks, each of which
 serves for specific objectives and desires different properties of generated

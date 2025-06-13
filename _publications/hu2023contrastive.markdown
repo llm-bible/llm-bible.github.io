@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023contrastive
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2309.02301v2"}
-tags: ['RAG', 'Applications', 'Fine-Tuning', 'Multimodal Models']
+tags: ['Fine-Tuning', 'RAG', 'Multimodal Models', 'Applications']
 ---
 Nowadays, the research on Large Vision-Language Models (LVLMs) has been
 significantly promoted thanks to the success of Large Language Models (LLM).

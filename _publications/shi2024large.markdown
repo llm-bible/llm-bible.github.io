@@ -8,7 +8,7 @@ bibkey: shi2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17686"}
   - {name: "Code", url: "https://github.com/tjunlp-lab/Awesome-LLM-Safety-Papers"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Has Code', 'Interpretability and Explainability', 'Applications']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Security', 'Has Code']
 ---
 The rapid development and deployment of large language models (LLMs) have
 introduced a new frontier in artificial intelligence, marked by unprecedented

@@ -7,7 +7,7 @@ year: 2023
 bibkey: gur2023real
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.12856"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Pre-trained large language models (LLMs) have recently achieved better
 generalization and sample efficiency in autonomous web automation. However, the

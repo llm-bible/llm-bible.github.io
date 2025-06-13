@@ -7,7 +7,7 @@ year: 2025
 bibkey: tong2025dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02983"}
-tags: ['Multimodal Models', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
 ---
 Metaphor and humor share a lot of common ground, and metaphor is one of the
 most common humorous mechanisms. This study focuses on the humorous capacity of

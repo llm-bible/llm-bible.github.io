@@ -8,7 +8,7 @@ bibkey: huang2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12571"}
   - {name: "Code", url: "https://github.com/ali-vilab/ChatDiT"}
-tags: ['Agentic', 'Arxiv', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Arxiv']
 ---
 Recent research arXiv:2410.15027 arXiv:2410.23775 has highlighted the
 inherent in-context generation capabilities of pretrained diffusion

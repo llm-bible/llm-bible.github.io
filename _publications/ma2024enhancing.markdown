@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15472"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Interpretability and Explainability', 'Applications']
+tags: ['GPT', 'Survey Paper', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning']
 ---
 The integration of ChatGPT as a supportive tool in education, notably in
 programming courses, addresses the unique challenges of programming education

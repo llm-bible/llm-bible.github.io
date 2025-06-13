@@ -8,7 +8,7 @@ bibkey: sohn2024rationale
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00300"}
   - {name: "Code", url: "https://github.com/dmis-lab/RAG2"}
-tags: ['Tools', 'RAG', 'Ethics and Bias', 'Has Code', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Has Code']
 ---
 Large language models (LLM) hold significant potential for applications in
 biomedicine, but they struggle with hallucinations and outdated knowledge.

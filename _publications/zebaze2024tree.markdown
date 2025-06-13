@@ -8,7 +8,7 @@ bibkey: zebaze2024tree
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06634"}
   - {name: "Code", url: "https://github.com/ArmelRandy/tree-of-problems"}
-tags: ['Prompting', 'Has Code', 'In-Context Learning', 'Reinforcement Learning']
+tags: ['Has Code', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 multiple tasks through in-context learning. For complex reasoning tasks that

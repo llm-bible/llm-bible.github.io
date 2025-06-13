@@ -7,7 +7,7 @@ year: 2024
 bibkey: pahilajani2024nlp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03150"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'BERT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This paper presents our submission to the SemEval 2024 Task 5: The Legal
 Argument Reasoning Task in Civil Procedure. We present two approaches to

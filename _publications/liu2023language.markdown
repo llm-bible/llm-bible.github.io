@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05950"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Vision-language models (VLMs) pre-trained on web-scale datasets have
 demonstrated remarkable capabilities on downstream tasks when fine-tuned with

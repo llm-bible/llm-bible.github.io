@@ -7,7 +7,7 @@ year: 2024
 bibkey: raina2024finetuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15979"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 Automated assessment in natural language generation is a challenging task.
 Instruction-tuned large language models (LLMs) have shown promise in

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024finding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16012"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Metaphors are considered to pose challenges for a wide spectrum of NLP tasks.
 This gives rise to the area of computational metaphor processing. However, it

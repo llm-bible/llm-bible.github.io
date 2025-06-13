@@ -7,7 +7,7 @@ year: 2020
 bibkey: tafjord2020generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.13048"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Transformers have been shown to emulate logical deduction over natural
 language theories (logical rules expressed in natural language), reliably

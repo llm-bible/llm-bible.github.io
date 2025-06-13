@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025hd
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09554"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 With the rapid advancement of large language models (LLMs),
 Retrieval-Augmented Generation (RAG) effectively combines LLMs generative

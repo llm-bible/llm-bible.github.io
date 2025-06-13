@@ -7,7 +7,7 @@ year: 2023
 bibkey: kumar2023bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17740"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have revolutionized various domains but still
 struggle with non-Latin scripts and low-resource languages. This paper

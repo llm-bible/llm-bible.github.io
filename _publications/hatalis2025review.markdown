@@ -7,7 +7,7 @@ year: 2025
 bibkey: hatalis2025review
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06943"}
-tags: ['Agentic', 'RAG', 'Survey Paper', 'Tools']
+tags: ['RAG', 'Agentic', 'Survey Paper', 'Tools']
 ---
 Agents powered by Large Language Models (LLMs) have recently demonstrated
 impressive capabilities in various tasks. Still, they face limitations in tasks

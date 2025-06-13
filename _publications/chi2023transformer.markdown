@@ -7,7 +7,7 @@ year: 2023
 bibkey: chi2023transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03796"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Unlike recurrent models, conventional wisdom has it that Transformers cannot
 perfectly model regular languages. Inspired by the notion of working memory, we

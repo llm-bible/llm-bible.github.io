@@ -7,7 +7,7 @@ year: 2024
 bibkey: thulke2024prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18624"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 This paper explores the rapid development of a telephone call summarization
 system utilizing large language models (LLMs). Our approach involves initial

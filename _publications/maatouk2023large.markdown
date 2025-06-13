@@ -7,7 +7,7 @@ year: 2023
 bibkey: maatouk2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.06013"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs), AI-driven models that can achieve
 general-purpose language understanding and generation, have emerged as a

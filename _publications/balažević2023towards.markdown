@@ -7,7 +7,7 @@ year: 2023
 bibkey: balažević2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.01667"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'In-Context Learning', 'Pretraining Methods', 'Prompting', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In-context learning\\(\unicode\{x2013\}\\)the ability to configure a model's
 behavior with different prompts\\(\unicode\{x2013\}\\)has revolutionized the field of

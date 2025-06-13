@@ -7,7 +7,7 @@ year: 2023
 bibkey: samuel2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.12426"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated impressive zero shot
 performance on a wide range of NLP tasks, demonstrating the ability to reason

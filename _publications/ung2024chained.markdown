@@ -7,7 +7,7 @@ year: 2024
 bibkey: ung2024chained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16469"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Responsible AI', 'Training Techniques', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are often fine-tuned for use on downstream
 tasks, though this can degrade capabilities learned during previous training.

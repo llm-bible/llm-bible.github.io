@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024intermediate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.16530"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Merging', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Diffusion models have been widely used for conditional data cross-modal
 generation tasks such as text-to-image and text-to-video. However,

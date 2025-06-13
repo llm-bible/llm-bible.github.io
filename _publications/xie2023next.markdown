@@ -7,7 +7,7 @@ year: 2023
 bibkey: xie2023next
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.09790"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 To enhance the quality of generated stories, recent story generation models
 have been investigating the utilization of higher-level attributes like plots

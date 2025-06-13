@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024vl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13851"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Few-Shot', 'GPT', 'Pretraining Methods']
+tags: ['GPT', 'Model Architecture', 'Security', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models']
 ---
 Autoregressive Visual Language Models (VLMs) showcase impressive few-shot
 learning capabilities in a multimodal context. Recently, multimodal instruction

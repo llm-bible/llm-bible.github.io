@@ -7,7 +7,7 @@ year: 2020
 bibkey: cui2020unsupervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.06737"}
-tags: ['Model Architecture', 'Tools', 'TACL', 'Interpretability', 'Transformer', 'ACL', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Interpretability and Explainability', 'TACL', 'Model Architecture', 'ACL', 'Interpretability', 'Attention Mechanism']
 ---
 With the blooming of various Pre-trained Language Models (PLMs), Machine
 Reading Comprehension (MRC) has embraced significant improvements on various

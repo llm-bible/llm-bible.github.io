@@ -7,7 +7,7 @@ year: 2021
 bibkey: kaliamoorthi2021distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.08890"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Large pre-trained multilingual models like mBERT, XLM-R achieve state of the
 art results on language understanding tasks. However, they are not well suited

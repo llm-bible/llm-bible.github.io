@@ -7,7 +7,7 @@ year: 2020
 bibkey: hulburd2020exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.10670"}
-tags: ['Arxiv', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Arxiv']
 ---
 In this paper we explore the parameter efficiency of BERT arXiv:1810.04805 on
 version 2.0 of the Stanford Question Answering dataset (SQuAD2.0). We evaluate

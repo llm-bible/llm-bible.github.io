@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12117"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Nowadays, Large Language Models (LLMs) have been trained using extended
 context lengths to foster more creative applications. However, long context

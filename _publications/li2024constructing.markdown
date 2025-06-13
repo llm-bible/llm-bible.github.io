@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024constructing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07054"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In recent years, instruction fine-tuning (IFT) on large language models
 (LLMs) has garnered considerable attention to enhance model performance on

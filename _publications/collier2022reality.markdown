@@ -7,7 +7,7 @@ year: 2022
 bibkey: collier2022reality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.11981"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Models (LLMs) harness linguistic
 associations in vast natural language data for practical applications. However,

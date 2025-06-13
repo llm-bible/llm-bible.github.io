@@ -7,7 +7,7 @@ year: 2022
 bibkey: he2022bundle
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.12628"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'Merging', 'RecSys', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Tools', 'Model Architecture', 'Merging', 'RecSys', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Bundle recommender systems recommend sets of items (e.g., pants, shirt, and
 shoes) to users, but they often suffer from two issues: significant interaction

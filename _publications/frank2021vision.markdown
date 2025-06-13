@@ -7,7 +7,7 @@ year: 2021
 bibkey: frank2021vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.04448"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Pretrained vision-and-language BERTs aim to learn representations that
 combine information from both modalities. We propose a diagnostic method based

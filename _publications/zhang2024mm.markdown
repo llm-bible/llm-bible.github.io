@@ -8,7 +8,7 @@ bibkey: zhang2024mm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.09492"}
   - {name: "Code", url: "https://github.com/joenahm/MM-Eval"}
-tags: ['Model Architecture', 'GPT', 'Has Code']
+tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Large language models (LLMs) excel in high-resource languages but face
 notable challenges in low-resource languages like Mongolian. This paper

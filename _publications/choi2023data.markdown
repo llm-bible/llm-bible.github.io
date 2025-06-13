@@ -7,7 +7,7 @@ year: 2023
 bibkey: choi2023data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.06832"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Prompting']
 ---
 ODIN is an innovative approach that addresses the problem of dataset
 constraints by integrating generative AI models. Traditional zero-shot learning

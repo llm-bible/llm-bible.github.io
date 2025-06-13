@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024first
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20598"}
-tags: ['SIGIR', 'Model Architecture', 'Tools', 'RAG', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'SIGIR', 'Attention Mechanism']
 ---
 Retrieval-augmented generation (RAG) has gained wide attention as the key
 component to improve generative models with external knowledge augmentation

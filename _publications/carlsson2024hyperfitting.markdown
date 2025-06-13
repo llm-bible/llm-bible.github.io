@@ -7,7 +7,7 @@ year: 2024
 bibkey: carlsson2024hyperfitting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04318"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper introduces the counter-intuitive generalization results of
 overfitting pre-trained large language models (LLMs) on very small datasets. In

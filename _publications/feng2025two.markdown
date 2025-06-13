@@ -7,7 +7,7 @@ year: 2025
 bibkey: feng2025two
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17669"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Although text-to-image generation technologies have made significant
 advancements, they still face challenges when dealing with ambiguous prompts

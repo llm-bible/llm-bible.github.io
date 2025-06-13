@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.16018"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities and
 have been extensively deployed across various domains, including recommender

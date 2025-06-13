@@ -7,7 +7,7 @@ year: 2020
 bibkey: meng2020wechat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.00247"}
-tags: ['WMT', 'Model Architecture', 'Efficiency and Optimization', 'Distillation', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'WMT', 'Pretraining Methods', 'Distillation']
 ---
 We participate in the WMT 2020 shared news translation task on Chinese to
 English. Our system is based on the Transformer (Vaswani et al., 2017a) with

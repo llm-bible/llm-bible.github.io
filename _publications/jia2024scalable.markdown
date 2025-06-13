@@ -8,7 +8,7 @@ bibkey: jia2024scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18603"}
   - {name: "Code", url: "https://chengyou-jia.github.io/AgentStore-Home"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Has Code', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 Digital agents capable of automating complex computer tasks have attracted
 considerable attention due to their immense potential to enhance human-computer

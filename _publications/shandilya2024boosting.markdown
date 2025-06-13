@@ -7,7 +7,7 @@ year: 2024
 bibkey: shandilya2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.00387"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Ethics and Bias', 'Interpretability and Explainability']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Language Modeling', 'Reinforcement Learning']
 ---
 The data and compute requirements of current language modeling technology
 pose challenges for the processing and analysis of low-resource languages.

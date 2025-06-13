@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02271"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Merging', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Modeling temporal characteristics plays a significant role in the
 representation learning of audio waveform. We propose Contrastive Long-form

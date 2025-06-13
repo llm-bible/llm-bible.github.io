@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024disperse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13432"}
-tags: ['Training Techniques', 'Tools', 'Merging', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Supervised fine-tuning (SFT) on instruction-following corpus is a crucial
 approach toward the alignment of large language models (LLMs). However, the

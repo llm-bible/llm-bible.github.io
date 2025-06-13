@@ -8,7 +8,7 @@ bibkey: he2023icl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.05063"}
   - {name: "Code", url: "https://github.com/MAEHCM/ICL-D3IE"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs), such as GPT-3 and ChatGPT, have demonstrated
 remarkable results in various natural language processing (NLP) tasks with

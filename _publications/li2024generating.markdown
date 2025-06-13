@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03351"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 Equivalent Representations (ERs) of code are textual representations that
 preserve the same semantics as the code itself, e.g., natural language comments

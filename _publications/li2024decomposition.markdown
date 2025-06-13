@@ -8,7 +8,7 @@ bibkey: li2024decomposition
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04078"}
   - {name: "Code", url: "https://github.com/ChengpengLi1003/DotaMath"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) have made impressive progress in handling simple
 math problems, yet they still struggle with more challenging and complex

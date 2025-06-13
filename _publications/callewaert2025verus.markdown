@@ -7,7 +7,7 @@ year: 2025
 bibkey: callewaert2025verus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.14540"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 A recent approach to neurosymbolic reasoning is to explicitly combine the
 strengths of large language models (LLMs) and symbolic solvers to tackle

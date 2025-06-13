@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024era
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06932"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have achieved commendable accomplishments in
 various natural language processing tasks. However, LLMs still encounter

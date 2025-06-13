@@ -7,7 +7,7 @@ year: 2023
 bibkey: hahn2023theory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.07971"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Scaling large language models (LLMs) leads to an emergent capacity to learn
 in-context from example demonstrations. Despite progress, theoretical

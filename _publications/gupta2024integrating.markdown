@@ -7,7 +7,7 @@ year: 2024
 bibkey: gupta2024integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02872"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Reinforcement Learning']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Reinforcement Learning', 'Interpretability and Explainability']
 ---
 This paper investigates whether recent advances in Large Language Models
 (LLMs) can assist in translating human explanations into a format that can

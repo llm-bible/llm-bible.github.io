@@ -7,7 +7,7 @@ year: 2025
 bibkey: tak2025mechanistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05489"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Interpretability and Explainability', 'Applications']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Pretraining Methods']
 ---
 Large language models (LLMs) show promising capabilities in predicting human
 emotions from text. However, the mechanisms through which these models process

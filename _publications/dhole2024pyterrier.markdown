@@ -7,7 +7,7 @@ year: 2024
 bibkey: dhole2024pyterrier
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05339"}
-tags: ['Prompting', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Using LLMs as rerankers requires experimenting with various hyperparameters,
 such as prompt formats, model choice, and reformulation strategies. We

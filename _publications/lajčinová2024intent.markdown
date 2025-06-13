@@ -7,7 +7,7 @@ year: 2024
 bibkey: lajčinová2024intent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04925"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 This study evaluates the application of large language models (LLMs) for
 intent classification within a chatbot with predetermined responses designed

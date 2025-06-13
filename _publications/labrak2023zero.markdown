@@ -7,7 +7,7 @@ year: 2023
 bibkey: labrak2023zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.12114"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'BERT']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Few-Shot']
 ---
 We evaluate four state-of-the-art instruction-tuned large language models
 (LLMs) -- ChatGPT, Flan-T5 UL2, Tk-Instruct, and Alpaca -- on a set of 13

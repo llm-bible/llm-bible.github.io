@@ -7,7 +7,7 @@ year: 2023
 bibkey: jiang2023democratized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17122"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have shown their success in language
 understanding and reasoning on general topics. However, their capability to

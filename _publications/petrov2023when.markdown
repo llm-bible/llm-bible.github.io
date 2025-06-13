@@ -7,7 +7,7 @@ year: 2023
 bibkey: petrov2023when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19698"}
-tags: ['Training Techniques', 'Model Architecture', 'In-Context Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Context-based fine-tuning methods, including prompting, in-context learning,
 soft prompting (also known as prompt tuning), and prefix-tuning, have gained

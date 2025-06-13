@@ -7,7 +7,7 @@ year: 2025
 bibkey: vukadin2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20268"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Interpretability and Explainability']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Few-Shot']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 diverse domains. However, effectively leveraging their vast knowledge for

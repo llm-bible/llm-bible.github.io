@@ -7,7 +7,7 @@ year: 2023
 bibkey: mirchandani2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.04721"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 We observe that pre-trained large language models (LLMs) are capable of
 autoregressively completing complex token sequences -- from arbitrary ones

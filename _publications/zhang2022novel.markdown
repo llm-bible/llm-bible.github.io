@@ -8,7 +8,7 @@ bibkey: zhang2022novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.11484"}
   - {name: "Code", url: "https://github.com/Yottaxx/ET5"}
-tags: ['Interpretability', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Interpretability', 'Tools', 'Has Code', 'Reinforcement Learning']
 ---
 Conversational machine reading comprehension (CMRC) aims to assist computers
 to understand an natural language text and thereafter engage in a multi-turn

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tan2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06140"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved remarkable progress in linguistic
 tasks, necessitating robust evaluation frameworks to understand their

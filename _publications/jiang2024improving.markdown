@@ -8,7 +8,7 @@ bibkey: jiang2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07284"}
   - {name: "Code", url: "https://github.com/microsoft/LMOps"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 To enhance the domain-specific capabilities of large language models,
 continued pre-training on a domain-specific corpus is a prevalent method.

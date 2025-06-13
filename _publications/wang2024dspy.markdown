@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024dspy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18564"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 various tasks, yet they often struggle with spatial reasoning. This paper

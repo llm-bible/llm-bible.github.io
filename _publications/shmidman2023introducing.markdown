@@ -7,7 +7,7 @@ year: 2023
 bibkey: shmidman2023introducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.14568"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 We present DictaLM, a large-scale language model tailored for Modern Hebrew.
 Boasting 7B parameters, this model is predominantly trained on Hebrew-centric

@@ -7,7 +7,7 @@ year: 2023
 bibkey: dao2023flashattention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.08691"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Scaling Transformers to longer sequence lengths has been a major problem in
 the last several years, promising to improve performance in language modeling

@@ -7,7 +7,7 @@ year: 2024
 bibkey: singh2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05208"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Applications']
+tags: ['Efficiency and Optimization', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Text-to-SQL systems facilitate smooth interaction with databases by
 translating natural language queries into Structured Query Language (SQL),

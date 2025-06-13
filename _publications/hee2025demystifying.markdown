@@ -7,7 +7,7 @@ year: 2025
 bibkey: hee2025demystifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11073"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Hateful meme detection presents a significant challenge as a multimodal task
 due to the complexity of interpreting implicit hate messages and contextual

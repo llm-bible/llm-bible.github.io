@@ -7,7 +7,7 @@ year: 2025
 bibkey: xiang2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.17376"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'Quantization', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Quantization']
 ---
 Transformer-based Large Language Models (LLMs) have significantly advanced AI
 capabilities but pose considerable challenges for deployment on edge devices

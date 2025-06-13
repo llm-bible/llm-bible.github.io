@@ -7,7 +7,7 @@ year: 2024
 bibkey: billa2024supervisory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.18051"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The performance of Large Language Models (LLMs) relies heavily on the quality
 of prompts, which are often manually engineered and task-specific, making them

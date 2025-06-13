@@ -8,7 +8,7 @@ bibkey: hu2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14764"}
   - {name: "Code", url: "https://github.com/kinesiatricssxilm14/CodeRepoQA"}
-tags: ['RAG', 'Applications', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code', 'Applications']
 ---
 In this work, we introduce CodeRepoQA, a large-scale benchmark specifically
 designed for evaluating repository-level question-answering capabilities in the

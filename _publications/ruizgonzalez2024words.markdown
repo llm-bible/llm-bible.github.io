@@ -7,7 +7,7 @@ year: 2024
 bibkey: ruizgonzalez2024words
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08632"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Sparse reward environments in reinforcement learning (RL) pose significant
 challenges for exploration, often leading to inefficient or incomplete learning

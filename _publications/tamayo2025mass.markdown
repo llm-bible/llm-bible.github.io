@@ -8,7 +8,7 @@ bibkey: tamayo2025mass
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.02173"}
   - {name: "Code", url: "https://github.com/dtamayo-nlp/MEMAT"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Recent research has explored methods for updating and modifying factual
 knowledge in large language models, often focusing on specific multi-layer

@@ -7,7 +7,7 @@ year: 2021
 bibkey: lin2021using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.11136"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'BERT']
+tags: ['Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'BERT']
 ---
 Pre-trained language models have achieved human-level performance on many
 Machine Reading Comprehension (MRC) tasks, but it remains unclear whether these

@@ -7,7 +7,7 @@ year: 2025
 bibkey: franklin2025vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02527"}
-tags: ['Security', 'Efficiency and Optimization', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security', 'Multimodal Models', 'Prompting']
 ---
 Vision generation remains a challenging frontier in artificial intelligence,
 requiring seamless integration of visual understanding and generative

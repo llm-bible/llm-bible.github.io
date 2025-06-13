@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08285"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Pre-Training']
+tags: ['Training Techniques', 'RAG', 'Pre-Training', 'Pretraining Methods']
 ---
 In this paper, we systematically study the potential of pre-training with
 Large Language Model(LLM)-based document expansion for dense passage retrieval.

@@ -7,7 +7,7 @@ year: 2019
 bibkey: cheng2019attending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.04361"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Recent progress in NLP witnessed the development of large-scale pre-trained
 language models (GPT, BERT, XLNet, etc.) based on Transformer (Vaswani et al.

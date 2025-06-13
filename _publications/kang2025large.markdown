@@ -7,7 +7,7 @@ year: 2025
 bibkey: kang2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06049"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 This paper introduces the Large Memory Model (LM2), a decoder-only
 Transformer architecture enhanced with an auxiliary memory module that aims to

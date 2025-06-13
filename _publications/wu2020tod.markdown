@@ -7,7 +7,7 @@ year: 2020
 bibkey: wu2020tod
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.06871"}
-tags: ['Masked Language Model', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot']
 ---
 The underlying difference of linguistic patterns between general text and
 task-oriented dialogue makes existing pre-trained language models less useful

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11353"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Hallucination, the generation of factually incorrect content, is a growing
 challenge in Large Language Models (LLMs). Existing detection and mitigation

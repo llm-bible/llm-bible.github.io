@@ -7,7 +7,7 @@ year: 2025
 bibkey: mondshine2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09331"}
-tags: ['Prompting', 'RAG', 'Applications']
+tags: ['RAG', 'Prompting', 'Applications']
 ---
 Despite advances in the multilingual capabilities of Large Language Models
 (LLMs) across diverse tasks, English remains the dominant language for LLM

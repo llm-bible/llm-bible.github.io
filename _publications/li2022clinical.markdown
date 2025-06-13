@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.11838"}
   - {name: "Code", url: "https://github.com/luoyuanlab/Clinical-Longformer]"}
   - {name: "Code", url: "https://huggingface.co/yikuan8/Clinical-Longformer]"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Transformers-based models, such as BERT, have dramatically improved the
 performance for various natural language processing tasks. The clinical

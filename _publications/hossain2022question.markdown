@@ -7,7 +7,7 @@ year: 2022
 bibkey: hossain2022question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.11467"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper explores a question-answer driven approach to reveal affirmative
 interpretations from verbal negations (i.e., when a negation cue grammatically

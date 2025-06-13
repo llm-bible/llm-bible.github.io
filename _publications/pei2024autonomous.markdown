@@ -7,7 +7,7 @@ year: 2024
 bibkey: pei2024autonomous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13034"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Autonomous artificial intelligence (AI) agents have emerged as promising
 protocols for automatically understanding the language-based environment,

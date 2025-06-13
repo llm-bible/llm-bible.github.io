@@ -7,7 +7,7 @@ year: 2023
 bibkey: junprung2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07411"}
-tags: ['Agentic', 'Agent', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Agent', 'Prompting']
 ---
 The final frontier for simulation is the accurate representation of complex,
 real-world social systems. While agent-based modeling (ABM) seeks to study the

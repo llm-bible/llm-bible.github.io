@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16984"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'RecSys']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'RecSys', 'Training Techniques']
 ---
 User simulators can rapidly generate a large volume of timely user behavior
 data, providing a testing platform for reinforcement learning-based recommender

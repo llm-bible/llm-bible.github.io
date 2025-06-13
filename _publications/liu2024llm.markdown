@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06943"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) leverage external tools primarily through
 generating the API request to enhance task completion efficiency. The accuracy

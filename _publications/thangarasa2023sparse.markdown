@@ -7,7 +7,7 @@ year: 2023
 bibkey: thangarasa2023sparse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.10464"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The pre-training and fine-tuning paradigm has contributed to a number of
 breakthroughs in Natural Language Processing (NLP). Instead of directly

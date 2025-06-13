@@ -7,7 +7,7 @@ year: 2025
 bibkey: gupta2025active
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18293"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Multi-preference optimization enriches language-model alignment beyond
 pairwise preferences by contrasting entire sets of helpful and undesired

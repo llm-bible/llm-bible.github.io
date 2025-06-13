@@ -7,7 +7,7 @@ year: 2024
 bibkey: wen2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12452"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Despite the remarkable success of large language models (LLMs) on traditional
 natural language processing tasks, their planning ability remains a critical

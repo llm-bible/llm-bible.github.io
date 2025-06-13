@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025illusion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00626"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 Large language models (LLMs) that integrate multiple input roles (e.g.,
 system instructions, user queries, external tool outputs) are increasingly

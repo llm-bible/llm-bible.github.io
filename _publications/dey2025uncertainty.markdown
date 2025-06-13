@@ -7,7 +7,7 @@ year: 2025
 bibkey: dey2025uncertainty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.05757"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques']
 ---
 Large Language Models (LLMs) are known to hallucinate and generate
 non-factual outputs which can undermine user trust. Traditional methods to

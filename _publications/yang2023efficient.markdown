@@ -8,7 +8,7 @@ bibkey: yang2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04879"}
   - {name: "Code", url: "https://github.com/yangjianxin1/LongQLoRA"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Fine-Tuning', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 We present LongQLoRA, an efficient and effective method to extend context
 length of large language models with less training resources. LongQLoRA

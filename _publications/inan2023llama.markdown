@@ -7,7 +7,7 @@ year: 2023
 bibkey: inan2023llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06674"}
-tags: ['Responsible AI', 'Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We introduce Llama Guard, an LLM-based input-output safeguard model geared
 towards Human-AI conversation use cases. Our model incorporates a safety risk

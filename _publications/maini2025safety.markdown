@@ -7,7 +7,7 @@ year: 2025
 bibkey: maini2025safety
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16980"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 As large language models (LLMs) are increasingly deployed in high-stakes
 settings, the risk of generating harmful or toxic content remains a central

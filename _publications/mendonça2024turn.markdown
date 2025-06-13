@@ -7,7 +7,7 @@ year: 2024
 bibkey: mendonça2024turn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11660"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'GPT', 'Model Architecture']
 ---
 Despite being heralded as the new standard for dialogue evaluation, the
 closed-source nature of GPT-4 poses challenges for the community. Motivated by

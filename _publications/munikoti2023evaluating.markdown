@@ -7,7 +7,7 @@ year: 2023
 bibkey: munikoti2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04348"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques']
+tags: ['RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite the dramatic progress in Large Language Model (LLM) development, LLMs
 often provide seemingly plausible but not factual information, often referred

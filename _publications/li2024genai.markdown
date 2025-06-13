@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024genai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13743"}
-tags: ['Prompting', 'Merging', 'Reinforcement Learning']
+tags: ['Merging', 'Prompting', 'Reinforcement Learning']
 ---
 While text-to-visual models now produce photo-realistic images and videos,
 they struggle with compositional text prompts involving attributes,

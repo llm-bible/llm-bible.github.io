@@ -7,7 +7,7 @@ year: 2025
 bibkey: he2025adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00147"}
-tags: ['Prompting', 'RAG', 'In-Context Learning', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
 ---
 In-context learning (ICL) allows a language model to improve its
 problem-solving capability when provided with suitable information in context.

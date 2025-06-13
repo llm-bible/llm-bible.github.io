@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025if
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08788"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 Multi-agent debate (MAD) has emerged as a promising approach to enhance the
 factual accuracy and reasoning quality of large language models (LLMs) by

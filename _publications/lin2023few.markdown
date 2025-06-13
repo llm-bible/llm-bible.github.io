@@ -7,7 +7,7 @@ year: 2023
 bibkey: lin2023few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10168"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We evaluate the ability of semantic parsers based on large language models
 (LLMs) to handle contextual utterances. In real-world settings, there typically

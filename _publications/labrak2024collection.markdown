@@ -7,7 +7,7 @@ year: 2024
 bibkey: labrak2024collection
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10373"}
-tags: ['Quantization', 'Efficiency and Optimization', 'Merging', 'Applications']
+tags: ['Efficiency and Optimization', 'Quantization', 'Applications', 'Merging']
 ---
 Large Language Models (LLMs) have demonstrated remarkable versatility in
 recent years, offering potential applications across specialized domains such

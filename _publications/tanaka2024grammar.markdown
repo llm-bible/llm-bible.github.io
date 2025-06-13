@@ -8,7 +8,7 @@ bibkey: tanaka2024grammar
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17404"}
   - {name: "Code", url: "https://github.com/tsunehiko/ggdg"}
-tags: ['RAG', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code']
 ---
 Game Description Language (GDL) provides a standardized way to express
 diverse games in a machine-readable format, enabling automated game simulation,

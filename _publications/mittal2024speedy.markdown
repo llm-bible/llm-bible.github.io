@@ -7,7 +7,7 @@ year: 2024
 bibkey: mittal2024speedy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16542"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Merging', 'Attention Mechanism']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Tokenization', 'Attention Mechanism']
 ---
 Harnessing pre-trained LLMs to improve ASR systems, particularly for
 low-resource languages, is now an emerging area of research. Existing methods

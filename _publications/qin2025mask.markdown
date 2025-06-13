@@ -7,7 +7,7 @@ year: 2025
 bibkey: qin2025mask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14008"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pruning', 'Quantization', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Quantization']
 ---
 The remarkable performance of large language models (LLMs) in various
 language tasks has attracted considerable attention. However, the

@@ -8,7 +8,7 @@ bibkey: cheng2024security
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11006"}
   - {name: "Code", url: "https://github.com/Sensente/Security-Attacks-on-LCCTs"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Has Code']
 ---
 The rapid development of large language models (LLMs) has significantly
 advanced code completion capabilities, giving rise to a new generation of

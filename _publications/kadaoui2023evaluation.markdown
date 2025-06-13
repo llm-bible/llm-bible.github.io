@@ -7,7 +7,7 @@ year: 2023
 bibkey: kadaoui2023evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.03051"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
 ---
 Despite the purported multilingual proficiency of instruction-finetuned large
 language models (LLMs) such as ChatGPT and Bard, the linguistic inclusivity of

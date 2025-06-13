@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00749"}
-tags: ['Training Techniques', 'Applications', 'Few-Shot', 'Tools']
+tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Applications']
 ---
 Data curation tasks that prepare data for analytics are critical for turning
 data into actionable insights. However, due to the diverse requirements of

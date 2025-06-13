@@ -7,7 +7,7 @@ year: 2023
 bibkey: mo2023tree
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.07694"}
-tags: ['Prompting', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 While the recently introduced Tree of Thoughts (ToT) has heralded
 advancements in allowing Large Language Models (LLMs) to reason through

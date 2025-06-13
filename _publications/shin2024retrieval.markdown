@@ -7,7 +7,7 @@ year: 2024
 bibkey: shin2024retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12682"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Retrieval Augmented Generation (RAG) has shown notable advancements in
 software engineering tasks. Despite its potential, RAG's application in unit

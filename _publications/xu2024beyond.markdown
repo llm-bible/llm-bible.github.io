@@ -8,7 +8,7 @@ bibkey: xu2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04965"}
   - {name: "Code", url: "https://github.com/zhichaoxu-shufe/Beyond-Perplexity-Compression-Safety-Eval"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pruning', 'Quantization', 'Ethics and Bias', 'Has Code', 'Applications']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Quantization']
 ---
 Increasingly, model compression techniques enable large language models
 (LLMs) to be deployed in real-world applications. As a result of this momentum

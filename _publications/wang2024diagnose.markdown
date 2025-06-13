@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01751"}
   - {name: "Code", url: "https://github.com/cxcscmu/RAGViz"}
   - {name: "Code", url: "https://youtu.be/cTAbuTu6ur4"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Interpretability', 'Has Code', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism', 'Has Code']
 ---
 Retrieval-augmented generation (RAG) combines knowledge from domain-specific
 sources into large language models to ground answer generation. Current RAG

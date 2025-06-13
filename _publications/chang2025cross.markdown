@@ -8,7 +8,7 @@ bibkey: chang2025cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18893"}
   - {name: "Code", url: "https://github.com/abdelfattah-lab/xKV"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) with long context windows enable powerful
 applications but come at the cost of high memory consumption to store the Key

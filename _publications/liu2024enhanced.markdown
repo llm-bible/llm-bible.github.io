@@ -8,7 +8,7 @@ bibkey: liu2024enhanced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16828"}
   - {name: "Code", url: "https://ucsc-vlaa.github.io/CLIPS/"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Has Code']
+tags: ['Tools', 'GPT', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Previous works show that noisy, web-crawled image-text pairs may limit
 vision-language pretraining like CLIP and propose learning with synthetic

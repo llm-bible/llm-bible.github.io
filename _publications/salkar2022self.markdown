@@ -7,7 +7,7 @@ year: 2022
 bibkey: salkar2022self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.08145"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We provide a quantitative and qualitative analysis of self-repetition in the
 output of neural summarizers. We measure self-repetition as the number of

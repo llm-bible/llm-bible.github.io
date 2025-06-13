@@ -7,7 +7,7 @@ year: 2021
 bibkey: du2021robustness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08419"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'Pruning', 'Bias Mitigation', 'Quantization', 'Ethics and Bias', 'BERT', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Security', 'BERT', 'Quantization', 'Distillation']
 ---
 Recent work has focused on compressing pre-trained language models (PLMs)
 like BERT where the major focus has been to improve the in-distribution

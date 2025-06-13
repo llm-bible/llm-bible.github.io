@@ -8,7 +8,7 @@ bibkey: cui2022democratizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.05796"}
   - {name: "Code", url: "https://github.com/Sense-GVT/DeCLIP"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Contrastive Language-Image Pretraining (CLIP) has emerged as a novel paradigm
 to learn visual models from language supervision. While researchers continue to

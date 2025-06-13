@@ -7,7 +7,7 @@ year: 2023
 bibkey: bahrini2023threats
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.09103"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Developed by OpenAI, ChatGPT (Conditional Generative Pre-trained Transformer)
 is an artificial intelligence technology that is fine-tuned using supervised

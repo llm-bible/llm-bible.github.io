@@ -7,7 +7,7 @@ year: 2025
 bibkey: everitt2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11844"}
-tags: ['Prompting', 'Agentic']
+tags: ['Agentic', 'Prompting']
 ---
 To what extent do LLMs use their capabilities towards their given goal? We
 take this as a measure of their goal-directedness. We evaluate

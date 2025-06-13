@@ -8,7 +8,7 @@ bibkey: zhao2023empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06731"}
   - {name: "Code", url: "https://github.com/zhaohengyuan1/Genixer"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Has Code']
+tags: ['GPT', 'Multimodal Models', 'Has Code', 'Model Architecture']
 ---
 Multimodal Large Language Models (MLLMs) demonstrate exceptional
 problem-solving capabilities, but few research studies aim to gauge the ability

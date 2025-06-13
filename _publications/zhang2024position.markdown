@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024position
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01430"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Recent advances in large language models (LLMs) have enhanced their ability
 to process long input contexts. This development is particularly crucial for

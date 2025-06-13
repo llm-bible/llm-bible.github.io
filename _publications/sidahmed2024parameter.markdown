@@ -7,7 +7,7 @@ year: 2024
 bibkey: sidahmed2024parameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.10704"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 While Reinforcement Learning from Human Feedback (RLHF) effectively aligns
 pretrained Large Language and Vision-Language Models (LLMs, and VLMs) with

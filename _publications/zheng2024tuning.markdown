@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024tuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13558"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Revolutionary advancements in text-to-image models have unlocked new
 dimensions for sophisticated content creation, such as text-conditioned image

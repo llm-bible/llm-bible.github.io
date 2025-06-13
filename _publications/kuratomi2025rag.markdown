@@ -7,7 +7,7 @@ year: 2025
 bibkey: kuratomi2025rag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13880"}
-tags: ['Language Modeling', 'Model Architecture', 'Applications', 'RAG']
+tags: ['Language Modeling', 'RAG', 'Applications', 'Model Architecture']
 ---
 Although large language models (LLMs) demonstrate strong text generation
 capabilities, they struggle in scenarios requiring access to structured

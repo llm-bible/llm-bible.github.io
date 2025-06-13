@@ -7,7 +7,7 @@ year: 2021
 bibkey: he2021magic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.00230"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pruning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Pre-training and then fine-tuning large language models is commonly used to
 achieve state-of-the-art performance in natural language processing (NLP)

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025r
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19449"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Applications']
+tags: ['Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs), while demonstrating remarkable capabilities
 across various applications, present significant challenges during inference

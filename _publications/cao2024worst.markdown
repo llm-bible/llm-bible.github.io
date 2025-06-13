@@ -8,7 +8,7 @@ bibkey: cao2024worst
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10248"}
   - {name: "Code", url: "https://github.com/cbwbuaa/On-the-Worst-Prompt-"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
 ---
 The performance of large language models (LLMs) is acutely sensitive to the
 phrasing of prompts, which raises significant concerns about their reliability

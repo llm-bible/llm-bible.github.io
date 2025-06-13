@@ -7,7 +7,7 @@ year: 2021
 bibkey: chakrabarty2021implicit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.05358"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Enthymemes are defined as arguments where a premise or conclusion is left
 implicit. We tackle the task of generating the implicit premise in an

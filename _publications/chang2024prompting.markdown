@@ -7,7 +7,7 @@ year: 2024
 bibkey: chang2024prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.13040"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Prompting has become a practical method for utilizing pre-trained language
 models (LMs). This approach offers several advantages. It allows an LM to adapt

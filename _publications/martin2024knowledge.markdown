@@ -7,7 +7,7 @@ year: 2024
 bibkey: martin2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11880"}
-tags: ['Prompting', 'Security']
+tags: ['Security', 'Prompting']
 ---
 Many Large Language Models (LLMs) and LLM-powered apps deployed today use
 some form of prompt filter or alignment to protect their integrity. However,

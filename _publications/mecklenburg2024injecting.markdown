@@ -7,7 +7,7 @@ year: 2024
 bibkey: mecklenburg2024injecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00213"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In recent years, Large Language Models (LLMs) have shown remarkable
 performance in generating human-like text, proving to be a valuable asset

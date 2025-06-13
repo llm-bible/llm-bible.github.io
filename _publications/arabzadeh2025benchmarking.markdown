@@ -8,7 +8,7 @@ bibkey: arabzadeh2025benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12558"}
   - {name: "Code", url: "https://github.com/Narabzad/llm-relevance-judgement-comparison"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) are increasingly deployed in both academic and
 industry settings to automate the evaluation of information seeking systems,

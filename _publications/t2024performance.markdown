@@ -7,7 +7,7 @@ year: 2024
 bibkey: t2024performance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01751"}
-tags: ['Prompting', 'Applications', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) find increasing applications in many fields.
 Here, three LLM chatbots (ChatGPT-3.5, ChatGPT-4 and Bard) are assessed - in

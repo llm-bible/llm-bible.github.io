@@ -7,7 +7,7 @@ year: 2025
 bibkey: balestri2025gender
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16534"}
-tags: ['Model Architecture', 'Fairness', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Interpretability', 'Fairness', 'Prompting']
 ---
 This study evaluates the biases in Gemini 2.0 Flash Experimental, a
 state-of-the-art large language model (LLM) developed by Google, focusing on

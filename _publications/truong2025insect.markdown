@@ -7,7 +7,7 @@ year: 2025
 bibkey: truong2025insect
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09906"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal conversational generative AI has shown impressive capabilities in
 various vision and language understanding through learning massive text-image

@@ -7,7 +7,7 @@ year: 2025
 bibkey: shrivastava2025language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01126"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
 ---
 Language models (LMs) should provide reliable confidence estimates to help
 users detect mistakes in their outputs and defer to human experts when

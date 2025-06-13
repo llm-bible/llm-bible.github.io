@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhuge2023mindstorms
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.17066v1"}
-tags: ['Agentic', 'RAG', 'Multimodal Models', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Both Minsky's "society of mind" and Schmidhuber's "learning to think" inspire
 diverse societies of large multimodal neural networks (NNs) that solve problems

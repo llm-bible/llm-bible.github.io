@@ -7,7 +7,7 @@ year: 2024
 bibkey: baskar2024speech
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14701"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 In this paper, we focus on addressing the constraints faced when applying
 LLMs to ASR. Recent works utilize prefixLM-type models, which directly apply

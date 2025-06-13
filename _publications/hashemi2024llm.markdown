@@ -7,7 +7,7 @@ year: 2024
 bibkey: hashemi2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00274"}
-tags: ['Prompting', 'Training Techniques', 'Applications', 'Tools']
+tags: ['Training Techniques', 'Prompting', 'Applications', 'Tools']
 ---
 This paper introduces a framework for the automated evaluation of natural
 language texts. A manually constructed rubric describes how to assess multiple

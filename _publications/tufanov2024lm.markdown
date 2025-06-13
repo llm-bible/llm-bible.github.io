@@ -7,7 +7,7 @@ year: 2024
 bibkey: tufanov2024lm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07004"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We present the LM Transparency Tool (LM-TT), an open-source interactive
 toolkit for analyzing the internal workings of Transformer-based language

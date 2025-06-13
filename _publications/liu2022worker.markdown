@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022worker
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.05955"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Security', 'Training Techniques']
 ---
 A recurring challenge of crowdsourcing NLP datasets at scale is that human
 writers often rely on repetitive patterns when crafting examples, leading to a

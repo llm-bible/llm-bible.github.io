@@ -7,7 +7,7 @@ year: 2021
 bibkey: muller2021first
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.11109"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Multilingual pretrained language models have demonstrated remarkable
 zero-shot cross-lingual transfer capabilities. Such transfer emerges by

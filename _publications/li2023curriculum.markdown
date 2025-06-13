@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023curriculum
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16804"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 Chatbots have become popular in educational settings, revolutionizing how
 students interact with material and how teachers teach. We present

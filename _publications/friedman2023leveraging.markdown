@@ -7,7 +7,7 @@ year: 2023
 bibkey: friedman2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.07961"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'RecSys', 'Ethics and Bias', 'Interpretability']
+tags: ['Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'RecSys', 'Training Techniques']
 ---
 A Conversational Recommender System (CRS) offers increased transparency and
 control to users by enabling them to engage with the system through a real-time

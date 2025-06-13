@@ -8,7 +8,7 @@ bibkey: li2023guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.11520"}
   - {name: "Code", url: "https://github.com/Leezekun/Directional-Stimulus-Prompting"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 We introduce Directional Stimulus Prompting, a novel framework for guiding
 black-box large language models (LLMs) toward specific desired outputs. Instead

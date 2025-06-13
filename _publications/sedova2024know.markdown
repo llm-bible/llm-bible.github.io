@@ -7,7 +7,7 @@ year: 2024
 bibkey: sedova2024know
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17125"}
-tags: ['Training Techniques', 'RAG', 'Ethics and Bias', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'Ethics and Bias', 'RAG', 'Training Techniques', 'Prompting']
 ---
 One of the major aspects contributing to the striking performance of large
 language models (LLMs) is the vast amount of factual knowledge accumulated

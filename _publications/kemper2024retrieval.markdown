@@ -7,7 +7,7 @@ year: 2024
 bibkey: kemper2024retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00033"}
-tags: ['Prompting', 'RAG', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Prompting']
 ---
 Conversational recommendation (ConvRec) systems must understand rich and
 diverse natural language (NL) expressions of user preferences and intents,

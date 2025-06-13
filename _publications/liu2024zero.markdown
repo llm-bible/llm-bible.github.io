@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12425"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance through
 supervised fine-tuning or in-context learning using gold labels. However, this

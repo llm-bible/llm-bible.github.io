@@ -7,7 +7,7 @@ year: 2020
 bibkey: gabriel2020paragraph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.01486"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Human understanding of narrative texts requires making commonsense inferences
 beyond what is stated explicitly in the text. A recent model, COMET, can

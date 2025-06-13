@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023compressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06201"}
-tags: ['Arxiv', 'Model Architecture', 'Efficiency and Optimization', 'Pruning', 'BERT', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'BERT', 'Arxiv']
 ---
 Large language models (LLMs) achieved remarkable performance across various
 tasks. However, they face challenges in managing long documents and extended

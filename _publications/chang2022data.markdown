@@ -7,7 +7,7 @@ year: 2022
 bibkey: chang2022data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10378"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'In-Context Learning']
+tags: ['RAG', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) enables large language models (LLMs) to perform new
 tasks by prompting them with a sequence of training examples. However, it is

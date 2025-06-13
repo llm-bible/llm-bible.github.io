@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024prolonged
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08312"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
 ---
 Standard Large Language Models (LLMs) struggle with handling dialogues with
 long contexts due to efficiency and consistency issues. According to our

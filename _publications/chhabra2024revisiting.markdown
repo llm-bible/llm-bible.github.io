@@ -7,7 +7,7 @@ year: 2024
 bibkey: chhabra2024revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.01989"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
 ---
 We characterize and study zero-shot abstractive summarization in Large
 Language Models (LLMs) by measuring position bias, which we propose as a

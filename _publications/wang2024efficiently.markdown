@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024efficiently
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06395"}
-tags: ['Agentic', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Agentic', 'Tools']
 ---
 Humans possess the capability to comprehend diverse modalities and seamlessly
 transfer information between them. In this work, we introduce ModaVerse, a

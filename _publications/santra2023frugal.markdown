@@ -7,7 +7,7 @@ year: 2023
 bibkey: santra2023frugal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14919"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 The use of large language models (LLMs) in natural language processing (NLP)
 tasks is rapidly increasing, leading to changes in how researchers approach

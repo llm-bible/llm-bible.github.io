@@ -7,7 +7,7 @@ year: 2025
 bibkey: leung2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13475"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 It is popular lately to train large language models to be used as chat
 assistants, but in the conversation between the user and the chat assistant,

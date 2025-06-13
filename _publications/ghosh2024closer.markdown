@@ -7,7 +7,7 @@ year: 2024
 bibkey: ghosh2024closer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05119"}
-tags: ['Agentic', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Training Techniques', 'Pretraining Methods']
 ---
 Instruction Tuning (IT), the process of training large language models (LLMs)
 using instruction-response pairs, has emerged as the predominant method for

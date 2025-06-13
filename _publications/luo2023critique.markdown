@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023critique
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04815"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
 ---
 Critical thinking is essential for rational decision-making and
 problem-solving. This skill hinges on the ability to provide precise and

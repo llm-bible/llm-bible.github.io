@@ -7,7 +7,7 @@ year: 2025
 bibkey: sato2025triggering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00557"}
-tags: ['Security', 'Tools', 'Reinforcement Learning', 'Merging', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Merging', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Hallucinations in large language models (LLMs) present a growing challenge
 across real-world applications, from healthcare to law, where factual

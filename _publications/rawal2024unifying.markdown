@@ -7,7 +7,7 @@ year: 2024
 bibkey: rawal2024unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04423"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Agent', 'RAG', 'Language Modeling', 'GPT', 'ACL', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'ACL', 'Agent', 'Multimodal Models']
 ---
 Smart autonomous agents are becoming increasingly important in various
 real-life applications, including robotics and autonomous vehicles. One crucial

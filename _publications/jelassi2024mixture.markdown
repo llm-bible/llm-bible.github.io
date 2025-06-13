@@ -7,7 +7,7 @@ year: 2024
 bibkey: jelassi2024mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19034"}
-tags: ['Pretraining Methods', 'RAG', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
 ---
 The Mixture-of-Experts (MoE) architecture enables a significant increase in
 the total number of model parameters with minimal computational overhead.

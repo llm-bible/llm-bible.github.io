@@ -7,7 +7,7 @@ year: 2025
 bibkey: sivakumar2025self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02489"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper introduces a self-learning agent that integrates LLaMA 3.2 with a
 Progressive Neural Network (PNN) for continual learning in conversational AI

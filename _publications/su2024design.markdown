@@ -8,7 +8,7 @@ bibkey: su2024design
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00226"}
   - {name: "Code", url: "https://github.com/MoramiSu/QFT-MICCAI2024"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal pre-training demonstrates its potential in the medical domain,
 which learns medical visual representations from paired medical reports.

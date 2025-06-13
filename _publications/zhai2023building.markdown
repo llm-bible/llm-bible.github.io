@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhai2023building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00006"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Building embodied agents on integrating Large Language Models (LLMs) and
 Reinforcement Learning (RL) have revolutionized human-AI interaction:

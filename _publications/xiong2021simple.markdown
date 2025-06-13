@@ -8,7 +8,7 @@ bibkey: xiong2021simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.07210"}
   - {name: "Code", url: "https://github.com/pytorch/fairseq/tree/main/examples/xformers"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Many NLP tasks require processing long contexts beyond the length limit of
 pretrained models. In order to scale these models to longer text sequences,

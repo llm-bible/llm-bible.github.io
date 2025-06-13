@@ -8,7 +8,7 @@ bibkey: chirkova2024retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01463"}
   - {name: "Code", url: "https://github.com/naver/bergen"}
-tags: ['Prompting', 'RAG', 'Has Code']
+tags: ['RAG', 'Has Code', 'Prompting']
 ---
 Retrieval-augmented generation (RAG) has recently emerged as a promising
 solution for incorporating up-to-date or domain-specific knowledge into large

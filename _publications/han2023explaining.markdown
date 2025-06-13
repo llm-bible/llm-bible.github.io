@@ -7,7 +7,7 @@ year: 2023
 bibkey: han2023explaining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12766"}
-tags: ['Training Techniques', 'Model Architecture', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have initiated a paradigm shift in transfer
 learning. In contrast to the classic pretraining-then-finetuning procedure, in

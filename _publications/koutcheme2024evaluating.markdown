@@ -7,7 +7,7 @@ year: 2024
 bibkey: koutcheme2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04873"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 The emergence of large language models (LLMs) has transformed research and
 practice across a wide range of domains. Within the computing education

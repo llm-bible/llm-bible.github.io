@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025advancements
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20227"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Natural Language Processing (NLP) has witnessed a transformative leap with
 the advent of transformer-based architectures, which have significantly

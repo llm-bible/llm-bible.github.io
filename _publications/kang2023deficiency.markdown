@@ -7,7 +7,7 @@ year: 2023
 bibkey: kang2023deficiency
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15548"}
-tags: ['Prompting', 'RAG', 'Few-Shot']
+tags: ['RAG', 'Few-Shot', 'Prompting']
 ---
 The hallucination issue is recognized as a fundamental deficiency of large
 language models (LLMs), especially when applied to fields such as finance,

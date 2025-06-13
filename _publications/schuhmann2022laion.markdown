@@ -7,7 +7,7 @@ year: 2022
 bibkey: schuhmann2022laion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.08402"}
-tags: ['Security', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Merging', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Groundbreaking language-vision architectures like CLIP and DALL-E proved the
 utility of training on large amounts of noisy image-text data, without relying

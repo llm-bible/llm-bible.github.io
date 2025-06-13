@@ -8,7 +8,7 @@ bibkey: wang2022visually
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.10178"}
   - {name: "Code", url: "https://github.com/Victorwz/VaLM"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Language Modeling', 'Merging', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'Language Modeling', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Human language is grounded on multimodal knowledge including visual knowledge
 like colors, sizes, and shapes. However, current large-scale pre-trained

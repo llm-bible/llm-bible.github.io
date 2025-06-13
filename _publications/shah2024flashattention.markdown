@@ -7,7 +7,7 @@ year: 2024
 bibkey: shah2024flashattention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08608"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Quantization', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
 ---
 Attention, as a core layer of the ubiquitous Transformer architecture, is the
 bottleneck for large language models and long-context applications.

@@ -7,7 +7,7 @@ year: 2025
 bibkey: ku2025systems
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01868"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We introduce convolutional multi-hybrid architectures, with a design grounded
 on two simple observations. First, operators in hybrid models can be tailored

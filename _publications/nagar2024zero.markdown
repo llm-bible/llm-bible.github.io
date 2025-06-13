@@ -7,7 +7,7 @@ year: 2024
 bibkey: nagar2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00106"}
-tags: ['Multimodal Models', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 Vision-language models (VLMs) have shown impressive zero- and few-shot
 performance on real-world visual question answering (VQA) benchmarks, alluding

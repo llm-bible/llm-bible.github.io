@@ -8,7 +8,7 @@ bibkey: sotolar2024emotion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19071"}
   - {name: "Code", url: "https://github.com/justtherightsize/empo"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'BERT', 'Has Code']
+tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'BERT']
 ---
 Empathetic response generation is a desirable aspect of conversational
 agents, crucial for facilitating engaging and emotionally intelligent

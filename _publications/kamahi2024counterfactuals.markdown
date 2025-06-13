@@ -7,7 +7,7 @@ year: 2024
 bibkey: kamahi2024counterfactuals
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11252"}
-tags: ['Masked Language Model', 'Training Techniques', 'RAG', 'GPT', 'Pretraining Methods', 'Interpretability', 'BERT', 'Interpretability and Explainability']
+tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Despite the widespread adoption of autoregressive language models,
 explainability evaluation research has predominantly focused on span infilling

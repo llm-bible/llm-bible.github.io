@@ -8,7 +8,7 @@ bibkey: huang2024selective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18187"}
   - {name: "Code", url: "https://github.com/hqsiswiliam/SPT)"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 In conversational AI, personalizing dialogues with persona profiles and
 contextual understanding is essential. Despite large language models' (LLMs)

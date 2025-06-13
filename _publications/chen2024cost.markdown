@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024cost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17734"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Few-Shot', 'Tools', 'Training Techniques', 'GPT', 'Large-Scale Training', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Large-Scale Training', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 The advent of vision-language models fosters the interactive conversations
 between AI-enabled models and humans. Yet applying these models into clinics

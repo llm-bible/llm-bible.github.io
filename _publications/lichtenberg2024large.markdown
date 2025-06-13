@@ -7,7 +7,7 @@ year: 2024
 bibkey: lichtenberg2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01285"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Ethics and Bias', 'Prompting']
+tags: ['Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Prompting']
 ---
 The issue of popularity bias -- where popular items are disproportionately
 recommended, overshadowing less popular but potentially relevant items --

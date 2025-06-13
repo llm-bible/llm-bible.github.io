@@ -7,7 +7,7 @@ year: 2022
 bibkey: lazaridou2022internet
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.05115"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'In-Context Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In this work, we aim to capitalize on the unique few-shot capabilities of
 large-scale language models (LSLMs) to overcome some of their challenges with

@@ -7,7 +7,7 @@ year: 2024
 bibkey: shen2024pruning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05690"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Structured pruning fundamentally reduces computational and memory overheads
 of large language models (LLMs) and offers a feasible solution for end-side LLM

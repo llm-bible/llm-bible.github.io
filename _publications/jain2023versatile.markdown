@@ -8,7 +8,7 @@ bibkey: jain2023versatile
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2312.14233v1"}
   - {name: "Code", url: "https://github.com/SHI-Labs/VCoder"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Humans possess the remarkable skill of Visual Perception, the ability to see
 and understand the seen, helping them make sense of the visual world and, in

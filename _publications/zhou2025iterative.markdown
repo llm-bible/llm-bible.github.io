@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09183"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 Code generation has attracted increasing attention with the rise of Large
 Language Models (LLMs). Many studies have developed powerful code LLMs by

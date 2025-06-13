@@ -7,7 +7,7 @@ year: 2024
 bibkey: srinivasan2024comparative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13181"}
-tags: ['Arxiv', 'Training Techniques', 'Efficiency and Optimization', 'Few-Shot', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'In-Context Learning', 'Few-Shot', 'Prompting', 'Distillation', 'Arxiv']
 ---
 In the domain of large language models (LLMs), arXiv:2305.16938 showed that
 few-shot full-model fine-tuning -- namely Vanilla Fine Tuning (FT) and

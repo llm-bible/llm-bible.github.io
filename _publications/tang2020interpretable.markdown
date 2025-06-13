@@ -7,7 +7,7 @@ year: 2020
 bibkey: tang2020interpretable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.04913"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism']
 ---
 There are two main lines of research on visual question answering (VQA):
 compositional model with explicit multi-hop reasoning, and monolithic network

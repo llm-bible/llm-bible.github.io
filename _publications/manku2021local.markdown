@@ -7,7 +7,7 @@ year: 2021
 bibkey: manku2021local
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.04291"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Sentence Ordering refers to the task of rearranging a set of sentences into
 the appropriate coherent order. For this task, most previous approaches have

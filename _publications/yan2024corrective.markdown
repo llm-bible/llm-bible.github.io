@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024corrective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15884"}
-tags: ['Security', 'RAG']
+tags: ['RAG', 'Security']
 ---
 Large language models (LLMs) inevitably exhibit hallucinations since the
 accuracy of generated texts cannot be secured solely by the parametric

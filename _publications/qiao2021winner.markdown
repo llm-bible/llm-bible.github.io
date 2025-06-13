@@ -7,7 +7,7 @@ year: 2021
 bibkey: qiao2021winner
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.15332"}
-tags: ['Masked Language Model', 'Training Techniques', 'Language Modeling', 'Merging', 'Pretraining Methods', 'BERT', 'Pre-Training']
+tags: ['Pre-Training', 'Language Modeling', 'Merging', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 TextVQA requires models to read and reason about text in images to answer
 questions about them. Specifically, models need to incorporate a new modality

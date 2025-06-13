@@ -8,7 +8,7 @@ bibkey: dada2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04067"}
   - {name: "Code", url: "https://github.com/TIO-IKIM/CLUE"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are expected to significantly contribute to
 patient care, diagnostics, and administrative processes. Emerging biomedical

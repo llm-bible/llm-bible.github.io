@@ -7,7 +7,7 @@ year: 2019
 bibkey: guo2019zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03597"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Leveraging multilingual parallel texts to automatically generate paraphrases
 has drawn much attention as size of high-quality paraphrase corpus is limited.

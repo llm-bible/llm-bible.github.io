@@ -7,7 +7,7 @@ year: 2025
 bibkey: abdaljalil2025sparse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03032"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Despite the state-of-the-art performance of Large Language Models (LLMs),
 these models often suffer from hallucinations, which can undermine their

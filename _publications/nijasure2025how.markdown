@@ -7,7 +7,7 @@ year: 2025
 bibkey: nijasure2025how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08780"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Pretraining Methods']
 ---
 We conduct a behavioral exploration of LoRA fine-tuned LLMs for Passage
 Reranking to understand how relevance signals are learned and deployed by Large

@@ -7,7 +7,7 @@ year: 2023
 bibkey: lu2023inference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15065"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 While extreme-scale language models have demonstrated exceptional performance
 on a variety of language tasks, the degree of control over these language

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chua2024ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18369"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Large Language Model (LLMs) such as ChatGPT that exhibit generative AI
 capabilities are facing accelerated adoption and innovation. The increased

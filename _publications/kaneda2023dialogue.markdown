@@ -7,7 +7,7 @@ year: 2023
 bibkey: kaneda2023dialogue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06855"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'CVPR']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'CVPR']
 ---
 This paper focuses on the DialFRED task, which is the task of embodied
 instruction following in a setting where an agent can actively ask questions

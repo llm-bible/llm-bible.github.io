@@ -7,7 +7,7 @@ year: 2025
 bibkey: khandalkar2025impact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15903"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Recent advancements in Large Language Models (LLMs) have generated growing
 interest in their structured reasoning capabilities, particularly in tasks

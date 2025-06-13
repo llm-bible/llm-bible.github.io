@@ -8,7 +8,7 @@ bibkey: zhuang2024make
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09414"}
   - {name: "Code", url: "https://github.com/zhuangshaobin/Vlogger"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Has Code', 'Prompting']
+tags: ['RAG', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 In this work, we present Vlogger, a generic AI system for generating a
 minute-level video blog (i.e., vlog) of user descriptions. Different from short

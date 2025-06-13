@@ -7,7 +7,7 @@ year: 2022
 bibkey: hou2022token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.13240"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'RAG', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Transformer-based models generally allocate the same amount of computation
 for each token in a given sequence. We develop a simple but effective "token

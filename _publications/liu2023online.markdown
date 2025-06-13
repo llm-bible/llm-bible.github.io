@@ -8,7 +8,7 @@ bibkey: liu2023online
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07177"}
   - {name: "Code", url: "https://github.com/LiuXiaoxuanPKU/OSD"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Distillation', 'Has Code']
+tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Distillation']
 ---
 Speculative decoding is a pivotal technique to accelerate the inference of
 large language models (LLMs) by employing a smaller draft model to predict the

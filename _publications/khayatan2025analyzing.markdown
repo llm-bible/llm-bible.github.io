@@ -8,7 +8,7 @@ bibkey: khayatan2025analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.03012"}
   - {name: "Code", url: "https://github.com/mshukor/xl-vlms"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal LLMs have reached remarkable levels of proficiency in
 understanding multimodal inputs, driving extensive research to develop

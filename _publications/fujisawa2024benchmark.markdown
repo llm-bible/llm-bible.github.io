@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03117"}
   - {name: "Code", url: "https://huggingface.co/datasets/ifujisawa/procbench"}
   - {name: "Code", url: "https://github.com/ifujisawa/proc-bench"}
-tags: ['Security', 'Fine-Tuning', 'Has Code', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Security', 'Has Code', 'Reinforcement Learning']
 ---
 Reasoning is central to a wide range of intellectual activities, and while
 the capabilities of large language models (LLMs) continue to advance, their

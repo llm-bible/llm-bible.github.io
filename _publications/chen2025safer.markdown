@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025safer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09347"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Security']
+tags: ['Responsible AI', 'Security', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) are increasingly employed as automated
 evaluators to assess the safety of generated content, yet their reliability in

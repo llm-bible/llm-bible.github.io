@@ -7,7 +7,7 @@ year: 2024
 bibkey: edwards2024molcap
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00737"}
-tags: ['Prompting', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Bridging biomolecular modeling with natural language information,
 particularly through large language models (LLMs), has recently emerged as a

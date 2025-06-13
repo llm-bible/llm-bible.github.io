@@ -7,7 +7,7 @@ year: 2025
 bibkey: guo2025stabletoolbench
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20527"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The rapid advancement of large language models (LLMs) has spurred significant
 interest in tool learning, where LLMs are augmented with external tools to

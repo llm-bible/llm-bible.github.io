@@ -7,7 +7,7 @@ year: 2024
 bibkey: arbel2024adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21479"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown promise in highly-specialized
 domains, however challenges are still present in aspects of accuracy and costs.

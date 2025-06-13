@@ -8,7 +8,7 @@ bibkey: prato2023epik
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15372"}
   - {name: "Code", url: "https://github.com/chandar-lab/EpiK-Eval"}
-tags: ['Training Techniques', 'Applications', 'Has Code']
+tags: ['Training Techniques', 'Has Code', 'Applications']
 ---
 In the age of artificial intelligence, the role of large language models
 (LLMs) is becoming increasingly central. Despite their growing prevalence,

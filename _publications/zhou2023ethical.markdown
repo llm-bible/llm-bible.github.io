@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023ethical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10646"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models, e.g. ChatGPT are currently contributing enormously to
 make artificial intelligence even more popular, especially among the general

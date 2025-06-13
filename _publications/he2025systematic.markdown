@@ -7,7 +7,7 @@ year: 2025
 bibkey: he2025systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03612"}
-tags: ['RAG', 'Efficiency and Optimization', 'Tools']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization']
 ---
 Preference learning is critical for aligning large language models (LLMs)
 with human values, yet its success hinges on high-quality datasets comprising

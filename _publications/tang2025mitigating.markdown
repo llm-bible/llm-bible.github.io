@@ -7,7 +7,7 @@ year: 2025
 bibkey: tang2025mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17295"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Machine Translation (MT) is undergoing a paradigm shift, with systems based
 on fine-tuned large language models (LLM) becoming increasingly competitive

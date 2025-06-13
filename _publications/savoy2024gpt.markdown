@@ -7,7 +7,7 @@ year: 2024
 bibkey: savoy2024gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18365"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Recently several large language models (LLMs) have demonstrated their
 capability to generate a message in response to a user request. Such scientific

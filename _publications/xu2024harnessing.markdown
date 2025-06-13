@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18537"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 Large Language Models (LLMs) demonstrate remarkable capabilities, yet
 struggle with hallucination and outdated knowledge when tasked with complex

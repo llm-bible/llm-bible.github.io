@@ -7,7 +7,7 @@ year: 2024
 bibkey: acharya2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10210"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Distillation', 'GPT', 'Merging', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Interpretability', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 This survey paper delves into the emerging and critical area of symbolic
 knowledge distillation in Large Language Models (LLMs). As LLMs like Generative

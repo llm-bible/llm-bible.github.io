@@ -7,7 +7,7 @@ year: 2024
 bibkey: butcher2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09566"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Prompting', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Advancements in large language models (LLMs) have demonstrated remarkable
 capabilities across a diverse range of applications. These models excel in

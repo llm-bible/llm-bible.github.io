@@ -7,7 +7,7 @@ year: 2024
 bibkey: feldman2024ragged
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01193"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) like ChatGPT demonstrate the remarkable progress
 of artificial intelligence. However, their tendency to hallucinate -- generate

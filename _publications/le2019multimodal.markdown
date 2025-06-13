@@ -8,7 +8,7 @@ bibkey: le2019multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.01166"}
   - {name: "Code", url: "https://github.com/henryhungle/MTN"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Developing Video-Grounded Dialogue Systems (VGDS), where a dialogue is
 conducted based on visual and audio aspects of a given video, is significantly

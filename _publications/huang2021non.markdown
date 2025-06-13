@@ -7,7 +7,7 @@ year: 2021
 bibkey: huang2021non
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.07515"}
-tags: ['WMT', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'WMT', 'Pretraining Methods']
 ---
 How do we perform efficient inference while retaining high translation
 quality? Existing neural machine translation models, such as Transformer,

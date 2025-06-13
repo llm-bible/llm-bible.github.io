@@ -7,7 +7,7 @@ year: 2021
 bibkey: zou2021thinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.04084"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods']
 ---
 Human dialogue contains evolving concepts, and speakers naturally associate
 multiple concepts to compose a response. However, current dialogue models with

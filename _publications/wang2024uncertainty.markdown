@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024uncertainty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04854"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 As instruction-tuned large language models (LLMs) evolve, aligning pretrained
 foundation models presents increasing challenges. Existing alignment

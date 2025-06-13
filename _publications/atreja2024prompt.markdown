@@ -7,7 +7,7 @@ year: 2024
 bibkey: atreja2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11980"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Manually annotating data for computational social science tasks can be
 costly, time-consuming, and emotionally draining. While recent work suggests

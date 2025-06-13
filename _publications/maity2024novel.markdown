@@ -7,7 +7,7 @@ year: 2024
 bibkey: maity2024novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07098"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 We introduce a multi-stage prompting approach (MSP) for the generation of
 multiple choice questions (MCQs), harnessing the capabilities of GPT models

@@ -7,7 +7,7 @@ year: 2023
 bibkey: panickssery2023steering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06681"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 We introduce Contrastive Activation Addition (CAA), an innovative method for
 steering language models by modifying their activations during forward passes.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: shang2024trusting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05354"}
-tags: ['Agentic', 'Merging', 'Survey Paper']
+tags: ['Agentic', 'Survey Paper', 'Merging']
 ---
 Trust is not just a cognitive issue but also an emotional one, yet the
 research in human-AI interactions has primarily focused on the cognitive route

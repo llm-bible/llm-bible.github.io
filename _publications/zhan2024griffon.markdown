@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhan2024griffon
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16163"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Multimodal Models']
+tags: ['Applications', 'Training Techniques', 'Multimodal Models', 'Efficiency and Optimization']
 ---
 Large Multimodal Models (LMMs) have achieved significant breakthroughs in
 various vision-language and vision-centric tasks based on auto-regressive

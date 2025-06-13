@@ -7,7 +7,7 @@ year: 2023
 bibkey: shi2023llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04913"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 E-commerce authoring entails creating engaging, diverse, and targeted content
 to enhance preference elicitation and retrieval experience. While Large

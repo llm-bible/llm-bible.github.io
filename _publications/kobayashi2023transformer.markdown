@@ -7,7 +7,7 @@ year: 2023
 bibkey: kobayashi2023transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18294"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT']
 ---
 Prediction head is a crucial component of Transformer language models.
 Despite its direct impact on prediction, this component has often been

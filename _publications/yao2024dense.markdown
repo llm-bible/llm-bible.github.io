@@ -8,7 +8,7 @@ bibkey: yao2024dense
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13800"}
   - {name: "Code", url: "https://github.com/HJYao00/DenseConnector"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Has Code', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Do we fully leverage the potential of visual encoder in Multimodal Large
 Language Models (MLLMs)? The recent outstanding performance of MLLMs in

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lakhanpal2024refining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.16422"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Over the past few years, Text-to-Image (T2I) generation approaches based on
 diffusion models have gained significant attention. However, vanilla diffusion

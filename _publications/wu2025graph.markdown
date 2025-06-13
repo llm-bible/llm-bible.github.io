@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01642"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recent large language model (LLM) reasoning, despite its success, suffers
 from limited domain knowledge, susceptibility to hallucinations, and

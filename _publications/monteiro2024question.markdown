@@ -7,7 +7,7 @@ year: 2024
 bibkey: monteiro2024question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11811"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG']
+tags: ['Tools', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) are trained on vast amounts of data, most of
 which is automatically scraped from the internet. This data includes

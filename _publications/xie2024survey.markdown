@@ -8,7 +8,7 @@ bibkey: xie2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12767"}
   - {name: "Code", url: "https://github.com/LiangruXie/Calibration-Process-in-Black-Box-LLMs"}
-tags: ['Survey Paper', 'Applications', 'Has Code', 'Tools']
+tags: ['Tools', 'Survey Paper', 'Has Code', 'Applications']
 ---
 Large Language Models (LLMs) demonstrate remarkable performance in semantic
 understanding and generation, yet accurately assessing their output reliability

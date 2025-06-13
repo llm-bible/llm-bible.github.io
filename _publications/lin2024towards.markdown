@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13298"}
-tags: ['Multimodal Models', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Interpretability and Explainability', 'Applications']
+tags: ['Applications', 'Interpretability and Explainability', 'Language Modeling', 'Merging', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The age of social media is flooded with Internet memes, necessitating a clear
 grasp and effective identification of harmful ones. This task presents a

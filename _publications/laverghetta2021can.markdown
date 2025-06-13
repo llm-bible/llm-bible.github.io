@@ -7,7 +7,7 @@ year: 2021
 bibkey: laverghetta2021can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.06849"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based language models (LMs) continue to advance state-of-the-art
 performance on NLP benchmark tasks, including tasks designed to mimic

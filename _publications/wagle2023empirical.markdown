@@ -8,7 +8,7 @@ bibkey: wagle2023empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09358"}
   - {name: "Code", url: "https://github.com/pnnl/EXPERT2"}
-tags: ['Responsible AI', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Has Code', 'Applications']
+tags: ['Responsible AI', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown remarkable achievements in natural
 language processing tasks, producing high-quality outputs. However, LLMs still

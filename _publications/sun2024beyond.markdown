@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03494"}
-tags: ['Interpretability', 'Security', 'Model Architecture', 'GPT']
+tags: ['Interpretability', 'Security', 'GPT', 'Model Architecture']
 ---
 While LLMs excel in processing text in these human conversations, they
 struggle with the nuances of verbal instructions in scenarios like social

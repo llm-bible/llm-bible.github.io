@@ -7,7 +7,7 @@ year: 2024
 bibkey: voronov2024designing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01819"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 This work presents Switti, a scale-wise transformer for text-to-image
 generation. We start by adapting an existing next-scale prediction

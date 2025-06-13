@@ -7,7 +7,7 @@ year: 2024
 bibkey: navarro2024segment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06990"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Applications']
+tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
 ---
 Pre-trained large language models (LLM) are starting to be widely used in
 many applications. In this work, we explore the use of these models in

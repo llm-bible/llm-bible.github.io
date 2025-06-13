@@ -7,7 +7,7 @@ year: 2025
 bibkey: takayanagi2025are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05862"}
-tags: ['Agentic', 'RAG']
+tags: ['RAG', 'Agentic']
 ---
 Large language model-based agents are becoming increasingly popular as a
 low-cost mechanism to provide personalized, conversational advice, and have

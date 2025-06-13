@@ -7,7 +7,7 @@ year: 2023
 bibkey: belouadi2023text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00367"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'GPT', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 Generating bitmap graphics from text has gained considerable attention, yet
 for scientific figures, vector graphics are often preferred. Given that vector

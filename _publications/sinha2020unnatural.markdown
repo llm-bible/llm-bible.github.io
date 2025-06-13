@@ -8,7 +8,7 @@ bibkey: sinha2020unnatural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.00010"}
   - {name: "Code", url: "https://github.com/facebookresearch/unlu"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Has Code', 'Pretraining Methods']
 ---
 Recent investigations into the inner-workings of state-of-the-art large-scale
 pre-trained Transformer-based Natural Language Understanding (NLU) models

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16120"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Prompting', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Prompting']
 ---
 Developing AI agents powered by large language models (LLMs) faces
 significant challenges in achieving true Turing completeness and adaptive,

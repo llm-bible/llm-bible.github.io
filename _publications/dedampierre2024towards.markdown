@@ -7,7 +7,7 @@ year: 2024
 bibkey: dedampierre2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06574"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 LLMs are now responsible for making many decisions on behalf of humans: from
 answering questions to classifying things, they have become an important part

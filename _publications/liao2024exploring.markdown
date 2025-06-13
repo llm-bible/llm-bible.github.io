@@ -7,7 +7,7 @@ year: 2024
 bibkey: liao2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17018"}
-tags: ['Training Techniques', 'TACL', 'Pretraining Methods', 'Fine-Tuning', 'ACL', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'TACL', 'ACL', 'Training Techniques', 'Pretraining Methods']
 ---
 Catastrophic forgetting remains a formidable obstacle to building an
 omniscient model in large language models (LLMs). Despite the pioneering

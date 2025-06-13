@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024cool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19807"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Language Modeling', 'Merging', 'RAG', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Merging', 'Training Techniques']
 ---
 We focus on the problem of fusing two or more heterogeneous large language
 models (LLMs) to facilitate their complementary strengths. One of the

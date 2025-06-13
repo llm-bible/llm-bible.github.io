@@ -8,7 +8,7 @@ bibkey: su2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10631"}
   - {name: "Code", url: "https://github.com/YupengSu/LLM-Barber"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pruning', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Large language models (LLMs) have grown significantly in scale, leading to a
 critical need for efficient model pruning techniques. Existing post-training

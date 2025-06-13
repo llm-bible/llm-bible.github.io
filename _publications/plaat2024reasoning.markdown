@@ -7,7 +7,7 @@ year: 2024
 bibkey: plaat2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11511"}
-tags: ['Agentic', 'Survey Paper', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Agentic', 'Survey Paper', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Scaling up language models to billions of parameters has opened up
 possibilities for in-context learning, allowing instruction tuning and few-shot

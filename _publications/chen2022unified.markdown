@@ -8,7 +8,7 @@ bibkey: chen2022unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.02849"}
   - {name: "Code", url: "https://aka.ms/xdoc"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The surge of pre-training has witnessed the rapid development of document
 understanding recently. Pre-training and fine-tuning framework has been

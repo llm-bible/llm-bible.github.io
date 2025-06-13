@@ -8,7 +8,7 @@ bibkey: modarressi2024finetuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11672"}
   - {name: "Code", url: "https://github.com/amodaresi/MemLLM"}
-tags: ['Language Modeling', 'Has Code', 'RAG', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Has Code', 'Language Modeling']
 ---
 While current large language models (LLMs) perform well on many
 knowledge-related tasks, they are limited by relying on their parameters as an

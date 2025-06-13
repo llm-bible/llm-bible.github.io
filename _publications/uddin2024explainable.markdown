@@ -7,7 +7,7 @@ year: 2024
 bibkey: uddin2024explainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13871"}
-tags: ['Masked Language Model', 'Security', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Security', 'Masked Language Model', 'Pretraining Methods', 'BERT']
 ---
 Phishing email is a serious cyber threat that tries to deceive users by
 sending false emails with the intention of stealing confidential information or

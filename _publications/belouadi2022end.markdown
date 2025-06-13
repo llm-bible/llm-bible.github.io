@@ -7,7 +7,7 @@ year: 2022
 bibkey: belouadi2022end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10474"}
-tags: ['Tokenization', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Tokenization']
 ---
 State-of-the-art poetry generation systems are often complex. They either
 consist of task-specific model pipelines, incorporate prior knowledge in the

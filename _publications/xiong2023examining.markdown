@@ -8,7 +8,7 @@ bibkey: xiong2023examining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11595"}
   - {name: "Code", url: "https://github.com/Waste-Wood/FORD"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Large Language Models (LLMs) have shown impressive capabilities in various
 applications, but they still face various inconsistency issues. Existing works

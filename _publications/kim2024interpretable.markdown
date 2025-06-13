@@ -8,7 +8,7 @@ bibkey: kim2024interpretable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00066"}
   - {name: "Code", url: "https://github.com/ejkim47/induction-gram"}
-tags: ['Language Modeling', 'Has Code', 'Efficiency and Optimization', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Efficiency and Optimization', 'Has Code', 'Language Modeling']
 ---
 Recent large language models (LLMs) have excelled across a wide range of
 tasks, but their use in high-stakes and compute-limited settings has

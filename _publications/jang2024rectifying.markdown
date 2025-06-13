@@ -7,7 +7,7 @@ year: 2024
 bibkey: jang2024rectifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09488"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'In-Context Learning']
+tags: ['GPT', 'Prompting', 'In-Context Learning', 'Model Architecture']
 ---
 Large language models (LLMs) are able to solve various tasks with only a few
 demonstrations utilizing their in-context learning (ICL) abilities. However,

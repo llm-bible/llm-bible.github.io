@@ -7,7 +7,7 @@ year: 2023
 bibkey: oymak2023role
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.03435"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Prompt-tuning is an emerging strategy to adapt large language models (LLM) to
 downstream tasks by learning a (soft-)prompt parameter from data. Despite its

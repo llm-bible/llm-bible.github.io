@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023prefix
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12086"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Parameter-efficient tuning aims to mitigate the large memory requirements of
 adapting pretrained language models for downstream tasks. For example, one

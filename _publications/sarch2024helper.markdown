@@ -7,7 +7,7 @@ year: 2024
 bibkey: sarch2024helper
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19065"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Few-Shot', 'Tools', 'Prompting']
+tags: ['Agentic', 'Tools', 'Training Techniques', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 Recent research on instructable agents has used memory-augmented Large
 Language Models (LLMs) as task planners, a technique that retrieves

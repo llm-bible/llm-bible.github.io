@@ -7,7 +7,7 @@ year: 2020
 bibkey: xue2020massively
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2010.11934v3"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The recent "Text-to-Text Transfer Transformer" (T5) leveraged a unified
 text-to-text format and scale to attain state-of-the-art results on a wide

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023characterizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15910"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Language Models (LMs) often must integrate facts they memorized in
 pretraining with new information that appears in a given context. These two

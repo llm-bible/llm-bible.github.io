@@ -7,7 +7,7 @@ year: 2024
 bibkey: zingale2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06125"}
-tags: ['Training Techniques', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Controlled text generation (CTG) seeks to guide large language model (LLM)
 output to produce text that conforms to desired criteria. The current study

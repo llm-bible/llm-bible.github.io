@@ -7,7 +7,7 @@ year: 2024
 bibkey: asami2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03666"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
 ---
 Psycholinguistic research suggests that humans may build a representation of
 linguistic input that is 'good-enough' for the task at hand. This study

@@ -8,7 +8,7 @@ bibkey: myrzakhan2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07545"}
   - {name: "Code", url: "https://github.com/VILA-Lab/Open-LLM-Leaderboard"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Has Code']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Has Code']
 ---
 Multiple-choice questions (MCQ) are frequently used to assess large language
 models (LLMs). Typically, an LLM is given a question and selects the answer

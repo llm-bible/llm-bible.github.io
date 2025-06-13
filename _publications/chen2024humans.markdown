@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024humans
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10669"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Attention Mechanism']
+tags: ['Tools', 'Ethics and Bias', 'Model Architecture', 'Security', 'Attention Mechanism']
 ---
 Adopting human and large language models (LLM) as judges (a.k.a human- and
 LLM-as-a-judge) for evaluating the performance of LLMs has recently gained

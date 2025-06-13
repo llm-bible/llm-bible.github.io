@@ -7,7 +7,7 @@ year: 2024
 bibkey: hean2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.19784"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 In recent years, Large Language Models (LLMs) have emerged as a
 transformative development in artificial intelligence (AI), drawing significant

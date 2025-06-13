@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08968"}
-tags: ['Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Current conversational AI systems based on large language models (LLMs) are
 known to generate unsafe responses, agreeing to offensive user input or

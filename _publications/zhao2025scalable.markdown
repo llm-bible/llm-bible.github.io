@@ -8,7 +8,7 @@ bibkey: zhao2025scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09263"}
   - {name: "Code", url: "https://github.com/Alokia/COLA-demo"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 With the rapid advancements in Large Language Models (LLMs), an increasing
 number of studies have leveraged LLMs as the cognitive core of agents to

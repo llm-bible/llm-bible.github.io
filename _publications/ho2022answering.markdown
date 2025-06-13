@@ -7,7 +7,7 @@ year: 2022
 bibkey: ho2022answering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.12152"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
 ---
 As large language models (LLMs) grow larger and more sophisticated, assessing
 their "reasoning" capabilities in natural language grows more challenging.

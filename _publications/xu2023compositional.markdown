@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023compositional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02748"}
-tags: ['Language Modeling', 'Applications', 'RAG']
+tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Data-to-text generation involves transforming structured data, often
 represented as predicate-argument tuples, into coherent textual descriptions.

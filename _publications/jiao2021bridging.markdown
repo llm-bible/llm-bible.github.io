@@ -7,7 +7,7 @@ year: 2021
 bibkey: jiao2021bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.04201"}
-tags: ['Reinforcement Learning', 'Training Techniques', 'Pre-Training', 'Model Architecture']
+tags: ['Training Techniques', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning']
 ---
 Pre-trained Language Models (PLMs) have achieved great success on Machine
 Reading Comprehension (MRC) over the past few years. Although the general

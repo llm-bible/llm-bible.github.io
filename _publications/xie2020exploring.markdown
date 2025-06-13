@@ -8,7 +8,7 @@ bibkey: xie2020exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.01102"}
   - {name: "Code", url: "https://github.com/YuxiXie/RL-for-Question-Generation"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Has Code']
+tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Recent question generation (QG) approaches often utilize the
 sequence-to-sequence framework (Seq2Seq) to optimize the log-likelihood of

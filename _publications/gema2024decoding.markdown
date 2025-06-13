@@ -7,7 +7,7 @@ year: 2024
 bibkey: gema2024decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18860"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) often hallucinate, producing unfaithful or
 factually incorrect outputs by misrepresenting the provided context or

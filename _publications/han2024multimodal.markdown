@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12508"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 The rapid expansion of multimedia content has made accurately retrieving
 relevant videos from large collections increasingly challenging. Recent

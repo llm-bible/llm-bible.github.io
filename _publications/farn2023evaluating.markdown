@@ -8,7 +8,7 @@ bibkey: farn2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10775"}
   - {name: "Code", url: "https://github.com/microsoft/ToolTalk"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) have displayed massive improvements in reasoning
 and decision-making skills and can hold natural conversations with users. Many

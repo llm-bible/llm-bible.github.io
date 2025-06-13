@@ -7,7 +7,7 @@ year: 2025
 bibkey: chhikara2025building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19413"}
-tags: ['Agentic', 'RAG', 'Model Architecture', 'Tools']
+tags: ['RAG', 'Agentic', 'Model Architecture', 'Tools']
 ---
 Large Language Models (LLMs) have demonstrated remarkable prowess in
 generating contextually coherent responses, yet their fixed context windows

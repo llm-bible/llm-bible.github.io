@@ -8,7 +8,7 @@ bibkey: ahrabian2024curious
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.12117"}
   - {name: "Code", url: "https://github.com/usc-isi-i2/isi-mmlm-rpm"}
-tags: ['Masked Language Model', 'Prompting', 'Applications', 'Has Code']
+tags: ['Masked Language Model', 'Has Code', 'Prompting', 'Applications']
 ---
 While large language models (LLMs) are still being adopted to new domains and
 utilized in novel applications, we are experiencing an influx of the new

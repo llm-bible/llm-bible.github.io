@@ -7,7 +7,7 @@ year: 2023
 bibkey: jeong2023hijacking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07553"}
-tags: ['Security', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Security', 'Prompting', 'In-Context Learning']
 ---
 Recently, Large Multi-modal Models (LMMs) have demonstrated their ability to
 understand the visual contents of images given the instructions regarding the

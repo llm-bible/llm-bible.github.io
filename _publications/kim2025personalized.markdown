@@ -7,7 +7,7 @@ year: 2025
 bibkey: kim2025personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18008"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Training Techniques', 'Merging']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Prompting', 'Merging']
 ---
 Personalization in large language models (LLMs) seeks to tailor models to
 individual user or user group preferences. Prompt-based methods augment queries

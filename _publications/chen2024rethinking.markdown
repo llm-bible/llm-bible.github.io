@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20362"}
-tags: ['Prompting', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting']
 ---
 Recent advances in large language model (LLM) training have highlighted the
 need for diverse, high-quality instruction data. Recently, many works are

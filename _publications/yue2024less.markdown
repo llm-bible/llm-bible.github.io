@@ -7,7 +7,7 @@ year: 2024
 bibkey: yue2024less
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.14545v2"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Large Multimodal Models (LMMs) often suffer from multimodal hallucinations,
 wherein they may create content that is not present in the visual inputs. In

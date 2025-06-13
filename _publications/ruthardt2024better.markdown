@@ -7,7 +7,7 @@ year: 2024
 bibkey: ruthardt2024better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07173"}
-tags: ['Security', 'Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['Security', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 How well do text-only Large Language Models (LLMs) naturally align with the
 visual world? We provide the first direct analysis by utilizing frozen text

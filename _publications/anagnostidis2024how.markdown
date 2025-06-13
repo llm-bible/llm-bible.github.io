@@ -7,7 +7,7 @@ year: 2024
 bibkey: anagnostidis2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11865"}
-tags: ['Prompting', 'Interpretability and Explainability', 'Reinforcement Learning']
+tags: ['Interpretability and Explainability', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are highly sensitive to prompts, including
 additional context provided therein. As LLMs grow in capability, understanding

@@ -7,7 +7,7 @@ year: 2024
 bibkey: schwachhofer2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.10086"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Prompting', 'SLT']
+tags: ['Efficiency and Optimization', 'Prompting', 'Model Architecture', 'Training Techniques', 'SLT']
 ---
 System-Level Test (SLT) has been a part of the test flow for integrated
 circuits for over a decade and still gains importance. However, no systematic

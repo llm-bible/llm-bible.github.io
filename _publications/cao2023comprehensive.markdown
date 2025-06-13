@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.04226"}
-tags: ['Multimodal Models', 'Model Architecture', 'Survey Paper', 'GPT', 'Attention Mechanism']
+tags: ['GPT', 'Survey Paper', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 Recently, ChatGPT, along with DALL-E-2 and Codex,has been gaining significant
 attention from society. As a result, many individuals have become interested in

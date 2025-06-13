@@ -7,7 +7,7 @@ year: 2024
 bibkey: enström2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11314"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer language models are neural networks used for a wide variety of
 tasks concerning natural language, including some that also require logical

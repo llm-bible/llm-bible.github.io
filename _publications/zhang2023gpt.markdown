@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01361"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Interpretability and Explainability']
+tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Automatically evaluating vision-language tasks is challenging, especially
 when it comes to reflecting human judgments due to limitations in accounting

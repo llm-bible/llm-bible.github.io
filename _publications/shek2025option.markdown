@@ -7,7 +7,7 @@ year: 2025
 bibkey: shek2025option
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19007"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have shown remarkable promise in reasoning and
 decision-making, yet their integration with Reinforcement Learning (RL) for

@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19860"}
-tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning', 'Tools']
 ---
 Mental health issues are worsening in today's competitive society, such as
 depression and anxiety. Traditional healings like counseling and chatbots fail

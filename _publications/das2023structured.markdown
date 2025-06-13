@@ -7,7 +7,7 @@ year: 2023
 bibkey: das2023structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08827"}
-tags: ['Agentic', 'Security', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Agentic', 'Applications', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 The traditional Dialogue State Tracking (DST) problem aims to track user
 preferences and intents in user-agent conversations. While sufficient for

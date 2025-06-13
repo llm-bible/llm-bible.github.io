@@ -7,7 +7,7 @@ year: 2022
 bibkey: park2022adapter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.16912"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Quantization', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Transformer language models such as GPT-2 are difficult to quantize because
 of outliers in activations leading to a large quantization error. To adapt to

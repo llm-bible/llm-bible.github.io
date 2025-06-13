@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhao2022memorize
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.00732"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
 ---
 Few-shot table-to-text generation is a task of composing fluent and faithful
 sentences to convey table content using limited data. Despite many efforts

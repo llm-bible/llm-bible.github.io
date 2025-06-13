@@ -8,7 +8,7 @@ bibkey: panferov2025stable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05003"}
   - {name: "Code", url: "https://github.com/IST-DASLab/QuEST"}
-tags: ['Arxiv', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Distillation', 'Quantization', 'Large-Scale Training', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Scaling Laws', 'Quantization', 'Distillation', 'Arxiv']
 ---
 One approach to reducing the massive costs of large language models (LLMs) is
 the use of quantized or sparse representations for training or deployment.

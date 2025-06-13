@@ -7,7 +7,7 @@ year: 2024
 bibkey: agarwal2024ethical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18460"}
-tags: ['Responsible AI', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Prompting']
 ---
 Ethical reasoning is a crucial skill for Large Language Models (LLMs).
 However, moral values are not universal, but rather influenced by language and

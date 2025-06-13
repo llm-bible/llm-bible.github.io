@@ -7,7 +7,7 @@ year: 2024
 bibkey: yunusov2024reflecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13935"}
-tags: ['Ethics and Bias', 'RAG']
+tags: ['RAG', 'Ethics and Bias']
 ---
 This study explores the effectiveness of Large Language Models (LLMs) in
 creating personalized "mirror stories" that reflect and resonate with

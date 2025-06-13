@@ -7,7 +7,7 @@ year: 2024
 bibkey: grigaliūnas2024inference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19947"}
-tags: ['Language Modeling', 'Applications']
+tags: ['Applications', 'Language Modeling']
 ---
 Large Language Models (LLMs) with billions of parameters are known for their
 impressive predicting capabilities but require lots of resources to run. With

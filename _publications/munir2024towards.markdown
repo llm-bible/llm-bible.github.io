@@ -7,7 +7,7 @@ year: 2024
 bibkey: munir2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.08449"}
-tags: ['Agentic', 'Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'Merging', 'GPT', 'Prompting', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLMs) are revolutionizing the landscape of Generative
 Artificial Intelligence (GenAI), with innovative LLM-backed solutions emerging

@@ -8,7 +8,7 @@ bibkey: zhu2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.07874"}
   - {name: "Code", url: "https://github.com/zh460045050/V2L-Tokenizer"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 In this work, we investigate the potential of a large language model (LLM) to
 directly comprehend visual signals without the necessity of fine-tuning on

@@ -7,7 +7,7 @@ year: 2019
 bibkey: tuan2019capturing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.10274"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Automatic question generation can benefit many applications ranging from
 dialogue systems to reading comprehension. While questions are often asked with

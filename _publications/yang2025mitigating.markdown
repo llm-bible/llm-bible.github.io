@@ -8,7 +8,7 @@ bibkey: yang2025mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.09695"}
   - {name: "Code", url: "https://github.com/zhyang2226/OPA-DPO"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Hallucination remains a major challenge for Large Vision-Language Models
 (LVLMs). Direct Preference Optimization (DPO) has gained increasing attention

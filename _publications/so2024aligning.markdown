@@ -7,7 +7,7 @@ year: 2024
 bibkey: so2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17428"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Background: Advancements in large language models (LLMs) have opened new
 possibilities in psychiatric interviews, an underexplored area where LLMs could

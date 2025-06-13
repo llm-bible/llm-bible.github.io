@@ -8,7 +8,7 @@ bibkey: luo2024layout
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05225"}
   - {name: "Code", url: "https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LayoutLLM"}
-tags: ['Multimodal Models', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recently, leveraging large language models (LLMs) or multimodal large
 language models (MLLMs) for document understanding has been proven very

@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20110"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Modern LLMs struggle with efficient updates, as each new pretrained model
 version requires repeating expensive alignment processes. This challenge also

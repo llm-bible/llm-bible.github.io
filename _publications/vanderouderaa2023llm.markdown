@@ -7,7 +7,7 @@ year: 2023
 bibkey: vanderouderaa2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17244"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pruning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 State-of-the-art language models are becoming increasingly large in an effort
 to achieve the highest performance on large corpora of available textual data.

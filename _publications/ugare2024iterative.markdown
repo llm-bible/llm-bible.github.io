@@ -8,7 +8,7 @@ bibkey: ugare2024iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07295"}
   - {name: "Code", url: "https://structuredllm.com"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Large Language Models (LLMs) are widely used for tasks such as natural
 language and code generation, but their outputs often suffer from issues like

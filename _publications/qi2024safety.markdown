@@ -7,7 +7,7 @@ year: 2024
 bibkey: qi2024safety
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05946"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 The safety alignment of current Large Language Models (LLMs) is vulnerable.
 Relatively simple attacks, or even benign fine-tuning, can jailbreak aligned

@@ -7,7 +7,7 @@ year: 2023
 bibkey: heck2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.01386"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Recent research on dialogue state tracking (DST) focuses on methods that
 allow few- and zero-shot transfer to new domains or schemas. However,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024gradient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12136"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Language Modeling', 'GPT', 'Pretraining Methods']
+tags: ['Efficiency and Optimization', 'GPT', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Mixture-of-Experts (MoE) models scale more effectively than dense models due
 to sparse computation through expert routing, selectively activating only a

@@ -7,7 +7,7 @@ year: 2024
 bibkey: malla2024continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02347"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning', 'Pruning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Pruning']
 ---
 Adapting pre-trained large language models to different domains in natural
 language processing requires two key considerations: high computational demands

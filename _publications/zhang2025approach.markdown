@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025approach
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18910"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language model fine-tuning has been identified as an efficient approach
 to applying the pre-trained Large language models to other domains. To

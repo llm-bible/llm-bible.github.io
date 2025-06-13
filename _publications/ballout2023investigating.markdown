@@ -7,7 +7,7 @@ year: 2023
 bibkey: ballout2023investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.12205"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Pre-trained language models have recently emerged as a powerful tool for
 fine-tuning a variety of language tasks. Ideally, when models are pre-trained

@@ -8,7 +8,7 @@ bibkey: huang2024lora
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23775"}
   - {name: "Code", url: "https://github.com/ali-vilab/In-Context-LoRA"}
-tags: ['Arxiv', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting', 'Arxiv']
 ---
 Recent research arXiv:2410.15027 has explored the use of diffusion
 transformers (DiTs) for task-agnostic image generation by simply concatenating

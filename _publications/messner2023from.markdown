@@ -7,7 +7,7 @@ year: 2023
 bibkey: messner2023from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17256"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) are able to engage in natural-sounding
 conversations with humans, showcasing unprecedented capabilities for

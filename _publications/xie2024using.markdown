@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13660"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Currently, large language models (LLMs) have made significant progress in the
 field of psychological counseling. However, existing mental health LLMs

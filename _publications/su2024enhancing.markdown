@@ -8,7 +8,7 @@ bibkey: su2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21791"}
   - {name: "Code", url: "https://github.com/sujingbo0217/CS222W24-LLM-Attack"}
-tags: ['Responsible AI', 'Security', 'Reinforcement Learning', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated impressive performance across
 various domains but remain susceptible to safety concerns. Prior research

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lewis2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08955"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Security', 'Training Techniques']
 ---
 Large language models (LLMs) have performed well on several reasoning
 benchmarks, including ones that test analogical reasoning abilities. However,

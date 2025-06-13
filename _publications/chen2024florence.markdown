@@ -8,7 +8,7 @@ bibkey: chen2024florence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04424"}
   - {name: "Code", url: "https://github.com/JiuhaiChen/Florence-VL"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 We present Florence-VL, a new family of multimodal large language models
 (MLLMs) with enriched visual representations produced by Florence-2, a

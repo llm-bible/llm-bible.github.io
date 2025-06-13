@@ -7,7 +7,7 @@ year: 2024
 bibkey: akyürek2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.12973"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large-scale neural language models exhibit a remarkable capacity for
 in-context learning (ICL): they can infer novel functions from datasets

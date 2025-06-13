@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024salmonn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18138"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications', 'INTERSPEECH']
+tags: ['INTERSPEECH', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Full-duplex multimodal large language models (LLMs) provide a unified
 framework for addressing diverse speech understanding and generation tasks,

@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025thus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17129"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'TACL', 'ACL']
+tags: ['Survey Paper', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques']
 ---
 Long context is an important topic in Natural Language Processing (NLP),
 running through the development of NLP architectures, and offers immense

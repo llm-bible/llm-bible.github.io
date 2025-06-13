@@ -7,7 +7,7 @@ year: 2019
 bibkey: su2019attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.03176"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Fine-tuning with pre-trained models has achieved exceptional results for many
 language tasks. In this study, we focused on one such self-attention network

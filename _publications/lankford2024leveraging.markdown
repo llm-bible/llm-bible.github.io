@@ -7,7 +7,7 @@ year: 2024
 bibkey: lankford2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23890"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In an evolving landscape of crisis communication, the need for robust and
 adaptable Machine Translation (MT) systems is more pressing than ever,

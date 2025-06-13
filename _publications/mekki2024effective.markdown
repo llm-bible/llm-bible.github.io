@@ -7,7 +7,7 @@ year: 2024
 bibkey: mekki2024effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11006"}
-tags: ['Prompting', 'RAG', 'Applications', 'In-Context Learning']
+tags: ['RAG', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated impressive performance on a
 wide range of natural language processing (NLP) tasks, primarily through

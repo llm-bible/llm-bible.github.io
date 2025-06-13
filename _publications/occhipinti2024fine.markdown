@@ -7,7 +7,7 @@ year: 2024
 bibkey: occhipinti2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07288"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Automatic methods for generating and gathering linguistic data have proven
 effective for fine-tuning Language Models (LMs) in languages less resourced

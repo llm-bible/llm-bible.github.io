@@ -8,7 +8,7 @@ bibkey: köksal2023effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.08460"}
   - {name: "Code", url: "https://github.com/akoksal/LongForm"}
-tags: ['Language Modeling', 'Applications', 'Has Code', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Applications', 'Has Code', 'Language Modeling']
 ---
 Instruction tuning enables language models to more effectively generalize and
 better follow user intent. However, obtaining instruction data is costly and

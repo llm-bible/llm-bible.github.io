@@ -7,7 +7,7 @@ year: 2023
 bibkey: you2023transferring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12371"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 It is important for deep reinforcement learning (DRL) algorithms to transfer
 their learned policies to new environments that have different visual inputs.

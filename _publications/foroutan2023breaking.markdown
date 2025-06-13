@@ -7,7 +7,7 @@ year: 2023
 bibkey: foroutan2023breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15258"}
-tags: ['RAG', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Transformer', 'Model Architecture']
 ---
 In this work, we study whether multilingual language models (MultiLMs) can
 transfer logical reasoning abilities to other languages when they are

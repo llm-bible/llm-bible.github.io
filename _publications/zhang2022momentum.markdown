@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhang2022momentum
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.04257"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 The input and output of most text generation tasks can be transformed to two
 sequences of tokens and they can be modeled using sequence-to-sequence learning

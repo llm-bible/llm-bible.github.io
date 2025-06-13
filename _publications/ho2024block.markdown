@@ -8,7 +8,7 @@ bibkey: ho2024block
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02657"}
   - {name: "Code", url: "https://github.com/itsnamgyu/block-transformer"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 We introduce the Block Transformer which adopts hierarchical global-to-local
 modeling to autoregressive transformers to mitigate the inference bottlenecks

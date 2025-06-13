@@ -8,7 +8,7 @@ bibkey: zhou2023analyzing
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2310.00754v2"}
   - {name: "Code", url: "https://github.com/YiyangZhou/LURE"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Large vision-language models (LVLMs) have shown remarkable abilities in
 understanding visual information with human languages. However, LVLMs still

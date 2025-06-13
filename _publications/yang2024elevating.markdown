@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024elevating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09077"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have achieved significant success in open-domain
 question answering. However, they continue to face challenges such as

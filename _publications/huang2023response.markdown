@@ -8,7 +8,7 @@ bibkey: huang2023response
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12713"}
   - {name: "Code", url: "https://github.com/DeepLearnXMU/SemiDQG"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Leveraging vast and continually updated knowledge from the Internet has been
 considered an important ability for a dialogue system. Therefore, the dialogue

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chhun2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13769"}
-tags: ['Prompting', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Interpretability', 'Prompting']
 ---
 Storytelling is an integral part of human experience and plays a crucial role
 in social interactions. Thus, Automatic Story Evaluation (ASE) and Generation

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024gsm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.19255"}
-tags: ['Prompting', 'Security']
+tags: ['Security', 'Prompting']
 ---
 Large language models (LLMs) have achieved impressive performance across
 various mathematical reasoning benchmarks. However, there are increasing

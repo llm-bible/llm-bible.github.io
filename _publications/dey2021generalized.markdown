@@ -7,7 +7,7 @@ year: 2021
 bibkey: dey2021generalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.09717"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 The open-ended question answering task of Text-VQA often requires reading and
 reasoning about rarely seen or completely unseen scene-text content of an

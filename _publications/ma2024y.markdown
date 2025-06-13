@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024y
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11550"}
-tags: ['Prompting', 'Applications', 'Tools']
+tags: ['Tools', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have recently demonstrated remarkable
 performance in general tasks across various fields. However, their

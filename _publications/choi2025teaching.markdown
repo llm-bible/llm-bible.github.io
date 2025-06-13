@@ -7,7 +7,7 @@ year: 2025
 bibkey: choi2025teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09032"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Prompting Large Language Models (LLMs), or providing context on the expected
 model of operation, is an effective way to steer the outputs of such models to

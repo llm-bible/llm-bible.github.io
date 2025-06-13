@@ -8,7 +8,7 @@ bibkey: yang2020just
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.00451"}
   - {name: "Code", url: "https://antoyang.github.io/just-ask.html"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Large-Scale Training', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent methods for visual question answering rely on large-scale annotated
 datasets. Manual annotation of questions and answers for videos, however, is

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lopezcardona2024seeing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01532"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Advancements in Natural Language Processing (NLP), have led to the emergence
 of Large Language Models (LLMs) such as GPT, Llama, Claude, and Gemini, which

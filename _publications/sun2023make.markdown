@@ -8,7 +8,7 @@ bibkey: sun2023make
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.08088"}
   - {name: "Code", url: "https://github.com/QiushiSun/BBT-RGB"}
-tags: ['Efficiency and Optimization', 'Few-Shot', 'Has Code', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Has Code', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) have shown increasing power on various natural
 language processing (NLP) tasks. However, tuning these models for downstream

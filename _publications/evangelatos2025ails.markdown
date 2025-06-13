@@ -7,7 +7,7 @@ year: 2025
 bibkey: evangelatos2025ails
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00435"}
-tags: ['Prompting', 'Applications', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Prompting', 'Applications']
 ---
 In this paper, we present our submission to SemEval-2025 Task 8: Question
 Answering over Tabular Data. This task, evaluated on the DataBench dataset,

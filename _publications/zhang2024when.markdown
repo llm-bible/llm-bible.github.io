@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17193"}
-tags: ['Training Techniques', 'Scaling Laws', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws', 'Prompting']
 ---
 While large language models (LLMs) often adopt finetuning to unlock their
 capabilities for downstream applications, our understanding on the inductive

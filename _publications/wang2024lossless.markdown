@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024lossless
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09486"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) face limitations due to the high demand on GPU
 memory and computational resources when handling long contexts. While sparsify

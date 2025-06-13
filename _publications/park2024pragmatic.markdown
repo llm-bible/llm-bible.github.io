@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024pragmatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12675"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 Benchmarks play a significant role in the current evaluation of Large
 Language Models (LLMs), yet they often overlook the models' abilities to

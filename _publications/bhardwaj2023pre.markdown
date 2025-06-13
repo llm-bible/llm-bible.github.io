@@ -7,7 +7,7 @@ year: 2023
 bibkey: bhardwaj2023pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04666"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'BERT', 'Pre-Training']
+tags: ['Pre-Training', 'Model Architecture', 'Security', 'Training Techniques', 'BERT']
 ---
 Pre-trained Large Language Models (LLMs) have shown success in a diverse set
 of language inference and understanding tasks. The pre-training stage of LLMs

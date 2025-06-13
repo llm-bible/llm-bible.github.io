@@ -7,7 +7,7 @@ year: 2023
 bibkey: peng2023model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06239"}
-tags: ['Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Objective To develop soft prompt-based learning algorithms for large language
 models (LLMs), examine the shape of prompts, prompt-tuning using

@@ -7,7 +7,7 @@ year: 2023
 bibkey: lins2023comparing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.03741"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Business processes are commonly represented by modelling languages, such as
 Event-driven Process Chain (EPC), Yet Another Workflow Language (YAWL), and the

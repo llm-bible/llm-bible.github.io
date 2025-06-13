@@ -7,7 +7,7 @@ year: 2024
 bibkey: refael2024adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17881"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Training and fine-tuning large language models (LLMs) come with challenges
 related to memory and computational requirements due to the increasing size of

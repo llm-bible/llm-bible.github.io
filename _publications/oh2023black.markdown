@@ -8,7 +8,7 @@ bibkey: oh2023black
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.14773"}
   - {name: "Code", url: "https://github.com/changdaeoh/BlackVIP"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 With the surge of large-scale pre-trained models (PTMs), fine-tuning these
 models to numerous downstream tasks becomes a crucial problem. Consequently,

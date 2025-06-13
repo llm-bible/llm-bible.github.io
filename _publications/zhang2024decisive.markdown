@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024decisive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04717"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Understanding and accurately following instructions is critical for large
 language models (LLMs) to be effective across diverse tasks. In this work, we

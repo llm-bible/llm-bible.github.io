@@ -7,7 +7,7 @@ year: 2024
 bibkey: xia2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10516"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
 ---
 In this paper, we initiate our discussion by demonstrating how Large Language
 Models (LLMs), when tasked with responding to queries, display a more even

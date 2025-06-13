@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.11055"}
   - {name: "Code", url: "https://github.com/huggingface/setfit"}
   - {name: "Code", url: "https://huggingface.co/setfit"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Recent few-shot methods, such as parameter-efficient fine-tuning (PEFT) and
 pattern exploiting training (PET), have achieved impressive results in

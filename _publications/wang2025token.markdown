@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10995"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'Merging', 'Ethics and Bias', 'Pretraining Methods']
+tags: ['Tools', 'Ethics and Bias', 'Merging', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
 ---
 Composed Image Retrieval (CIR) retrieves target images using a multi-modal
 query that combines a reference image with text describing desired

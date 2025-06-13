@@ -7,7 +7,7 @@ year: 2024
 bibkey: snell2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03314"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Enabling LLMs to improve their outputs by using more test-time computation is
 a critical step towards building generally self-improving agents that can

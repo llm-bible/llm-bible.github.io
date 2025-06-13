@@ -7,7 +7,7 @@ year: 2024
 bibkey: ravi2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08488"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) techniques aim to mitigate
 hallucinations in Large Language Models (LLMs). However, LLMs can still produce

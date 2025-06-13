@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023qilin
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09089"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Integrating large language models (LLMs) into healthcare holds great
 potential but faces challenges. Pre-training LLMs from scratch for domains like

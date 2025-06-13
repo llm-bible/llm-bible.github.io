@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhu2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.11807"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Agentic', 'Tools', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities for
 text rewriting. Nonetheless, the large sizes of these models make them

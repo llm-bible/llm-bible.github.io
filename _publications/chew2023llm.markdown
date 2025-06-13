@@ -7,7 +7,7 @@ year: 2023
 bibkey: chew2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.14924"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Dataset', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Dataset', 'Prompting']
 ---
 Deductive coding is a widely used qualitative research method for determining
 the prevalence of themes across documents. While useful, deductive coding is

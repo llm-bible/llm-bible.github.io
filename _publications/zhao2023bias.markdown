@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023bias
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11262"}
-tags: ['Responsible AI', 'Agentic', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Attention Mechanism']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism']
 ---
 \textit\{\textbf\{\textcolor\{red\}\{Warning\}:\} This paper contains content that
 may be offensive or upsetting.\} Pretrained conversational agents have been

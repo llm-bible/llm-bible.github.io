@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024cultural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10689"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Despite recent progress, large language models (LLMs) still face the
 challenge of appropriately reacting to the intricacies of social and cultural

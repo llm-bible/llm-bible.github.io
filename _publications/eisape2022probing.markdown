@@ -7,7 +7,7 @@ year: 2022
 bibkey: eisape2022probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.09748"}
-tags: ['Pretraining Methods', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Next-word predictions from autoregressive neural language models show
 remarkable sensitivity to syntax. This work evaluates the extent to which this

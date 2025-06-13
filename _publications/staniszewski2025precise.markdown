@@ -8,7 +8,7 @@ bibkey: staniszewski2025precise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09935"}
   - {name: "Code", url: "https://t2i-text-loc.github.io/"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Novel diffusion models can synthesize photo-realistic images with integrated
 high-quality text. Surprisingly, we demonstrate through attention activation

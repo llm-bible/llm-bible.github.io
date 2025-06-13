@@ -7,7 +7,7 @@ year: 2025
 bibkey: choi2025red
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17715"}
-tags: ['Prompting', 'Agentic']
+tags: ['Agentic', 'Prompting']
 ---
 User interactions with conversational agents (CAs) evolve in the era of
 heavily guardrailed large language models (LLMs). As users push beyond

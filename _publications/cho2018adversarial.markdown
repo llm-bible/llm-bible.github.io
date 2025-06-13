@@ -7,7 +7,7 @@ year: 2018
 bibkey: cho2018adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1810.08113"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Security', 'Attention Mechanism']
 ---
 The task of answering a question given a text passage has shown great
 developments on model performance thanks to community efforts in building

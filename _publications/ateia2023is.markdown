@@ -7,7 +7,7 @@ year: 2023
 bibkey: ateia2023is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.16108"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 We assessed the performance of commercial Large Language Models (LLMs)
 GPT-3.5-Turbo and GPT-4 on tasks from the 2023 BioASQ challenge. In Task 11b

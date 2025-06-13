@@ -7,7 +7,7 @@ year: 2025
 bibkey: roth2025factored
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22931"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Prompting', 'In-Context Learning']
+tags: ['Agentic', 'Tools', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 In this paper, we propose a novel factored agent architecture designed to
 overcome the limitations of traditional single-agent systems in agentic AI. Our

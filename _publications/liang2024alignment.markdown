@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024alignment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03253"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pre-Training']
+tags: ['Agentic', 'Pre-Training', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 The alignment of large language models (LLMs) is critical for developing
 effective and safe language models. Traditional approaches focus on aligning

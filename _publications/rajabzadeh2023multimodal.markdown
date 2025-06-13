@@ -7,7 +7,7 @@ year: 2023
 bibkey: rajabzadeh2023multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08922"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 We employ a tool-interacting divide-and-conquer strategy enabling large
 language models (LLMs) to answer complex multimodal multi-hop questions. In

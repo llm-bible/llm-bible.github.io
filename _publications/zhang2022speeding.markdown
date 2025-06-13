@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhang2022speeding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.04406"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
 ---
 News feed recommendation is an important web service. In recent years,
 pre-trained language models (PLMs) have been intensively applied to improve the

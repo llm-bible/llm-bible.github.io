@@ -7,7 +7,7 @@ year: 2025
 bibkey: xiong2025self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19613"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We study self-rewarding reasoning large language models (LLMs), which can
 simultaneously generate step-by-step reasoning and evaluate the correctness of

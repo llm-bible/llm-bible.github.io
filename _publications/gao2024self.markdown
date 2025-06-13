@@ -8,7 +8,7 @@ bibkey: gao2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09243"}
   - {name: "Code", url: "https://github.com/RegionCh/SPRec"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Fairness', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Fairness']
 ---
 Large language models (LLMs) have attracted significant attention in
 recommendation systems. Current work primarily applies supervised fine-tuning

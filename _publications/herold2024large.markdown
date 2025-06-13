@@ -7,7 +7,7 @@ year: 2024
 bibkey: herold2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12023"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 We introduce the LiLiuM series of large language models (LLMs): 1B, 7B, and
 13B parameter models developed 100% in-house to fit eBay's specific needs in

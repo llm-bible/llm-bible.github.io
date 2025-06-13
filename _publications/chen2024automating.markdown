@@ -8,7 +8,7 @@ bibkey: chen2024automating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.19770"}
   - {name: "Code", url: "https://github.com/HPC-Fortran2CPP/Fortran2Cpp"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Agentic', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Translating legacy Fortran code into C++ is a crucial step in modernizing
 high-performance computing (HPC) applications. However, the scarcity of

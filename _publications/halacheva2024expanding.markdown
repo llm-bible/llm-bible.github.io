@@ -7,7 +7,7 @@ year: 2024
 bibkey: halacheva2024expanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12175"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Attention mechanisms and Transformer architectures have revolutionized
 Natural Language Processing (NLP) by enabling exceptional modeling of

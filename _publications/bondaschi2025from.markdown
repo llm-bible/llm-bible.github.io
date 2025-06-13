@@ -7,7 +7,7 @@ year: 2025
 bibkey: bondaschi2025from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10178"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 While transformer-based language models have driven the AI revolution thus
 far, their computational complexity has spurred growing interest in viable

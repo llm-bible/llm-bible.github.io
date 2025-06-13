@@ -7,7 +7,7 @@ year: 2023
 bibkey: pipatanakul2023thai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13951"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Typhoon is a series of Thai large language models (LLMs) developed
 specifically for the Thai language. This technical report presents challenges

@@ -7,7 +7,7 @@ year: 2020
 bibkey: soldaini2020cascade
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.02534"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large transformer-based language models have been shown to be very effective
 in many classification tasks. However, their computational complexity prevents

@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08614"}
-tags: ['Model Architecture', 'Tools', 'Ethics and Bias', 'Interpretability', 'BERT', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'BERT']
 ---
 Large Language Models (LLMs) have achieved remarkable success in natural
 language tasks, yet understanding their reasoning processes remains a

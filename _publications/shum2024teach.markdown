@@ -7,7 +7,7 @@ year: 2024
 bibkey: shum2024teach
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12168"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Large language models (LLMs) have become increasingly prevalent in our daily
 lives, leading to an expectation for LLMs to be trustworthy -- - both accurate

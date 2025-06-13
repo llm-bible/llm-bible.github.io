@@ -8,7 +8,7 @@ bibkey: singh2024mechanistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04277"}
   - {name: "Code", url: "https://github.com/joykirat18/TaRot"}
-tags: ['Efficiency and Optimization', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models trained on web-scale text acquire language generation
 abilities that can solve a wide range of tasks, particularly when task

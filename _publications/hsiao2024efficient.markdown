@@ -7,7 +7,7 @@ year: 2024
 bibkey: hsiao2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04731"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In this paper, we propose an efficient transformer architecture that uses
 reinforced positional embedding to obtain superior performance with half the

@@ -7,7 +7,7 @@ year: 2023
 bibkey: jaiswal2023breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20558"}
-tags: ['Pretraining Methods', 'BERT', 'Transformer', 'Model Architecture']
+tags: ['BERT', 'Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformer-based models, specifically BERT, have propelled research in
 various NLP tasks. However, these models are limited to a maximum token limit

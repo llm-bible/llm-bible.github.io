@@ -7,7 +7,7 @@ year: 2024
 bibkey: miao2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20272"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Building efficient inference framework has gained increasing interests for
 research community. Early-exit models, a variant of LLMs, improves the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: thonet2024elitr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.20262"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications', 'INTERSPEECH']
+tags: ['INTERSPEECH', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Research on Large Language Models (LLMs) has recently witnessed an increasing
 interest in extending the models' context size to better capture dependencies

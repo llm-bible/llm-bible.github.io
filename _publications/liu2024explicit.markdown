@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024explicit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.14467"}
-tags: ['Ethics and Bias', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are reported to hold undesirable attestation
 bias on inference tasks: when asked to predict if a premise P entails a

@@ -7,7 +7,7 @@ year: 2023
 bibkey: orenstrakh2023detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.07411"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Due to the recent improvements and wide availability of Large Language Models
 (LLMs), they have posed a serious threat to academic integrity in education.

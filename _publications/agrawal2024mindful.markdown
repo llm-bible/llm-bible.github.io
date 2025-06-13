@@ -7,7 +7,7 @@ year: 2024
 bibkey: agrawal2024mindful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12216"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Large Language Models (LLMs) are proficient at generating coherent and
 contextually relevant text but face challenges when addressing

@@ -7,7 +7,7 @@ year: 2025
 bibkey: siegel2025faithfulness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13445"}
-tags: ['Responsible AI', 'Prompting', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Prompting', 'Responsible AI', 'Interpretability and Explainability']
 ---
 As large language models (LLMs) become increasingly capable, ensuring that
 their self-generated explanations are faithful to their internal

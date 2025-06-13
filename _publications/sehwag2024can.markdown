@@ -7,7 +7,7 @@ year: 2024
 bibkey: sehwag2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13893"}
-tags: ['Security', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Security', 'Tools', 'GPT', 'Model Architecture']
 ---
 Despite the importance of developing generative AI models that can
 effectively resist scams, current literature lacks a structured framework for

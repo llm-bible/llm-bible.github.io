@@ -7,7 +7,7 @@ year: 2023
 bibkey: fu2023revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01150"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pruning']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning']
 ---
 In recent years, large language models (LLMs), such as GPTs, have attained
 great impact worldwide. However, how to adapt these LLMs to better suit the

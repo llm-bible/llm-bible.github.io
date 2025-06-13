@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023safety
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01581"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have achieved unprecedented performance in
 Natural Language Generation (NLG) tasks. However, many existing studies have

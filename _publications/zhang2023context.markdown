@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11374"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) and their variants have shown extraordinary
 efficacy across numerous downstream natural language processing (NLP) tasks,

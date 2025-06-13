@@ -7,7 +7,7 @@ year: 2025
 bibkey: akter2025nemotron
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13941"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) have shown strong reasoning capabilities,
 particularly when enhanced through Reinforcement Learning (RL). While prior

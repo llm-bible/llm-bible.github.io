@@ -7,7 +7,7 @@ year: 2019
 bibkey: emelin2019widening
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1906.12284"}
-tags: ['WMT', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The transformer is a state-of-the-art neural translation model that uses
 attention to iteratively refine lexical representations with information drawn

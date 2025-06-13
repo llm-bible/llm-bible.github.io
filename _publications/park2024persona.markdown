@@ -8,7 +8,7 @@ bibkey: park2024persona
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19778"}
   - {name: "Code", url: "https://github.com/Jeiyoon/charactergpt"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques', 'Has Code']
 ---
 The recent introduction of the Assistants API highlights its potential for
 large language models (LLMs) in role-playing agents (RPA). However, maintaining

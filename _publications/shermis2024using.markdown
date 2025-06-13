@@ -7,7 +7,7 @@ year: 2024
 bibkey: shermis2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.09540"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Fairness', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Fairness']
 ---
 This study aimed to determine if ChatGPT's large language models could match
 the scoring accuracy of human and machine scores from the ASAP competition. The

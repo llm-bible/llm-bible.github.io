@@ -8,7 +8,7 @@ bibkey: fei2024video
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10783"}
   - {name: "Code", url: "https://github.com/feizc/Video-In-Context"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 This paper investigates a solution for enabling in-context capabilities of
 video diffusion transformers, with minimal tuning required for activation.

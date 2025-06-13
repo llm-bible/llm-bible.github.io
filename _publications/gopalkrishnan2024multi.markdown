@@ -8,7 +8,7 @@ bibkey: gopalkrishnan2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19838"}
   - {name: "Code", url: "https://github.com/akshaygopalkr/EM-VLM4AD"}
-tags: ['Masked Language Model', 'Responsible AI', 'Multimodal Models', 'Has Code', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Applications', 'Masked Language Model', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Vision-Language Models (VLMs) and Multi-Modal Language models (MMLMs) have
 become prominent in autonomous driving research, as these models can provide

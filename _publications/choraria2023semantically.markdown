@@ -7,7 +7,7 @@ year: 2023
 bibkey: choraria2023semantically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07449"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 General purpose Vision Language Models (VLMs) have received tremendous
 interest in recent years, owing to their ability to learn rich vision-language

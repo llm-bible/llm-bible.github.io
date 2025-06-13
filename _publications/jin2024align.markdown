@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024align
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.20677"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models have been shown to perform well on a variety of natural
 language processing problems. However, as the model size and the input

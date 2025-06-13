@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025learnable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13794"}
-tags: ['RAG', 'Training Techniques', 'Pre-Training', 'Scaling Laws']
+tags: ['Training Techniques', 'Scaling Laws', 'RAG', 'Pre-Training']
 ---
 Training Large Language Models (LLMs) from scratch requires immense
 computational resources, making it prohibitively expensive. Model scaling-up

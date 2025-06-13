@@ -7,7 +7,7 @@ year: 2023
 bibkey: papadimitriou2023injecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.13060"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Both humans and large language models are able to learn language without
 explicit structural supervision. What inductive biases make this learning

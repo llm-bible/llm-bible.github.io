@@ -7,7 +7,7 @@ year: 2025
 bibkey: lu2025refining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01578"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent advancements in Large Language Models (LLMs) have set themselves apart
 with their exceptional performance in complex language modelling tasks.

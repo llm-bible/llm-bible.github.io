@@ -8,7 +8,7 @@ bibkey: hui2024smaller
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11231"}
   - {name: "Code", url: "https://github.com/HypherX/Evolution-Analysis}{https://github.com/HypherX/Evolution-Analysis"}
-tags: ['Has Code', 'Model Architecture', 'Fine-Tuning', 'GPT']
+tags: ['Fine-Tuning', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Instruction tuning has been widely used to unleash the complete potential of
 large language models. Notably, complex and diverse instructions are of

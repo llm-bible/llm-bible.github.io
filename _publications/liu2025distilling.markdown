@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.05360"}
-tags: ['Efficiency and Optimization', 'Tools', 'RAG', 'Distillation', 'Interpretability and Explainability']
+tags: ['Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Distillation']
 ---
 We present DSDrive, a streamlined end-to-end paradigm tailored for
 integrating the reasoning and planning of autonomous vehicles into a unified

@@ -7,7 +7,7 @@ year: 2025
 bibkey: cuellar2025trusting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12180"}
-tags: ['Security', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Security', 'Prompting']
 ---
 One fundamental question for the social sciences today is: how much can we
 trust highly complex predictive models like ChatGPT? This study tests the

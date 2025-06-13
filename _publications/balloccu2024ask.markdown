@@ -7,7 +7,7 @@ year: 2024
 bibkey: balloccu2024ask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08420"}
-tags: ['Responsible AI', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs), with their flexible generation abilities, can
 be powerful data sources in domains with few or no available corpora. However,

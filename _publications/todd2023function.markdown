@@ -8,7 +8,7 @@ bibkey: todd2023function
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15213"}
   - {name: "Code", url: "https://functions.baulab.info"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 We report the presence of a simple neural mechanism that represents an
 input-output function as a vector within autoregressive transformer language

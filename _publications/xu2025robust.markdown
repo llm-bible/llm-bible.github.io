@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.04416"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Large language models (LLMs) trained over extensive corpora risk memorizing
 sensitive, copyrighted, or toxic content. To address this, we propose

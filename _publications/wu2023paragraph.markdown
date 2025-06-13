@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023paragraph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.14284"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Text-to-image (T2I) models have recently experienced rapid development,
 achieving astonishing performance in terms of fidelity and textual alignment

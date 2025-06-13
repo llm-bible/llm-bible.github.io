@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09756"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Science journalism reports current scientific discoveries to non-specialists,
 aiming to enable public comprehension of the state of the art. However, this

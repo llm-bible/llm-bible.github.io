@@ -7,7 +7,7 @@ year: 2024
 bibkey: mojarradi2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21868"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'RAG', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown impressive capabilities across
 various tasks, but their performance on domain-specific tasks remains limited.

@@ -7,7 +7,7 @@ year: 2022
 bibkey: fei2022progressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.02291"}
-tags: ['Pretraining Methods', 'GPT']
+tags: ['GPT', 'Pretraining Methods']
 ---
 Recently, Vector Quantized AutoRegressive (VQ-AR) models have shown
 remarkable results in text-to-image synthesis by equally predicting discrete

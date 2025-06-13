@@ -7,7 +7,7 @@ year: 2024
 bibkey: malin2024review
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00269"}
-tags: ['Survey Paper', 'Tools', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Survey Paper', 'Applications', 'RAG', 'Prompting']
 ---
 This review examines the means with which faithfulness has been evaluated
 across open-ended summarization, question-answering and machine translation

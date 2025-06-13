@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhao2025exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12313"}
-tags: ['Agentic', 'Security', 'RecSys', 'Prompting']
+tags: ['Security', 'Agentic', 'Prompting', 'RecSys']
 ---
 Conversational Recommender Systems (CRSs) engage users in multi-turn
 interactions to deliver personalized recommendations. The emergence of large

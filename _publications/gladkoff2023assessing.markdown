@@ -7,7 +7,7 @@ year: 2023
 bibkey: gladkoff2023assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.00158"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Translation Quality Evaluation (TQE) is an essential step of the modern
 translation production process. TQE is critical in assessing both machine

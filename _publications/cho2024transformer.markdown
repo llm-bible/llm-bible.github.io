@@ -7,7 +7,7 @@ year: 2024
 bibkey: cho2024transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04619"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'GPT']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformers have revolutionized machine learning, yet their inner workings
 remain opaque to many. We present Transformer Explainer, an interactive

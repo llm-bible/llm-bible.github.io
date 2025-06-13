@@ -7,7 +7,7 @@ year: 2024
 bibkey: ye2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01145"}
-tags: ['RAG', 'Merging', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Merging']
 ---
 The omnipresence of NP-hard combinatorial optimization problems (COPs)
 compels domain experts to engage in trial-and-error heuristic design. The

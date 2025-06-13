@@ -7,7 +7,7 @@ year: 2023
 bibkey: yi2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14197"}
-tags: ['Prompting', 'Security', 'Applications']
+tags: ['Security', 'Prompting', 'Applications']
 ---
 The integration of large language models with external content has enabled
 applications such as Microsoft Copilot but also introduced vulnerabilities to

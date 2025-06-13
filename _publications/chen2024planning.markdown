@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024planning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11132"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'RAG', 'Prompting']
+tags: ['Agentic', 'Tools', 'RAG', 'Training Techniques', 'Prompting']
 ---
 In the past year, large language models (LLMs) have had remarkable success in
 domains outside the traditional natural language processing, and their capacity

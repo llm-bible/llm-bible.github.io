@@ -7,7 +7,7 @@ year: 2025
 bibkey: kasner2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08697"}
-tags: ['Language Modeling', 'Applications', 'RAG', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Language Modeling', 'Applications']
 ---
 For high-quality texts, single-score metrics seldom provide actionable
 feedback. In contrast, span annotation - pointing out issues in the text by

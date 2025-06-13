@@ -7,7 +7,7 @@ year: 2025
 bibkey: yue2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06882"}
-tags: ['Agentic', 'RAG', 'Tools']
+tags: ['RAG', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) have significantly advanced legal intelligence,
 but the scarcity of scenario data impedes the progress toward interactive legal

@@ -7,7 +7,7 @@ year: 2025
 bibkey: dreyer2025scientific
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01064"}
-tags: ['Multimodal Models', 'Training Techniques', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Multimodal Models']
 ---
 Large language models (LLMs) can answer questions and reason about complex
 tasks, also from the scientific domain. We assess several multimodal LLMs

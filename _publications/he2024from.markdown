@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19883"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In this work, from a theoretical lens, we aim to understand why large
 language model (LLM) empowered agents are able to solve decision-making

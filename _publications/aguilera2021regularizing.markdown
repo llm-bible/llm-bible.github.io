@@ -7,7 +7,7 @@ year: 2021
 bibkey: aguilera2021regularizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.10764"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Language models (LM) have grown with non-stop in the last decade, from
 sequence-to-sequence architectures to the state-of-the-art and utter

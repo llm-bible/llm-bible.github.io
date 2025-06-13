@@ -8,7 +8,7 @@ bibkey: khramtsova2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.04853"}
   - {name: "Code", url: "https://github.com/ielab/larmor/"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Has Code']
+tags: ['RAG', 'Training Techniques', 'Has Code', 'Applications']
 ---
 In this paper we present Large Language Model Assisted Retrieval Model
 Ranking (LARMOR), an effective unsupervised approach that leverages LLMs for

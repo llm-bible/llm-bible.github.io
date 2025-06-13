@@ -7,7 +7,7 @@ year: 2023
 bibkey: yao2023retrospective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.02151"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent months have seen the emergence of a powerful new trend in which large
 language models (LLMs) are augmented to become autonomous language agents

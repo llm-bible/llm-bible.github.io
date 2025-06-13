@@ -7,7 +7,7 @@ year: 2025
 bibkey: huo2025capturing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04600"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We derive a first-principles physics theory of the AI engine at the heart of
 LLMs' 'magic' (e.g. ChatGPT, Claude): the basic Attention head. The theory

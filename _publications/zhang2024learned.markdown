@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024learned
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.03349"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'In-Context Learning', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) and Retrieval-Augmented Generation (RAG) have
 gained attention for their ability to enhance LLMs' reasoning by incorporating

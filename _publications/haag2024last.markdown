@@ -7,7 +7,7 @@ year: 2024
 bibkey: haag2024last
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08658"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 We evaluated the viability of using Large Language Models (LLMs) to trigger
 and personalize content in Just-in-Time Adaptive Interventions (JITAIs) in

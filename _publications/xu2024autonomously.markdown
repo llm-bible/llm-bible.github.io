@@ -8,7 +8,7 @@ bibkey: xu2024autonomously
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13547"}
   - {name: "Code", url: "https://github.com/OpenMatch/ActiveRAG"}
-tags: ['Agentic', 'RAG', 'Has Code', 'Tools']
+tags: ['RAG', 'Agentic', 'Has Code', 'Tools']
 ---
 Retrieval-Augmented Generation (RAG) enables Large Language Models (LLMs) to
 leverage external knowledge, enhancing their performance on knowledge-intensive

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00037"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting', 'In-Context Learning']
 ---
 Code Community Question Answering (CCQA) seeks to tackle programming-related
 issues, thereby boosting productivity in both software engineering and academic

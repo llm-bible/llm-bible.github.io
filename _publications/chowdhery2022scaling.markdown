@@ -7,7 +7,7 @@ year: 2022
 bibkey: chowdhery2022scaling
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2204.02311v5"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Large language models have been shown to achieve remarkable performance
 across a variety of natural language tasks using few-shot learning, which

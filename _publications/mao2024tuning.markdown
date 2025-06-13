@@ -7,7 +7,7 @@ year: 2024
 bibkey: mao2024tuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05811"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 This article introduces contrastive alignment instructions (AlignInstruct) to
 address two challenges in machine translation (MT) on large language models

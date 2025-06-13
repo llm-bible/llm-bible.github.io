@@ -7,7 +7,7 @@ year: 2023
 bibkey: patwardhan2023sequencing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09513"}
-tags: ['Agentic', 'Model Architecture', 'RAG', 'BERT', 'Applications']
+tags: ['Agentic', 'Applications', 'RAG', 'Model Architecture', 'BERT']
 ---
 This paper contains what the Georgetown InfoSense group has done in regard to
 solving the challenges presented by TREC iKAT 2023. Our submitted runs

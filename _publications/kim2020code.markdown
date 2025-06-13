@@ -7,7 +7,7 @@ year: 2020
 bibkey: kim2020code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.13848"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 We advance the state-of-the-art in the accuracy of code prediction (next
 token prediction) used in autocomplete systems. First, we report that using the

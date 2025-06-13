@@ -7,7 +7,7 @@ year: 2024
 bibkey: allen2024shroom
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03732"}
-tags: ['Prompting', 'In-Context Learning', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We describe the University of Amsterdam Intelligent Data Engineering Lab
 team's entry for the SemEval-2024 Task 6 competition. The SHROOM-INDElab system

@@ -8,7 +8,7 @@ bibkey: xu2023investigation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08562"}
   - {name: "Code", url: "https://github.com/cathyxl/MAgIC"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Large Language Models (LLMs) have significantly advanced natural language
 processing, demonstrating exceptional reasoning, tool usage, and memory

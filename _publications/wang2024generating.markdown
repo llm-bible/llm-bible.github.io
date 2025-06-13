@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02757"}
-tags: ['Training Techniques', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 It is desirable but challenging to generate content-rich long videos in the
 scale of minutes. Autoregressive large language models (LLMs) have achieved

@@ -7,7 +7,7 @@ year: 2021
 bibkey: clark2021pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.06874"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'BERT']
 ---
 Pipelined NLP systems have largely been superseded by end-to-end neural
 modeling, yet nearly all commonly-used models still require an explicit

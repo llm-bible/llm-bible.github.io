@@ -7,7 +7,7 @@ year: 2020
 bibkey: lin2020autoregressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.07253"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Distillation', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Distillation']
 ---
 The performance of autoregressive models on natural language generation tasks
 has dramatically improved due to the adoption of deep, self-attentive

@@ -8,7 +8,7 @@ bibkey: xia2024efficiently
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14112"}
   - {name: "Code", url: "https://github.com/usyd-fsalab/fp6_llm"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Quantization', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Has Code', 'Quantization']
 ---
 Six-bit quantization (FP6) can effectively reduce the size of large language
 models (LLMs) and preserve the model quality consistently across varied

@@ -7,7 +7,7 @@ year: 2018
 bibkey: dziri2018augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1811.01063"}
-tags: ['Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture']
 ---
 Sequence-to-Sequence (Seq2Seq) models have witnessed a notable success in
 generating natural conversational exchanges. Notwithstanding the syntactically

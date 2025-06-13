@@ -7,7 +7,7 @@ year: 2023
 bibkey: han2023dialcot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05074"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 Chain-of-Thought (CoT) prompting has proven to be effective in enhancing the
 reasoning capabilities of Large Language Models (LLMs) with at least 100

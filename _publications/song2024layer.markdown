@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024layer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.10069"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Language Modeling', 'Pruning', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Model Architecture', 'Pruning']
 ---
 Evaluating the importance of different layers in large language models (LLMs)
 is crucial for optimizing model performance and interpretability. This paper

@@ -7,7 +7,7 @@ year: 2025
 bibkey: lee2025self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22968"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advancements in Korean large language models (LLMs) have spurred
 numerous benchmarks and evaluation methodologies, yet the lack of a

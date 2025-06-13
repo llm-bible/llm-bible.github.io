@@ -8,7 +8,7 @@ bibkey: yu2024text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21802"}
   - {name: "Code", url: "https://github.com/zhyblue424/TGA-ZSR"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'Has Code', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Security', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Due to the impressive zero-shot capabilities, pre-trained vision-language
 models (e.g. CLIP), have attracted widespread attention and adoption across

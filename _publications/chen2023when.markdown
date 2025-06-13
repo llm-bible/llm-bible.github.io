@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023when
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2307.16376v1"}
-tags: ['Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Tools', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 The advent of large language models marks a revolutionary breakthrough in
 artificial intelligence. With the unprecedented scale of training and model

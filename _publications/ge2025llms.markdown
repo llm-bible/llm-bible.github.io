@@ -7,7 +7,7 @@ year: 2025
 bibkey: ge2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.14073"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 As large language models (LLMs) have been deployed in various real-world
 settings, concerns about the harm they may propagate have grown. Various

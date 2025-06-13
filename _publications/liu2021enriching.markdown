@@ -7,7 +7,7 @@ year: 2021
 bibkey: liu2021enriching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.08942"}
-tags: ['WMT', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods']
 ---
 The non-autoregressive models have boosted the efficiency of neural machine
 translation through parallelized decoding at the cost of effectiveness when

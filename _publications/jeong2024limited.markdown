@@ -7,7 +7,7 @@ year: 2024
 bibkey: jeong2024limited
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.08870"}
-tags: ['Multimodal Models', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Several recent works seek to adapt general-purpose large language models
 (LLMs) and vision-language models (VLMs) for medical applications through

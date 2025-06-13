@@ -8,7 +8,7 @@ bibkey: renze2024benefits
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05618"}
   - {name: "Code", url: "https://github.com/matthewrenze/jhu-concise-cot"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 In this paper, we introduce Concise Chain-of-Thought (CCoT) prompting. We
 compared standard CoT and CCoT prompts to see how conciseness impacts response

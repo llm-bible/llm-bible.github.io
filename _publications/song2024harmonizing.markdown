@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024harmonizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19265"}
-tags: ['Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Open-source Large Language Models (LLMs) and their specialized variants,
 particularly Code LLMs, have recently delivered impressive performance.

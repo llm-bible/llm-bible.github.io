@@ -7,7 +7,7 @@ year: 2023
 bibkey: kang2023fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11960"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer-based models have achieved state-of-the-art performance in many
 areas. However, the quadratic complexity of self-attention with respect to the

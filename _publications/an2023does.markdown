@@ -7,7 +7,7 @@ year: 2023
 bibkey: an2023does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.11978"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism']
 ---
 Abstraction is a desirable capability for deep learning models, which means
 to induce abstract concepts from concrete instances and flexibly apply them

@@ -7,7 +7,7 @@ year: 2024
 bibkey: qian2024translate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11432"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Merging']
+tags: ['Tools', 'RAG', 'Merging', 'Training Techniques', 'Few-Shot']
 ---
 This paper introduces AnyTrans, an all-encompassing framework for the
 task-Translate AnyText in the Image (TATI), which includes multilingual text

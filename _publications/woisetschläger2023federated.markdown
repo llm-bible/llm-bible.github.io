@@ -7,7 +7,7 @@ year: 2023
 bibkey: woisetschläger2023federated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03150"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLM) and foundation models are popular as they offer
 new opportunities for individuals and businesses to improve natural language

@@ -7,7 +7,7 @@ year: 2025
 bibkey: tamber2025teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19712"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 While the current state-of-the-art dense retrieval models exhibit strong
 out-of-domain generalization, they might fail to capture nuanced

@@ -8,7 +8,7 @@ bibkey: liang2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11450"}
   - {name: "Code", url: "https://robot-teaching.github.io/"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have been shown to exhibit a wide range of
 capabilities, such as writing robot code from language commands -- enabling

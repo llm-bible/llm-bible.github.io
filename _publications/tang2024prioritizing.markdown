@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024prioritizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.04247"}
-tags: ['Responsible AI', 'Agentic', 'Survey Paper', 'Tools', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Survey Paper', 'Tools']
 ---
 Intelligent agents powered by large language models (LLMs) have demonstrated
 substantial promise in autonomously conducting experiments and facilitating

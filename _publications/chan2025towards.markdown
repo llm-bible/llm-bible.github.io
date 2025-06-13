@@ -7,7 +7,7 @@ year: 2025
 bibkey: chan2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17664"}
-tags: ['Arxiv', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Arxiv']
 ---
 Multilingual large language models (LLMs) are known to more frequently
 generate non-faithful output in resource-constrained languages (Guerreiro et

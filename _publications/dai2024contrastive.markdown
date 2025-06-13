@@ -7,7 +7,7 @@ year: 2024
 bibkey: dai2024contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19877"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 For crosslingual conversation and trade, Neural Machine Translation (NMT) is
 pivotal yet faces persistent challenges with monotony and repetition in

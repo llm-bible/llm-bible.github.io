@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023real
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.15049"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
 ---
 We present the InterviewBot that dynamically integrates conversation history
 and customized topics into a coherent embedding space to conduct 10 mins

@@ -7,7 +7,7 @@ year: 2024
 bibkey: veluri2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15594"}
-tags: ['Agentic', 'Training Techniques', 'Prompting', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Agentic', 'Prompting', 'Reinforcement Learning']
 ---
 Despite broad interest in modeling spoken dialogue agents, most approaches
 are inherently "half-duplex" -- restricted to turn-based interaction with

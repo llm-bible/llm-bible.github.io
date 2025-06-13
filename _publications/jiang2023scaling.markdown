@@ -8,7 +8,7 @@ bibkey: jiang2023scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.16645"}
   - {name: "Code", url: "https://github.com/kongds/scaling_sentemb"}
-tags: ['Training Techniques', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have recently garnered significant interest.
 With in-context learning, LLMs achieve impressive results in various natural

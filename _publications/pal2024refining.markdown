@@ -7,7 +7,7 @@ year: 2024
 bibkey: pal2024refining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13292"}
-tags: ['Prompting', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have exhibited an impressive capability to
 perform reasoning tasks, especially if they are encouraged to generate a

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11327"}
-tags: ['Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Aligning vision and language concepts at a finer level remains an essential
 topic of multimodal large language models (MLLMs), particularly for tasks such

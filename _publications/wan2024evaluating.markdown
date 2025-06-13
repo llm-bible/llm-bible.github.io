@@ -8,7 +8,7 @@ bibkey: wan2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00757"}
   - {name: "Code", url: "https://github.com/yxwan123/LogicAsker)"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
 ---
 We introduce LogicAsker, a novel approach for evaluating and enhancing the
 logical reasoning capabilities of large language models (LLMs) such as ChatGPT

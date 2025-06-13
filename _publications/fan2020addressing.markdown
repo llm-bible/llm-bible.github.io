@@ -7,7 +7,7 @@ year: 2020
 bibkey: fan2020addressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.09402"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Large-Scale Training', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers have been successfully applied to sequential, auto-regressive
 tasks despite being feedforward networks. Unlike recurrent neural networks,

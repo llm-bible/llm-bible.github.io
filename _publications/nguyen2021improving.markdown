@@ -7,7 +7,7 @@ year: 2021
 bibkey: nguyen2021improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08678"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Multi-head attention is a driving force behind state-of-the-art transformers,
 which achieve remarkable performance across a variety of natural language

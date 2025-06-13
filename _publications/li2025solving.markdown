@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025solving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18394"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 In recent years, large language models (LLMs) have shown an impressive
 ability to perform arithmetic and symbolic reasoning tasks. However, we found

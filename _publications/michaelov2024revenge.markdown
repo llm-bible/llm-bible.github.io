@@ -7,7 +7,7 @@ year: 2024
 bibkey: michaelov2024revenge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19178"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Transformers have generally supplanted recurrent neural networks as the
 dominant architecture for both natural language processing tasks and for

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yadav2024gamified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04038"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 This paper introduces Gamified Adversarial Prompting (GAP), a framework that
 crowd-sources high-quality data for visual instruction tuning of large

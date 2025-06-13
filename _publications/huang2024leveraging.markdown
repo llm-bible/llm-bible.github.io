@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09282"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Distillation', 'GPT', 'Merging', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting', 'Distillation']
 ---
 Emerging Large Language Models (LLMs) like GPT-4 have revolutionized Natural
 Language Processing (NLP), showing potential in traditional tasks such as Named

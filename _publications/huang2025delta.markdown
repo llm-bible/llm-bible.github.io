@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025delta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05825"}
-tags: ['Prompting', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) demonstrate strong capabilities in natural
 language processing but remain prone to hallucinations, generating factually

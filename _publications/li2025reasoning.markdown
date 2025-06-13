@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.07803"}
-tags: ['Prompting', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Tools', 'Prompting']
 ---
 Chain-of-Thought (CoT) prompting has shown promise in enhancing the reasoning
 capabilities of large language models (LLMs) by generating natural language

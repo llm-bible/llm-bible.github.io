@@ -7,7 +7,7 @@ year: 2025
 bibkey: fatouros2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12477"}
-tags: ['Agentic', 'RAG', 'Model Architecture', 'Tools']
+tags: ['RAG', 'Agentic', 'Model Architecture', 'Tools']
 ---
 This paper presents a Large Language Model (LLM) based conversational agent
 system designed to enhance human-machine collaboration in Machine Learning

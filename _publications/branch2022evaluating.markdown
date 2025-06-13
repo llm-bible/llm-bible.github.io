@@ -7,7 +7,7 @@ year: 2022
 bibkey: branch2022evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.02128"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Recent advances in the development of large language models have resulted in
 public access to state-of-the-art pre-trained language models (PLMs), including

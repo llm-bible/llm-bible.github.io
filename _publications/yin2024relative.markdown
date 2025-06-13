@@ -8,7 +8,7 @@ bibkey: yin2024relative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10958"}
   - {name: "Code", url: "https://github.com/yinyueqin/relative-preference-optimization"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 In the field of large language models (LLMs), aligning models with the
 diverse preferences of users is a critical challenge. Direct Preference

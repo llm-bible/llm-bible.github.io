@@ -7,7 +7,7 @@ year: 2025
 bibkey: geng2025control
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15851"}
-tags: ['Training Techniques', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) are increasingly deployed with hierarchical
 instruction schemes, where certain instructions (e.g., system-level directives)

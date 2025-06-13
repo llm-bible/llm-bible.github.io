@@ -7,7 +7,7 @@ year: 2022
 bibkey: lohrenz2022relaxed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.09735"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism', 'SLT']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'SLT']
 ---
 The powerful modeling capabilities of all-attention-based transformer
 architectures often cause overfitting and - for natural language processing

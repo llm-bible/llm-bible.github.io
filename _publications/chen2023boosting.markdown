@@ -8,7 +8,7 @@ bibkey: chen2023boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06363"}
   - {name: "Code", url: "https://github.com/KDEGroup/MMICT"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Although In-Context Learning (ICL) brings remarkable performance gains to
 Large Language Models (LLMs), the improvements remain lower than fine-tuning on

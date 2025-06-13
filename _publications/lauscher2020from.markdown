@@ -7,7 +7,7 @@ year: 2020
 bibkey: lauscher2020from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00633"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot']
 ---
 Massively multilingual transformers pretrained with language modeling
 objectives (e.g., mBERT, XLM-R) have become a de facto default transfer

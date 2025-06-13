@@ -8,7 +8,7 @@ bibkey: xu2023open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.11134"}
   - {name: "Code", url: "https://github.com/agiresearch/OpenP5"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'RecSys', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 In recent years, the integration of Large Language Models (LLMs) into
 recommender systems has garnered interest among both practitioners and

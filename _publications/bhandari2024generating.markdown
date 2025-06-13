@@ -8,7 +8,7 @@ bibkey: bhandari2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16526"}
   - {name: "Code", url: "https://github.com/AMAAI-Lab/Text2midi)"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 This paper introduces text2midi, an end-to-end model to generate MIDI files
 from textual descriptions. Leveraging the growing popularity of multimodal

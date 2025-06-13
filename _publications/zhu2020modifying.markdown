@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhu2020modifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.00363"}
-tags: ['Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Transformer models have achieved impressive performance in many natural
 language tasks. In particular, Transformer based language models have been

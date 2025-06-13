@@ -7,7 +7,7 @@ year: 2025
 bibkey: aghaei2025harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10685"}
-tags: ['Ethics and Bias', 'Efficiency and Optimization', 'Interpretability', 'Applications']
+tags: ['Interpretability', 'Efficiency and Optimization', 'Ethics and Bias', 'Applications']
 ---
 Large Language Models (LLMs) have revolutionized the process of customer
 engagement, campaign optimization, and content generation, in marketing

@@ -7,7 +7,7 @@ year: 2022
 bibkey: hertz2022prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.01626"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 Recent large-scale text-driven synthesis models have attracted much attention
 thanks to their remarkable capabilities of generating highly diverse images

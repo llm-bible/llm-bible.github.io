@@ -7,7 +7,7 @@ year: 2017
 bibkey: wu2017are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1711.07613"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism']
 ---
 The Visual Dialogue task requires an agent to engage in a conversation about
 an image with a human. It represents an extension of the Visual Question

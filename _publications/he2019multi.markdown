@@ -7,7 +7,7 @@ year: 2019
 bibkey: he2019multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.09849"}
-tags: ['RecSys', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
+tags: ['Model Architecture', 'RecSys', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 How to better utilize sequential information has been extensively studied in
 the setting of recommender systems. To this end, architectural inductive biases

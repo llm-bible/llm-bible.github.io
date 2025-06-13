@@ -7,7 +7,7 @@ year: 2024
 bibkey: koo2024studying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19503"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Distillation', 'Quantization', 'Ethics and Bias']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Quantization', 'Distillation']
 ---
 Despite the success of Large Language Models (LLMs), they still face
 challenges related to high inference costs and memory requirements. To address

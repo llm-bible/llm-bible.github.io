@@ -8,7 +8,7 @@ bibkey: zhou2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11411"}
   - {name: "Code", url: "https://github.com/YiyangZhou/POVID"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Instruction-following Vision Large Language Models (VLLMs) have achieved
 significant progress recently on a variety of tasks. These approaches merge

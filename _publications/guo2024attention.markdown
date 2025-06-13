@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12335"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Attention Mechanism']
 ---
 Scaling the context size of large language models (LLMs) enables them to
 perform various new tasks, e.g., book summarization. However, the memory cost

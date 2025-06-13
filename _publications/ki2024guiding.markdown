@@ -7,7 +7,7 @@ year: 2024
 bibkey: ki2024guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07851"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Machine Translation (MT) remains one of the last NLP tasks where large
 language models (LLMs) have not yet replaced dedicated supervised systems. This

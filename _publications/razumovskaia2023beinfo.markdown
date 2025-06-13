@@ -7,7 +7,7 @@ year: 2023
 bibkey: razumovskaia2023beinfo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09800"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Factuality is a crucial requirement in information seeking dialogue: the
 system should respond to the user's queries so that the responses are

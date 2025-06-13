@@ -7,7 +7,7 @@ year: 2024
 bibkey: moell2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14006"}
-tags: ['Applications', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
 ---
 In the rapidly evolving field of artificial intelligence, large language
 models (LLMs) have demonstrated significant capabilities across numerous

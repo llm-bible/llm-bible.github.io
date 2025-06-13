@@ -8,7 +8,7 @@ bibkey: li2023image
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07132"}
   - {name: "Code", url: "https://github.com/IEIT-AGI/MIX-Shannon/blob/main/projects/VQAI/lgd_vqai.md"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 The emergence of ChatGPT has once again sparked research in generative
 artificial intelligence (GAI). While people have been amazed by the generated

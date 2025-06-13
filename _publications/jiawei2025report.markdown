@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiawei2025report
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00057"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism', 'Tools']
+tags: ['Tools', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 This report aims to evaluate the performance of large language models (LLMs)
 in solving high school science questions and to explore their potential

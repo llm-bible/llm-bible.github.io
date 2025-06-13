@@ -7,7 +7,7 @@ year: 2023
 bibkey: coyne2023analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.14342"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Few-Shot']
+tags: ['Few-Shot', 'GPT', 'Prompting', 'Model Architecture']
 ---
 GPT-3 and GPT-4 models are powerful, achieving high performance on a variety
 of Natural Language Processing tasks. However, there is a relative lack of

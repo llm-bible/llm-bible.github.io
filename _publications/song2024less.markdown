@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024less
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.10994"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 The rapid advancement of Multimodal Large Language Models (MLLMs) has led to
 remarkable performances across various domains. However, this progress is

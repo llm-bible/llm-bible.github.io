@@ -7,7 +7,7 @@ year: 2025
 bibkey: marklová2025iconicity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.05643"}
-tags: ['Tokenization', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture', 'Tokenization']
 ---
 Lexical iconicity, a direct relation between a word's meaning and its form,
 is an important aspect of every natural language, most commonly manifesting

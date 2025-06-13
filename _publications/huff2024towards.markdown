@@ -7,7 +7,7 @@ year: 2024
 bibkey: huff2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.05152"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs), such as ChatGPT, have shown remarkable
 abilities in natural language processing, opening new avenues in psychological

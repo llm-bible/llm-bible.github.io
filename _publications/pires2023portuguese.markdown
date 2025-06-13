@@ -7,7 +7,7 @@ year: 2023
 bibkey: pires2023portuguese
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.07880"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Pretraining Methods']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 As the capabilities of language models continue to advance, it is conceivable
 that "one-size-fits-all" model will remain as the main paradigm. For instance,

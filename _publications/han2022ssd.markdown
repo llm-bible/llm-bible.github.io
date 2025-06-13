@@ -7,7 +7,7 @@ year: 2022
 bibkey: han2022ssd
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.17432"}
-tags: ['Model Architecture', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Merging', 'Pretraining Methods']
 ---
 Despite the growing success of diffusion models in continuous-valued domains
 (e.g., images), similar efforts for discrete domains such as text have yet to

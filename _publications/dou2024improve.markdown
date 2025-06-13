@@ -7,7 +7,7 @@ year: 2024
 bibkey: dou2024improve
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01391"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques']
 ---
 The advancement of large language models (LLMs) has significantly propelled
 the field of code generation. Previous work integrated reinforcement learning

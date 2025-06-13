@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeng2024reliable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18498"}
-tags: ['Model Architecture', 'GPT', 'Attention Mechanism', 'Tools']
+tags: ['Tools', 'GPT', 'Attention Mechanism', 'Model Architecture']
 ---
 The development of large language models (LLMs), such as GPT, has enabled the
 construction of several socialbots, like ChatGPT, that are receiving a lot of

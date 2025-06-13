@@ -8,7 +8,7 @@ bibkey: li2023trustworthy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.04642"}
   - {name: "Code", url: "https://github.com/shuoli90/TRAQ.git}{TRAQ"}
-tags: ['RAG', 'Applications', 'Has Code', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Has Code', 'Applications']
 ---
 When applied to open-domain question answering, large language models (LLMs)
 frequently generate incorrect responses based on made-up facts, which are

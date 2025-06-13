@@ -7,7 +7,7 @@ year: 2019
 bibkey: rönnqvist2019is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.03806"}
-tags: ['Model Architecture', 'BERT', 'Reinforcement Learning']
+tags: ['BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The multilingual BERT model is trained on 104 languages and meant to serve as
 a universal language model and tool for encoding sentences. We explore how well

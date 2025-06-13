@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.14308"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Language models still struggle on moral reasoning, despite their impressive
 performance in many other tasks. In particular, the Moral Scenarios task in

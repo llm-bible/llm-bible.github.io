@@ -7,7 +7,7 @@ year: 2024
 bibkey: du2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21011"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Recent advancements in Contrastive Language-Image Pre-training (CLIP) have
 demonstrated notable success in self-supervised representation learning across

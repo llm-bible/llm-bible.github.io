@@ -7,7 +7,7 @@ year: 2023
 bibkey: zayed2023fairness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15398"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Fairness', 'Model Architecture', 'GPT', 'Pruning', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Fairness']
 ---
 The increasing size of large language models (LLMs) has introduced challenges
 in their training and inference. Removing model components is perceived as a

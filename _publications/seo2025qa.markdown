@@ -7,7 +7,7 @@ year: 2025
 bibkey: seo2025qa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08557"}
-tags: ['Prompting', 'Applications', 'Tools']
+tags: ['Tools', 'Prompting', 'Applications']
 ---
 Query expansion is widely used in Information Retrieval (IR) to improve
 search outcomes by enriching queries with additional contextual information.

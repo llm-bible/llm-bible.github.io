@@ -7,7 +7,7 @@ year: 2024
 bibkey: sridhar2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.06223"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The Audio Question Answering (AQA) task includes audio event classification,
 audio captioning, and open-ended reasoning. Recently, AQA has garnered

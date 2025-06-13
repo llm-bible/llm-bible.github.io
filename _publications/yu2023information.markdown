@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023information
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18582"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Language Modeling', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
 ---
 Large Language Models~(LLMs) struggle with providing current information due
 to the outdated pre-training data. Existing methods for updating LLMs, such as

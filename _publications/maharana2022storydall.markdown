@@ -7,7 +7,7 @@ year: 2022
 bibkey: maharana2022storydall
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.06192"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Security', 'Pretraining Methods', 'Prompting']
 ---
 Recent advances in text-to-image synthesis have led to large pretrained
 transformers with excellent capabilities to generate visualizations from a

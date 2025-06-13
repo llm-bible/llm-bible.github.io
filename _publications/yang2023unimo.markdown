@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023unimo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13697"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision-and-language (VL) pre-training, which aims to learn a general
 representation of image-text pairs that can be transferred to various

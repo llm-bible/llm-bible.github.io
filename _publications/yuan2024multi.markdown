@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuan2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14445"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 The rapid advancements in generative AI and large language models (LLMs) have
 opened up new avenues for producing synthetic data, particularly in the realm

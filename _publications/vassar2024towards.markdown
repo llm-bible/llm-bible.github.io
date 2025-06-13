@@ -7,7 +7,7 @@ year: 2024
 bibkey: vassar2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01765"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper investigates supervised fine-tuning of large language models
 (LLMs) to improve their pedagogical alignment in computing education,

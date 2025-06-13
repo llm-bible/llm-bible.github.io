@@ -7,7 +7,7 @@ year: 2024
 bibkey: peng2024revisiting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.12087"}
-tags: ['Prompting', 'In-Context Learning', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have shown an impressive ability to perform a
 wide range of tasks using in-context learning (ICL), where a few examples are

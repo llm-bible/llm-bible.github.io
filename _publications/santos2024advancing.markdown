@@ -7,7 +7,7 @@ year: 2024
 bibkey: santos2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18766"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 To advance the neural decoding of Portuguese, in this paper we present a
 fully open Transformer-based, instruction-tuned decoder model that sets a new

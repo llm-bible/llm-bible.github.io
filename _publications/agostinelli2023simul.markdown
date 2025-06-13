@@ -7,7 +7,7 @@ year: 2023
 bibkey: agostinelli2023simul
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04691"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) with billions of parameters and pretrained on
 massive amounts of data are now capable of near or better than state-of-the-art

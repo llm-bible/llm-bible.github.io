@@ -7,7 +7,7 @@ year: 2024
 bibkey: shu2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.07311"}
-tags: ['Prompting', 'RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting', 'Applications']
 ---
 The task of multi-hop link prediction within knowledge graphs (KGs) stands as
 a challenge in the field of knowledge graph analysis, as it requires the model

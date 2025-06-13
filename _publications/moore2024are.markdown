@@ -7,7 +7,7 @@ year: 2024
 bibkey: moore2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02996"}
-tags: ['Ethics and Bias', 'Model Architecture', 'GPT', 'Survey Paper']
+tags: ['Survey Paper', 'GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 Large language models (LLMs) appear to bias their survey answers toward
 certain values. Nonetheless, some argue that LLMs are too inconsistent to

@@ -8,7 +8,7 @@ bibkey: zan2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14399"}
   - {name: "Code", url: "https://github.com/alphadl/LanguageAware_Tuning"}
-tags: ['WMT', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning', 'SLT']
+tags: ['Fine-Tuning', 'RAG', 'Prompting', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'SLT', 'In-Context Learning']
 ---
 Translation-tailored Large language models (LLMs) exhibit remarkable
 translation capabilities, even competing with supervised-trained commercial

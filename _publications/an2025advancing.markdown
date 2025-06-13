@@ -8,7 +8,7 @@ bibkey: an2025advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04153"}
   - {name: "Code", url: "https://github.com/kkk-an/UltraIF"}
-tags: ['Prompting', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Has Code', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Instruction-following made modern large language models (LLMs) helpful
 assistants. However, the key to taming LLMs on complex instructions remains

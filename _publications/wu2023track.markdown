@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023track
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.02412v2"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'TACL', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'ACL', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'Agentic', 'RAG', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Pretraining Methods']
 ---
 Pre-trained large language models (LLMs) capture procedural knowledge about
 the world. Recent work has leveraged LLM's ability to generate abstract plans

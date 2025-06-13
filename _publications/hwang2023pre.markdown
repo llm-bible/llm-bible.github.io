@@ -7,7 +7,7 @@ year: 2023
 bibkey: hwang2023pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12066"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Reinforcement Learning']
+tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) based on transformers have made significant
 strides in recent years, the success of which is driven by scaling up their

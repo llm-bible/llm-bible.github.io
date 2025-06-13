@@ -8,7 +8,7 @@ bibkey: lu2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10685"}
   - {name: "Code", url: "https://github.com/LuLuLuyi/LongHeads"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Has Code', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Large language models (LLMs) have achieved impressive performance in numerous
 domains but often struggle to process lengthy inputs effectively and

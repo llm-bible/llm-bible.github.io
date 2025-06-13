@@ -7,7 +7,7 @@ year: 2025
 bibkey: taveekitworachai2025typhoon
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09042"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper introduces Typhoon T1, an open effort to develop an open Thai
 reasoning model. A reasoning model is a relatively new type of generative model

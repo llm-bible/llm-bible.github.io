@@ -8,7 +8,7 @@ bibkey: pan2023kosmos
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02992"}
   - {name: "Code", url: "https://aka.ms/Kosmos-G"}
-tags: ['Multimodal Models', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Distillation', 'Has Code']
+tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Distillation']
 ---
 Recent advancements in subject-driven image generation have made significant
 strides. However, current methods still fall short in diverse application

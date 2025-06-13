@@ -7,7 +7,7 @@ year: 2023
 bibkey: fu2023are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00681"}
-tags: ['Model Architecture', 'GPT', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 In recent years, Large Language Models (LLMs) have gained immense attention
 due to their notable emergent capabilities, surpassing those seen in earlier

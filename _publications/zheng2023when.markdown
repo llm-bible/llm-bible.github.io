@@ -8,7 +8,7 @@ bibkey: zheng2023when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10054"}
   - {name: "Code", url: "https://github.com/Jiaxin-Pei/Prompting-with-Social-Roles"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Has Code']
+tags: ['Has Code', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Prompting serves as the major way humans interact with Large Language Models
 (LLM). Commercial AI systems commonly define the role of the LLM in system

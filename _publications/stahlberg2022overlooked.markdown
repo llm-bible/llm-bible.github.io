@@ -7,7 +7,7 @@ year: 2022
 bibkey: stahlberg2022overlooked
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.04126"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We report on novel investigations into training models that make sentences
 concise. We define the task and show that it is different from related tasks

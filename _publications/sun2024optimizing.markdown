@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14720"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 This paper leverages large-language models (LLMs) to experimentally determine
 optimal strategies for scaling up social media content annotation for stance

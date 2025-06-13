@@ -8,7 +8,7 @@ bibkey: cha2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06621"}
   - {name: "Code", url: "https://github.com/csm9493/efficient-llm-unlearning"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated strong reasoning and
 memorization capabilities via pretraining on massive textual corpora. However,

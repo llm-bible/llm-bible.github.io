@@ -7,7 +7,7 @@ year: 2021
 bibkey: li2021short
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08460"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Pre-trained Language Models (PLMs) have been successful for a wide range of
 natural language processing (NLP) tasks. The state-of-the-art of PLMs, however,

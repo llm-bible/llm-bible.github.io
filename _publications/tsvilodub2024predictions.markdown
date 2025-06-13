@@ -7,7 +7,7 @@ year: 2024
 bibkey: tsvilodub2024predictions
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00998"}
-tags: ['Security', 'RAG']
+tags: ['RAG', 'Security']
 ---
 This paper systematically compares different methods of deriving item-level
 predictions of language models for multiple-choice tasks. It compares scoring

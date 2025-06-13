@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025mechanistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09022"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based language models have achieved significant success; however,
 their internal mechanisms remain largely opaque due to the complexity of

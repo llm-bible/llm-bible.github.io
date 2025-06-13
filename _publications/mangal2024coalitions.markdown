@@ -7,7 +7,7 @@ year: 2024
 bibkey: mangal2024coalitions
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01380"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 The emergence of Large Language Models (LLMs) have fundamentally altered the
 way we interact with digital systems and have led to the pursuit of LLM powered

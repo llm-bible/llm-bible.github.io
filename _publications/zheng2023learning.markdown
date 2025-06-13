@@ -8,7 +8,7 @@ bibkey: zheng2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08184"}
   - {name: "Code", url: "https://github.com/ruthless-man/Awesome-Learn-from-Model"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Distillation']
 ---
 Foundation models (FM) have demonstrated remarkable performance across a wide
 range of tasks (especially in the fields of natural language processing and

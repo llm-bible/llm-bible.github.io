@@ -7,7 +7,7 @@ year: 2023
 bibkey: panigrahi2023trainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.01189"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Recent works attribute the capability of in-context learning (ICL) in large
 pre-trained language models to implicitly simulating and fine-tuning an

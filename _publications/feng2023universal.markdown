@@ -7,7 +7,7 @@ year: 2023
 bibkey: feng2023universal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.11592"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 In the era of Large Language Models (LLMs), tremendous strides have been made
 in the field of multimodal understanding. However, existing advanced algorithms

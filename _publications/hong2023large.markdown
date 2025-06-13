@@ -7,7 +7,7 @@ year: 2023
 bibkey: hong2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14330"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 In the paradigm of AI-generated content (AIGC), there has been increasing
 attention to transferring knowledge from pre-trained text-to-image (T2I) models

@@ -7,7 +7,7 @@ year: 2025
 bibkey: kim2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01658"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Sentiment analysis of alternative tobacco products on social media is
 important for tobacco control research. Large Language Models (LLMs) can help

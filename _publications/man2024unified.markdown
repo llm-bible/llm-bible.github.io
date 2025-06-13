@@ -8,7 +8,7 @@ bibkey: man2024unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03402"}
   - {name: "Code", url: "https://github.com/nlp-uoregon/ullme"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) excel in various natural language processing
 tasks, but leveraging them for dense passage embedding remains challenging.

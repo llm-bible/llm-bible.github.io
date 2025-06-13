@@ -7,7 +7,7 @@ year: 2019
 bibkey: stahlberg2019default
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1906.05447"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods']
 ---
 Two techniques provide the fabric of the Cambridge University Engineering
 Department's (CUED) entry to the WMT19 evaluation campaign: elastic weight

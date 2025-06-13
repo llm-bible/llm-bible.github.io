@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15061"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) have shown great potential in domain-specific
 machine translation (MT). However, one major issue is that LLMs pre-trained on

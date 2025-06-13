@@ -8,7 +8,7 @@ bibkey: dai2022why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10559"}
   - {name: "Code", url: "https://aka.ms/icl"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'In-Context Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large pretrained language models have shown surprising in-context learning
 (ICL) ability. With a few demonstration input-label pairs, they can predict the

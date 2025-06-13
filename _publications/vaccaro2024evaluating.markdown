@@ -7,7 +7,7 @@ year: 2024
 bibkey: vaccaro2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05204"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs), including OpenAI's GPT-series, have made
 significant advancements in recent years. Known for their expertise across

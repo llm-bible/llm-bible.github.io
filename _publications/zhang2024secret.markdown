@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024secret
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19450"}
-tags: ['Survey Paper', 'Reinforcement Learning', 'RAG', 'Merging', 'Ethics and Bias', 'Interpretability', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Merging', 'Interpretability']
 ---
 The advancements of Large Language Models (LLMs) have decentralized the
 responsibility for the transparency of AI usage. Specifically, LLM users are

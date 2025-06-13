@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01570"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Recent development in large language models (LLMs) has demonstrated
 impressive domain proficiency on unstructured textual or multi-modal tasks.

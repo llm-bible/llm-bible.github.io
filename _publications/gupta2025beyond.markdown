@@ -7,7 +7,7 @@ year: 2025
 bibkey: gupta2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16460"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Researchers have made notable progress in applying Large Language Models
 (LLMs) to solve math problems, as demonstrated through efforts like GSM8k,

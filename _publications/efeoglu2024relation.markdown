@@ -7,7 +7,7 @@ year: 2024
 bibkey: efeoglu2024relation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14745"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Information Extraction (IE) is crucial for converting unstructured data into
 structured formats like Knowledge Graphs (KGs). A key task within IE is

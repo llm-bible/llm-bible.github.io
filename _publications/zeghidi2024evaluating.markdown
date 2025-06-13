@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeghidi2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15796"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This paper evaluates Few-Shot Prompting with Large Language Models for Named
 Entity Recognition (NER). Traditional NER systems rely on extensive labeled

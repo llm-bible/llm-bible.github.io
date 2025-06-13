@@ -7,7 +7,7 @@ year: 2023
 bibkey: bai2023constituency
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19462"}
-tags: ['Training Techniques', 'GPT', 'Few-Shot', 'Model Architecture']
+tags: ['Few-Shot', 'Training Techniques', 'GPT', 'Model Architecture']
 ---
 Constituency parsing is a fundamental yet unsolved natural language
 processing task. In this paper, we explore the potential of recent large

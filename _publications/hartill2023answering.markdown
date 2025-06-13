@@ -7,7 +7,7 @@ year: 2023
 bibkey: hartill2023answering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04711"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Few-Shot']
+tags: ['RAG', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 When provided with sufficient explanatory context, smaller Language Models
 have been shown to exhibit strong reasoning ability on challenging short-answer

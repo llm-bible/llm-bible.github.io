@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.06470"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Applications', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 The insurance industry is shifting their sales mode from offline to online,
 in expectation to reach massive potential customers in the digitization era.

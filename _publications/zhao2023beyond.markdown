@@ -8,7 +8,7 @@ bibkey: zhao2023beyond
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2311.16839v2"}
   - {name: "Code", url: "https://opendatalab.github.io/HA-DPO"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Multimodal large language models have made significant advancements in recent
 years, yet they still suffer from a common issue known as the "hallucination

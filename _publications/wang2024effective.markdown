@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02103"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) is a few-shot learning paradigm that involves
 learning mappings through input-output pairs and appropriately applying them to

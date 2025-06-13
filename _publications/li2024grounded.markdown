@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024grounded
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18065"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Distillation', 'Merging', 'Prompting', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Prompting', 'Distillation']
 ---
 In this paper, we propose an effective two-stage approach named
 Grounded-Dreamer to generate 3D assets that can accurately follow complex,

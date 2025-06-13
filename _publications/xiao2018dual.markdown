@@ -7,7 +7,7 @@ year: 2018
 bibkey: xiao2018dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.01997"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 There are three modalities in the reading comprehension setting: question,
 answer and context. The task of question answering or question generation aims

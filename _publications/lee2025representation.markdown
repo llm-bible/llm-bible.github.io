@@ -8,7 +8,7 @@ bibkey: lee2025representation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.16727"}
   - {name: "Code", url: "https://github.com/Aegis1863/xJailbreak"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
 ---
 Safety alignment mechanism are essential for preventing large language models
 (LLMs) from generating harmful information or unethical content. However,

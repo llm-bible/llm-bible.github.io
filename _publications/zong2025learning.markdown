@@ -7,7 +7,7 @@ year: 2025
 bibkey: zong2025learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12746"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 When addressing professional questions in the biomedical domain, humans
 typically acquire multiple pieces of information as evidence and engage in

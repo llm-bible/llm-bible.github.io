@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024rejection
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.18349"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) often generate erroneous outputs, known as
 hallucinations, due to their limitations in discerning questions beyond their

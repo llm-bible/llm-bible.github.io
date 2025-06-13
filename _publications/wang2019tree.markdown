@@ -7,7 +7,7 @@ year: 2019
 bibkey: wang2019tree
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.06639"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Pre-training Transformer from large-scale raw texts and fine-tuning on the
 desired task have achieved state-of-the-art results on diverse NLP tasks.

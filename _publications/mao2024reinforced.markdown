@@ -8,7 +8,7 @@ bibkey: mao2024reinforced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17115"}
   - {name: "Code", url: "https://github.com/maowenyu-11/RPP"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Few-Shot', 'Reinforcement Learning', 'Has Code', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting']
 ---
 Designing effective prompts can empower LLMs to understand user preferences
 and provide recommendations with intent comprehension and knowledge utilization

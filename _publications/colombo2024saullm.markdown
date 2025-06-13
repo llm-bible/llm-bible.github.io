@@ -7,7 +7,7 @@ year: 2024
 bibkey: colombo2024saullm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19584"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Model Architecture']
+tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 In this paper, we introduce SaulLM-54B and SaulLM-141B, two large language
 models (LLMs) tailored for the legal sector. These models, which feature

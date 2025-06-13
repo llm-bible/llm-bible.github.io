@@ -7,7 +7,7 @@ year: 2023
 bibkey: wilf2023think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10227"}
-tags: ['Prompting', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Prompting', 'Tools']
 ---
 Human interactions are deeply rooted in the interplay of thoughts, beliefs,
 and desires made possible by Theory of Mind (ToM): our cognitive ability to

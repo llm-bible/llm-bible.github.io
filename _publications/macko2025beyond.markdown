@@ -7,7 +7,7 @@ year: 2025
 bibkey: macko2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23242"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Increased sophistication of large language models (LLMs) and the consequent
 quality of generated multilingual text raises concerns about potential

@@ -7,7 +7,7 @@ year: 2023
 bibkey: oliveira2023architecture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08547"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 The ability of large language models (LLMs) to engage in credible dialogues
 with humans, taking into account the training data and the context of the

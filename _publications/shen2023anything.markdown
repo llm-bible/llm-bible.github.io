@@ -7,7 +7,7 @@ year: 2023
 bibkey: shen2023anything
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.03825"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Prompting']
 ---
 The misuse of large language models (LLMs) has drawn significant attention
 from the general public and LLM vendors. One particular type of adversarial

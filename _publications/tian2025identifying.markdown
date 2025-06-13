@@ -7,7 +7,7 @@ year: 2025
 bibkey: tian2025identifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13792"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Attention Mechanism']
+tags: ['Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 The evolution of Large Vision-Language Models (LVLMs) has progressed from
 single to multi-image reasoning. Despite this advancement, our findings

@@ -8,7 +8,7 @@ bibkey: han2025benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19852"}
   - {name: "Code", url: "https://huggingface.co/spaces/ConvCodeWorld/ConvCodeWorld"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large language models (LLMs) have proven invaluable for code generation,
 particularly in interactive settings. However, existing code generation

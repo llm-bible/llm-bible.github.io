@@ -7,7 +7,7 @@ year: 2025
 bibkey: sugiura2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15544"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Encoder-only transformer models like BERT are widely adopted as a pre-trained
 backbone for tasks like sentence classification and retrieval. However,

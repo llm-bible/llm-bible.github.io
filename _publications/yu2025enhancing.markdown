@@ -8,7 +8,7 @@ bibkey: yu2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08482"}
   - {name: "Code", url: "https://github.com/qifanyu/RELAY"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Chain-of-Thought (CoT) prompting has emerged as a powerful technique for
 enhancing language model's reasoning capabilities. However, generating long and

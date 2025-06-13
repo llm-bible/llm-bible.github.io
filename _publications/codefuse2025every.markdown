@@ -8,7 +8,7 @@ bibkey: codefuse2025every
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17793"}
   - {name: "Code", url: "https://huggingface.co/inclusionAI/Ling-Coder-lite"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Recent advancements in code large language models (LLMs) have demonstrated
 remarkable capabilities in code generation and understanding. It is still

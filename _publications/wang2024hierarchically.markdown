@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024hierarchically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.14812"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Prompting', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Prompt learning has become a prevalent strategy for adapting vision-language
 foundation models (VLMs) such as CLIP to downstream tasks. With the emergence

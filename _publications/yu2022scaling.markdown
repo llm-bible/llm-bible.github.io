@@ -8,7 +8,7 @@ bibkey: yu2022scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.10789"}
   - {name: "Code", url: "https://parti.research.google/"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 We present the Pathways Autoregressive Text-to-Image (Parti) model, which
 generates high-fidelity photorealistic images and supports content-rich

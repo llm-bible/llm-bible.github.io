@@ -7,7 +7,7 @@ year: 2024
 bibkey: chatterjee2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10548"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have transformed NLP with their remarkable
 In-context Learning (ICL) capabilities. Automated assistants based on LLMs are

@@ -7,7 +7,7 @@ year: 2021
 bibkey: lelkes2021quiz
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.09094"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 A large majority of American adults get at least some of their news from the
 Internet. Even though many online news products have the goal of informing

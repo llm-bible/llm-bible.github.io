@@ -8,7 +8,7 @@ bibkey: zhang2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06287"}
   - {name: "Code", url: "https://github.com/ACMISLab/PediaBench"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 The emergence of Large Language Models (LLMs) in the medical domain has
 stressed a compelling need for standard datasets to evaluate their

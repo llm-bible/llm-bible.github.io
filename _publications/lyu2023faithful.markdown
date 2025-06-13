@@ -7,7 +7,7 @@ year: 2023
 bibkey: lyu2023faithful
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.13379v3"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 While Chain-of-Thought (CoT) prompting boosts Language Models' (LM)
 performance on a gamut of complex reasoning tasks, the generated reasoning

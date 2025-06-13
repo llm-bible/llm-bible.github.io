@@ -7,7 +7,7 @@ year: 2025
 bibkey: yao2025transferable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09818"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Security', 'Training Techniques', 'Prompting', 'Distillation']
 ---
 In the realm of large language model (LLM), as the size of large models
 increases, it also brings higher training costs. There is a urgent need to

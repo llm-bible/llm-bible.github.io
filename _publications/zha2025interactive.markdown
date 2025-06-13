@@ -7,7 +7,7 @@ year: 2025
 bibkey: zha2025interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18024"}
-tags: ['RAG', 'Model Architecture', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Financial sectors are rapidly adopting language model technologies, yet
 evaluating specialized RAG systems in this domain remains challenging. This

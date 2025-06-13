@@ -7,7 +7,7 @@ year: 2025
 bibkey: chirkova2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.16214"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pruning', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Pruning', 'Training Techniques']
 ---
 Retrieval-augmented generation improves various aspects of large language
 models (LLMs) generation, but suffers from computational overhead caused by

@@ -7,7 +7,7 @@ year: 2024
 bibkey: aryabumi2024not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10914"}
-tags: ['Pre-Training', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pre-Training', 'Applications', 'Reinforcement Learning']
 ---
 Including code in the pre-training data mixture, even for models not
 specifically designed for code, has become a common practice in LLMs

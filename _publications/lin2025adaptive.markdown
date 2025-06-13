@@ -8,7 +8,7 @@ bibkey: lin2025adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06949"}
   - {name: "Code", url: "https://github.com/zhixuan-lin/arctic-fox"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pruning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 The recently proposed Forgetting Transformer (FoX) incorporates a forget gate
 into softmax attention and has shown consistently better or on-par performance

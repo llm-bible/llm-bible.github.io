@@ -7,7 +7,7 @@ year: 2025
 bibkey: tanaka2025retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09795"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 We aim to develop a retrieval-augmented generation (RAG) framework that
 answers questions over a corpus of visually-rich documents presented in mixed

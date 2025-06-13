@@ -7,7 +7,7 @@ year: 2023
 bibkey: bojic2023data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.00483"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Low-quality data can cause downstream problems in high-stakes applications.
 Data-centric approach emphasizes on improving dataset quality to enhance model

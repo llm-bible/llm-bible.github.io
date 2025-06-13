@@ -7,7 +7,7 @@ year: 2021
 bibkey: norouzi2021code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.00259"}
-tags: ['Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Training datasets for semantic parsing are typically small due to the higher
 expertise required for annotation than most other NLP tasks. As a result,

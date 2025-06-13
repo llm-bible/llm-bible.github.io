@@ -7,7 +7,7 @@ year: 2024
 bibkey: kuratov2024testing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10149"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In recent years, the input context sizes of large language models (LLMs) have
 increased dramatically. However, existing evaluation methods have not kept

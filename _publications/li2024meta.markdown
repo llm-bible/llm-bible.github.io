@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024meta
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2403.06914v2"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'In-Context Learning', 'Distillation', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'In-Context Learning', 'Prompting', 'Distillation']
 ---
 Large Language models (LLMs) have demonstrated impressive in-context learning
 (ICL) capabilities, where a LLM makes predictions for a given test input

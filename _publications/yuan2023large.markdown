@@ -8,7 +8,7 @@ bibkey: yuan2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01918"}
   - {name: "Code", url: "https://github.com/mingze-yuan/Awesome-LLM-Healthcare"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Agent', 'Multimodal Models', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Has Code', 'Applications']
+tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Merging', 'Agent', 'Has Code', 'Multimodal Models']
 ---
 With the rapid development of artificial intelligence, large language models
 (LLMs) have shown promising capabilities in mimicking human-level language

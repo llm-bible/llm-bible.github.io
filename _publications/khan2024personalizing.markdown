@@ -7,7 +7,7 @@ year: 2024
 bibkey: khan2024personalizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10870"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 As large language models (LLMs) increasingly shape the AI landscape,
 fine-tuning pretrained models has become more popular than in the pre-LLM era

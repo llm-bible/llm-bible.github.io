@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025world
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01490"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Merging', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Prompting']
 ---
 Recent advances in text-to-image (T2I) generation have achieved impressive
 results, yet existing models still struggle with prompts that require rich

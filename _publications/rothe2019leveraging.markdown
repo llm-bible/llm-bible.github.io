@@ -7,7 +7,7 @@ year: 2019
 bibkey: rothe2019leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.12461"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Unsupervised pre-training of large neural models has recently revolutionized
 Natural Language Processing. By warm-starting from the publicly released

@@ -8,7 +8,7 @@ bibkey: fang2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20978"}
   - {name: "Code", url: "https://github.com/calubkk/RAAT"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code']
 ---
 Large Language Models (LLMs) exhibit substantial capabilities yet encounter
 challenges, including hallucination, outdated knowledge, and untraceable

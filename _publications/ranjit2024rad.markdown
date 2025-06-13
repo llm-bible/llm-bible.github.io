@@ -7,7 +7,7 @@ year: 2024
 bibkey: ranjit2024rad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09725"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Small Language Models (SLMs) have shown remarkable performance in general
 domain language understanding, reasoning and coding tasks, but their

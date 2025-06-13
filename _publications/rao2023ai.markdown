@@ -7,7 +7,7 @@ year: 2023
 bibkey: rao2023ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.20015"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Low-code programming allows citizen developers to create programs with
 minimal coding effort, typically via visual (e.g. drag-and-drop) interfaces. In

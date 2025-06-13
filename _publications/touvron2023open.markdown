@@ -7,7 +7,7 @@ year: 2023
 bibkey: touvron2023open
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.13971v1"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 We introduce LLaMA, a collection of foundation language models ranging from
 7B to 65B parameters. We train our models on trillions of tokens, and show that

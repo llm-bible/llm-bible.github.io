@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08164"}
-tags: ['Multimodal Models', 'Language Modeling', 'RAG', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Multimodal Models', 'Prompting']
 ---
 Compositional Reasoning (CR) entails grasping the significance of attributes,
 relations, and word order. Recent Vision-Language Models (VLMs), comprising a

@@ -7,7 +7,7 @@ year: 2025
 bibkey: bozdag2025persuade
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01829"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Tools']
 ---
 Large Language Models (LLMs) demonstrate persuasive capabilities that rival
 human-level persuasion. While these capabilities can be used for social good,

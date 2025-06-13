@@ -7,7 +7,7 @@ year: 2023
 bibkey: qin2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09881"}
-tags: ['Few-Shot', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'RAG', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Spurred by advancements in scale, large language models (LLMs) have
 demonstrated strong few-shot learning ability via in-context learning (ICL).

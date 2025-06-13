@@ -7,7 +7,7 @@ year: 2024
 bibkey: mcclure2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01551"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Reinforcement Learning']
 ---
 In this paper, we explore the potential of Large Language Models (LLMs) with
 assertions to mitigate imbalances in educational datasets. Traditional models

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tu2024vl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23317"}
-tags: ['Multimodal Models', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 Vision-Language Models (VLMs) have demonstrated impressive performance across
 a versatile set of tasks. A key challenge in accelerating VLMs is storing and

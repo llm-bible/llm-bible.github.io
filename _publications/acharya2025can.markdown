@@ -7,7 +7,7 @@ year: 2025
 bibkey: acharya2025can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18804"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Bug reports contain the information developers need to triage and fix
 software bugs. However, unclear, incomplete, or ambiguous information may lead

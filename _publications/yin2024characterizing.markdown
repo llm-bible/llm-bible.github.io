@@ -8,7 +8,7 @@ bibkey: yin2024characterizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18048"}
   - {name: "Paper", url: "https://info.arxiv.org/help/prep#abstractsf"}
-tags: ['Arxiv', 'Training Techniques', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Arxiv']
 ---
 We study how to characterize and predict the truthfulness of texts generated
 from large language models (LLMs), which serves as a crucial step in building

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yan2023human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.03999"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Model Architecture']
 ---
 Generative artificial intelligence (GenAI) offers promising potential for
 advancing human-AI collaboration in qualitative research. However, existing

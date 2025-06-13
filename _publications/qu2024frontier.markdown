@@ -7,7 +7,7 @@ year: 2024
 bibkey: qu2024frontier
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15779"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Ethics and Bias', 'Applications']
+tags: ['Ethics and Bias', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) are foundational to AI advancements,
 facilitating applications like predictive text generation. Nonetheless, they

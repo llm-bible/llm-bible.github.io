@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025pay
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16523"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism']
 ---
 As neural language models achieve human-comparable performance on Machine
 Reading Comprehension (MRC) and see widespread adoption, ensuring their

@@ -7,7 +7,7 @@ year: 2025
 bibkey: shvets2025emo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16856"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Distillation', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Most datasets for sentiment analysis lack context in which an opinion was
 expressed, often crucial for emotion understanding, and are mainly limited by a

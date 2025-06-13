@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024reconstructive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09575"}
-tags: ['Prompting', 'RAG', 'Tools', 'Multimodal Models']
+tags: ['RAG', 'Tools', 'Multimodal Models', 'Prompting']
 ---
 This paper introduces reconstructive visual instruction tuning (ROSS), a
 family of Large Multimodal Models (LMMs) that exploit vision-centric

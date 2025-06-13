@@ -7,7 +7,7 @@ year: 2021
 bibkey: lin2021end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.12059"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Tokenization', 'RAG', 'Language Modeling', 'GPT', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present \textsc\{Vx2Text\}, a framework for text generation from multimodal
 inputs consisting of video plus text, speech, or audio. In order to leverage

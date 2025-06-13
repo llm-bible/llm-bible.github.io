@@ -7,7 +7,7 @@ year: 2024
 bibkey: dohmatob2024tale
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07043"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Scaling Laws', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
 ---
 As AI model size grows, neural scaling laws have become a crucial tool to
 predict the improvements of large models when increasing capacity and the size

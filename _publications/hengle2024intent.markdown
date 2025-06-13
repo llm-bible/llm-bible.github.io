@@ -7,7 +7,7 @@ year: 2024
 bibkey: hengle2024intent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.10088"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias']
+tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Counterspeech, defined as a response to mitigate online hate speech, is
 increasingly used as a non-censorial solution. Addressing hate speech

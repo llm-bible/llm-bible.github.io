@@ -8,7 +8,7 @@ bibkey: li2025eagle
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01840"}
   - {name: "Code", url: "https://github.com/SafeAILab/EAGLE"}
-tags: ['Has Code', 'Training Techniques', 'Merging', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Has Code', 'Merging']
 ---
 The sequential nature of modern LLMs makes them expensive and slow, and
 speculative sampling has proven to be an effective solution to this problem.

@@ -8,7 +8,7 @@ bibkey: goncharova2024omnifusion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06212"}
   - {name: "Code", url: "https://github.com/AIRI-Institute/OmniFusion"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Last year, multimodal architectures served up a revolution in AI-based
 approaches and solutions, extending the capabilities of large language models

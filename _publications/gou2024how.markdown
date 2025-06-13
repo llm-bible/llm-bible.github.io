@@ -7,7 +7,7 @@ year: 2024
 bibkey: gou2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03940"}
-tags: ['Multimodal Models', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'RAG', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Language Model-based Vision-Language Models (LLM-based VLMs) have
 demonstrated impressive results in various vision-language understanding tasks.

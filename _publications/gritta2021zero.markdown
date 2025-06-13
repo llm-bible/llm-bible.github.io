@@ -7,7 +7,7 @@ year: 2021
 bibkey: gritta2021zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.02472"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 The introduction of pretrained cross-lingual language models brought decisive
 improvements to multilingual NLP tasks. However, the lack of labelled task data

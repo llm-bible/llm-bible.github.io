@@ -8,7 +8,7 @@ bibkey: li2024rag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13509"}
   - {name: "Code", url: "https://github.com/OpenMatch/RAG-DDR"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Retrieval-Augmented Generation (RAG) has proven its effectiveness in
 mitigating hallucinations in Large Language Models (LLMs) by retrieving

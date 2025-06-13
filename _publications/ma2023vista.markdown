@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023vista
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.08870"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Attention Mechanism']
 ---
 Recent advances in large video-language models have displayed promising
 outcomes in video comprehension. Current approaches straightforwardly convert

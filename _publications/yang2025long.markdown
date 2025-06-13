@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14337"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 While recent works (e.g. o1, DeepSeek R1) have demonstrated great promise of
 using long Chain-of-Thought (CoT) to improve reasoning capabilities of language

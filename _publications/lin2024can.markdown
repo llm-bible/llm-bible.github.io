@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11065"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Emphasis is a crucial component in human communication, which indicates the
 speaker's intention and implication beyond pure text in dialogue. While Large

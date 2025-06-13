@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.15350"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 CNN-LSTM based architectures have played an important role in image
 captioning, but limited by the training efficiency and expression ability,

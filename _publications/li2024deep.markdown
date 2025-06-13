@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024deep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.17993"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
 ---
 Question answering represents a core capability of large language models
 (LLMs). However, when individuals encounter unfamiliar knowledge in texts, they

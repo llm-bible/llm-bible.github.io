@@ -8,7 +8,7 @@ bibkey: su2022well
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2209.10372v5"}
   - {name: "Code", url: "https://welm.weixin.qq.com/docs/api/"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Has Code', 'Prompting']
+tags: ['Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Large Language Models pre-trained with self-supervised learning have
 demonstrated impressive zero-shot generalization capabilities on a wide

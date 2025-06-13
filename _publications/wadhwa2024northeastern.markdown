@@ -7,7 +7,7 @@ year: 2024
 bibkey: wadhwa2024northeastern
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15453"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The automatic generation of counter-speech (CS) is a critical strategy for
 addressing hate speech by providing constructive and informed responses.

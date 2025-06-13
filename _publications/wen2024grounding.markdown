@@ -7,7 +7,7 @@ year: 2024
 bibkey: wen2024grounding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08073"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have recently demonstrated a remarkable ability
 to generate code from natural language (NL) prompts. However, in the real

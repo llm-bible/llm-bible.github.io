@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025pseudo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14887"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Pseudo-relevance feedback (PRF) refines queries by leveraging initially
 retrieved documents to improve retrieval effectiveness. In this paper, we

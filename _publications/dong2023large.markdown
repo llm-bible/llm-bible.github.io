@@ -7,7 +7,7 @@ year: 2023
 bibkey: dong2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05689"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Tools']
+tags: ['RAG', 'Tools', 'GPT', 'Model Architecture']
 ---
 In this work, we use large language models (LLMs) to augment and accelerate
 research on the P versus NP problem, one of the most important open problems in

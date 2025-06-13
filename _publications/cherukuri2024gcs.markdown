@@ -7,7 +7,7 @@ year: 2024
 bibkey: cherukuri2024gcs
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17251"}
-tags: ['Multimodal Models', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Retinal image analysis is crucial for diagnosing and treating eye diseases,
 yet generating accurate medical reports from images remains challenging due to

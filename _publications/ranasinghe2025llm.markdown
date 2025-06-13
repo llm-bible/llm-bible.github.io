@@ -7,7 +7,7 @@ year: 2025
 bibkey: ranasinghe2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15424"}
-tags: ['Agentic', 'RAG', 'Tools']
+tags: ['RAG', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) are increasingly being leveraged for generating
 and translating scientific computer codes by both domain-experts and non-domain

@@ -7,7 +7,7 @@ year: 2022
 bibkey: rippeth2022additive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.12727"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 Additive interventions are a recently-proposed mechanism for controlling
 target-side attributes in neural machine translation. In contrast to tag-based

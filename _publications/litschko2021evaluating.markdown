@@ -7,7 +7,7 @@ year: 2021
 bibkey: litschko2021evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2101.08370"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Pretrained multilingual text encoders based on neural Transformer
 architectures, such as multilingual BERT (mBERT) and XLM, have achieved strong

@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025semantic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11794"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Vision-Language Models (VLMs) leverage aligned visual encoders to transform
 images into visual tokens, allowing them to be processed similarly to text by

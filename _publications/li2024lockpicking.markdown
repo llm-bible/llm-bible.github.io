@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024lockpicking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13068"}
-tags: ['Security', 'Efficiency and Optimization', 'RAG']
+tags: ['RAG', 'Efficiency and Optimization', 'Security']
 ---
 Large language models (LLMs) have transformed the field of natural language
 processing, but they remain susceptible to jailbreaking attacks that exploit

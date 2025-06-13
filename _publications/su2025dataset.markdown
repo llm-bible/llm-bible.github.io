@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11924"}
-tags: ['Training Techniques', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Training Techniques', 'Tools']
 ---
 This paper introduces a novel dataset REGEN (Reviews Enhanced with GEnerative
 Narratives), designed to benchmark the conversational capabilities of

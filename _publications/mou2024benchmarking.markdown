@@ -8,7 +8,7 @@ bibkey: mou2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19346"}
   - {name: "Code", url: "https://github.com/ljcleo/agent_sense"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) are increasingly leveraged to empower autonomous
 agents to simulate human beings in various fields of behavioral research.

@@ -7,7 +7,7 @@ year: 2021
 bibkey: qin2021unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.07298"}
-tags: ['Prompting', 'Few-Shot', 'Tools']
+tags: ['Few-Shot', 'Tools', 'Prompting']
 ---
 Existing approaches to lifelong language learning rely on plenty of labeled
 data for learning a new task, which is hard to obtain in most real scenarios.

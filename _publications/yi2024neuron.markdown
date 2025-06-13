@@ -8,7 +8,7 @@ bibkey: yi2024neuron
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12497"}
   - {name: "Code", url: "https://github.com/xinykou/NLSR"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The emergence of finetuning-as-a-service has revealed a new vulnerability in
 large language models (LLMs). A mere handful of malicious data uploaded by

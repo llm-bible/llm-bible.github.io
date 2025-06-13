@@ -7,7 +7,7 @@ year: 2023
 bibkey: chi2023attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00684"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 An ideal length-extrapolatable Transformer language model can handle
 sequences longer than the training length without any fine-tuning. Such

@@ -7,7 +7,7 @@ year: 2023
 bibkey: tworkowski2023focused
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.03170"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models have an exceptional capability to incorporate new
 information in a contextual manner. However, the full potential of such an

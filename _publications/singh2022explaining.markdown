@@ -7,7 +7,7 @@ year: 2022
 bibkey: singh2022explaining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.01848"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Interpretability and Explainability', 'Prompting']
+tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have displayed an impressive ability to harness
 natural language to perform complex tasks. In this work, we explore whether we

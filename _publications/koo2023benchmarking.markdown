@@ -7,7 +7,7 @@ year: 2023
 bibkey: koo2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.17012"}
-tags: ['Security', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Prompting', 'In-Context Learning']
+tags: ['Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models are cognitively biased judges. Large Language Models
 (LLMs) have recently been shown to be effective as automatic evaluators with

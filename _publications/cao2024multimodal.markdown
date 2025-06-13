@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02991"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Pruning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision-Language Transformers (VLTs) have shown great success recently, but
 are meanwhile accompanied by heavy computation costs, where a major reason can

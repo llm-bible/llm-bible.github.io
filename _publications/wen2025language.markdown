@@ -7,7 +7,7 @@ year: 2025
 bibkey: wen2025language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.18924"}
-tags: ['Agentic', 'Agent', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Agent']
 ---
 The evolution of large language models (LLMs) toward artificial superhuman
 intelligence (ASI) hinges on data reproduction, a cyclical process in which

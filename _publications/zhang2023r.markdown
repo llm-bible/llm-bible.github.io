@@ -8,7 +8,7 @@ bibkey: zhang2023r
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09677"}
   - {name: "Code", url: "https://github.com/shizhediao/R-Tuning"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 Large language models (LLMs) have revolutionized numerous domains with their
 impressive performance but still face their challenges. A predominant issue is

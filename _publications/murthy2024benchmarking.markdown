@@ -7,7 +7,7 @@ year: 2024
 bibkey: murthy2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10290"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Quantization', 'Applications', 'Attention Mechanism']
+tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models', 'Quantization']
 ---
 The deployment of Large Language Models (LLMs) and Large Multimodal Models
 (LMMs) on mobile devices has gained significant attention due to the benefits

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tian2024tokenize
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00959"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Tokenization', 'RAG', 'Ethics and Bias']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Tokenization']
 ---
 The autonomous driving industry is increasingly adopting end-to-end learning
 from sensory inputs to minimize human biases in system design. Traditional

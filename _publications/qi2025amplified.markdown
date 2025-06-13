@@ -7,7 +7,7 @@ year: 2025
 bibkey: qi2025amplified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16489"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Multi-Agent Debate (MAD), leveraging collaborative interactions among Large
 Language Models (LLMs), aim to enhance reasoning capabilities in complex tasks.

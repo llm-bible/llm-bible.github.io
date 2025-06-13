@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024vp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05543"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Tokenization', 'RAG', 'Merging', 'BERT', 'Prompting']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Tokenization', 'BERT', 'Prompting']
 ---
 Recent conditional 3D completion works have mainly relied on CLIP or BERT to
 encode textual information, which cannot support complex instruction.

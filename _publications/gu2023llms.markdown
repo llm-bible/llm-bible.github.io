@@ -7,7 +7,7 @@ year: 2023
 bibkey: gu2023llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10677"}
-tags: ['Model Architecture', 'GPT', 'Merging']
+tags: ['GPT', 'Model Architecture', 'Merging']
 ---
 With the recent rise of widely successful deep learning models, there is
 emerging interest among professionals in various math and science communities

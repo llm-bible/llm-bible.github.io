@@ -7,7 +7,7 @@ year: 2025
 bibkey: turtel2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05253"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We present an outcome-driven fine-tuning framework that enhances the
 forecasting capabilities of large language models (LLMs) without relying on

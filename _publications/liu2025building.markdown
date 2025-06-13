@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.07124"}
-tags: ['Ethics and Bias', 'RAG', 'Training Techniques', 'Interpretability']
+tags: ['Interpretability', 'RAG', 'Training Techniques', 'Ethics and Bias']
 ---
 We detail the training of the LLM360 K2-65B model, scaling up our 360-degree
 OPEN SOURCE approach to the largest and most powerful models under project

@@ -7,7 +7,7 @@ year: 2022
 bibkey: li2022personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.07371"}
-tags: ['Training Techniques', 'Model Architecture', 'RecSys', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'RecSys', 'Pretraining Methods', 'Prompting']
 ---
 Providing user-understandable explanations to justify recommendations could
 help users better understand the recommended items, increase the system's ease

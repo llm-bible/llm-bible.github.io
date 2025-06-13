@@ -7,7 +7,7 @@ year: 2020
 bibkey: beltagy2020long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.05150"}
-tags: ['Arxiv', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Arxiv']
 ---
 Transformer-based models are unable to process long sequences due to their
 self-attention operation, which scales quadratically with the sequence length.

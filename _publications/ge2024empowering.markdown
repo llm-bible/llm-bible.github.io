@@ -8,7 +8,7 @@ bibkey: ge2024empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18202"}
   - {name: "Code", url: "https://github.com/DCDmllm/WorldGPT"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 World models are progressively being employed across diverse fields,
 extending from basic environment simulation to complex scenario construction.

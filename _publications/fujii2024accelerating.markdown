@@ -7,7 +7,7 @@ year: 2024
 bibkey: fujii2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06465"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Large-Scale Training', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Large-Scale Training', 'Training Techniques']
 ---
 In large language model (LLM) training, several parallelization strategies,
 including Tensor Parallelism (TP), Pipeline Parallelism (PP), Data Parallelism

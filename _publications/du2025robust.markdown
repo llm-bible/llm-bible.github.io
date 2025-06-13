@@ -7,7 +7,7 @@ year: 2025
 bibkey: du2025robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12492"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Pruning', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Pruning', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Multimodal Models']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 various domains, particularly in system 1 tasks, yet the intricacies of their

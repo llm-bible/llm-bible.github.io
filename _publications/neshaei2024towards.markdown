@@ -7,7 +7,7 @@ year: 2024
 bibkey: neshaei2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14661"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent work exploring the capabilities of pre-trained large language models
 (LLMs) has demonstrated their ability to act as general pattern machines by

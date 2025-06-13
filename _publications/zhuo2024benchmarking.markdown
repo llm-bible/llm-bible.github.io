@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhuo2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15877"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Task automation has been greatly empowered by the recent advances in Large
 Language Models (LLMs) via Python code, where the tasks ranging from software

@@ -7,7 +7,7 @@ year: 2024
 bibkey: allard2024llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16779"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Quantization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Large Language Models (LLMs) often struggle with tasks requiring mathematical
 reasoning, particularly multiple-choice questions (MCQs). To address this

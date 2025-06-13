@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024image
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.15268"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Despite the recent breakthroughs achieved by Large Vision Language Models
 (LVLMs) in understanding and responding to complex visual-textual contexts,

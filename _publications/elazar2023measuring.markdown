@@ -7,7 +7,7 @@ year: 2023
 bibkey: elazar2023measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09605"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 The inevitable appearance of spurious correlations in training datasets hurts
 the generalization of NLP models on unseen data. Previous work has found that

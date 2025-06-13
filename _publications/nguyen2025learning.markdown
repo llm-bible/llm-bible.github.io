@@ -7,7 +7,7 @@ year: 2025
 bibkey: nguyen2025learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10512"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Language representation learning has emerged as a promising approach for
 sequential recommendation, thanks to its ability to learn generalizable

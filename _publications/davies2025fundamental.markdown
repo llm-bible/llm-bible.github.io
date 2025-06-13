@@ -7,7 +7,7 @@ year: 2025
 bibkey: davies2025fundamental
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14828"}
-tags: ['Security', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 LLM developers have imposed technical interventions to prevent fine-tuning
 misuse attacks, attacks where adversaries evade safeguards by fine-tuning the

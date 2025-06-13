@@ -7,7 +7,7 @@ year: 2024
 bibkey: tu2024online
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16878"}
-tags: ['Agentic', 'RAG', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Preference-based reinforcement learning (PbRL) provides a powerful paradigm
 to avoid meticulous reward engineering by learning rewards based on human

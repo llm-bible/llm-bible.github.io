@@ -7,7 +7,7 @@ year: 2024
 bibkey: du2024personal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16288"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'BERT']
 ---
 Long-term memory plays a critical role in personal interaction, considering
 long-term memory can better leverage world knowledge, historical information,

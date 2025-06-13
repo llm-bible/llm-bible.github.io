@@ -7,7 +7,7 @@ year: 2024
 bibkey: sakarvadia2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05037"}
-tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 Answering multi-hop reasoning questions requires retrieving and synthesizing
 information from diverse sources. Language models (LMs) struggle to perform

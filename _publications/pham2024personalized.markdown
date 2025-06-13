@@ -7,7 +7,7 @@ year: 2024
 bibkey: pham2024personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17610"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
 ---
 The personalization model has gained significant attention in image
 generation yet remains underexplored for large vision-language models (LVLMs).

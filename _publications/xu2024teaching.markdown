@@ -8,7 +8,7 @@ bibkey: xu2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20974"}
   - {name: "Code", url: "https://github.com/xu1868/SaySelf"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) often generate inaccurate or fabricated
 information and generally fail to indicate their confidence, which limits their

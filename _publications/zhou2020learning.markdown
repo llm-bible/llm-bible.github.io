@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhou2020learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.05058"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Automated evaluation of open domain natural language generation (NLG) models
 remains a challenge and widely used metrics such as BLEU and Perplexity can be

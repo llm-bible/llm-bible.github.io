@@ -7,7 +7,7 @@ year: 2024
 bibkey: kwartler2024good
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14262"}
-tags: ['Agentic', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 This study explores the ability of Large Language Model (LLM) agents to
 detect and correct hallucinations in AI-generated content. A primary agent was

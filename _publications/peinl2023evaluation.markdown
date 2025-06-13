@@ -7,7 +7,7 @@ year: 2023
 bibkey: peinl2023evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11991"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models (LLMs) have garnered significant attention, but the
 definition of "large" lacks clarity. This paper focuses on medium-sized

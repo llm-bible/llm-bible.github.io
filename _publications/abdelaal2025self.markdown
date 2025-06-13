@@ -7,7 +7,7 @@ year: 2025
 bibkey: abdelaal2025self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17584"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 This paper introduces GLLM, an innovative tool that leverages Large Language
 Models (LLMs) to automatically generate G-code from natural language

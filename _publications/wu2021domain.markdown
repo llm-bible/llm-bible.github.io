@@ -7,7 +7,7 @@ year: 2021
 bibkey: wu2021domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.13665"}
-tags: ['Training Techniques', 'Pretraining Methods', 'BERT', 'Model Architecture']
+tags: ['BERT', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Language models like BERT and SpanBERT pretrained on open-domain data have
 obtained impressive gains on various NLP tasks. In this paper, we probe the

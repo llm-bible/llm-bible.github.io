@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024stack
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20174"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 With the resurgent interest in building open-domain dialogue systems, the
 dialogue generation task has attracted increasing attention over the past few

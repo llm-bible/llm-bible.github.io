@@ -7,7 +7,7 @@ year: 2025
 bibkey: lim2025safe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12485"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Ensuring the safety of Large Language Models (LLMs) in diverse linguistic
 settings remains challenging, particularly for low-resource languages. Existing

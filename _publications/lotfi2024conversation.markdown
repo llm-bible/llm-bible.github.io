@@ -7,7 +7,7 @@ year: 2024
 bibkey: lotfi2024conversation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07363"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Distillation', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Prompting', 'Distillation']
 ---
 The new wave of Large Language Models (LLM) has offered an efficient tool to
 curate sizeable conversational datasets. So far studies have mainly focused on

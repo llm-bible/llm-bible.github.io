@@ -7,7 +7,7 @@ year: 2024
 bibkey: nascimento2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.11908"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 The adoption of Large Language Models (LLMs) for code generation in data
 science offers substantial potential for enhancing tasks such as data

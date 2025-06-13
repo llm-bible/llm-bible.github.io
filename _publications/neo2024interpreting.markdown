@@ -7,7 +7,7 @@ year: 2024
 bibkey: neo2024interpreting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15055"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Understanding the inner workings of large language models (LLMs) is crucial
 for advancing their theoretical foundations and real-world applications. While

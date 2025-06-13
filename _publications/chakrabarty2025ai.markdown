@@ -7,7 +7,7 @@ year: 2025
 bibkey: chakrabarty2025ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07532"}
-tags: ['RAG', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['RAG', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 AI-generated text is proliferating across domains, from creative writing and
 journalism to marketing content and scientific articles. Models can follow

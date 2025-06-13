@@ -8,7 +8,7 @@ bibkey: li2024any
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01169"}
   - {name: "Code", url: "https://github.com/jacklishufan/OmniFlows"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Survey Paper', 'Applications', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We introduce OmniFlow, a novel generative model designed for any-to-any
 generation tasks such as text-to-image, text-to-audio, and audio-to-image

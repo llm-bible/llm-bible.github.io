@@ -7,7 +7,7 @@ year: 2024
 bibkey: priola2024addressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04235"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 I combine detection and mitigation techniques to addresses hallucinations in
 Large Language Models (LLMs). Mitigation is achieved in a question-answering

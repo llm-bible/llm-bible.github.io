@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13304"}
   - {name: "Code", url: "https://github.com/aiwaves-cn/RecurrentGPT"}
   - {name: "Code", url: "https://www.aiwaves.org/recurrentgpt"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 The fixed-size context of Transformer makes GPT models incapable of
 generating arbitrarily long text. In this paper, we introduce RecurrentGPT, a

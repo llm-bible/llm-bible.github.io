@@ -7,7 +7,7 @@ year: 2020
 bibkey: liu2020kg
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.12677"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Generative commonsense reasoning which aims to empower machines to generate
 sentences with the capacity of reasoning over a set of concepts is a critical

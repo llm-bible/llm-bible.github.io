@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023re
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.04858"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Augmenting pretrained language models (LMs) with a vision encoder (e.g.,
 Flamingo) has obtained the state-of-the-art results in image-to-text

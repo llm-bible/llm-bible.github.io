@@ -7,7 +7,7 @@ year: 2025
 bibkey: shi2025navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.04323"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Instruction tuning has proven effective in enhancing Large Language Models'
 (LLMs) performance on downstream tasks. However, real-world fine-tuning faces

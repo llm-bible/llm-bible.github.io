@@ -7,7 +7,7 @@ year: 2025
 bibkey: hwang2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04362"}
-tags: ['Security', 'Reinforcement Learning', 'Merging', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Ethics and Bias', 'Applications', 'Merging', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Despite the fact that large language models (LLMs) show exceptional skill in
 instruction following tasks, this strength can turn into a vulnerability when

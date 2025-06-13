@@ -7,7 +7,7 @@ year: 2024
 bibkey: chowdhury2024autotutor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09216"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) have found several use cases in education,
 ranging from automatic question generation to essay evaluation. In this paper,

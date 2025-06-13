@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024extend
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16663"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 FlashAttention series has been widely applied in the inference of large
 language models (LLMs). However, FlashAttention series only supports the

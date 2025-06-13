@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024common
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12935"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'RAG', 'Prompting']
+tags: ['Responsible AI', 'RAG', 'Security', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) are expected to follow instructions from users
 and engage in conversations. Techniques to enhance LLMs' instruction-following

@@ -7,7 +7,7 @@ year: 2025
 bibkey: shepherd2025generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12883"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Recent advances in generative artificial intelligence (AI), such as ChatGPT,
 Google Gemini, and other large language models (LLMs), pose significant

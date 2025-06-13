@@ -7,7 +7,7 @@ year: 2022
 bibkey: pan2022tell
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.05703"}
-tags: ['Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Tools']
 ---
 Answer grounding aims to reveal the visual evidence for visual question
 answering (VQA), which entails highlighting relevant positions in the image

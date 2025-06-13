@@ -7,7 +7,7 @@ year: 2025
 bibkey: patil2025regional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07989"}
-tags: ['Tokenization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Tools', 'Tokenization', 'Reinforcement Learning']
 ---
 Small Language Models (SLMs) offer efficient alternatives to LLMs for
 specific domains. The 2023 TinyStories study developed an English dataset that

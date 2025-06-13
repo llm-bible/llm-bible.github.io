@@ -8,7 +8,7 @@ bibkey: tasconmorales2024targeted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03043"}
   - {name: "Code", url: "https://github.com/sergiotasconmorales/locvqallm"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Merging', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Merging', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 With growing interest in recent years, medical visual question answering
 (Med-VQA) has rapidly evolved, with multimodal large language models (MLLMs)

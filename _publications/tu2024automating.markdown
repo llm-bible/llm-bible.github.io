@@ -7,7 +7,7 @@ year: 2024
 bibkey: tu2024automating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11178"}
-tags: ['Model Architecture', 'Fairness', 'Tools', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Fairness']
 ---
 The shortage of clinical workforce presents significant challenges in mental
 healthcare, limiting access to formal diagnostics and services. We aim to

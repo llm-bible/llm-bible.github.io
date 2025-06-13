@@ -7,7 +7,7 @@ year: 2025
 bibkey: verma2025question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06296"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
 ---
 Question Answering (QA) and Visual Question Answering (VQA) are well-studied
 problems in the language and vision domain. One challenging scenario involves

@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23523"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) often struggle with tasks requiring external
 knowledge, such as knowledge-intensive Multiple Choice Question Answering

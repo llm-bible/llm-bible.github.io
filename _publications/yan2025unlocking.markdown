@@ -7,7 +7,7 @@ year: 2025
 bibkey: yan2025unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08309"}
-tags: ['RecSys', 'Pretraining Methods', 'Model Architecture', 'GPT']
+tags: ['RecSys', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent advancements in autoregressive Large Language Models (LLMs) have
 achieved significant milestones, largely attributed to their scalability, often

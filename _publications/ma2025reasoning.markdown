@@ -7,7 +7,7 @@ year: 2025
 bibkey: ma2025reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09858"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Recent LLMs have significantly improved reasoning capabilities, primarily by
 including an explicit, lengthy Thinking process as part of generation. In this

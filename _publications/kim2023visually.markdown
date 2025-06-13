@@ -8,7 +8,7 @@ bibkey: kim2023visually
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15080"}
   - {name: "Code", url: "https://github.com/naver-ai/cream"}
-tags: ['Model Architecture', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Recent advances in Large Language Models (LLMs) have stimulated a surge of
 research aimed at extending their applications to the visual domain. While

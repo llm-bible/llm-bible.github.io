@@ -7,7 +7,7 @@ year: 2024
 bibkey: qin2024various
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17381"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We present Lightning Attention, the first linear attention implementation
 that maintains a constant training speed for various sequence lengths under

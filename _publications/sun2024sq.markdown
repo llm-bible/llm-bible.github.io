@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024sq
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11299"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent advances in vision-language models have shown notable generalization
 in broad tasks through visual instruction tuning. However, bridging the gap

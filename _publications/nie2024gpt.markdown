@@ -7,7 +7,7 @@ year: 2024
 bibkey: nie2024gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09975"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are quickly being adopted in a wide range of
 learning experiences, especially via ubiquitous and broadly accessible chat

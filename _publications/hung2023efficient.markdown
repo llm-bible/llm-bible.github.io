@@ -7,7 +7,7 @@ year: 2023
 bibkey: hung2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12717"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Intermediate training of pre-trained transformer-based language models on
 domain-specific data leads to substantial gains for downstream tasks. To

@@ -7,7 +7,7 @@ year: 2024
 bibkey: verga2024replacing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18796"}
-tags: ['Ethics and Bias', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 As Large Language Models (LLMs) have become more advanced, they have outpaced
 our abilities to accurately evaluate their quality. Not only is finding data to

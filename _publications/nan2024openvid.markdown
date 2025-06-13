@@ -7,7 +7,7 @@ year: 2024
 bibkey: nan2024openvid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02371"}
-tags: ['Multimodal Models', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Text-to-video (T2V) generation has recently garnered significant attention
 thanks to the large multi-modality model Sora. However, T2V generation still

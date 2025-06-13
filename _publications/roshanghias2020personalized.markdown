@@ -7,7 +7,7 @@ year: 2020
 bibkey: roshanghias2020personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.04748"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Agentic', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Spoken language understanding (SLU) systems in conversational AI agents often
 experience errors in the form of misrecognitions by automatic speech

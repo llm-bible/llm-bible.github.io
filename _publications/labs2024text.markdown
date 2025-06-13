@@ -7,7 +7,7 @@ year: 2024
 bibkey: labs2024text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07505"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Recent advancements in Large Language Models (LLMs) have revealed new
 capabilities and opportunities across the technological landscape. However, the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024amplifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03122"}
-tags: ['Prompting', 'RAG', 'In-Context Learning']
+tags: ['RAG', 'Prompting', 'In-Context Learning']
 ---
 The ripple effect poses a significant challenge in knowledge editing for
 large language models. Namely, when a single fact is edited, the model

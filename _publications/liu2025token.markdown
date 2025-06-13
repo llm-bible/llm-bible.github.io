@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16511"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'GPT']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Distillation']
 ---
 In the current work, we connect token-level uncertainty in causal language
 modeling to two types of training objectives: 1) masked maximum likelihood

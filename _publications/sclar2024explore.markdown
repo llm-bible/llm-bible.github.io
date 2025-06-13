@@ -7,7 +7,7 @@ year: 2024
 bibkey: sclar2024explore
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12175"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Do large language models (LLMs) have theory of mind? A plethora of papers and
 benchmarks have been introduced to evaluate if current models have been able to

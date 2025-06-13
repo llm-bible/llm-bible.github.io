@@ -8,7 +8,7 @@ bibkey: xiong2025streaming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13468"}
   - {name: "Code", url: "https://github.com/hmxiong/StreamChat"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Recent advances in Large Language Models (LLMs) have enabled the development
 of Video-LLMs, advancing multimodal learning by bridging video data with

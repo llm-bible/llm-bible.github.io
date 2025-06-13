@@ -8,7 +8,7 @@ bibkey: rekanar2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.09329"}
   - {name: "Code", url: "https://github.com/KaavyaRekanar/Towards-a-performance-analysis-on-pre-trained-VQA-models-for-autonomous-driving"}
-tags: ['Multimodal Models', 'Model Architecture', 'Merging', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 This short paper presents a preliminary analysis of three popular Visual
 Question Answering (VQA) models, namely ViLBERT, ViLT, and LXMERT, in the

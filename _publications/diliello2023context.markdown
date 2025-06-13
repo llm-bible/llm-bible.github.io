@@ -7,7 +7,7 @@ year: 2023
 bibkey: diliello2023context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15358"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Answer Sentence Selection (AS2) is a core component for building an accurate
 Question Answering pipeline. AS2 models rank a set of candidate sentences based

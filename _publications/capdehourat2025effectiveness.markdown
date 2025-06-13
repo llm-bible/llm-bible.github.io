@@ -7,7 +7,7 @@ year: 2025
 bibkey: capdehourat2025effectiveness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18072"}
-tags: ['Prompting', 'Ethics and Bias', 'Applications']
+tags: ['Ethics and Bias', 'Prompting', 'Applications']
 ---
 Grading is a time-consuming and laborious task that educators must face. It
 is an important task since it provides feedback signals to learners, and it has

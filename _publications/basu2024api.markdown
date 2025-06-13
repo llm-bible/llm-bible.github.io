@@ -7,7 +7,7 @@ year: 2024
 bibkey: basu2024api
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15491"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 There is a growing need for Large Language Models (LLMs) to effectively use
 tools and external Application Programming Interfaces (APIs) to plan and

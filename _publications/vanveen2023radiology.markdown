@@ -7,7 +7,7 @@ year: 2023
 bibkey: vanveen2023radiology
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.01146"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We systematically investigate lightweight strategies to adapt large language
 models (LLMs) for the task of radiology report summarization (RRS).

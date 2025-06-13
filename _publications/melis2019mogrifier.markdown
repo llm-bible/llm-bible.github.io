@@ -7,7 +7,7 @@ year: 2019
 bibkey: melis2019mogrifier
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.01792"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Many advances in Natural Language Processing have been based upon more
 expressive models for how inputs interact with the context in which they occur.

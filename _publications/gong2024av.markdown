@@ -7,7 +7,7 @@ year: 2024
 bibkey: gong2024av
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02611"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Multimodal Models']
 ---
 Recently, multimodal large language models (MLLMs), such as GPT-4o, Gemini
 1.5 Pro, and Reka Core, have expanded their capabilities to include vision and

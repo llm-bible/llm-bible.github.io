@@ -7,7 +7,7 @@ year: 2025
 bibkey: poelitz2025synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14167"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 Real dialogues with AI assistants for solving data-centric tasks often follow
 dynamic, unpredictable paths due to imperfect information provided by the user

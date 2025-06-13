@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15043"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Automatic evaluation methods for large language models (LLMs) are hindered by
 data contamination, leading to inflated assessments of their effectiveness.

@@ -7,7 +7,7 @@ year: 2020
 bibkey: eddine2020skilled
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.12321"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Inductive transfer learning has taken the entire NLP field by storm, with
 models such as BERT and BART setting new state of the art on countless NLU

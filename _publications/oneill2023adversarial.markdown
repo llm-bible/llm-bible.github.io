@@ -7,7 +7,7 @@ year: 2023
 bibkey: oneill2023adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13768"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Merging', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 In this paper, we tackle the emerging challenge of unintended harmful content
 generation in Large Language Models (LLMs) with a novel dual-stage optimisation

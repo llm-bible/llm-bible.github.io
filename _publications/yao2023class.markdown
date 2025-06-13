@@ -8,7 +8,7 @@ bibkey: yao2023class
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.18231"}
   - {name: "Code", url: "https://github.com/htyao89/Textual-based_Class-aware_prompt_tuning/"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Has Code']
+tags: ['RAG', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Prompt tuning represents a valuable technique for adapting pre-trained
 visual-language models (VLM) to various downstream tasks. Recent advancements

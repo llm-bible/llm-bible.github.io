@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023user
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04793"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods']
 ---
 Image captioning bridges the gap between vision and language by automatically
 generating natural language descriptions for images. Traditional image

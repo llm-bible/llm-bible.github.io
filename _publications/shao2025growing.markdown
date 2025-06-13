@@ -7,7 +7,7 @@ year: 2025
 bibkey: shao2025growing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14075"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Pruning', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 Large vision-language models (VLMs) have demonstrated remarkable capabilities
 in open-world multimodal understanding, yet their high computational overheads

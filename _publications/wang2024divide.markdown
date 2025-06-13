@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024divide
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15688"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Merging', 'Prompting', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Prompting']
 ---
 Despite significant advancements in text-to-image models for generating
 high-quality images, these methods still struggle to ensure the controllability

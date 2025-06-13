@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024rephrase
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19007"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'KDD', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'KDD', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) are being widely researched across various
 disciplines, with significant recent efforts focusing on adapting LLMs for

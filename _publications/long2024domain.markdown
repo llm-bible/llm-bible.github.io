@@ -7,7 +7,7 @@ year: 2024
 bibkey: long2024domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21055"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have exhibited remarkable proficiency in natural
 language understanding, prompting extensive exploration of their potential

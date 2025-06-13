@@ -7,7 +7,7 @@ year: 2023
 bibkey: yin2023alignment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08487"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Large Language Models (LLMs) are central to a multitude of applications but
 struggle with significant risks, notably in generating harmful content and

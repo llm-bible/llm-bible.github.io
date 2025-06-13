@@ -7,7 +7,7 @@ year: 2023
 bibkey: hao2023reasoning
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.14992v2"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have shown remarkable reasoning capabilities,
 especially when prompted to generate intermediate reasoning steps (e.g.,

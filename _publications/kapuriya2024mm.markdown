@@ -7,7 +7,7 @@ year: 2024
 bibkey: kapuriya2024mm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12926"}
-tags: ['Agentic', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Recent advancements in LLMs have shown their significant potential in tasks
 like text summarization and generation. Yet, they often encounter difficulty

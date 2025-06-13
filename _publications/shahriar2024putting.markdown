@@ -7,7 +7,7 @@ year: 2024
 bibkey: shahriar2024putting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09519"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 As large language models (LLMs) continue to advance, evaluating their
 comprehensive capabilities becomes significant for their application in various

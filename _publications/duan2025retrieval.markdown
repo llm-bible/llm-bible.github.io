@@ -7,7 +7,7 @@ year: 2025
 bibkey: duan2025retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20726"}
-tags: ['Training Techniques', 'Transformer', 'Attention Mechanism', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
 ---
 Language models can be viewed as functions that embed text into Euclidean
 space, where the quality of the embedding vectors directly determines model

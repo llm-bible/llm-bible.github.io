@@ -7,7 +7,7 @@ year: 2023
 bibkey: kalajdzievski2023rank
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.03732"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 As large language models (LLMs) have become increasingly compute and memory
 intensive, parameter-efficient fine-tuning (PEFT) methods are now a common

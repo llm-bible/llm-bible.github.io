@@ -7,7 +7,7 @@ year: 2025
 bibkey: im2025unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.02716"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Language Modeling', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Training Techniques']
 ---
 Steering methods provide a practical approach to controlling large language
 models by applying steering vectors to intermediate activations, guiding

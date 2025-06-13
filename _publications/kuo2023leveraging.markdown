@@ -7,7 +7,7 @@ year: 2023
 bibkey: kuo2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04799"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'BERT', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Building on the cost-efficient pretraining advancements brought about by
 Crammed BERT, we enhance its performance and interpretability further by

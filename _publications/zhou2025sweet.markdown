@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025sweet
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.15478"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language model (LLM) agents need to perform multi-turn interactions in
 real-world tasks. However, existing multi-turn RL algorithms for optimizing LLM

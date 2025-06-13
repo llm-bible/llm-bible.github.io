@@ -8,7 +8,7 @@ bibkey: luo2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21460"}
   - {name: "Code", url: "https://github.com/luo-junyu/Awesome-Agent-Papers"}
-tags: ['Agentic', 'Survey Paper', 'Tools', 'RAG', 'Has Code', 'Applications']
+tags: ['Agentic', 'Tools', 'Survey Paper', 'Applications', 'RAG', 'Has Code']
 ---
 The era of intelligent agents is upon us, driven by revolutionary
 advancements in large language models. Large Language Model (LLM) agents, with

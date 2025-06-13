@@ -7,7 +7,7 @@ year: 2023
 bibkey: shi2023retrieval
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2301.12652v4"}
-tags: ['Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'GPT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Language Modeling', 'Attention Mechanism']
 ---
 We introduce REPLUG, a retrieval-augmented language modeling framework that
 treats the language model (LM) as a black box and augments it with a tuneable

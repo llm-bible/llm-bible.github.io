@@ -7,7 +7,7 @@ year: 2025
 bibkey: xiao2025hybrid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19191"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Merging', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism']
 ---
 The WuNeng architecture introduces a novel approach to enhancing the
 expressivity and power of large language models by integrating recurrent neural

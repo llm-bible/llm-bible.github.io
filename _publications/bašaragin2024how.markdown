@@ -7,7 +7,7 @@ year: 2024
 bibkey: bašaragin2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05015"}
-tags: ['Prompting', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) have recently become the leading source of
 answers for users' questions online. Despite their ability to offer eloquent

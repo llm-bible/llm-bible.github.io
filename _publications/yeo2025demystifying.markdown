@@ -8,7 +8,7 @@ bibkey: yeo2025demystifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03373"}
   - {name: "Code", url: "https://github.com/eddycmu/demystify-long-cot"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Scaling inference compute enhances reasoning in large language models (LLMs),
 with long chains-of-thought (CoTs) enabling strategies like backtracking and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024agent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03801"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 This paper explores the transformative role of Agent AI and LangGraph in
 advancing the automation and effectiveness of machine translation (MT). Agents

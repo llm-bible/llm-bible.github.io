@@ -8,7 +8,7 @@ bibkey: li2025test
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14382"}
   - {name: "Code", url: "https://github.com/NovaSky-AI/SkyThought"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code']
 ---
 Increasing test-time compute for LLMs shows promise across domains but
 remains underexplored in code generation, despite extensive study in math. In

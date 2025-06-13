@@ -7,7 +7,7 @@ year: 2019
 bibkey: li2019persona
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1903.02156"}
-tags: ['Security', 'Model Architecture', 'Attention Mechanism', 'Tools']
+tags: ['Security', 'Tools', 'Attention Mechanism', 'Model Architecture']
 ---
 Tips, as a compacted and concise form of reviews, were paid less attention by
 researchers. In this paper, we investigate the task of tips generation by

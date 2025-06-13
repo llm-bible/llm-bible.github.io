@@ -7,7 +7,7 @@ year: 2024
 bibkey: band2024linguistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00474"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Agentic', 'Tools', 'Reinforcement Learning']
 ---
 Language models (LMs) may lead their users to make suboptimal downstream
 decisions when they confidently hallucinate. This issue can be mitigated by

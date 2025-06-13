@@ -7,7 +7,7 @@ year: 2020
 bibkey: mi2020adaptively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.12000"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Distillation']
 ---
 Session-based recommendation has received growing attention recently due to
 the increasing privacy concern. Despite the recent success of neural

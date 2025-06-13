@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.15446"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Merging', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Quantization']
 ---
 Large Multimodal Models (LMMs) have demonstrated impressive capabilities in
 visual-language tasks but face significant deployment challenges due to their

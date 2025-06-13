@@ -7,7 +7,7 @@ year: 2024
 bibkey: fagbohun2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14837"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 Due to rapid advancements in the development of Large Language Models (LLMs),
 programming these models with prompts has recently gained significant

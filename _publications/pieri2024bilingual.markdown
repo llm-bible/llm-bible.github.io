@@ -8,7 +8,7 @@ bibkey: pieri2024bilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13253"}
   - {name: "Code", url: "https://github.com/mbzuai-oryx/BiMediX"}
-tags: ['RAG', 'Applications', 'Has Code']
+tags: ['RAG', 'Has Code', 'Applications']
 ---
 In this paper, we introduce BiMediX, the first bilingual medical mixture of
 experts LLM designed for seamless interaction in both English and Arabic. Our

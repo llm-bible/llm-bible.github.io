@@ -7,7 +7,7 @@ year: 2024
 bibkey: das2024under
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14698"}
-tags: ['Prompting', 'Ethics and Bias', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting', 'Ethics and Bias']
 ---
 This work delves into the expanding role of large language models (LLMs) in
 generating artificial data. LLMs are increasingly employed to create a variety

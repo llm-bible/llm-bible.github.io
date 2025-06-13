@@ -7,7 +7,7 @@ year: 2024
 bibkey: bordt2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03249"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
 ---
 The leakage of benchmark data into the training data has emerged as a
 significant challenge for evaluating the capabilities of large language models

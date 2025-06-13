@@ -7,7 +7,7 @@ year: 2022
 bibkey: he2022vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.09374"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'Ethics and Bias', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Pre-Training', 'Tools', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Image and language modeling is of crucial importance for vision-language
 pre-training (VLP), which aims to learn multi-modal representations from

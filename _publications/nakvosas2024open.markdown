@@ -8,7 +8,7 @@ bibkey: nakvosas2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12963"}
   - {name: "Code", url: "https://huggingface.co/neurotechnology"}
-tags: ['Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods', 'Has Code']
+tags: ['Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 In this paper, we propose and describe the first open Llama2 large language
 models (LLMs) for the Lithuanian language, including an accompanying

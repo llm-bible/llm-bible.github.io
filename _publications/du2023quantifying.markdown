@@ -7,7 +7,7 @@ year: 2023
 bibkey: du2023quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05217"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Although demonstrating superb performance on various NLP tasks, large
 language models (LLMs) still suffer from the hallucination problem, which

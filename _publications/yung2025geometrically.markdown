@@ -8,7 +8,7 @@ bibkey: yung2025geometrically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03502"}
   - {name: "Code", url: "https://github.com/Cancanxxx/CurvaLID"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'TACL', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'ACL', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Adversarial prompts capable of jailbreaking large language models (LLMs) and
 inducing undesirable behaviours pose a significant obstacle to their safe

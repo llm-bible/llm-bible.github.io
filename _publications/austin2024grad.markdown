@@ -7,7 +7,7 @@ year: 2024
 bibkey: austin2024grad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12865"}
-tags: ['Prompting', 'RAG', 'Applications', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Applications']
 ---
 Prompt engineering for large language models (LLMs) is often a manual
 time-intensive process that involves generating, evaluating, and refining

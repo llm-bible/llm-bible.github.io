@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024eliciting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01860"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 As Large Language Models (LLMs) are increasingly deployed in real-world
 settings, understanding the knowledge they implicitly use when making decisions

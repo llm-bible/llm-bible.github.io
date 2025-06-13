@@ -7,7 +7,7 @@ year: 2024
 bibkey: bocklisch2024task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12234"}
-tags: ['Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Prompting', 'In-Context Learning']
 ---
 We describe a system for building task-oriented dialogue systems combining
 the in-context learning abilities of large language models (LLMs) with the

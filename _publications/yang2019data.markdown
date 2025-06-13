@@ -7,7 +7,7 @@ year: 2019
 bibkey: yang2019data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.06652"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Recently, a simple combination of passage retrieval using off-the-shelf IR
 techniques and a BERT reader was found to be very effective for question

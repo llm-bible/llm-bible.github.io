@@ -8,7 +8,7 @@ bibkey: you2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07368"}
   - {name: "Code", url: "https://github.com/GATECH-EIC/Linearized-LLM"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'Has Code', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Autoregressive Large Language Models (LLMs) have achieved impressive
 performance in language tasks but face two significant bottlenecks: (1)

@@ -7,7 +7,7 @@ year: 2023
 bibkey: peng2023check
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.12813v3"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs), such as ChatGPT, are able to generate
 human-like, fluent responses for many downstream tasks, e.g., task-oriented

@@ -7,7 +7,7 @@ year: 2024
 bibkey: nikolich2024family
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13929"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Language Modeling', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Training Techniques']
 ---
 There has been a surge in the development of various Large Language Models
 (LLMs). However, text generation for languages other than English often faces

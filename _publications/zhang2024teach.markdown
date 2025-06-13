@@ -8,7 +8,7 @@ bibkey: zhang2024teach
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10999"}
   - {name: "Code", url: "https://github.com/zlkqz/auto_eval"}
-tags: ['Security', 'Training Techniques', 'Few-Shot', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Language Modeling', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 With the rapid development of large language models (LLM), the evaluation of
 LLM becomes increasingly important. Measuring text generation tasks such as

@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025video
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18478"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'RAG', 'Pruning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Despite advanced token compression techniques, existing multimodal large
 language models (MLLMs) still struggle with hour-long video understanding. In

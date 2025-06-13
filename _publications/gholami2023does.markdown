@@ -7,7 +7,7 @@ year: 2023
 bibkey: gholami2023does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07830"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Natural Language Processing (NLP) has undergone transformative changes with
 the advent of deep learning methodologies. One challenge persistently

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12934"}
-tags: ['Prompting', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Best-of-N decoding methods instruct large language models (LLMs) to generate
 multiple solutions, score each using a scoring function, and select the highest

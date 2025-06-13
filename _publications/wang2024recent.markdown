@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024recent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10622"}
-tags: ['Prompting', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Purpose: We present an updated study evaluating the performance of large
 language models (LLMs) in answering radiation oncology physics questions,

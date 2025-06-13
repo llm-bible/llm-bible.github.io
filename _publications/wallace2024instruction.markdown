@@ -7,7 +7,7 @@ year: 2024
 bibkey: wallace2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13208"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 Today's LLMs are susceptible to prompt injections, jailbreaks, and other
 attacks that allow adversaries to overwrite a model's original instructions

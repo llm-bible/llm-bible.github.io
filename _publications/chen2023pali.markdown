@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023pali
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2310.09199v2"}
-tags: ['Pretraining Methods', 'Multimodal Models', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Multimodal Models', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper presents PaLI-3, a smaller, faster, and stronger vision language
 model (VLM) that compares favorably to similar models that are 10x larger. As

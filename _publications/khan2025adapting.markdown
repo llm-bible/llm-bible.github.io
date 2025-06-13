@@ -7,7 +7,7 @@ year: 2025
 bibkey: khan2025adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20420"}
-tags: ['Pretraining Methods', 'Multimodal Models', 'GPT']
+tags: ['GPT', 'Multimodal Models', 'Pretraining Methods']
 ---
 In this work, we provide the system description of our submission as part of
 the English to Lowres Multimodal Translation Task at the Workshop on Asian

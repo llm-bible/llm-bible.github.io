@@ -7,7 +7,7 @@ year: 2024
 bibkey: berchansky2024chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10513"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 State-of-the-art performance in QA tasks is currently achieved by systems
 employing Large Language Models (LLMs), however these models tend to

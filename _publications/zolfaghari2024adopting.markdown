@@ -7,7 +7,7 @@ year: 2024
 bibkey: zolfaghari2024adopting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.09590"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
 ---
 In this paper, we explore the integration of Large Language Models (LLMs)
 with Retrieval-Augmented Generation (RAG) to enhance automated design and

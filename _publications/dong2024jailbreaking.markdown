@@ -7,7 +7,7 @@ year: 2024
 bibkey: dong2024jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00523"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Efficiency and Optimization', 'Multimodal Models', 'Agent', 'Tools', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Security', 'Agent', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Recent advancements have significantly improved automated task-solving
 capabilities using autonomous agents powered by large language models (LLMs).

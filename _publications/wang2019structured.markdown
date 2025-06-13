@@ -7,7 +7,7 @@ year: 2019
 bibkey: wang2019structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.04732"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pruning', 'Quantization', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization']
 ---
 Large language models have recently achieved state of the art performance
 across a wide variety of natural language tasks. Meanwhile, the size of these

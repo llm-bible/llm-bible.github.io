@@ -7,7 +7,7 @@ year: 2025
 bibkey: guan2025evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16867"}
-tags: ['Prompting', 'Agentic', 'Applications', 'Tools']
+tags: ['Agentic', 'Prompting', 'Applications', 'Tools']
 ---
 Precisely evaluating semantic alignment between text prompts and generated
 videos remains a challenge in Text-to-Video (T2V) Generation. Existing

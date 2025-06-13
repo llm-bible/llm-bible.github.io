@@ -7,7 +7,7 @@ year: 2023
 bibkey: turpin2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.04388"}
-tags: ['Responsible AI', 'Model Architecture', 'Few-Shot', 'GPT', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['Responsible AI', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLMs) can achieve strong performance on many tasks by
 producing step-by-step reasoning before giving a final output, often referred

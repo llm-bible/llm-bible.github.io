@@ -8,7 +8,7 @@ bibkey: cao2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10486"}
   - {name: "Code", url: "https://github.com/DCDmllm/IDEAL_Summary"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Query-focused summarization (QFS) aims to produce summaries that answer
 particular questions of interest, enabling greater user control and

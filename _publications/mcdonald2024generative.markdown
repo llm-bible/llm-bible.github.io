@@ -7,7 +7,7 @@ year: 2024
 bibkey: mcdonald2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01659"}
-tags: ['Responsible AI', 'Model Architecture', 'Fairness', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Fairness', 'Prompting']
 ---
 The release of ChatGPT in November 2022 prompted a massive uptake of
 generative artificial intelligence (GenAI) across higher education institutions

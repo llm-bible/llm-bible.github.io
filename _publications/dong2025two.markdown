@@ -7,7 +7,7 @@ year: 2025
 bibkey: dong2025two
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05614"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent research has shown that large language models (LLMs) can enhance
 translation quality through self-refinement. In this paper, we build on this

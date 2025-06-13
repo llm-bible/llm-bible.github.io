@@ -7,7 +7,7 @@ year: 2024
 bibkey: dolcetti2024helping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14841"}
-tags: ['Responsible AI', 'Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 Large Language Models (LLMs) are one of the most promising developments in
 the field of artificial intelligence, and the software engineering community

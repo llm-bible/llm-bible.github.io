@@ -7,7 +7,7 @@ year: 2025
 bibkey: teel2025structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17617"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Training Techniques', 'Pretraining Methods']
 ---
 Extended sequence generation often leads to degradation in contextual
 consistency due to the inability of conventional self-attention mechanisms to

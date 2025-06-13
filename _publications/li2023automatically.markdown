@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023automatically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.06507"}
-tags: ['Language Modeling', 'Training Techniques', 'Few-Shot']
+tags: ['Few-Shot', 'Training Techniques', 'Language Modeling']
 ---
 Information-seeking conversation, which aims to help users gather information
 through conversation, has achieved great progress in recent years. However, the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024infinite
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01518"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
 ---
 Handling long input contexts remains a significant challenge for Large
 Language Models (LLMs), particularly in resource-constrained environments such

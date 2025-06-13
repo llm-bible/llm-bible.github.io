@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025clarification
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16331"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 code generation tasks. However, a significant gap remains between their current

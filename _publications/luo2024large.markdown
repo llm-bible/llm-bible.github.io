@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12194"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Pretrained language models like BERT and T5 serve as crucial backbone
 encoders for dense retrieval. However, these models often exhibit limited

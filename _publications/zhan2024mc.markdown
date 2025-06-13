@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhan2024mc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10620"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Interpretability and Explainability']
+tags: ['Agentic', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 In the Vision-and-Language Navigation (VLN) task, the agent is required to
 navigate to a destination following a natural language instruction. While

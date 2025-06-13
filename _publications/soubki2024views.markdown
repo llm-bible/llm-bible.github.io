@@ -7,7 +7,7 @@ year: 2024
 bibkey: soubki2024views
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02451"}
-tags: ['Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Evaluating the theory of mind (ToM) capabilities of language models (LMs) has
 recently received a great deal of attention. However, many existing benchmarks

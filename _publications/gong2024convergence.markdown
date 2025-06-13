@@ -8,7 +8,7 @@ bibkey: gong2024convergence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06741"}
   - {name: "Code", url: "https://github.com/codefuse-ai/MFTCoder"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Multi-task learning (MTL) benefits the fine-tuning of large language models
 (LLMs) by providing a single model with improved performance and generalization

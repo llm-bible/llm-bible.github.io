@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13733"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Instruction fine-tuning (IFT) elicits instruction following capabilities and
 steers the behavior of large language models (LLMs) via supervised learning.

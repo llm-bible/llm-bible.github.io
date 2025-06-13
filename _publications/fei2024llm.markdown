@@ -8,7 +8,7 @@ bibkey: fei2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11053"}
   - {name: "Code", url: "https://github.com/abdelfattah-lab/nitro"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have become essential tools in natural language
 processing, finding large usage in chatbots such as ChatGPT and Gemini, and are

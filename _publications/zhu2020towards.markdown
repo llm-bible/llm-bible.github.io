@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhu2020towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.03644"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 A major challenge in visually grounded language generation is to build robust
 benchmark datasets and models that can generalize well in real-world settings.

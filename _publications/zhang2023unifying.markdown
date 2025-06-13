@@ -8,7 +8,7 @@ bibkey: zhang2023unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07989"}
   - {name: "Code", url: "https://github.com/codefuse-ai/Awesome-Code-LLM"}
-tags: ['Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'GPT', 'Survey Paper', 'Model Architecture', 'Has Code', 'Pretraining Methods']
 ---
 In this work we systematically review the recent advancements in software
 engineering with language models, covering 70+ models, 40+ evaluation tasks,

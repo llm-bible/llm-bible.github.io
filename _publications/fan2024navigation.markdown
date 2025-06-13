@@ -7,7 +7,7 @@ year: 2024
 bibkey: fan2024navigation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15087"}
-tags: ['Agentic', 'RAG', 'Prompting', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Prompting', 'Reinforcement Learning']
 ---
 Navigation instruction generation, which requires embodied agents to describe
 the navigation routes, has been of great interest in robotics and

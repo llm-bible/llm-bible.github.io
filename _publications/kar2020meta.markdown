@@ -7,7 +7,7 @@ year: 2020
 bibkey: kar2020meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.05572"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Despite the tremendous success of neural dialogue models in recent years, it
 suffers a lack of relevance, diversity, and some times coherence in generated

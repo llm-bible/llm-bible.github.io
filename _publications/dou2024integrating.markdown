@@ -7,7 +7,7 @@ year: 2024
 bibkey: dou2024integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05695"}
-tags: ['Agentic', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Agentic', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 The use of large language models in medical dialogue generation has garnered
 significant attention, with a focus on improving response quality and fluency.

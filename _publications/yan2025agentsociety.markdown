@@ -7,7 +7,7 @@ year: 2025
 bibkey: yan2025agentsociety
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18754"}
-tags: ['Agentic', 'RecSys', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Reinforcement Learning', 'RecSys', 'Tools']
 ---
 The AgentSociety Challenge is the first competition in the Web Conference
 that aims to explore the potential of Large Language Model (LLM) agents in

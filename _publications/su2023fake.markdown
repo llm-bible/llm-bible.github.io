@@ -7,7 +7,7 @@ year: 2023
 bibkey: su2023fake
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08674"}
-tags: ['Ethics and Bias', 'Security', 'Training Techniques', 'RAG']
+tags: ['RAG', 'Training Techniques', 'Security', 'Ethics and Bias']
 ---
 The spread of fake news has emerged as a critical challenge, undermining
 trust and posing threats to society. In the era of Large Language Models

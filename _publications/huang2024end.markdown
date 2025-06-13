@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024end
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06781"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Poker, also known as Texas Hold'em, has always been a typical research target
 within imperfect information games (IIGs). IIGs have long served as a measure

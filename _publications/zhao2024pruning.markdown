@@ -8,7 +8,7 @@ bibkey: zhao2024pruning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15567"}
   - {name: "Code", url: "https://github.com/piuzha/APT"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pruning', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Despite the superior performance, it is challenging to deploy foundation
 models or large language models (LLMs) due to their massive parameters and

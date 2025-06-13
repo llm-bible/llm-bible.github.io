@@ -7,7 +7,7 @@ year: 2025
 bibkey: fayyazi2025fairness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.02966"}
-tags: ['Security', 'Training Techniques', 'Fairness', 'Tools', 'RAG', 'Bias Mitigation', 'RecSys', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Security', 'RecSys', 'Training Techniques', 'Fairness', 'Prompting']
 ---
 We propose FACTER, a fairness-aware framework for LLM-based recommendation
 systems that integrates conformal prediction with dynamic prompt engineering.

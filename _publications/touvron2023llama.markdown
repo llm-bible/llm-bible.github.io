@@ -7,7 +7,7 @@ year: 2023
 bibkey: touvron2023llama
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2307.09288v2"}
-tags: ['Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 In this work, we develop and release Llama 2, a collection of pretrained and
 fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70

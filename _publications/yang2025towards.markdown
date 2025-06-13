@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18080"}
-tags: ['Efficiency and Optimization', 'Distillation', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Distillation']
 ---
 Recent studies have shown that making a model spend more time thinking
 through longer Chain of Thoughts (CoTs) enables it to gain significant

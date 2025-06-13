@@ -7,7 +7,7 @@ year: 2022
 bibkey: iki2022do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.07828"}
-tags: ['Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Pre-trained Transformers are good foundations for unified multi-task models
 owing to their task-agnostic representation. Pre-trained Transformers are often

@@ -7,7 +7,7 @@ year: 2023
 bibkey: ji2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06680"}
-tags: ['Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Prompting']
 ---
 While code generation has been widely used in various software development
 scenarios, the quality of the generated code is not guaranteed. This has been a

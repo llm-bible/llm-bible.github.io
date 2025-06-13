@@ -7,7 +7,7 @@ year: 2024
 bibkey: qin2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10061"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Prompting']
 ---
 Diffusion models have opened up new avenues for the field of image
 generation, resulting in the proliferation of high-quality models shared on

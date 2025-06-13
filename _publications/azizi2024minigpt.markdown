@@ -8,7 +8,7 @@ bibkey: azizi2024minigpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00971"}
   - {name: "Code", url: "https://github.com/VahidAz/MiniGPT-Reverse-Designing"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Has Code']
+tags: ['GPT', 'Multimodal Models', 'Has Code', 'Model Architecture']
 ---
 Vision-Language Models (VLMs) have recently seen significant advancements
 through integrating with Large Language Models (LLMs). The VLMs, which process

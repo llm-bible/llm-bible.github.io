@@ -7,7 +7,7 @@ year: 2025
 bibkey: bartoszcze2025representation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17601"}
-tags: ['Training Techniques', 'Survey Paper', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Survey Paper', 'Interpretability and Explainability', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large-language models are capable of completing a variety of tasks, but
 remain unpredictable and intractable. Representation engineering seeks to

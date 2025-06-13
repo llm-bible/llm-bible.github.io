@@ -8,7 +8,7 @@ bibkey: frascaroli2024clip
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15793"}
   - {name: "Code", url: "https://github.com/aimagelab/mammoth"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 With the emergence of Transformers and Vision-Language Models (VLMs) such as
 CLIP, fine-tuning large pre-trained models has recently become a prevalent

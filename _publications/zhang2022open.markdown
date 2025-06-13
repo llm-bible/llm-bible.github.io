@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhang2022open
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2205.01068v4"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'GPT', 'Model Architecture', 'Pretraining Methods', 'Few-Shot']
 ---
 Large language models, which are often trained for hundreds of thousands of
 compute days, have shown remarkable capabilities for zero- and few-shot

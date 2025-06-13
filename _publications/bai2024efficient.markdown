@@ -7,7 +7,7 @@ year: 2024
 bibkey: bai2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18718"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 With recent advancements in large language models (LLMs), alignment has
 emerged as an effective technique for keeping LLMs consensus with human intent.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: bohnet2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13094"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Classical and natural language planning tasks remain a difficult domain for
 modern large language models (LLMs). In this work, we lay the foundations for

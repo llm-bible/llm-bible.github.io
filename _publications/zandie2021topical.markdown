@@ -7,7 +7,7 @@ year: 2021
 bibkey: zandie2021topical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.06434"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large-scale transformer-based language models (LMs) demonstrate impressive
 capabilities in open text generation. However, controlling the generated text's

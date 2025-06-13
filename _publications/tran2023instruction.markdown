@@ -7,7 +7,7 @@ year: 2023
 bibkey: tran2023instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.19975"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 To enhance the performance of large language models (LLMs) in biomedical
 natural language processing (BioNLP) by introducing a domain-specific

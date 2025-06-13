@@ -7,7 +7,7 @@ year: 2024
 bibkey: lifelo2024adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09045"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting', 'In-Context Learning']
 ---
 Timely identification is essential for the efficient handling of mental
 health illnesses such as depression. However, the current research fails to

@@ -8,7 +8,7 @@ bibkey: sun2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16333"}
   - {name: "Code", url: "https://github.com/TruthAI-Lab/PCIG"}
-tags: ['Multimodal Models', 'Tools', 'RAG', 'Merging', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Merging', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 The rapid advancement of Text-to-Image(T2I) generative models has enabled the
 synthesis of high-quality images guided by textual descriptions. Despite this

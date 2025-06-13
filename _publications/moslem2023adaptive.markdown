@@ -7,7 +7,7 @@ year: 2023
 bibkey: moslem2023adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.13294"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Consistency is a key requirement of high-quality translation. It is
 especially important to adhere to pre-approved terminology and adapt to

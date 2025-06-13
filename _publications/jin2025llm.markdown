@@ -7,7 +7,7 @@ year: 2025
 bibkey: jin2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03699"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have revolutionized artificial intelligence with
 capabilities in reasoning, coding, and communication, driving innovation across

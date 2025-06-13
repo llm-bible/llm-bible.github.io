@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiao2024clover
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00264"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Distillation', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Security', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 Large Language Models (LLMs) frequently suffer from inefficiencies, largely
 attributable to the discord between the requirements of auto-regressive

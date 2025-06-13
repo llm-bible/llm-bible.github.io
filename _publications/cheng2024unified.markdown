@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheng2024unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18398"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'Pretraining Methods', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Emotional Text-to-Speech (E-TTS) synthesis has garnered significant attention
 in recent years due to its potential to revolutionize human-computer

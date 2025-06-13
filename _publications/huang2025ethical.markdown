@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025ethical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00015"}
-tags: ['Efficiency and Optimization', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
 ---
 [Context] Generative AI technologies, particularly Large Language Models
 (LLMs), have transformed numerous domains by enhancing convenience and

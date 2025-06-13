@@ -7,7 +7,7 @@ year: 2024
 bibkey: chaliah2024superposition
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00530"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Catastrophic forgetting remains a major challenge when adapting large
 language models (LLMs) to new tasks or domains. Conventional fine-tuning often

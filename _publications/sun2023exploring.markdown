@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.09055"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 During the last stage of RLHF, a large language model is aligned to human
 intents via PPO training, a process that generally requires large-scale

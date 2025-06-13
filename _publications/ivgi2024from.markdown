@@ -7,7 +7,7 @@ year: 2024
 bibkey: ivgi2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06071"}
-tags: ['Pretraining Methods', 'Training Techniques']
+tags: ['Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) often exhibit undesirable behaviors, such as
 hallucinations and sequence repetitions. We propose to view these behaviors as

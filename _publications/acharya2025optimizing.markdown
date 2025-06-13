@@ -7,7 +7,7 @@ year: 2025
 bibkey: acharya2025optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.16692"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Optimizing software performance through automated code refinement offers a
 promising avenue for enhancing execution speed and efficiency. Despite recent

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023technical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16713"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown great potential to solve varieties of
 natural language processing (NLP) tasks, including mathematical reasoning. In

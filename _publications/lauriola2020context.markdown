@@ -7,7 +7,7 @@ year: 2020
 bibkey: lauriola2020context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2006.01285"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 An important task for the design of Question Answering systems is the
 selection of the sentence containing (or constituting) the answer from

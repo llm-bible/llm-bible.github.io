@@ -8,7 +8,7 @@ bibkey: agrawal2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18248"}
   - {name: "Code", url: "https://github.com/microsoft/hallucinated-references"}
-tags: ['Model Architecture', 'GPT', 'Has Code']
+tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 State-of-the-art language models (LMs) are notoriously susceptible to
 generating hallucinated information. Such inaccurate outputs not only undermine

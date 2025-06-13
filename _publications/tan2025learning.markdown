@@ -7,7 +7,7 @@ year: 2025
 bibkey: tan2025learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13630"}
-tags: ['WMT', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Prompting']
 ---
 A key challenge in MT evaluation is the inherent noise and inconsistency of
 human ratings. Regression-based neural metrics struggle with this noise, while

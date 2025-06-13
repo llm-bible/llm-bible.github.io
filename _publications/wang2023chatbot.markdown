@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023chatbot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00052"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 With the rapid evolution of Natural Language Processing (NLP), Large Language
 Models (LLMs) like ChatGPT have emerged as powerful tools capable of

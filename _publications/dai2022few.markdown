@@ -7,7 +7,7 @@ year: 2022
 bibkey: dai2022few
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.11755"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'BERT', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT', 'Few-Shot', 'Prompting']
 ---
 Much recent research on information retrieval has focused on how to transfer
 from one task (typically with abundant supervised data) to various other tasks

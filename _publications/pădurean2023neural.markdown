@@ -7,7 +7,7 @@ year: 2023
 bibkey: pădurean2023neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18342"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Generative neural models hold great promise in enhancing programming
 education by synthesizing new content. We seek to design neural models that can

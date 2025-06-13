@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024decoupled
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01514"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 We introduce a low-resource safety enhancement method for aligning large
 language models (LLMs) without the need for supervised fine-tuning (SFT) or

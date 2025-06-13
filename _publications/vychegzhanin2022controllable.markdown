@@ -7,7 +7,7 @@ year: 2022
 bibkey: vychegzhanin2022controllable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.09248"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Large pre-trained language models are capable of generating varied and fluent
 texts. Starting from the prompt, these models generate a narrative that can

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025pushing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02807"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pre-Training', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pre-Training', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Mathematical reasoning is a cornerstone of human intelligence and a key
 benchmark for advanced capabilities in large language models (LLMs). However,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kardanova2024novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00045"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 The era of large language models (LLM) raises questions not only about how to
 train models, but also about how to evaluate them. Despite numerous existing

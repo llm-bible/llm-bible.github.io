@@ -8,7 +8,7 @@ bibkey: yu2023interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12799"}
   - {name: "Code", url: "https://github.com/Yuqifan1117/Labal-Anything-Pipeline"}
-tags: ['Prompting', 'RAG', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code', 'Prompting']
 ---
 Recent text-to-image generation models have shown promising results in
 generating high-fidelity photo-realistic images. In parallel, the problem of

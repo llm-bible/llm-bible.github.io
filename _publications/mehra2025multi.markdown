@@ -7,7 +7,7 @@ year: 2025
 bibkey: mehra2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09419"}
-tags: ['Prompting', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting']
 ---
 We systematically investigate multi-token prediction (MTP) capabilities
 within LLMs pre-trained for next-token prediction (NTP). We first show that

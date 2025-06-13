@@ -8,7 +8,7 @@ bibkey: liu2023goal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11830"}
   - {name: "Code", url: "https://github.com/liuchengyuan123/CPAD"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) presents significant priority in text
 understanding and generation. However, LLMs suffer from the risk of generating

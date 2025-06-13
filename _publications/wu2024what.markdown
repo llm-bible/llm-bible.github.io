@@ -8,7 +8,7 @@ bibkey: wu2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11942"}
   - {name: "Code", url: "https://anonymous.4open.science/r/Question-Answering-for-Low-Resource-Languages-B13C/"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 In this paper, we analyze the capabilities of the multi-lingual Dense Passage
 Retriever (mDPR) for extremely low-resource languages. In the Cross-lingual

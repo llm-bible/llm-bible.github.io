@@ -7,7 +7,7 @@ year: 2025
 bibkey: orlikowski2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20897"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 People naturally vary in their annotations for subjective questions and some
 of this variation is thought to be due to the person's sociodemographic

@@ -7,7 +7,7 @@ year: 2023
 bibkey: jana2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06755"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we present an LLM-based code translation method and an
 associated tool called CoTran, that translates whole-programs from one

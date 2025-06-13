@@ -7,7 +7,7 @@ year: 2025
 bibkey: chawla2025quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.08496"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Contrary to the conventional emphasis on dataset size, we explore the role of
 data alignment -- an often overlooked aspect of data quality -- in training

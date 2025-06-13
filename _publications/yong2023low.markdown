@@ -7,7 +7,7 @@ year: 2023
 bibkey: yong2023low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02446"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Responsible AI', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Training Techniques']
 ---
 AI safety training and red-teaming of large language models (LLMs) are
 measures to mitigate the generation of unsafe content. Our work exposes the

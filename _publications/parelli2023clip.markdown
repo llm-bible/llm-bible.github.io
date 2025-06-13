@@ -7,7 +7,7 @@ year: 2023
 bibkey: parelli2023clip
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.06061"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Training models to apply linguistic knowledge and visual concepts from 2D
 images to 3D world understanding is a promising direction that researchers have

@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02531"}
-tags: ['Language Modeling', 'Merging', 'GPT', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Language Modeling', 'Merging', 'Pretraining Methods']
 ---
 Autoregressive models for text sometimes generate repetitive and low-quality
 output because errors accumulate during the steps of generation. This issue is

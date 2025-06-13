@@ -7,7 +7,7 @@ year: 2024
 bibkey: tian2024untie
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.04774"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Large language models (LLM) have prioritized expanding the context window
 from which models can incorporate more information. However, training models to

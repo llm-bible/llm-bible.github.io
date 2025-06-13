@@ -7,7 +7,7 @@ year: 2023
 bibkey: xiao2023supporting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.10548"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Qualitative analysis of textual contents unpacks rich and valuable
 information by assigning labels to the data. However, this process is often

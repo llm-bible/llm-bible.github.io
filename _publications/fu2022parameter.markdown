@@ -7,7 +7,7 @@ year: 2022
 bibkey: fu2022parameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.00305"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Transformer-based pre-trained models with millions of parameters require
 large storage. Recent approaches tackle this shortcoming by training adapters,

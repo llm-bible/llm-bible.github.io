@@ -8,7 +8,7 @@ bibkey: guo2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17867"}
   - {name: "Code", url: "https://mcxiaoxiao.github.io/MMSQL"}
-tags: ['Agentic', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Has Code', 'Reinforcement Learning']
 ---
 Recent advancements in large language models (LLMs) have significantly
 advanced text-to-SQL systems. However, most LLM-based methods often narrowly

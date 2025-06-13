@@ -7,7 +7,7 @@ year: 2018
 bibkey: asai2018multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1809.03275"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Despite recent work in Reading Comprehension (RC), progress has been mostly
 limited to English due to the lack of large-scale datasets in other languages.

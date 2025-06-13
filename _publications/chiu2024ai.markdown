@@ -7,7 +7,7 @@ year: 2024
 bibkey: chiu2024ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06664"}
-tags: ['Ethics and Bias', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Frontier large language models (LLMs) are developed by researchers and
 practitioners with skewed cultural backgrounds and on datasets with skewed

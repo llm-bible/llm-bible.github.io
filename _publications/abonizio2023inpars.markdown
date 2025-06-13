@@ -8,7 +8,7 @@ bibkey: abonizio2023inpars
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.04601"}
   - {name: "Code", url: "https://github.com/zetaalphavector/InPars"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Recent work has explored Large Language Models (LLMs) to overcome the lack of
 training data for Information Retrieval (IR) tasks. The generalization

@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10361"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'BERT', 'Prompting']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'BERT', 'Prompting']
 ---
 This paper argues that we should perceive LLMs as machines of extrapolation.
 Extrapolation is a statistical function for predicting the next value in a

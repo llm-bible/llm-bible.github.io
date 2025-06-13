@@ -7,7 +7,7 @@ year: 2024
 bibkey: chu2024beam
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19820"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Large language models (LLMs) have demonstrated strong reasoning capabilities.
 Nevertheless, they still suffer from factual errors when tackling

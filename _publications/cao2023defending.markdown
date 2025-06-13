@@ -7,7 +7,7 @@ year: 2023
 bibkey: cao2023defending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.14348"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recently, Large Language Models (LLMs) have made significant advancements and
 are now widely used across various domains. Unfortunately, there has been a

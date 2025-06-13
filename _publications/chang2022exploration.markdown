@@ -8,7 +8,7 @@ bibkey: chang2022exploration
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.16773"}
   - {name: "Code", url: "https://github.com/ga642381/SpeechPrompt"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Speech representations learned from Self-supervised learning (SSL) models can
 benefit various speech processing tasks. However, utilizing SSL representations

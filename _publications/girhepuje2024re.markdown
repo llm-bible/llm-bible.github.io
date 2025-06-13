@@ -7,7 +7,7 @@ year: 2024
 bibkey: girhepuje2024re
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15724"}
-tags: ['Prompting', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) currently struggle with tool invocation and
 chaining, as they often hallucinate or miss essential steps in a sequence. We

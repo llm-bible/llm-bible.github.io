@@ -7,7 +7,7 @@ year: 2021
 bibkey: glenski2021towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.11761"}
-tags: ['Security', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Tools', 'Merging', 'BERT']
+tags: ['Tools', 'Model Architecture', 'Merging', 'Security', 'Training Techniques', 'BERT', 'Multimodal Models']
 ---
 Evaluating model robustness is critical when developing trustworthy models
 not only to gain deeper understanding of model behavior, strengths, and

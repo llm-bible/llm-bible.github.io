@@ -7,7 +7,7 @@ year: 2023
 bibkey: sarkar2023testing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00789"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 Tables stored in databases and tables which are present in web pages and
 articles account for a large part of semi-structured data that is available on

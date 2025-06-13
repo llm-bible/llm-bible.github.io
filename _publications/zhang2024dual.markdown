@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11509"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Interpretability']
 ---
 Automatic methods for evaluating machine-generated texts hold significant
 importance due to the expanding applications of generative systems.

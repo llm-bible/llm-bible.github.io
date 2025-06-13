@@ -8,7 +8,7 @@ bibkey: wang2023versatile
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13627"}
   - {name: "Code", url: "https://brown-palm.github.io/Vamos/"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 What makes good representations for video understanding, such as anticipating
 future activities, or answering video-conditioned questions? While earlier

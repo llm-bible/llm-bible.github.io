@@ -7,7 +7,7 @@ year: 2023
 bibkey: udagawa2023comparative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08797"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 Large language models have become a vital component in modern NLP, achieving
 state of the art performance in a variety of tasks. However, they are often

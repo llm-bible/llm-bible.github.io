@@ -8,7 +8,7 @@ bibkey: prabhu2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17158"}
   - {name: "Code", url: "https://github.com/VenkteshV/DEXTER"}
-tags: ['Applications', 'Has Code']
+tags: ['Has Code', 'Applications']
 ---
 Open-domain complex Question Answering (QA) is a difficult task with
 challenges in evidence retrieval and reasoning. The complexity of such

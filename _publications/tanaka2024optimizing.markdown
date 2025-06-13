@@ -7,7 +7,7 @@ year: 2024
 bibkey: tanaka2024optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10758"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Multimodal Models', 'Merging', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Security', 'Attention Mechanism', 'Multimodal Models']
 ---
 Vision-Language Models (VLMs) have emerged as key enablers for multimodal
 tasks, but their reliance on separate visual encoders introduces challenges in

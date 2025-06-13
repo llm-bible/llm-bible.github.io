@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12869"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Despite the remarkable success of Large Language Models (LLMs), evaluating
 their outputs' quality regarding *preference* remains a critical challenge.

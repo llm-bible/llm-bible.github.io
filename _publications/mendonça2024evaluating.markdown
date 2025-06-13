@@ -8,7 +8,7 @@ bibkey: mendonça2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09671"}
   - {name: "Code", url: "https://github.com/nabormendonca/gpt-4v-enade-cs-2021"}
-tags: ['Multimodal Models', 'Model Architecture', 'Fairness', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Has Code', 'Attention Mechanism']
+tags: ['GPT', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Fairness', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 The recent integration of visual capabilities into Large Language Models
 (LLMs) has the potential to play a pivotal role in science and technology

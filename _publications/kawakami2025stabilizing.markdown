@@ -7,7 +7,7 @@ year: 2025
 bibkey: kawakami2025stabilizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18080"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) show potential in medicine, yet clinical
 adoption is hindered by concerns over factual accuracy, language-specific

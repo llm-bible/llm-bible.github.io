@@ -8,7 +8,7 @@ bibkey: luo2022generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.10341"}
   - {name: "Code", url: "https://github.com/microsoft/BioGPT"}
-tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Pre-trained language models have attracted increasing attention in the
 biomedical domain, inspired by their great success in the general natural

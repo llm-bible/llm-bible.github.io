@@ -7,7 +7,7 @@ year: 2023
 bibkey: chekalina2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02697"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large-scale transformer models have shown remarkable performance in language
 modelling tasks. However, such models feature billions of parameters, leading

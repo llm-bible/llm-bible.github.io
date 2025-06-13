@@ -7,7 +7,7 @@ year: 2024
 bibkey: møller2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01346"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models are expressive tools that enable complex tasks of text
 understanding within Computational Social Science. Their versatility, while

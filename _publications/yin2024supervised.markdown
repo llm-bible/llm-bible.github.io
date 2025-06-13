@@ -7,7 +7,7 @@ year: 2024
 bibkey: yin2024supervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11813"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have recently demonstrated
 remarkable perceptual and reasoning abilities, typically comprising a Vision

@@ -7,7 +7,7 @@ year: 2024
 bibkey: javadi2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.08931"}
-tags: ['Training Techniques', 'Tools', 'TACL', 'RAG', 'ACL', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'RAG', 'TACL', 'ACL', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Streaming services have reshaped how we discover and engage with digital
 entertainment. Despite these advancements, effectively understanding the wide

@@ -7,7 +7,7 @@ year: 2023
 bibkey: mueller2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.19905"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Accurate syntactic representations are essential for robust generalization in
 natural language. Recent work has found that pre-training can teach language

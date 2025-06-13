@@ -7,7 +7,7 @@ year: 2022
 bibkey: ma2022transformers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.13184"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Language Modeling', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Transformers have achieved state-of-the-art performance across many
 tasks. Most open-source libraries on scaling Transformers focus on improving

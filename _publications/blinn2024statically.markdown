@@ -7,7 +7,7 @@ year: 2024
 bibkey: blinn2024statically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00921"}
-tags: ['Prompting', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have reshaped the landscape of program
 synthesis. However, contemporary LLM-based code completion systems often

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeng2024skywork
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08348"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'GPT', 'Large-Scale Training', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Scaling Laws']
 ---
 In this paper, we investigate the underlying factors that potentially enhance
 the mathematical reasoning capabilities of large language models (LLMs). We

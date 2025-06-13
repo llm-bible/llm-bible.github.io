@@ -7,7 +7,7 @@ year: 2024
 bibkey: namboori2024gemquad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09163"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The emergence of Large Language Models (LLMs) with capabilities like
 In-Context Learning (ICL) has ushered in new possibilities for data generation

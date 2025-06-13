@@ -7,7 +7,7 @@ year: 2023
 bibkey: jiao2023panda
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03025"}
-tags: ['Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques']
 ---
 This project focuses on enhancing open-source large language models through
 instruction-tuning and providing comprehensive evaluations of their

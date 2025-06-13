@@ -7,7 +7,7 @@ year: 2023
 bibkey: sakib2023extending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.08260"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large-scale language models (LLMs) have emerged as a groundbreaking
 innovation in the realm of question-answering and conversational agents. These

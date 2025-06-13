@@ -7,7 +7,7 @@ year: 2024
 bibkey: hui2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.15175"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Effective toxic content detection relies heavily on high-quality and diverse
 data, which serve as the foundation for robust content moderation models.

@@ -8,7 +8,7 @@ bibkey: thakur2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04353"}
   - {name: "Code", url: "https://github.com/trishullab/copra"}
-tags: ['Agentic', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We present an in-context learning agent for formal theorem-proving in
 environments like Lean and Coq. Current state-of-the-art models for the problem

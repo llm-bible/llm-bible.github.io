@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023ctc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17358"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Attention Mechanism']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Combining end-to-end speech translation (ST) and non-autoregressive (NAR)
 generation is promising in language and speech processing for their advantages

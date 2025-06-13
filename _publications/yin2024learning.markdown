@@ -7,7 +7,7 @@ year: 2024
 bibkey: yin2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12782"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Recently, Large Language Models (LLMs) have achieved remarkable success using
 in-context learning (ICL) in the language domain. However, leveraging the ICL

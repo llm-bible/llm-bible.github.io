@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08815"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) is a key means to effectively enhance
 large language models (LLMs) in many knowledge-based tasks. However, existing

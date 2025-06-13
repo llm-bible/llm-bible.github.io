@@ -7,7 +7,7 @@ year: 2019
 bibkey: he2019analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.07117"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 In this work, we study how the finetuning stage in the pretrain-finetune
 framework changes the behavior of a pretrained neural language generator. We

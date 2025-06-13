@@ -7,7 +7,7 @@ year: 2023
 bibkey: yu2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.03099"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we unveil that Language Models (LMs) can acquire new
 capabilities by assimilating parameters from homologous models without

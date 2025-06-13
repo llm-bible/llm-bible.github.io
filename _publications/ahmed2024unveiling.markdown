@@ -7,7 +7,7 @@ year: 2024
 bibkey: ahmed2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01342"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In the rapidly evolving field of natural language processing, the translation
 of linguistic descriptions into mathematical formulation of optimization

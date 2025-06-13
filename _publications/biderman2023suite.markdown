@@ -8,7 +8,7 @@ bibkey: biderman2023suite
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.01373v2"}
   - {name: "Code", url: "https://github.com/EleutherAI/pythia"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Has Code']
+tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot']
 ---
 How do large language models (LLMs) develop and evolve over the course of
 training? How do these patterns change as models scale? To answer these

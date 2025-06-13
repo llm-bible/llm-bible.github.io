@@ -7,7 +7,7 @@ year: 2023
 bibkey: orhan2023retention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.17557"}
-tags: ['Training Techniques', 'Few-Shot']
+tags: ['Few-Shot', 'Training Techniques']
 ---
 The training of modern large language models (LLMs) takes place in a regime
 where most training examples are seen only a few times by the model during the

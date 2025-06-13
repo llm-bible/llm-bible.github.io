@@ -7,7 +7,7 @@ year: 2025
 bibkey: deng2025boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07065"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Scaling Laws', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws', 'Multimodal Models']
 ---
 While state-of-the-art vision-language models (VLMs) have demonstrated
 remarkable capabilities in complex visual-text tasks, their success heavily

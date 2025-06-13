@@ -7,7 +7,7 @@ year: 2022
 bibkey: sahu2022data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.01959"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Data augmentation is a widely employed technique to alleviate the problem of
 data scarcity. In this work, we propose a prompting-based approach to generate

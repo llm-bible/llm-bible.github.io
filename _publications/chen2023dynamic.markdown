@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.10444"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Long counseling Text Generation for Mental health support (LTGM), an
 innovative and challenging task, aims to provide help-seekers with mental

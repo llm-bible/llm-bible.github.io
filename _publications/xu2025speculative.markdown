@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025speculative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14153"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Tokenization', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Tokenization']
 ---
 The rapid advancement of large language models (LLMs) has revolutionized code
 generation tasks across various programming languages. However, the unique

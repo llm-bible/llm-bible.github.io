@@ -8,7 +8,7 @@ bibkey: dong2019unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1905.03197"}
   - {name: "Code", url: "https://github.com/microsoft/unilm"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 This paper presents a new Unified pre-trained Language Model (UniLM) that can
 be fine-tuned for both natural language understanding and generation tasks. The

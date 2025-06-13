@@ -7,7 +7,7 @@ year: 2023
 bibkey: shen2023benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08487"}
-tags: ['Language Modeling', 'Applications', 'Multimodal Models']
+tags: ['Applications', 'Multimodal Models', 'Language Modeling']
 ---
 While multi-modal models have successfully integrated information from image,
 video, and audio modalities, integrating graph modality into large language

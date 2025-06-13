@@ -8,7 +8,7 @@ bibkey: fang2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23771"}
   - {name: "Code", url: "https://github.com/PKU-ML/LongPPL"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Handling long-context inputs is crucial for large language models (LLMs) in
 tasks such as extended conversations, document summarization, and many-shot

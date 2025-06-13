@@ -7,7 +7,7 @@ year: 2023
 bibkey: liao2023ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.01941"}
-tags: ['Responsible AI', 'Reinforcement Learning', 'Merging', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Responsible AI', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Merging', 'Reinforcement Learning', 'Interpretability']
 ---
 The rise of powerful large language models (LLMs) brings about tremendous
 opportunities for innovation but also looming risks for individuals and society

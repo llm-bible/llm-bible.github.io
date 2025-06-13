@@ -7,7 +7,7 @@ year: 2024
 bibkey: giabbanelli2024broadening
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15290"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Applications', 'Reinforcement Learning']
+tags: ['Responsible AI', 'Applications', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are becoming ubiquitous to create intelligent
 virtual assistants that assist users in interacting with a system, as

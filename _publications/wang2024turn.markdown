@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024turn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.14717"}
-tags: ['Agentic', 'Training Techniques', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 We propose an approach for continuous prediction of turn-taking and
 backchanneling locations in spoken dialogue by fusing a neural acoustic model

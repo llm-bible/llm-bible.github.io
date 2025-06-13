@@ -7,7 +7,7 @@ year: 2018
 bibkey: srivastava2018adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.09648"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
 ---
 Question categorization and expert retrieval methods have been crucial for
 information organization and accessibility in community question & answering

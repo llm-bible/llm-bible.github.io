@@ -8,7 +8,7 @@ bibkey: yao2024streaming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12528"}
   - {name: "Code", url: "https://github.com/Zoeyyao27/SirLLM"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 As Large Language Models (LLMs) become increasingly prevalent in various
 domains, their ability to process inputs of any length and maintain a degree of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: parashar2024quasi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06251"}
-tags: ['Language Modeling', 'Applications', 'WMT']
+tags: ['Applications', 'Language Modeling', 'WMT']
 ---
 Large language models (LLMs) are often equipped with multi-sample decoding
 strategies. An LLM implicitly defines an arithmetic code book, facilitating

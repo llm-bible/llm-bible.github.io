@@ -7,7 +7,7 @@ year: 2019
 bibkey: li2019big
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.13034"}
-tags: ['WMT', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'WMT', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The Insertion Transformer is well suited for long form text generation due to
 its parallel generation capabilities, requiring \\(O(log_2 n)\\) generation steps

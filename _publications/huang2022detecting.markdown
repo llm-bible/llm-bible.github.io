@@ -7,7 +7,7 @@ year: 2022
 bibkey: huang2022detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.09606"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 End-to-end (E2E) models are often being accompanied by language models (LMs)
 via shallow fusion for boosting their overall quality as well as recognition of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tong2024dart
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13690"}
-tags: ['Ethics and Bias', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 Solving mathematical problems requires advanced reasoning abilities and
 presents notable challenges for large language models. Previous works usually

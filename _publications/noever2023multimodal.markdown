@@ -7,7 +7,7 @@ year: 2023
 bibkey: noever2023multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16705"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Addressing the gap in understanding visual comprehension in Large Language
 Models (LLMs), we designed a challenge-response study, subjecting Google Bard

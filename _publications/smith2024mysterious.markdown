@@ -8,7 +8,7 @@ bibkey: smith2024mysterious
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03621"}
   - {name: "Code", url: "https://github.com/DRAGNLabs/injectable-alignment-model"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Has Code', 'Interpretability and Explainability']
+tags: ['Transformer', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have an unrivaled and invaluable ability to
 "align" their output to a diverse range of human preferences, by mirroring them

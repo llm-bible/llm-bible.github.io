@@ -7,7 +7,7 @@ year: 2022
 bibkey: guo2022unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.03850"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Pre-trained models for programming languages have recently demonstrated great
 success on code intelligence. To support both code-related understanding and

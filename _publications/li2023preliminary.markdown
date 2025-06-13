@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023preliminary
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2306.10702v1"}
-tags: ['Model Architecture', 'Fairness', 'Tools', 'RAG', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Attention Mechanism', 'Fairness', 'Prompting']
 ---
 Online news platforms commonly employ personalized news recommendation
 methods to assist users in discovering interesting articles, and many previous

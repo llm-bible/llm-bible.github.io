@@ -7,7 +7,7 @@ year: 2017
 bibkey: dahlmann2017neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1708.03271"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Model Architecture', 'Applications']
 ---
 In this paper, we introduce a hybrid search for attention-based neural
 machine translation (NMT). A target phrase learned with statistical MT models

@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025curse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05795"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, we introduce the Curse of Depth, a concept that highlights,
 explains, and addresses the recent observation in modern Large Language

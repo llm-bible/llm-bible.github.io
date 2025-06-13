@@ -7,7 +7,7 @@ year: 2024
 bibkey: amirzadeh2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03447"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Transformer-based language models have shown an excellent ability to
 effectively capture and utilize contextual information. Although various

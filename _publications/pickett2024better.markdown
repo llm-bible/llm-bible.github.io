@@ -7,7 +7,7 @@ year: 2024
 bibkey: pickett2024better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12101"}
-tags: ['RAG', 'Applications', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Applications']
 ---
 A common way to extend the memory of large language models (LLMs) is by
 retrieval augmented generation (RAG), which inserts text retrieved from a

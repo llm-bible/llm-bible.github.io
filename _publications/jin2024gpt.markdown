@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15238"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Online hate detection suffers from biases incurred in data sampling,
 annotation, and model pre-training. Therefore, measuring the averaged

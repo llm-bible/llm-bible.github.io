@@ -7,7 +7,7 @@ year: 2023
 bibkey: shirafuji2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.14583"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Using large language models (LLMs) for source code has recently gained
 attention. LLMs, such as Transformer-based models like Codex and ChatGPT, have

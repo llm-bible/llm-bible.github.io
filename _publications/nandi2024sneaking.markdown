@@ -7,7 +7,7 @@ year: 2024
 bibkey: nandi2024sneaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18885"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Ethics and Bias', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 While compositional accounts of human language understanding are based on a
 hierarchical tree-like process, neural models like transformers lack a direct

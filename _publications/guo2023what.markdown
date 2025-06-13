@@ -8,7 +8,7 @@ bibkey: guo2023what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18365"}
   - {name: "Code", url: "https://github.com/ChemFoundationModels/ChemLLMBench"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) with strong abilities in natural language
 processing tasks have emerged and have been applied in various kinds of areas

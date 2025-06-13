@@ -8,7 +8,7 @@ bibkey: tong2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.20046"}
   - {name: "Code", url: "https://github.com/YookiTong/Learn-from-Mistakes-CotErrorSet"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Recent works have shown the benefits to LLMs from fine-tuning golden-standard
 Chain-of-Thought (CoT) rationales or using them as correct examples in few-shot

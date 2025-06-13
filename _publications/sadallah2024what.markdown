@@ -8,7 +8,7 @@ bibkey: sadallah2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09012"}
   - {name: "Code", url: "https://github.com/bodasadallah/decrypting-crosswords"}
-tags: ['Model Architecture', 'GPT', 'Has Code']
+tags: ['GPT', 'Has Code', 'Model Architecture']
 ---
 Cryptic crosswords are puzzles that rely on general knowledge and the
 solver's ability to manipulate language on different levels, dealing with

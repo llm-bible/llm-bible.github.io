@@ -8,7 +8,7 @@ bibkey: yang2024crag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04744"}
   - {name: "Code", url: "https://github.com/facebookresearch/CRAG/"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'KDD', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'KDD', 'Has Code']
 ---
 Retrieval-Augmented Generation (RAG) has recently emerged as a promising
 solution to alleviate Large Language Model (LLM)'s deficiency in lack of

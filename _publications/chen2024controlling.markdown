@@ -8,7 +8,7 @@ bibkey: chen2024controlling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16146"}
   - {name: "Code", url: "https://github.com/ict-bigdatalab/RC-RAG"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Retrieval-augmented generation (RAG) has emerged as a popular solution to
 mitigate the hallucination issues of large language models. However, existing

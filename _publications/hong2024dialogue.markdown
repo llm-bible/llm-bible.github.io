@@ -7,7 +7,7 @@ year: 2024
 bibkey: hong2024dialogue
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09034"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Ethics and Bias', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Training Techniques']
 ---
 Maintaining persona consistency is paramount in the application of
 open-domain dialogue systems, as exemplified by models like ChatGPT. Despite

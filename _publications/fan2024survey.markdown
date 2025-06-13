@@ -7,7 +7,7 @@ year: 2024
 bibkey: fan2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06211"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 As one of the most advanced techniques in AI, Retrieval-Augmented Generation
 (RAG) can offer reliable and up-to-date external knowledge, providing huge

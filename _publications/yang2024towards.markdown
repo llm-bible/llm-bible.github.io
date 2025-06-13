@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09164"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'RAG', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Security', 'Training Techniques', 'Prompting']
 ---
 Recently, code-oriented large language models (Code LLMs) have been widely
 and successfully exploited to simplify and facilitate programming.

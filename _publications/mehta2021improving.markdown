@@ -7,7 +7,7 @@ year: 2021
 bibkey: mehta2021improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.08467"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Few-Shot']
+tags: ['Few-Shot', 'Training Techniques', 'Language Modeling', 'Applications']
 ---
 Data-to-text generation focuses on generating fluent natural language
 responses from structured meaning representations (MRs). Such representations

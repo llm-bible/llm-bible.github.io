@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14774"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tokenization', 'GPT', 'RecSys', 'Quantization', 'Pretraining Methods']
+tags: ['Efficiency and Optimization', 'GPT', 'Training Techniques', 'RecSys', 'Tokenization', 'Pretraining Methods', 'Quantization']
 ---
 Embedding-based retrieval serves as a dominant approach to candidate item
 matching for industrial recommender systems. With the success of generative AI,

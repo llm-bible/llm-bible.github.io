@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023logical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12023"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Survey Paper']
+tags: ['Transformer', 'Survey Paper', 'Model Architecture', 'Pretraining Methods']
 ---
 Logical reasoning is central to human cognition and intelligence. It includes
 deductive, inductive, and abductive reasoning. Past research of logical

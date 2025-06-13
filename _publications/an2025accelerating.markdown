@@ -7,7 +7,7 @@ year: 2025
 bibkey: an2025accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18583"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 The autoregressive nature of large language models (LLMs) limits inference
 speed. Each forward pass generates only a single token and is often

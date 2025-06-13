@@ -7,7 +7,7 @@ year: 2023
 bibkey: nguyen2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13095"}
-tags: ['Agentic', 'Fairness', 'Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Applications']
+tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Applications', 'Bias Mitigation', 'Reinforcement Learning', 'Fairness']
 ---
 Language serves as a vehicle for conveying thought, enabling communication
 among individuals. The ability to distinguish between diverse concepts,

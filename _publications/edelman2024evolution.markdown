@@ -7,7 +7,7 @@ year: 2024
 bibkey: edelman2024evolution
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11004"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models have the ability to generate text that mimics patterns
 in their inputs. We introduce a simple Markov Chain sequence modeling task in

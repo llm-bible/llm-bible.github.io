@@ -7,7 +7,7 @@ year: 2025
 bibkey: diep2025zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03029"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 The LLaMA-Adapter has recently emerged as an efficient fine-tuning technique
 for LLaMA models, leveraging zero-initialized attention to stabilize training

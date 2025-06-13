@@ -7,7 +7,7 @@ year: 2023
 bibkey: manakul2023zero
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.08896v3"}
-tags: ['Prompting', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Generative Large Language Models (LLMs) such as GPT-3 are capable of
 generating highly fluent responses to a wide variety of user prompts. However,

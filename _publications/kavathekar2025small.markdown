@@ -7,7 +7,7 @@ year: 2025
 bibkey: kavathekar2025small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19277"}
-tags: ['Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Function calling is a complex task with widespread applications in domains
 such as information retrieval, software engineering and automation. For

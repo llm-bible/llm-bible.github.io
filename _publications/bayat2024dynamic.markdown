@@ -7,7 +7,7 @@ year: 2024
 bibkey: bayat2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22257"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Prompting']
 ---
 The rapid adoption of language models (LMs) across diverse applications has
 raised concerns about their factuality, i.e., their consistency with real-world

@@ -7,7 +7,7 @@ year: 2023
 bibkey: tribes2023hyperparameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.00949"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 The fine-tuning of Large Language Models (LLMs) has enabled them to recently
 achieve milestones in natural language processing applications. The emergence

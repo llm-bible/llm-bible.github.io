@@ -7,7 +7,7 @@ year: 2025
 bibkey: sadr2025think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03418"}
-tags: ['Prompting', 'Model Architecture', 'Attention Mechanism', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Zero-shot prompting techniques have significantly improved the performance of
 Large Language Models (LLMs). However, we lack a clear understanding of why

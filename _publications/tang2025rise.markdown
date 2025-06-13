@@ -7,7 +7,7 @@ year: 2025
 bibkey: tang2025rise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20757"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Agentic', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Ethics and Bias']
 ---
 Large Language Models (LLMs) have made remarkable advances in role-playing
 dialogue agents, demonstrating their utility in character simulations. However,

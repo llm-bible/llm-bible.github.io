@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02220"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) such as ChatGPT demonstrate strong few-shot
 adaptability without requiring fine-tuning, positioning them ideal for

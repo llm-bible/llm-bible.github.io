@@ -7,7 +7,7 @@ year: 2023
 bibkey: xue2023pit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07911"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Scaling pre-trained language models has resulted in large performance gains
 in various natural language processing tasks but comes with a large cost in

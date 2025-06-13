@@ -7,7 +7,7 @@ year: 2024
 bibkey: fungwacharakorn2024layer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12153"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Prompting']
 ---
 This paper presents a novel approach termed Layer-of-Thoughts Prompting
 (LoT), which utilizes constraint hierarchies to filter and refine candidate

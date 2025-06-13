@@ -7,7 +7,7 @@ year: 2023
 bibkey: yousefi2023decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00313"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'In-Context Learning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) exhibit remarkable performance improvement
 through in-context learning (ICL) by leveraging task-specific examples in the

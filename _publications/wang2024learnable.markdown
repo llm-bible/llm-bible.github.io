@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024learnable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07314"}
-tags: ['Tokenization', 'Model Architecture', 'Attention Mechanism', 'Ethics and Bias']
+tags: ['Attention Mechanism', 'Tokenization', 'Model Architecture', 'Ethics and Bias']
 ---
 Utilizing powerful Large Language Models (LLMs) for generative recommendation
 has attracted much attention. Nevertheless, a crucial challenge is transforming

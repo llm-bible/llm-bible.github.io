@@ -7,7 +7,7 @@ year: 2023
 bibkey: mathur2023proactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02506"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
 ---
 Humans possess the innate ability to extract latent visuo-lingual cues to
 infer context through human interaction. During collaboration, this enables

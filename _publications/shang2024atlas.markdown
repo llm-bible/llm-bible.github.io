@@ -7,7 +7,7 @@ year: 2024
 bibkey: shang2024atlas
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.17912"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 We introduce Atlas-Chat, the first-ever collection of LLMs specifically
 developed for dialectal Arabic. Focusing on Moroccan Arabic, also known as

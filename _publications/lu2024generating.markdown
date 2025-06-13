@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16352"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have exhibited great potential in mathematical
 reasoning. However, there remains a performance gap in this area between

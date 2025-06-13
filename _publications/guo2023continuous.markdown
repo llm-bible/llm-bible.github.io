@@ -7,7 +7,7 @@ year: 2023
 bibkey: guo2023continuous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00204"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models exhibit promising general capabilities but often lack
 specialized knowledge for domain-specific tasks. Developing domain experts from

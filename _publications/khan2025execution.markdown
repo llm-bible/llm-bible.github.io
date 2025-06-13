@@ -7,7 +7,7 @@ year: 2025
 bibkey: khan2025execution
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15872"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 When a human requests an LLM to complete a coding task using functionality
 from a large code repository, how do we provide context from the repo to the

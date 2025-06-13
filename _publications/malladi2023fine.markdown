@@ -7,7 +7,7 @@ year: 2023
 bibkey: malladi2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.17333"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Fine-tuning language models (LMs) has yielded success on diverse downstream
 tasks, but as LMs grow in size, backpropagation requires a prohibitively large

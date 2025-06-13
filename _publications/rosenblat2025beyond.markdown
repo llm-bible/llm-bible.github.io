@@ -7,7 +7,7 @@ year: 2025
 bibkey: rosenblat2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00020"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Interpretability', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Security', 'Training Techniques']
 ---
 Using a legally obtained dataset of 34 copyrighted O'Reilly Media books, we
 apply the DE-COP membership inference attack method to investigate whether

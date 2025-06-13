@@ -7,7 +7,7 @@ year: 2024
 bibkey: merx2024low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04809"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 This study explores the use of large language models (LLMs) for translating
 English into Mambai, a low-resource Austronesian language spoken in

@@ -7,7 +7,7 @@ year: 2024
 bibkey: cho2024speechworthy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14672"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Current instruction-tuned language models are exclusively trained with
 textual preference data and thus are often not aligned with the unique

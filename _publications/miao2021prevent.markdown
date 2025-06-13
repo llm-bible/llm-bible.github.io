@@ -7,7 +7,7 @@ year: 2021
 bibkey: miao2021prevent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.11098"}
-tags: ['WMT', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'WMT', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The Neural Machine Translation (NMT) model is essentially a joint language
 model conditioned on both the source sentence and partial translation.

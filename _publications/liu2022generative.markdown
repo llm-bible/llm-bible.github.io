@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.08692"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Attention Mechanism']
+tags: ['Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Building user simulators (USs) for reinforcement learning (RL) of
 task-oriented dialog systems (DSs) has gained more and more attention, which,

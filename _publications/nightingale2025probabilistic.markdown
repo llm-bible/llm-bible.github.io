@@ -7,7 +7,7 @@ year: 2025
 bibkey: nightingale2025probabilistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05346"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Representing token embeddings as probability distributions over learned
 manifolds allows for more flexible contextual inference, reducing

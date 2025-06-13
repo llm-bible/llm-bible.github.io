@@ -7,7 +7,7 @@ year: 2025
 bibkey: moses2025qgen
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06136"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'RAG', 'Tools', 'Reinforcement Learning']
 ---
 We present QGen Studio: an adaptive question-answer generation, training, and
 evaluation platform. QGen Studio enables users to leverage large language

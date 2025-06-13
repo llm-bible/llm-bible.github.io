@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024mental
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18505"}
-tags: ['Agentic', 'RAG', 'Agent', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Agent', 'Reinforcement Learning']
 ---
 Can emergent language models faithfully model the intelligence of
 decision-making agents? Though modern language models exhibit already some

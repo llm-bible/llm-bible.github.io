@@ -7,7 +7,7 @@ year: 2024
 bibkey: lorandi2024high
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12267"}
-tags: ['Language Modeling', 'Applications']
+tags: ['Applications', 'Language Modeling']
 ---
 The performance of NLP methods for severely under-resourced languages cannot
 currently hope to match the state of the art in NLP methods for well resourced

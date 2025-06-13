@@ -7,7 +7,7 @@ year: 2021
 bibkey: qian2021structural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.00104"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Transformer-based language models pre-trained on large amounts of text data
 have proven remarkably successful in learning generic transferable linguistic

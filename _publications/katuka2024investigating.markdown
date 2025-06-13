@@ -7,7 +7,7 @@ year: 2024
 bibkey: katuka2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00602"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Quantization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Automatic grading and feedback have been long studied using traditional
 machine learning and deep learning techniques using language models. With the

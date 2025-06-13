@@ -8,7 +8,7 @@ bibkey: arif2024attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10945"}
   - {name: "Code", url: "https://github.com/hasanar1f/HiRED"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 High-resolution Vision-Language Models (VLMs) are widely used in multimodal
 tasks to enhance accuracy by preserving detailed image information. However,

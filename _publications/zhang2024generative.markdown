@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15240"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'Training Techniques', 'Language Modeling', 'Reinforcement Learning']
 ---
 Verifiers or reward models are often used to enhance the reasoning
 performance of large language models (LLMs). A common approach is the Best-of-N

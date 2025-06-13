@@ -7,7 +7,7 @@ year: 2023
 bibkey: aowal2023detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05227"}
-tags: ['Model Architecture', 'Merging', 'Ethics and Bias', 'BERT', 'Prompting']
+tags: ['Ethics and Bias', 'Model Architecture', 'Merging', 'BERT', 'Prompting']
 ---
 In this project, we want to explore the newly emerging field of prompt
 engineering and apply it to the downstream task of detecting LM biases. More

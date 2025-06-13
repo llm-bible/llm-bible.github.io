@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024med
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10237"}
-tags: ['Multimodal Models', 'Training Techniques', 'Applications', 'Tools']
+tags: ['Training Techniques', 'Multimodal Models', 'Applications', 'Tools']
 ---
 Recent advancements in general-purpose or domain-specific multimodal large
 language models (LLMs) have witnessed remarkable progress for medical

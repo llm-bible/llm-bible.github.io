@@ -8,7 +8,7 @@ bibkey: costarelli2024meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02472"}
   - {name: "Code", url: "https://github.com/acostarelli/meta-models-public"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 As Large Language Models (LLMs) become increasingly integrated into our daily
 lives, the potential harms from deceptive behavior underlie the need for

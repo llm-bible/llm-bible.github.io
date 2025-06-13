@@ -7,7 +7,7 @@ year: 2025
 bibkey: gupta2025do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01819"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'GPT']
+tags: ['Fine-Tuning', 'Training Techniques', 'GPT', 'Pretraining Methods']
 ---
 Generating diverse solutions is key to human-like reasoning, yet
 autoregressive language models focus on single accurate responses, limiting

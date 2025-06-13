@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023diffusion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12219"}
-tags: ['Masked Language Model', 'Training Techniques', 'Few-Shot', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'BERT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Language Modeling', 'Merging', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 The recent surge of generative AI has been fueled by the generative power of
 diffusion probabilistic models and the scalable capabilities of large language

@@ -8,7 +8,7 @@ bibkey: izadi2025fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06506"}
   - {name: "Code", url: "https://github.com/hadi-hosseini/noise-refinement"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Text-to-image generative models have made significant advancements in recent
 years; however, accurately capturing intricate details in textual prompts, such

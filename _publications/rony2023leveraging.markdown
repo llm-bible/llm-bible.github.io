@@ -7,7 +7,7 @@ year: 2023
 bibkey: rony2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09536"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable performance by
 following natural language instructions without fine-tuning them on

@@ -7,7 +7,7 @@ year: 2022
 bibkey: siriwardhana2022improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.02627"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Retrieval Augment Generation (RAG) is a recent advancement in Open-Domain
 Question Answering (ODQA). RAG has only been trained and explored with a

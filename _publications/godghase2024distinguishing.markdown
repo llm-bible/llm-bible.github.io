@@ -7,7 +7,7 @@ year: 2024
 bibkey: godghase2024distinguishing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04647"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 There have been many recent advances in the fields of generative Artificial
 Intelligence (AI) and Large Language Models (LLM), with the Generative

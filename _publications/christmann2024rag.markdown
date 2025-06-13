@@ -7,7 +7,7 @@ year: 2024
 bibkey: christmann2024rag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07420"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Multimodal Models']
 ---
 This article presents the QUASAR system for question answering over
 unstructured text, structured tables, and knowledge graphs, with unified

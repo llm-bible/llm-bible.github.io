@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhu2025chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20790"}
-tags: ['Prompting', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting']
 ---
 Recent advances in Large Language Models (LLMs) have highlighted the
 challenge of handling long-context tasks, where models need to reason over

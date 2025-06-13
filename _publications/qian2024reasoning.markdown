@@ -8,7 +8,7 @@ bibkey: qian2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17741"}
   - {name: "Code", url: "https://github.com/rui-qian/READ"}
-tags: ['Multimodal Models', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Current Large Multimodal Models (LMMs) empowered visual grounding typically
 rely on \\(\texttt\{<SEG>\}\\) tokens as a text prompt to jointly optimize the

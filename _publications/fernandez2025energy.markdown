@@ -7,7 +7,7 @@ year: 2025
 bibkey: fernandez2025energy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.17674"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 As large language models (LLMs) scale in size and adoption, their
 computational and environmental costs continue to rise. Prior benchmarking

@@ -7,7 +7,7 @@ year: 2024
 bibkey: joshi2024disrupting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02328"}
-tags: ['Model Architecture', 'GPT', 'Survey Paper', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Recent advancements in large language models, including GPT-4 and its
 variants, and Generative AI-assisted coding tools like GitHub Copilot, ChatGPT,

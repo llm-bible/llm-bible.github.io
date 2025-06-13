@@ -8,7 +8,7 @@ bibkey: tan2023compound
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06401"}
   - {name: "Code", url: "https://github.com/EricTan7/TGP-T"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Few-Shot', 'Tools', 'Has Code', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 Vision-Language Models (VLMs) such as CLIP have demonstrated remarkable
 generalization capabilities to downstream tasks. However, existing prompt

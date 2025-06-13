@@ -8,7 +8,7 @@ bibkey: lin2024quantization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.04532"}
   - {name: "Code", url: "https://github.com/mit-han-lab/omniserve"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Quantization', 'Has Code', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Quantization']
 ---
 Quantization can accelerate large language model (LLM) inference. Going
 beyond INT8 quantization, the research community is actively exploring even

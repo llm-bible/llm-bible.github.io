@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023latent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04684"}
-tags: ['Prompting', 'Security', 'In-Context Learning']
+tags: ['Security', 'Prompting', 'In-Context Learning']
 ---
 Chain-of-thought (CoT) prompting is a popular in-context learning (ICL)
 approach for large language models (LLMs), especially when tackling complex

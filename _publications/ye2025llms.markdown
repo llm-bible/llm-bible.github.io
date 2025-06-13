@@ -7,7 +7,7 @@ year: 2025
 bibkey: ye2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05467"}
-tags: ['Agentic', 'RAG']
+tags: ['RAG', 'Agentic']
 ---
 While recent efforts have begun integrating large language models (LLMs) into
 foreign language education (FLE), they often rely on traditional approaches to

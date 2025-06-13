@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024correlation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04211"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Modeling long sequences is crucial for various large-scale models; however,
 extending existing architectures to handle longer sequences presents

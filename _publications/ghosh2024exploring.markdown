@@ -7,7 +7,7 @@ year: 2024
 bibkey: ghosh2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07214"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Applications']
+tags: ['Survey Paper', 'Applications', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 The advent of Large Language Models (LLMs) has significantly reshaped the
 trajectory of the AI revolution. Nevertheless, these LLMs exhibit a notable

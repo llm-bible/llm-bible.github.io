@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025defending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13562"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Responsible AI', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 With the widespread adoption of Large Language Models (LLMs), jailbreak
 attacks have become an increasingly pressing safety concern. While

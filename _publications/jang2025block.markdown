@@ -7,7 +7,7 @@ year: 2025
 bibkey: jang2025block
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01144"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Quantization']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Merging', 'Quantization']
 ---
 The rapidly increasing size of large language models (LLMs) presents
 significant challenges in memory usage and computational costs. Quantizing both

@@ -8,7 +8,7 @@ bibkey: xu2023knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00287"}
   - {name: "Code", url: "https://github.com/ritaranx/ClinGen"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Has Code', 'Prompting', 'Applications']
+tags: ['Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Clinical natural language processing requires methods that can address
 domain-specific challenges, such as complex medical terminology and clinical

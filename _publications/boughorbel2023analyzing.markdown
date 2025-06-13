@@ -7,7 +7,7 @@ year: 2023
 bibkey: boughorbel2023analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14819"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 While significant progress has been made in benchmarking Large Language
 Models (LLMs) across various tasks, there is a lack of comprehensive evaluation

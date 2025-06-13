@@ -7,7 +7,7 @@ year: 2024
 bibkey: nayak2024analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01784"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 This paper describes our approach to hierarchical multi-label detection of
 persuasion techniques in meme texts. Our model, developed as a part of the

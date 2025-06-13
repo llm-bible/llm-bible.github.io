@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024persona
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08631"}
-tags: ['Prompting', 'Security', 'Merging', 'Tools']
+tags: ['Security', 'Tools', 'Prompting', 'Merging']
 ---
 Recent studies demonstrate that prompting a role-playing persona to an LLM
 improves reasoning capability. However, assigning an adequate persona is

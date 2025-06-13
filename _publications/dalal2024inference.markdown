@@ -7,7 +7,7 @@ year: 2024
 bibkey: dalal2024inference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10767"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning']
 ---
 While Large Language Models (LLMs) have found success in real-world
 applications, their underlying explanatory process is still poorly understood.

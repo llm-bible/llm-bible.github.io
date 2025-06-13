@@ -8,7 +8,7 @@ bibkey: mcleish2025model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06857"}
   - {name: "Code", url: "https://github.com/mcleish7/gemstone-scaling-laws"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'Language Modeling', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Large-Scale Training', 'Has Code', 'Pretraining Methods', 'Scaling Laws']
 ---
 Scaling laws are typically fit using a family of models with a narrow range
 of frozen hyper-parameter choices. In this work we study scaling laws using a

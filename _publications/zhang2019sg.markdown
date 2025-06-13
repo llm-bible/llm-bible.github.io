@@ -7,7 +7,7 @@ year: 2019
 bibkey: zhang2019sg
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.05147"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 For machine reading comprehension, the capacity of effectively modeling the
 linguistic knowledge from the detail-riddled and lengthy passages and getting

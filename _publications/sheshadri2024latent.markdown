@@ -7,7 +7,7 @@ year: 2024
 bibkey: sheshadri2024latent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15549"}
-tags: ['Security', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Interpretability and Explainability', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) can often be made to behave in undesirable ways
 that they are explicitly fine-tuned not to. For example, the LLM red-teaming

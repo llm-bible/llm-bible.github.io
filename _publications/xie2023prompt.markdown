@@ -7,7 +7,7 @@ year: 2023
 bibkey: xie2023prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.04587"}
-tags: ['Training Techniques', 'Model Architecture', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Recent developments in large language models (LLM) and generative AI have
 unleashed the astonishing capabilities of text-to-image generation systems to

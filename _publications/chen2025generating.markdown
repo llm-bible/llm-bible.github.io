@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14671"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Interpretability', 'BERT', 'Interpretability and Explainability']
+tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'BERT']
 ---
 Early detection of depression from social media data offers a valuable
 opportunity for timely intervention. However, this task poses significant

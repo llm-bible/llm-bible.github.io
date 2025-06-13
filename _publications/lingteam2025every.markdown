@@ -8,7 +8,7 @@ bibkey: lingteam2025every
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.05139"}
   - {name: "Code", url: "https://huggingface.co/inclusionAI"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code']
 ---
 In this technical report, we tackle the challenges of training large-scale
 Mixture of Experts (MoE) models, focusing on overcoming cost inefficiency and

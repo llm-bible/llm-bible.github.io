@@ -7,7 +7,7 @@ year: 2024
 bibkey: kishore2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19369"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 The growing prominence of large language models (LLMs) necessitates the
 exploration of their capabilities beyond English. This research investigates

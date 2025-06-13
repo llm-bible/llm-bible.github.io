@@ -7,7 +7,7 @@ year: 2024
 bibkey: nemecek2024topic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02138"}
-tags: ['Prompting', 'Security', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Security', 'Tools', 'Prompting']
 ---
 The indistinguishability of Large Language Model (LLM) output from
 human-authored content poses significant challenges, raising concerns about

@@ -8,7 +8,7 @@ bibkey: tian2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.04616"}
   - {name: "Code", url: "https://github.com/YikunHan42/TinyLLM"}
-tags: ['RAG', 'Distillation', 'Has Code', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Has Code', 'Distillation']
 ---
 Transferring the reasoning capability from stronger large language models
 (LLMs) to smaller ones has been quite appealing, as smaller LLMs are more

@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023qilin
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17956"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have introduced a new era of proficiency in
 comprehending complex healthcare and biomedical topics. However, there is a

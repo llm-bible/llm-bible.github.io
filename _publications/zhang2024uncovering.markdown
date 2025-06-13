@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024uncovering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07819"}
-tags: ['Prompting', 'RAG', 'In-Context Learning', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
 ---
 Knowledge editing has been proposed as an effective method for updating and
 correcting the internal knowledge of Large Language Models (LLMs). However,

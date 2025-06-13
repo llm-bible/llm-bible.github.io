@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024llava
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16524"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'SLT']
+tags: ['Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'SLT']
 ---
 In the realm of Sign Language Translation (SLT), reliance on costly
 gloss-annotated datasets has posed a significant barrier. Recent advancements

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yadav2024pruning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.04557"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Interpretability', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'Pruning', 'Model Architecture', 'Interpretability', 'Attention Mechanism']
 ---
 Designing an explainable model becomes crucial now for Natural Language
 Processing(NLP) since most of the state-of-the-art machine learning models

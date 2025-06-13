@@ -8,7 +8,7 @@ bibkey: xie2024decomposition
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10671"}
   - {name: "Code", url: "https://github.com/FlyingFeather/DEA-SQL"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'In-Context Learning', 'Merging', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Merging', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 In-context learning of large-language models (LLMs) has achieved remarkable
 success in the field of natural language processing, while extensive case

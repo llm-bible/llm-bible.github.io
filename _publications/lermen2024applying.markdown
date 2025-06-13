@@ -7,7 +7,7 @@ year: 2024
 bibkey: lermen2024applying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10871"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Tools', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, language models like Llama 3.1 Instruct have become increasingly
 capable of agentic behavior, enabling them to perform tasks requiring

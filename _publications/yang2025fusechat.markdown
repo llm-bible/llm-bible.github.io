@@ -8,7 +8,7 @@ bibkey: yang2025fusechat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04222"}
   - {name: "Code", url: "https://github.com/SLIT-AI/FuseChat-3.0"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We introduce FuseChat-3.0, a suite of large language models (LLMs) developed
 by integrating the strengths of heterogeneous source LLMs into more compact

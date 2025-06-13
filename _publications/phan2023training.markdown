@@ -7,7 +7,7 @@ year: 2023
 bibkey: phan2023training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02179"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) solve problems more accurately and interpretably
 when instructed to work out the answer step by step using a

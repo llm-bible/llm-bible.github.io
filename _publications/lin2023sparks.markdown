@@ -7,7 +7,7 @@ year: 2023
 bibkey: lin2023sparks
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.04518"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 This study investigates the feasibility of developing an Artificial General
 Recommender (AGR), facilitated by recent advancements in Large Language Models

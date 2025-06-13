@@ -7,7 +7,7 @@ year: 2023
 bibkey: singh2023confidence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16145"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) have acquired ubiquitous attention for their
 performances across diverse domains. Our study here searches through LLMs'

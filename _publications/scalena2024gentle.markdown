@@ -7,7 +7,7 @@ year: 2024
 bibkey: scalena2024gentle
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18247"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Pre-Training', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pre-Training', 'Pretraining Methods']
 ---
 Adapting models to a language that was only partially present in the
 pre-training data requires fine-tuning, which is expensive in terms of both

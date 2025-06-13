@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023sql
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.00739"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Text-to-SQL, the process of translating natural language into Structured
 Query Language (SQL), represents a transformative application of large language

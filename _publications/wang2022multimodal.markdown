@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.10496"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'RAG', 'Distillation', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 Cross-modal encoders for vision-language (VL) tasks are often pretrained with
 carefully curated vision-language datasets. While these datasets reach an order

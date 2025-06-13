@@ -7,7 +7,7 @@ year: 2021
 bibkey: mao2021lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.13856"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Large-scale models for learning fixed-dimensional cross-lingual sentence
 representations like LASER (Artetxe and Schwenk, 2019b) lead to significant

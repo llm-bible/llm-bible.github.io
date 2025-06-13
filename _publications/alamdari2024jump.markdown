@@ -7,7 +7,7 @@ year: 2024
 bibkey: alamdari2024jump
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19317"}
-tags: ['Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'ACL', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Prompting']
 ---
 We present substantial evidence demonstrating the benefits of integrating
 Large Language Models (LLMs) with a Contextual Multi-Armed Bandit framework.

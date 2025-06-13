@@ -7,7 +7,7 @@ year: 2023
 bibkey: jones2023does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20216"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 We evaluated GPT-4 in a public online Turing test. The best-performing GPT-4
 prompt passed in 49.7% of games, outperforming ELIZA (22%) and GPT-3.5 (20%),

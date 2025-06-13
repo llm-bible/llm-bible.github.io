@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00034"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models(LLMs) have demonstrated remarkable performance on many
 natural language processing(NLP) tasks and have been employed in phishing email

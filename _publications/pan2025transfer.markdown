@@ -7,7 +7,7 @@ year: 2025
 bibkey: pan2025transfer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06256"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Unified multimodal models aim to integrate understanding (text output) and
 generation (pixel output), but aligning these different modalities within a

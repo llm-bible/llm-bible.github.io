@@ -7,7 +7,7 @@ year: 2025
 bibkey: garousi2025why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18858"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Survey Paper']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Survey Paper']
 ---
 Context: ChatGPT and other large language models (LLMs) are widely used
 across healthcare, business, economics, engineering, and software engineering

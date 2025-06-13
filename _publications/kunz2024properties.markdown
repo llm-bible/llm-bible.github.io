@@ -7,7 +7,7 @@ year: 2024
 bibkey: kunz2024properties
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10532"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Interpretability and Explainability', 'Training Techniques', 'Pretraining Methods']
 ---
 The self-rationalising capabilities of large language models (LLMs) have been
 explored in restricted settings, using task/specific data sets. However,

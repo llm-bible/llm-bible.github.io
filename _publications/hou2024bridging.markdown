@@ -8,7 +8,7 @@ bibkey: hou2024bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03952"}
   - {name: "Code", url: "https://github.com/hyp1231/AmazonReviews2023"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Has Code']
+tags: ['RAG', 'GPT', 'Has Code', 'Model Architecture']
 ---
 This paper introduces BLaIR, a series of pretrained sentence embedding models
 specialized for recommendation scenarios. BLaIR is trained to learn

@@ -7,7 +7,7 @@ year: 2024
 bibkey: qian2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03278"}
-tags: ['Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Leveraging large language models (LLMs) for various natural language
 processing tasks has led to superlative claims about their performance. For the

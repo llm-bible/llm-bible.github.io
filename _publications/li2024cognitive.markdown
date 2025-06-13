@@ -8,7 +8,7 @@ bibkey: li2024cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13561"}
   - {name: "Code", url: "https://github.com/HITsz-TMG/Cognitive-Visual-Language-Mapper"}
-tags: ['RAG', 'Training Techniques', 'Has Code', 'Multimodal Models']
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Has Code']
 ---
 Evaluating and Rethinking the current landscape of Large Multimodal Models
 (LMMs), we observe that widely-used visual-language projection approaches

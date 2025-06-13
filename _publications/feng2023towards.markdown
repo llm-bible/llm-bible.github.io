@@ -7,7 +7,7 @@ year: 2023
 bibkey: feng2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14970"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Few-Shot']
 ---
 Dialogue State Tracking (DST) is of paramount importance in ensuring accurate
 tracking of user goals and system actions within task-oriented dialogue

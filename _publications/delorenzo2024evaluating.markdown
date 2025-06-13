@@ -7,7 +7,7 @@ year: 2024
 bibkey: delorenzo2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08806"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs) have proved effective and efficient in
 generating code, leading to their utilization within the hardware design

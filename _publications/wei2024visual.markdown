@@ -7,7 +7,7 @@ year: 2024
 bibkey: wei2024visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.20018"}
-tags: ['Multimodal Models', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['GPT', 'Training Techniques', 'Multimodal Models', 'Model Architecture']
 ---
 Large Multimodal Models (LMMs) have demonstrated impressive performance in
 short video understanding tasks but face great challenges when applied to long

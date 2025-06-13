@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.06485"}
-tags: ['Multimodal Models', 'Model Architecture', 'Ethics and Bias', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 Although Visual-Language Models (VLMs) have shown impressive capabilities in
 tasks like visual question answering and image captioning, they still struggle

@@ -8,7 +8,7 @@ bibkey: zhou2024moe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11396"}
   - {name: "Code", url: "https://github.com/zjwang21/MoE-LPR.git"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are often English-centric due to the
 disproportionate distribution of languages in their pre-training data.

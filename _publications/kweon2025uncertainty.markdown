@@ -8,7 +8,7 @@ bibkey: kweon2025uncertainty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17630"}
   - {name: "Code", url: "https://github.com/WonbinKweon/UNC_LLM_REC_WWW2025"}
-tags: ['Prompting', 'Has Code', 'Tools']
+tags: ['Tools', 'Has Code', 'Prompting']
 ---
 Despite the widespread adoption of large language models (LLMs) for
 recommendation, we demonstrate that LLMs often exhibit uncertainty in their

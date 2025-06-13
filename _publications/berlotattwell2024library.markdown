@@ -8,7 +8,7 @@ bibkey: berlotattwell2024library
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20274"}
   - {name: "Code", url: "https://github.com/ikb-a/curious-case"}
-tags: ['Has Code', 'Tools']
+tags: ['Tools', 'Has Code']
 ---
 Advances in Large Language Models (LLMs) have spurred a wave of LLM library
 learning systems for mathematical reasoning. These systems aim to learn a

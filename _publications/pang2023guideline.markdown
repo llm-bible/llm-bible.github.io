@@ -7,7 +7,7 @@ year: 2023
 bibkey: pang2023guideline
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05066"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) can perform a new task by merely conditioning on
 task instructions and a few input-output examples, without optimizing any

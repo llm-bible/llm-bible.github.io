@@ -7,7 +7,7 @@ year: 2024
 bibkey: shen2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15299"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The structural similarities between protein sequences and natural languages
 have led to parallel advancements in deep learning across both domains. While

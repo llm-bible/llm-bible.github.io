@@ -7,7 +7,7 @@ year: 2019
 bibkey: zhang2019evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.09675"}
-tags: ['Security', 'Model Architecture', 'Language Modeling', 'BERT', 'Applications']
+tags: ['Applications', 'Language Modeling', 'Model Architecture', 'Security', 'BERT']
 ---
 We propose BERTScore, an automatic evaluation metric for text generation.
 Analogously to common metrics, BERTScore computes a similarity score for each

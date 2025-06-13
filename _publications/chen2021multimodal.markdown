@@ -7,7 +7,7 @@ year: 2021
 bibkey: chen2021multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.08478"}
-tags: ['Multimodal Models', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Visual dialogue is a challenging task since it needs to answer a series of
 coherent questions on the basis of understanding the visual environment.

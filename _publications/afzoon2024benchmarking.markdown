@@ -8,7 +8,7 @@ bibkey: afzoon2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03198"}
   - {name: "Code", url: "https://github.com/salehafzoon/PersoBench"}
-tags: ['Prompting', 'Has Code']
+tags: ['Has Code', 'Prompting']
 ---
 While large language models (LLMs) have exhibited impressive conversational
 capabilities, their proficiency in delivering personalized responses remains

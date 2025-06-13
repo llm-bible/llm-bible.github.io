@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024has
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16443"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Scaling Laws', 'Ethics and Bias']
+tags: ['Tools', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Scaling Laws']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities, yet
 their scalability raises a critical question: Have we reached the scaling

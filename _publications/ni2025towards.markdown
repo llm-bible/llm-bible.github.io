@@ -7,7 +7,7 @@ year: 2025
 bibkey: ni2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11677"}
-tags: ['RAG', 'Applications', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Applications']
 ---
 Large language models (LLMs) exhibit impressive performance across diverse
 tasks but often struggle to accurately gauge their knowledge boundaries,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: dave2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13209"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Prompting techniques have significantly enhanced the capabilities of Large
 Language Models (LLMs) across various complex tasks, including reasoning,

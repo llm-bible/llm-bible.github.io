@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023teach
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07968"}
-tags: ['Model Architecture', 'Tools', 'Language Modeling', 'Merging', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Language Modeling', 'Model Architecture', 'Merging', 'Attention Mechanism']
 ---
 Personalized text generation is an emerging research area that has attracted
 much attention in recent years. Most studies in this direction focus on a

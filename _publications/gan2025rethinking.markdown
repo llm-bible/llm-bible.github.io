@@ -8,7 +8,7 @@ bibkey: gan2025rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15602"}
   - {name: "Code", url: "https://github.com/ZyGan1999/Snowball-Errors-and-Probability"}
-tags: ['Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Has Code', 'Reinforcement Learning']
 ---
 Test-time scaling, which is also often referred to as slow-thinking, has been
 demonstrated to enhance multi-step reasoning in large language models (LLMs).

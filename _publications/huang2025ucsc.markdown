@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025ucsc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03030"}
-tags: ['Prompting', 'Efficiency and Optimization', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Prompting']
 ---
 Hallucinations pose a significant challenge for large language models when
 answering knowledge-intensive queries. As LLMs become more widely adopted, it

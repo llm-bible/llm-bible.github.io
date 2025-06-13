@@ -8,7 +8,7 @@ bibkey: li2022self
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2212.08635v3"}
   - {name: "Code", url: "https://github.com/lockon-n/self-prompting"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'Interpretability and Explainability', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Open-Domain Question Answering (ODQA) aims to answer questions without
 explicitly providing specific background documents. This task becomes notably

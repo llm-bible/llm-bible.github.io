@@ -7,7 +7,7 @@ year: 2024
 bibkey: dong2024hybrid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.13676"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 We propose Hymba, a family of small language models featuring a hybrid-head
 parallel architecture that integrates transformer attention mechanisms with

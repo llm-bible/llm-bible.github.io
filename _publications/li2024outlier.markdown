@@ -8,7 +8,7 @@ bibkey: li2024outlier
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18380"}
   - {name: "Code", url: "https://github.com/pixeli99/OwLore"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The rapid advancements in Large Language Models (LLMs) have revolutionized
 various natural language processing tasks. However, the substantial size of

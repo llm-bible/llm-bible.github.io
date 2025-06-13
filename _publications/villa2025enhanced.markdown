@@ -7,7 +7,7 @@ year: 2025
 bibkey: villa2025enhanced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02699"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large language models and vision transformers have demonstrated impressive
 zero-shot capabilities, enabling significant transferability in downstream

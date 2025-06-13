@@ -7,7 +7,7 @@ year: 2024
 bibkey: cummins2024meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02524"}
-tags: ['Pretraining Methods', 'Efficiency and Optimization', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities across
 a variety of software engineering and coding tasks. However, their application

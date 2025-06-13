@@ -8,7 +8,7 @@ bibkey: shen2021how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.06383"}
   - {name: "Code", url: "https://github.com/clip-vil/CLIP-ViL"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Most existing Vision-and-Language (V&L) models rely on pre-trained visual
 encoders, using a relatively small set of manually-annotated data (as compared

@@ -8,7 +8,7 @@ bibkey: huang2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15334"}
   - {name: "Code", url: "https://github.com/Brandon3964/MultiModal-Task-Vector"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'In-Context Learning', 'Pretraining Methods', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 The recent success of interleaved Large Multimodal Models (LMMs) in few-shot
 learning suggests that in-context learning (ICL) with many examples can be

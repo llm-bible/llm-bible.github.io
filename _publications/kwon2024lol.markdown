@@ -7,7 +7,7 @@ year: 2024
 bibkey: kwon2024lol
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.20166"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 The expansion of large language models (LLMs) with hundreds of billions of
 parameters presents significant challenges to computational resources,

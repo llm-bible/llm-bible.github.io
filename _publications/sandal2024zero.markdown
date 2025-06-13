@@ -7,7 +7,7 @@ year: 2024
 bibkey: sandal2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08683"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Transformer', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 The design and optimization of hardware have traditionally been
 resource-intensive, demanding considerable expertise and dependence on

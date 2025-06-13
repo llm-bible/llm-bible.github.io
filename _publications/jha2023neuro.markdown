@@ -7,7 +7,7 @@ year: 2023
 bibkey: jha2023neuro
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16436"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'GPT', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Generative large language models (LLMs) with instruct training such as GPT-4
 can follow human-provided instruction prompts and generate human-like responses

@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024rjua
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14840"}
-tags: ['Efficiency and Optimization', 'Applications', 'Few-Shot', 'Multimodal Models']
+tags: ['Few-Shot', 'Efficiency and Optimization', 'Multimodal Models', 'Applications']
 ---
 Recent advancements in Large Language Models (LLMs) and Large Multi-modal
 Models (LMMs) have shown potential in various medical applications, such as

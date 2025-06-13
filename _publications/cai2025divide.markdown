@@ -7,7 +7,7 @@ year: 2025
 bibkey: cai2025divide
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05806"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Goal-oriented visual dialogue involves multi-round interaction between
 artificial agents, which has been of remarkable attention due to its wide

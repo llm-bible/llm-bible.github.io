@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06577"}
-tags: ['Security', 'Efficiency and Optimization', 'Reinforcement Learning', 'RecSys', 'Quantization', 'Prompting']
+tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Security', 'RecSys', 'Quantization', 'Prompting']
 ---
 Large Language Models (LLMs) have exhibited significant promise in
 recommender systems by empowering user profiles with their extensive world

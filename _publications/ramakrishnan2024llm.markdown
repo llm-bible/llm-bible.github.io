@@ -7,7 +7,7 @@ year: 2024
 bibkey: ramakrishnan2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10141"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Text-to-Image (T2I) Synthesis has made tremendous strides in enhancing
 synthesized image quality, but current datasets evaluate model performance only

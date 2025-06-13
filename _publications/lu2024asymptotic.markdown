@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024asymptotic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11751"}
-tags: ['Training Techniques', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Transformers have a remarkable ability to learn and execute tasks based on
 examples provided within the input itself, without explicit prior training. It

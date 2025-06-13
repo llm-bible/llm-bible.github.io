@@ -7,7 +7,7 @@ year: 2025
 bibkey: nadas2025synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14023"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Agentic', 'Survey Paper', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Large language models (LLMs) have unlocked new possibilities for generating
 synthetic training data in both natural language and code. By producing

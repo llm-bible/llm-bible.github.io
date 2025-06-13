@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhou2021sequential
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.03009"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recently, large pre-trained neural language models have attained remarkable
 performance on many downstream natural language processing (NLP) applications

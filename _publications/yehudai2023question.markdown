@@ -7,7 +7,7 @@ year: 2023
 bibkey: yehudai2023question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.01593"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Intent detection with semantically similar fine-grained intents is a
 challenging task. To address it, we reformulate intent detection as a

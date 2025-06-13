@@ -7,7 +7,7 @@ year: 2023
 bibkey: bhandari2023survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.03740"}
-tags: ['Training Techniques', 'Survey Paper', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Survey Paper', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Autoregressive Large Language Models have transformed the landscape of
 Natural Language Processing. Pre-train and prompt paradigm has replaced the

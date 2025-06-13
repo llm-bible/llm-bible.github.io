@@ -8,7 +8,7 @@ bibkey: comi2022z
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.07084"}
   - {name: "Code", url: "https://github.com/GT4SD/zero-shot-bert-adapters"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Intent discovery is a crucial task in natural language processing, and it is
 increasingly relevant for various of industrial applications. Identifying

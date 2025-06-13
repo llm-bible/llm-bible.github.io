@@ -7,7 +7,7 @@ year: 2025
 bibkey: chételat2025disentangling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17994"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) contain substantial factual knowledge which is
 commonly elicited by multiple-choice question-answering prompts. Internally,

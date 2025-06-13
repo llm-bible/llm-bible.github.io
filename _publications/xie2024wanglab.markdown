@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024wanglab
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14567"}
-tags: ['Multimodal Models', 'Training Techniques', 'Applications', 'Tools']
+tags: ['Training Techniques', 'Multimodal Models', 'Applications', 'Tools']
 ---
 This paper outlines our submission to the MEDIQA2024 Multilingual and
 Multimodal Medical Answer Generation (M3G) shared task. We report results for

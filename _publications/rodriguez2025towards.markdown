@@ -7,7 +7,7 @@ year: 2025
 bibkey: rodriguez2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01436"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Survey Paper', 'Tools', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Responsible AI', 'Transformer', 'Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Security', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have gained unprecedented prominence, achieving
 widespread adoption across diverse domains and integrating deeply into society.

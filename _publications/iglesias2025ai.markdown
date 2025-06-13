@@ -7,7 +7,7 @@ year: 2025
 bibkey: iglesias2025ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01560"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) and multi-agent orchestration are touted as the
 next leap in machine translation (MT), but their benefits relative to

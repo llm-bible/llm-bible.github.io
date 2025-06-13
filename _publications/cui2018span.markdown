@@ -8,7 +8,7 @@ bibkey: cui2018span
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1810.07366"}
   - {name: "Code", url: "https://github.com/ymcui/cmrc2018"}
-tags: ['Has Code', 'RAG', 'Model Architecture', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Has Code', 'Model Architecture']
 ---
 Machine Reading Comprehension (MRC) has become enormously popular recently
 and has attracted a lot of attention. However, the existing reading

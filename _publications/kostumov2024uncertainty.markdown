@@ -7,7 +7,7 @@ year: 2024
 bibkey: kostumov2024uncertainty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14418"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
 ---
 Vision-Language Models like GPT-4, LLaVA, and CogVLM have surged in
 popularity recently due to their impressive performance in several

@@ -8,7 +8,7 @@ bibkey: li2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04152"}
   - {name: "Code", url: "https://github.com/DCDmllm/Cheetah"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Recent advancements in Multimodal Large Language Models (MLLMs) have been
 utilizing Visual Prompt Generators (VPGs) to convert visual features into

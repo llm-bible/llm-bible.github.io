@@ -7,7 +7,7 @@ year: 2024
 bibkey: reza2024bringing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16547"}
-tags: ['Prompting', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Involving subject matter experts in prompt engineering can guide LLM outputs
 toward more helpful, accurate, and tailored content that meets the diverse

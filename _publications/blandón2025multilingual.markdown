@@ -8,7 +8,7 @@ bibkey: blandón2025multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17163"}
   - {name: "Code", url: "https://github.com/amazon-science/MEMERAG"}
-tags: ['Reinforcement Learning', 'RAG', 'Has Code', 'ACL', 'Prompting']
+tags: ['RAG', 'Reinforcement Learning', 'ACL', 'Has Code', 'Prompting']
 ---
 Automatic evaluation of retrieval augmented generation (RAG) systems relies
 on fine-grained dimensions like faithfulness and relevance, as judged by expert

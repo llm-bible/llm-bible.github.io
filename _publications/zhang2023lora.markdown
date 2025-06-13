@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023lora
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.03303"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 The low-rank adaptation (LoRA) method can largely reduce the amount of
 trainable parameters for fine-tuning large language models (LLMs), however, it

@@ -7,7 +7,7 @@ year: 2025
 bibkey: ni2025automating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.16945"}
-tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning', 'Tools']
 ---
 LLM-based tool agents offer natural language interfaces, enabling users to
 seamlessly interact with computing services. While REST APIs are valuable

@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13010"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 The advancement of natural language processing (NLP) has been significantly
 boosted by the development of transformer-based large language models (LLMs).

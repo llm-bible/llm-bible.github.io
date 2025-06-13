@@ -7,7 +7,7 @@ year: 2024
 bibkey: ebrat2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13362"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RecSys', 'Interpretability and Explainability']
+tags: ['Agentic', 'Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'RecSys']
 ---
 Reinforcement learning (RL) recommender systems often rely on static datasets
 that fail to capture the fluid, ever changing nature of user preferences in

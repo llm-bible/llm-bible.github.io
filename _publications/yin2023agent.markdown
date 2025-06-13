@@ -7,7 +7,7 @@ year: 2023
 bibkey: yin2023agent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05657"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Interpretability']
+tags: ['Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 Closed-source agents suffer from several issues such as a lack of
 affordability, transparency, and reproducibility, particularly on complex

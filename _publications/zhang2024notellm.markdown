@@ -8,7 +8,7 @@ bibkey: zhang2024notellm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16789"}
   - {name: "Code", url: "https://github.com/Applied-Machine-Learning-Lab/NoteLLM"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated exceptional proficiency in
 text understanding and embedding tasks. However, their potential in multimodal

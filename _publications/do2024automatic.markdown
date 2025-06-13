@@ -7,7 +7,7 @@ year: 2024
 bibkey: do2024automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02717"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Training Techniques']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Prompting']
 ---
 Large Language Models (LLMs) can perform various natural language processing
 tasks with suitable instruction prompts. However, designing effective prompts

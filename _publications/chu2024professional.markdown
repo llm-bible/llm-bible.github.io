@@ -7,7 +7,7 @@ year: 2024
 bibkey: chu2024professional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03628"}
-tags: ['Agentic', 'Agent', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Agent']
 ---
 The advent of large language models (LLMs) such as ChatGPT, PaLM, and GPT-4
 has catalyzed remarkable advances in natural language processing, demonstrating

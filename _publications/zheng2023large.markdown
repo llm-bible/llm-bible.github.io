@@ -8,7 +8,7 @@ bibkey: zheng2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04076"}
   - {name: "Code", url: "https://github.com/zhaohengz/LLaMP"}
-tags: ['Multimodal Models', 'Training Techniques', 'Few-Shot', 'Has Code', 'Prompting']
+tags: ['Training Techniques', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 Low-shot image classification, where training images are limited or
 inaccessible, has benefited from recent progress on pre-trained vision-language

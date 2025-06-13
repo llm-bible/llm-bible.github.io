@@ -7,7 +7,7 @@ year: 2023
 bibkey: serapiogarcía2023personality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.00184"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 The advent of large language models (LLMs) has revolutionized natural
 language processing, enabling the generation of coherent and contextually

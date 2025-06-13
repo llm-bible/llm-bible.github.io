@@ -7,7 +7,7 @@ year: 2024
 bibkey: dai2024features
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19360"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 The Needle-in-a-haystack (NIAH) test is a general task used to assess
 language models' (LMs') abilities to recall particular information from long

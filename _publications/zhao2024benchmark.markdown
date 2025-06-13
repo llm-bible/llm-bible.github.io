@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13804"}
-tags: ['Prompting', 'Training Techniques', 'In-Context Learning']
+tags: ['Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Evaluating large language models (LLMs) is costly: it requires the generation
 and examination of LLM outputs on a large-scale benchmark of various tasks.

@@ -8,7 +8,7 @@ bibkey: liao2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.20365"}
   - {name: "Code", url: "https://github.com/mayhugotong/VideoINSTA"}
-tags: ['Tools', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Has Code', 'Prompting']
 ---
 In the video-language domain, recent works in leveraging zero-shot Large
 Language Model-based reasoning for video understanding have become competitive

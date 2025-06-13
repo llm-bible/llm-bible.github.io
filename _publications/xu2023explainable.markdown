@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023explainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14282"}
-tags: ['Language Modeling', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture']
 ---
 Automatically evaluating the quality of language generation is critical.
 Although recent learned metrics show high correlation with human judgement,

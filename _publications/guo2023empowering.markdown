@@ -7,7 +7,7 @@ year: 2023
 bibkey: guo2023empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17259"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Tools', 'RAG']
+tags: ['Agentic', 'Tools', 'RAG', 'Model Architecture', 'Security']
 ---
 Large language models (LLMs) have achieved impressive linguistic
 capabilities. However, a key limitation persists in their lack of human-like

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yan2023voila
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09454"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
 ---
 In recent years, the integration of vision and language understanding has led
 to significant advancements in artificial intelligence, particularly through

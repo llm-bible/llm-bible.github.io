@@ -7,7 +7,7 @@ year: 2020
 bibkey: moghe2020incorporating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.14315"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'BERT', 'Attention Mechanism']
+tags: ['Tools', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT']
 ---
 We consider the task of generating dialogue responses from background
 knowledge comprising of domain specific resources. Specifically, given a

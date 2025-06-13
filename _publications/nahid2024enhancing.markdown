@@ -7,7 +7,7 @@ year: 2024
 bibkey: nahid2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.10150"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
 ---
 Table reasoning is a challenging task that requires understanding both
 natural language questions and structured tabular data. Large language models

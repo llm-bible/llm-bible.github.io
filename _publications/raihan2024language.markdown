@@ -7,7 +7,7 @@ year: 2024
 bibkey: raihan2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17736"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism']
 ---
 The recently introduced Mojo programming language (PL) by Modular, has
 received significant attention in the scientific community due to its claimed

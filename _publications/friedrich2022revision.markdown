@@ -7,7 +7,7 @@ year: 2022
 bibkey: friedrich2022revision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.10332"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
 ---
 Current transformer language models (LM) are large-scale models with billions
 of parameters. They have been shown to provide high performances on a variety

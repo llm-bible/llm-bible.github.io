@@ -7,7 +7,7 @@ year: 2025
 bibkey: alkan2025survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05496"}
-tags: ['Multimodal Models', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Tools', 'Survey Paper', 'RAG', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 Hypothesis generation is a fundamental step in scientific discovery, yet it
 is increasingly challenged by information overload and disciplinary

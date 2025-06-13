@@ -8,7 +8,7 @@ bibkey: yao2025optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.02391"}
   - {name: "Code", url: "https://github.com/RLHFlow/GVM"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Chain-of-thought (CoT) reasoning in large language models (LLMs) can be
 formalized as a latent variable problem, where the model needs to generate

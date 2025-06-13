@@ -7,7 +7,7 @@ year: 2024
 bibkey: fonseca2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10415"}
-tags: ['Arxiv', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Arxiv']
 ---
 In this work, we investigate the controllability of large language models
 (LLMs) on scientific summarization tasks. We identify key stylistic and content

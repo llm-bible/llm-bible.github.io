@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024paying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07036"}
-tags: ['Model Architecture', 'RAG', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
+tags: ['Ethics and Bias', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 Large language models (LLMs) have showcased impressive multilingual machine
 translation ability. However, unlike encoder-decoder style models, decoder-only

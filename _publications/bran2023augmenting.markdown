@@ -7,7 +7,7 @@ year: 2023
 bibkey: bran2023augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.05376"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Over the last decades, excellent computational chemistry tools have been
 developed. Integrating them into a single platform with enhanced accessibility

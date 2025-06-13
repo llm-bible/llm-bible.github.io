@@ -8,7 +8,7 @@ bibkey: jiang2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00331"}
   - {name: "Code", url: "https://github.com/JiangDeccc/EvaLLMasRecommender"}
-tags: ['Model Architecture', 'Tools', 'Ethics and Bias', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 With the rapid development of Large Language Models (LLMs), recent studies
 employed LLMs as recommenders to provide personalized information services for

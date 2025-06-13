@@ -8,7 +8,7 @@ bibkey: lai2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03648"}
   - {name: "Code", url: "https://github.com/THUDM/AutoWebGLM"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large language models (LLMs) have fueled many intelligent web agents, but
 most existing ones perform far from satisfying in real-world web navigation

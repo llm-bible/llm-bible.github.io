@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024let
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07588"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) facilitates Large Language Models (LLMs) exhibiting
 emergent ability on downstream tasks without updating billions of parameters.

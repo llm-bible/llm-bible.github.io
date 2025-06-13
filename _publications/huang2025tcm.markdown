@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025tcm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07041"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Large language models (LLMs) excel in various NLP tasks and modern medicine,
 but their evaluation in traditional Chinese medicine (TCM) is underexplored. To

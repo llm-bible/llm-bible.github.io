@@ -7,7 +7,7 @@ year: 2025
 bibkey: mai2025you
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12210"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 With the rise of generative large language models (LLMs) like LLaMA and
 ChatGPT, these models have significantly transformed daily life and work by

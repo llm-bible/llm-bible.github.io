@@ -7,7 +7,7 @@ year: 2021
 bibkey: eslami2021does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.13906"}
-tags: ['Pre-Training', 'Multimodal Models', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Pre-Training', 'Multimodal Models', 'Applications']
 ---
 Contrastive Language--Image Pre-training (CLIP) has shown remarkable success
 in learning with cross-modal supervision from extensive amounts of image--text

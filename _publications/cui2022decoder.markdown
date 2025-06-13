@@ -7,7 +7,7 @@ year: 2022
 bibkey: cui2022decoder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.08408"}
-tags: ['Efficiency and Optimization', 'Tools', 'Merging', 'Prompting', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Merging', 'Prompting']
 ---
 With the evergrowing sizes of pre-trained models (PTMs), it has been an
 emerging practice to only provide the inference APIs for users, namely

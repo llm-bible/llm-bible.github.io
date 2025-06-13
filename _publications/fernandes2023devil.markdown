@@ -7,7 +7,7 @@ year: 2023
 bibkey: fernandes2023devil
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07286"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Automatic evaluation of machine translation (MT) is a critical tool driving
 the rapid iterative development of MT systems. While considerable progress has

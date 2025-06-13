@@ -7,7 +7,7 @@ year: 2023
 bibkey: lu2023boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.05278"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Vision Language Models (LVLMs) have demonstrated impressive zero-shot
 capabilities in various vision-language dialogue scenarios. However, the

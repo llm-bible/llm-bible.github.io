@@ -7,7 +7,7 @@ year: 2023
 bibkey: prasad2023visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05861"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'ACL', 'Applications']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Training Techniques', 'Few-Shot', 'Multimodal Models']
 ---
 An increasing number of vision-language tasks can be handled with little to
 no training, i.e., in a zero and few-shot manner, by marrying large language

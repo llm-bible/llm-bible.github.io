@@ -7,7 +7,7 @@ year: 2025
 bibkey: misrahi2025adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02411"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Retrieval-Augmented Generation (RAG) enhances LLM factuality, but
 multi-domain applications face challenges like lack of diverse benchmarks and

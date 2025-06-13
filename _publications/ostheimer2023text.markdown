@@ -7,7 +7,7 @@ year: 2023
 bibkey: ostheimer2023text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13577"}
-tags: ['Prompting', 'Security', 'RAG']
+tags: ['RAG', 'Security', 'Prompting']
 ---
 Evaluating Text Style Transfer (TST) is a complex task due to its
 multifaceted nature. The quality of the generated text is measured based on

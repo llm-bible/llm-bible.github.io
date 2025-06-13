@@ -7,7 +7,7 @@ year: 2023
 bibkey: yao2023knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10779"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'RecSys', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The significant progress of large language models (LLMs) provides a promising
 opportunity to build human-like systems for various practical applications.

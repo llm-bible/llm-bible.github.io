@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024marco
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14405"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Currently OpenAI o1 sparks a surge of interest in the study of large
 reasoning models (LRM). Building on this momentum, Marco-o1 not only focuses on

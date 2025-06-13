@@ -7,7 +7,7 @@ year: 2024
 bibkey: vöge2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15886"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Distillation', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'RAG', 'Training Techniques', 'Few-Shot', 'Prompting', 'Distillation']
 ---
 This paper introduces a novel approach for efficiently distilling LLMs into
 smaller, application-specific models, significantly reducing operational costs

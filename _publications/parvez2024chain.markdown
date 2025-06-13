@@ -7,7 +7,7 @@ year: 2024
 bibkey: parvez2024chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05787"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Interpretability', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Interpretability', 'Prompting']
 ---
 While chain-of-thoughts (CoT) prompting has revolutionized how LLMs perform
 reasoning tasks, its current methods and variations (e.g, Self-consistency,

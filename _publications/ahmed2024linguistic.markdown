@@ -7,7 +7,7 @@ year: 2024
 bibkey: ahmed2024linguistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15818"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have emerged as a significant advancement in the
 field of Natural Language Processing (NLP), demonstrating remarkable

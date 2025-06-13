@@ -7,7 +7,7 @@ year: 2024
 bibkey: heitz2024evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14388"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 The advent of Large Language Models (LLM) has revolutionized the efficiency
 and speed with which tasks are completed, marking a significant leap in

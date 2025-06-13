@@ -7,7 +7,7 @@ year: 2025
 bibkey: pandey2025quest
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.07109"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Merging', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Visual Question Answering (VQA) is an interdisciplinary field that bridges
 the gap between computer vision (CV) and natural language processing(NLP),

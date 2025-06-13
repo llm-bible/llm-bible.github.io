@@ -7,7 +7,7 @@ year: 2023
 bibkey: fei2023extending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09571"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Transformer-based Large Language Models (LLMs) often impose limitations on
 the length of the text input to ensure the generation of fluent and relevant

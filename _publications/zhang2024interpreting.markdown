@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024interpreting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01659"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated remarkable potential across
 numerous applications and have shown an emergent ability to tackle complex

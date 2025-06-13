@@ -7,7 +7,7 @@ year: 2024
 bibkey: liang2024universal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14738"}
-tags: ['Agentic', 'Security', 'Prompting', 'Applications']
+tags: ['Security', 'Agentic', 'Prompting', 'Applications']
 ---
 Large language models (LLMs) have been widely adopted in applications such as
 automated content generation and even critical decision-making systems.

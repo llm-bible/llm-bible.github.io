@@ -7,7 +7,7 @@ year: 2025
 bibkey: peng2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10878"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 In today's visually dominated social media landscape, predicting the
 perceived credibility of visual content and understanding what drives human

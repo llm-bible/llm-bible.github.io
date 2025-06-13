@@ -8,7 +8,7 @@ bibkey: pteam2025coig
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05535"}
   - {name: "Code", url: "https://github.com/multimodal-art-projection/COIG-P"}
-tags: ['Multimodal Models', 'Model Architecture', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Aligning large language models (LLMs) with human preferences has achieved
 remarkable success. However, existing Chinese preference datasets are limited

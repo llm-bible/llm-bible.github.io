@@ -7,7 +7,7 @@ year: 2024
 bibkey: khajezade2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13802"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable success in various
 natural language processing and software engineering tasks, such as code

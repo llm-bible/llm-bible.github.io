@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13783"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Scaling Laws', 'RAG', 'Merging', 'Large-Scale Training', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
 ---
 In the era of information overload, recommendation systems play a pivotal
 role in filtering data and delivering personalized content. Recent advancements

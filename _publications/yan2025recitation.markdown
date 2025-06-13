@@ -7,7 +7,7 @@ year: 2025
 bibkey: yan2025recitation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00509"}
-tags: ['Training Techniques', 'ACL', 'Tools']
+tags: ['ACL', 'Training Techniques', 'Tools']
 ---
 The rapid escalation from elementary school-level to frontier problems of the
 difficulty for LLM benchmarks in recent years have weaved a miracle for

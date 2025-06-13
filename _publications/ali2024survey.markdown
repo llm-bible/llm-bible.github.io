@@ -7,7 +7,7 @@ year: 2024
 bibkey: ali2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15040"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'GPT', 'Pretraining Methods', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have gained significant attention due to their
 high performance on a wide range of natural language tasks since the release of

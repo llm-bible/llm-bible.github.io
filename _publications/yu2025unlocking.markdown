@@ -7,7 +7,7 @@ year: 2025
 bibkey: yu2025unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14853"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Current vision-language models (VLMs) have demonstrated remarkable
 capabilities in understanding multimodal data, but their potential remains

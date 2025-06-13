@@ -7,7 +7,7 @@ year: 2022
 bibkey: shen2022unintended
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.06224"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Ethics and Bias', 'BERT']
+tags: ['Ethics and Bias', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT']
 ---
 Conversational Recommendation Systems (CRSs) have recently started to
 leverage pretrained language models (LM) such as BERT for their ability to

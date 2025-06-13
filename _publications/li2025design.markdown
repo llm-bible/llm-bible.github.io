@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025design
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03068"}
-tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning', 'Tools']
 ---
 Large Language Model (LLM) tools have demonstrated their potential to deliver
 high-quality assistance by providing instant, personalized feedback that is

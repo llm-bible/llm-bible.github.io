@@ -7,7 +7,7 @@ year: 2025
 bibkey: warczyński2025leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20609"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 We introduce a simple approach that uses a large language model (LLM) to
 automatically implement a fully interpretable rule-based data-to-text system in

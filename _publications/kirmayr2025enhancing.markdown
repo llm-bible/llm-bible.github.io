@@ -7,7 +7,7 @@ year: 2025
 bibkey: kirmayr2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.09645"}
-tags: ['Ethics and Bias', 'RAG', 'Interpretability', 'Applications']
+tags: ['Interpretability', 'RAG', 'Ethics and Bias', 'Applications']
 ---
 In today's assistant landscape, personalisation enhances interactions,
 fosters long-term relationships, and deepens engagement. However, many systems

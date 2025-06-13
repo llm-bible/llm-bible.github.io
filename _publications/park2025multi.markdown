@@ -7,7 +7,7 @@ year: 2025
 bibkey: park2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18439"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Leveraging multiple large language models (LLMs) to build collaborative
 multi-agentic workflows has demonstrated significant potential. However, most

@@ -7,7 +7,7 @@ year: 2025
 bibkey: mei2025survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08748"}
-tags: ['Multimodal Models', 'Survey Paper', 'Tools', 'RAG', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Applications', 'RAG', 'Multimodal Models']
 ---
 Multimodal Retrieval-Augmented Generation (MRAG) enhances large language
 models (LLMs) by integrating multimodal data (text, images, videos) into

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wei2023empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02120"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Model Architecture', 'GPT', 'Applications', 'Ethics and Bias']
 ---
 We introduce Magicoder, a series of fully open-source (code, weights, and
 data) Large Language Models (LLMs) for code that significantly closes the gap

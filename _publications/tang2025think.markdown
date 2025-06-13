@@ -7,7 +7,7 @@ year: 2025
 bibkey: tang2025think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22675"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'RecSys', 'Pretraining Methods']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Pretraining Methods']
 ---
 Sequential Recommendation (SeqRec) aims to predict the next item by capturing
 sequential patterns from users' historical interactions, playing a crucial role

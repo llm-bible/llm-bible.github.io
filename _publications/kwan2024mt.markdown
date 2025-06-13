@@ -7,7 +7,7 @@ year: 2024
 bibkey: kwan2024mt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16745"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are increasingly relied upon for complex
 multi-turn conversations across diverse real-world applications. However,

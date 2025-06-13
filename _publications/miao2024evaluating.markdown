@@ -7,7 +7,7 @@ year: 2024
 bibkey: miao2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05965"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 The recent development of Sora leads to a new era in text-to-video (T2V)
 generation. Along with this comes the rising concern about its security risks.

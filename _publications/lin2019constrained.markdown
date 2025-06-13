@@ -7,7 +7,7 @@ year: 2019
 bibkey: lin2019constrained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03705"}
-tags: ['Language Modeling', 'Applications']
+tags: ['Applications', 'Language Modeling']
 ---
 Recently, large-scale pre-trained language models have demonstrated
 impressive performance on several commonsense-reasoning benchmark datasets.

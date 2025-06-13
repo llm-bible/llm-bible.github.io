@@ -7,7 +7,7 @@ year: 2024
 bibkey: an2024why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18745"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Advancements in distributed training and efficient attention mechanisms have
 significantly expanded the context window sizes of large language models

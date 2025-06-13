@@ -8,7 +8,7 @@ bibkey: uzunoglu2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03167"}
   - {name: "Code", url: "https://github.com/GGLAB-KU/paradise"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'BERT', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'BERT', 'Prompting']
 ---
 Recently, there has been growing interest within the community regarding
 whether large language models are capable of planning or executing plans.

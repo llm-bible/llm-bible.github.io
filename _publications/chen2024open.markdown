@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06674"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Despite the success of large language models (LLMs) in Text-to-SQL tasks,
 open-source LLMs encounter challenges in contextual understanding and response

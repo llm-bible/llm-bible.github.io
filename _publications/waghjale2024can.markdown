@@ -7,7 +7,7 @@ year: 2024
 bibkey: waghjale2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.14044"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Although large language models (LLMs) have been largely successful in
 generating functionally correct programs, conditioning models to produce

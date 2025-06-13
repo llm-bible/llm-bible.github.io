@@ -7,7 +7,7 @@ year: 2024
 bibkey: lan2024memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11417"}
-tags: ['Multimodal Models', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Video-based multimodal large language models (Video-LLMs) possess significant
 potential for video understanding tasks. However, most Video-LLMs treat videos

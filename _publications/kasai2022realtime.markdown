@@ -7,7 +7,7 @@ year: 2022
 bibkey: kasai2022realtime
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.13332"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 We introduce REALTIME QA, a dynamic question answering (QA) platform that
 announces questions and evaluates systems on a regular basis (weekly in this

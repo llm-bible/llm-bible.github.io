@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17011"}
-tags: ['Prompting', 'In-Context Learning', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
 ---
 Large language models (LLMs) exhibit remarkable in-context learning (ICL)
 capabilities. However, the underlying working mechanism of ICL remains poorly

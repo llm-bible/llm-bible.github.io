@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21248"}
-tags: ['Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
+tags: ['Tools', 'Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated potential in assisting
 scientific research, yet their ability to discover high-quality research

@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025companions
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.03277"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Modern conversational agents, including anime-themed chatbots, are frequently
 reactive and personality-driven but fail to capture the dynamic nature of human

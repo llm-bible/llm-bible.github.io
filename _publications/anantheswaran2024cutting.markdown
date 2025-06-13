@@ -7,7 +7,7 @@ year: 2024
 bibkey: anantheswaran2024cutting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15444"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) excel at various tasks, including solving math
 word problems (MWPs), but struggle with real-world problems containing

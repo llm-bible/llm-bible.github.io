@@ -7,7 +7,7 @@ year: 2025
 bibkey: beck2025xlstm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13427"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent breakthroughs in solving reasoning, math and coding problems with
 Large Language Models (LLMs) have been enabled by investing substantial

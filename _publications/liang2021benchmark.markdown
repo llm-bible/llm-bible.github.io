@@ -7,7 +7,7 @@ year: 2021
 bibkey: liang2021benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.12144"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT']
 ---
 Recently, neural techniques have been used to generate source code
 automatically. While promising for declarative languages, these approaches

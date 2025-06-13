@@ -7,7 +7,7 @@ year: 2024
 bibkey: amirimargavi2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16797"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 We propose a collaborative framework in which multiple large language models
 -- including GPT-4-0125-preview, Meta-LLaMA-3-70B-Instruct, Claude-3-Opus, and

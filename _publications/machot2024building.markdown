@@ -7,7 +7,7 @@ year: 2024
 bibkey: machot2024building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.08469"}
-tags: ['Responsible AI', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Interpretability', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Interpretability']
 ---
 Growing concerns over the lack of transparency in AI, particularly in
 high-stakes fields like healthcare and finance, drive the need for explainable

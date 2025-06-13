@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025reinforcement
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01600"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Interactive digital agents (IDAs) leverage APIs of stateful digital
 environments to perform tasks in response to user requests. While IDAs powered

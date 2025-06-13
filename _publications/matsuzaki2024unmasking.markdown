@@ -7,7 +7,7 @@ year: 2024
 bibkey: matsuzaki2024unmasking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05665"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 This paper sheds light on the limitations of Large Language Models (LLMs) by
 rigorously evaluating their ability to process masked text. We introduce two

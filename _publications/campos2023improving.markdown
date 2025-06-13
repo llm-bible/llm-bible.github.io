@@ -7,7 +7,7 @@ year: 2023
 bibkey: campos2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.17612"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Pruning', 'Quantization', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
 ---
 In this paper, we introduce the range of oBERTa language models, an
 easy-to-use set of language models which allows Natural Language Processing

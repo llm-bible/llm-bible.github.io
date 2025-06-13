@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024dependency
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01943"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Pruning']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Pruning', 'Model Architecture']
 ---
 The rapid advancement in Large Language Models (LLMs) has markedly enhanced
 the capabilities of language understanding and generation. However, the

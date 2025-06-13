@@ -7,7 +7,7 @@ year: 2023
 bibkey: yi2023concept
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.18993"}
-tags: ['Multimodal Models', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Large pre-trained vision-language models have shown great prominence in
 transferring pre-acquired knowledge to various domains and downstream tasks

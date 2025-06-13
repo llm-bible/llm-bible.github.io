@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025test
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13447"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 One critical challenge for large language models (LLMs) for making complex
 reasoning is their reliance on matching reasoning patterns from training data,

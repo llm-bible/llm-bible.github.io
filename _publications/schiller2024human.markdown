@@ -7,7 +7,7 @@ year: 2024
 bibkey: schiller2024human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09743"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 The launch of ChatGPT by OpenAI in November 2022 marked a pivotal moment for
 Artificial Intelligence, introducing Large Language Models (LLMs) to the

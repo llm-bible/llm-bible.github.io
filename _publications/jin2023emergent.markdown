@@ -8,7 +8,7 @@ bibkey: jin2023emergent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11169"}
   - {name: "Code", url: "https://github.com/charlesjin/emergent-semantics"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We present evidence that language models (LMs) of code can learn to represent
 the formal semantics of programs, despite being trained only to perform

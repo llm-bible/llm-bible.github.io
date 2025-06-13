@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhou2021towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.13792"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 One of the major challenges in training text-to-image generation models is
 the need of a large number of high-quality image-text pairs. While image

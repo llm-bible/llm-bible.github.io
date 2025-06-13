@@ -7,7 +7,7 @@ year: 2021
 bibkey: wang2021sentence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.02984"}
-tags: ['Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Recall the classical text generation works, the generation framework can be
 briefly divided into two phases: \textbf\{idea reasoning\} and \textbf\{surface

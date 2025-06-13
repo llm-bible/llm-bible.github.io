@@ -7,7 +7,7 @@ year: 2016
 bibkey: meng2016interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1610.05011"}
-tags: ['Model Architecture', 'RAG', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 Conventional attention-based Neural Machine Translation (NMT) conducts
 dynamic alignment in generating the target sentence. By repeatedly reading the

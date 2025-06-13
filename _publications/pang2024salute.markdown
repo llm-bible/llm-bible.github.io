@@ -8,7 +8,7 @@ bibkey: pang2024salute
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08350"}
   - {name: "Code", url: "https://github.com/pangjh3/LLM4MT"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 The evolution of Neural Machine Translation (NMT) has been significantly
 influenced by six core challenges (Koehn and Knowles, 2017), which have acted

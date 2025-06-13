@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeng2024kv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12876"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The KV-Cache technique has become the standard for the inference of large
 language models (LLMs). Yet, it is widely criticized that KV-Cache can become a

@@ -8,7 +8,7 @@ bibkey: wu2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19628"}
   - {name: "Code", url: "https://github.com/DoubtedSteam/DyVTE"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Reinforcement Learning', 'Merging', 'Has Code', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 The excessive use of visual tokens in existing Multimoal Large Language
 Models (MLLMs) often exhibits obvious redundancy and brings in prohibitively

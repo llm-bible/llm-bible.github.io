@@ -7,7 +7,7 @@ year: 2024
 bibkey: panagiotopoulos2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16383"}
-tags: ['Prompting', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting']
 ---
 Riddle-solving requires advanced reasoning skills, pushing LLMs to engage in
 abstract thinking and creative problem-solving, often revealing limitations in

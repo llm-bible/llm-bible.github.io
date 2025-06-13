@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19056"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Office automation significantly enhances human productivity by automatically
 finishing routine tasks in the workflow. Beyond the basic information

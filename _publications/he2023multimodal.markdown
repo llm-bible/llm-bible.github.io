@@ -7,7 +7,7 @@ year: 2023
 bibkey: he2023multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.00581"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Despite the success of Transformer models in vision and language tasks, they
 often learn knowledge from enormous data implicitly and cannot utilize

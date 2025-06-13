@@ -7,7 +7,7 @@ year: 2024
 bibkey: ri2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00454"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Zero-shot cross-lingual transfer by fine-tuning multilingual pretrained
 models shows promise for low-resource languages, but often suffers from

@@ -8,7 +8,7 @@ bibkey: rogoz2024harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13343"}
   - {name: "Code", url: "https://github.com/ana-rogoz/BEA-2024"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Has Code', 'Model Architecture', 'Pretraining Methods']
 ---
 This work explores a novel data augmentation method based on Large Language
 Models (LLMs) for predicting item difficulty and response time of retired USMLE

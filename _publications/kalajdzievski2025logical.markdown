@@ -7,7 +7,7 @@ year: 2025
 bibkey: kalajdzievski2025logical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03618"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The field of mechanistic interpretability in pre-trained transformer models
 has demonstrated substantial evidence supporting the ''linear representation

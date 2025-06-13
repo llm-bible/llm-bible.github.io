@@ -7,7 +7,7 @@ year: 2023
 bibkey: lin2023llm
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.13711v1"}
-tags: ['Prompting', 'RAG', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting']
 ---
 We propose LLM-Eval, a unified multi-dimensional automatic evaluation method
 for open-domain conversations with large language models (LLMs). Existing

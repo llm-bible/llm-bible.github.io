@@ -7,7 +7,7 @@ year: 2024
 bibkey: tahir2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15453"}
-tags: ['RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) pre-trained on multilingual data have
 revolutionized natural language processing research, by transitioning from

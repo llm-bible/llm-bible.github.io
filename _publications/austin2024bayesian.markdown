@@ -7,7 +7,7 @@ year: 2024
 bibkey: austin2024bayesian
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00981"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning']
 ---
 Designing preference elicitation (PE) methodologies that can quickly
 ascertain a user's top item preferences in a cold-start setting is a key

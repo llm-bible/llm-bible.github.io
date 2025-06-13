@@ -7,7 +7,7 @@ year: 2024
 bibkey: yoshida2024tree
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12691"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Syntactic Language Models (SLMs) can be trained efficiently to reach
 relatively high performance; however, they have trouble with inference

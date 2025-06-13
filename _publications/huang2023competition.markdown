@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023competition
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02143"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated impressive reasoning
 capabilities, yet there is ongoing debate about these abilities and the

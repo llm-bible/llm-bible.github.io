@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025merge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04030"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Merging', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Merging', 'Training Techniques']
 ---
 Reasoning capabilities represent a critical frontier for large language
 models (LLMs), but developing them requires extensive proprietary datasets and

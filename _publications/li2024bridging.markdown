@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15277"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) can supplement large language models
 (LLMs) by integrating external knowledge. However, as the number of retrieved

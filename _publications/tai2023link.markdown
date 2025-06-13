@@ -8,7 +8,7 @@ bibkey: tai2023link
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07891"}
   - {name: "Code", url: "https://github.com/isekai-portal/Link-Context-Learning"}
-tags: ['Multimodal Models', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot', 'Multimodal Models']
 ---
 The ability to learn from context with novel concepts, and deliver
 appropriate responses are essential in human conversations. Despite current

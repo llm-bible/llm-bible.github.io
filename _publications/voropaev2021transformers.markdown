@@ -7,7 +7,7 @@ year: 2021
 bibkey: voropaev2021transformers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.10487"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 In this paper, we explore various multilingual and Russian pre-trained
 transformer-based models for the Dialogue Evaluation 2021 shared task on

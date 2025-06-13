@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02864"}
-tags: ['Few-Shot', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) pre-trained on massive corpora have demonstrated
 impressive few-shot learning capability on many NLP tasks. Recasting an NLP

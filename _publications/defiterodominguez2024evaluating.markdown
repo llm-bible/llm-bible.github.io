@@ -7,7 +7,7 @@ year: 2024
 bibkey: defiterodominguez2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20360"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
 ---
 Digital Simulations (DS) provide safe environments where users interact with
 an agent through conversational prompts, providing engaging learning

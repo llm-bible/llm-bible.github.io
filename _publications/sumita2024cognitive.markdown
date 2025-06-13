@@ -7,7 +7,7 @@ year: 2024
 bibkey: sumita2024cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.00323"}
-tags: ['Ethics and Bias', 'Model Architecture', 'GPT', 'Survey Paper']
+tags: ['Survey Paper', 'GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 Large Language Models (LLMs) are trained on large corpora written by humans
 and demonstrate high performance on various tasks. However, as humans are

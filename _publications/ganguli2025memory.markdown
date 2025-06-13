@@ -7,7 +7,7 @@ year: 2025
 bibkey: ganguli2025memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.05177"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) assist in specialized tasks but struggle to
 align with evolving domain knowledge without costly fine-tuning. Domain

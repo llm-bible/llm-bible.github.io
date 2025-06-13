@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024see
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.07544"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Interpretability and Explainability']
 ---
 Knowledge-editing updates knowledge of large language models (LLMs) and
 contributes to the interpretability and application of LLMs. However, knowledge

@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024two
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19318"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 The limited context window of contemporary large language models (LLMs)
 remains a huge barrier to their broader application across various domains.

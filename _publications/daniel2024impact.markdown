@@ -7,7 +7,7 @@ year: 2024
 bibkey: daniel2024impact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14490"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 The advancement of large language models has significantly improved natural
 language processing. However, challenges such as jailbreaks (prompt injections

@@ -8,7 +8,7 @@ bibkey: xu2024interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11736"}
   - {name: "Code", url: "https://github.com/xufangzhi/ENVISIONS"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 One of the primary driving forces contributing to the superior performance of
 Large Language Models (LLMs) is the extensive availability of human-annotated

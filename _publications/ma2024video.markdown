@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024video
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11182"}
-tags: ['RAG', 'Pruning', 'Multimodal Models']
+tags: ['RAG', 'Multimodal Models', 'Pruning']
 ---
 Multimodal large language models (MLLMs) have demonstrated remarkable
 potential for enhancing scene understanding in autonomous driving systems

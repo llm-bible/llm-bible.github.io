@@ -7,7 +7,7 @@ year: 2023
 bibkey: bhat2023investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08210"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 As we embark on a new era of LLMs, it becomes increasingly crucial to
 understand their capabilities, limitations, and differences. Toward making

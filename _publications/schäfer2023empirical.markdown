@@ -7,7 +7,7 @@ year: 2023
 bibkey: schäfer2023empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.06527"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 Unit tests play a key role in ensuring the correctness of software. However,
 manually creating unit tests is a laborious task, motivating the need for

@@ -7,7 +7,7 @@ year: 2020
 bibkey: kejriwal2020do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.09159"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 Recently, transformer-based methods such as RoBERTa and GPT-3 have led to
 significant experimental advances in natural language processing tasks such as

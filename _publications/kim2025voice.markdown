@@ -7,7 +7,7 @@ year: 2025
 bibkey: kim2025voice
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08687"}
-tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning', 'Tools']
 ---
 Writing well requires not only expressing ideas but also refining them
 through revision, a process facilitated by reflection. Prior research suggests

@@ -7,7 +7,7 @@ year: 2019
 bibkey: puduppully2019data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1906.03221"}
-tags: ['Language Modeling', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Language Modeling', 'Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Recent approaches to data-to-text generation have shown great promise thanks
 to the use of large-scale datasets and the application of neural network

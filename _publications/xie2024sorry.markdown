@@ -8,7 +8,7 @@ bibkey: xie2024sorry
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14598"}
   - {name: "Code", url: "https://sorry-bench.github.io"}
-tags: ['Responsible AI', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Evaluating aligned large language models' (LLMs) ability to recognize and
 reject unsafe user requests is crucial for safe, policy-compliant deployments.

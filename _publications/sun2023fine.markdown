@@ -8,7 +8,7 @@ bibkey: sun2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05863"}
   - {name: "Code", url: "https://github.com/BriansIDP/AudioVisualLLM.git,"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Has Code', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Audio-visual large language models (LLM) have drawn significant attention,
 yet the fine-grained combination of both input streams is rather

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lcmteam2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08821"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 LLMs have revolutionized the field of artificial intelligence and have
 emerged as the de-facto tool for many tasks. The current established technology

@@ -7,7 +7,7 @@ year: 2024
 bibkey: brivaiglesias2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07681"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 This study evaluates the machine translation (MT) quality of two
 state-of-the-art large language models (LLMs) against a tradition-al neural

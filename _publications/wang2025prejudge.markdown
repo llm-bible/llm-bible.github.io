@@ -8,7 +8,7 @@ bibkey: wang2025prejudge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13500"}
   - {name: "Code", url: "https://github.com/wjn1996/Prejudge-Before-Think"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 In this paper, we introduce a new *process prejudge* strategy in LLM
 reasoning to demonstrate that bootstrapping with process prejudge allows the

@@ -8,7 +8,7 @@ bibkey: bell2024output
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05305"}
   - {name: "Code", url: "https://github.com/joaopfonseca/outputscouting)"}
-tags: ['Responsible AI', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'Transformer', 'Tools', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Recent high profile incidents in which the use of Large Language Models
 (LLMs) resulted in significant harm to individuals have brought about a growing

@@ -7,7 +7,7 @@ year: 2022
 bibkey: goyal2022news
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2209.12356v2"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The recent success of prompting large language models like GPT-3 has led to a
 paradigm shift in NLP research. In this paper, we study its impact on text

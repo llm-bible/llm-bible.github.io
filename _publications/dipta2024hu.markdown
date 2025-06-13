@@ -8,7 +8,7 @@ bibkey: dipta2024hu
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11815"}
   - {name: "Code", url: "https://github.com/dipta007/SemEval24-Task8"}
-tags: ['Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'Has Code', 'Applications']
+tags: ['Applications', 'Language Modeling', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
 ---
 This paper describes our system developed for SemEval-2024 Task 8,
 ``Multigenerator, Multidomain, and Multilingual Black-Box Machine-Generated

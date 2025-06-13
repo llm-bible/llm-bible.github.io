@@ -7,7 +7,7 @@ year: 2023
 bibkey: druga2023scratch
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10417"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 How can AI enhance creative coding experiences for families? This study
 explores the potential of large language models (LLMs) in helping families with

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00801"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Applications']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The rise of large language models (LLMs) has significantly transformed both
 the construction and application of information retrieval (IR) systems.

@@ -7,7 +7,7 @@ year: 2025
 bibkey: yu2025multicultural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.09814"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Slot-filling and intent detection are well-established tasks in
 Conversational AI. However, current large-scale benchmarks for these tasks

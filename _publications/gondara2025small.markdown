@@ -7,7 +7,7 @@ year: 2025
 bibkey: gondara2025small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.21191"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pretraining Methods', 'Applications', 'Reinforcement Learning']
 ---
 This study aims to guide language model selection by investigating: 1) the
 necessity of finetuning versus zero-shot usage, 2) the benefits of

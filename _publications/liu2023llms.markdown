@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09766"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Automatic evaluation of generated textual content presents an ongoing
 challenge within the field of NLP. Given the impressive capabilities of modern

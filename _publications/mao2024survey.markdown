@@ -8,7 +8,7 @@ bibkey: mao2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11046"}
   - {name: "Code", url: "https://github.com/ZJU-LLMs/Awesome-LoRAs.git}{https://github.com/ZJU-LLMs/Awesome-LoRAs.git"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Low-Rank Adaptation~(LoRA), which updates the dense neural network layers
 with pluggable low-rank matrices, is one of the best performed parameter

@@ -8,7 +8,7 @@ bibkey: kim2024shortened
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02834"}
   - {name: "Code", url: "https://github.com/Nota-NetsPresso/shortened-llm"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Structured pruning of modern large language models (LLMs) has emerged as a
 way of decreasing their high computational needs. Width pruning reduces the

@@ -7,7 +7,7 @@ year: 2024
 bibkey: maharjan2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.19371"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Ethics and Bias', 'RAG', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 LLMs have become increasingly capable at accomplishing a range of
 specialized-tasks and can be utilized to expand equitable access to medical

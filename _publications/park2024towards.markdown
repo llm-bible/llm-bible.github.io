@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.08248"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent breakthroughs in text-to-image models have opened up promising
 research avenues in personalized image generation, enabling users to create

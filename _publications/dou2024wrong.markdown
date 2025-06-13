@@ -7,7 +7,7 @@ year: 2024
 bibkey: dou2024wrong
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06153"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 The increasing development of large language models (LLMs) in code generation
 has drawn significant attention among researchers. To enhance LLM-based code

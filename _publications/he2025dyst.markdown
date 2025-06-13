@@ -8,7 +8,7 @@ bibkey: he2025dyst
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15032"}
   - {name: "Code", url: "https://github.com/XiaoBuL/DyST-XL"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Compositional text-to-video generation, which requires synthesizing dynamic
 scenes with multiple interacting entities and precise spatial-temporal

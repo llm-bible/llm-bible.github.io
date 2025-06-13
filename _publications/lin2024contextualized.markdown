@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024contextualized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01806"}
-tags: ['Prompting', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 The advent of large language models (LLMs) has dramatically advanced the
 state-of-the-art in numerous natural language generation tasks. For LLMs to be

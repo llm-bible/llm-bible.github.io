@@ -7,7 +7,7 @@ year: 2024
 bibkey: strugatski2024applying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02713"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Generative AI is transforming the educational landscape, raising significant
 concerns about cheating. Despite the widespread use of multiple-choice

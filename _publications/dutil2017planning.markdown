@@ -7,7 +7,7 @@ year: 2017
 bibkey: dutil2017planning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1711.10462"}
-tags: ['Agentic', 'WMT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
+tags: ['Agentic', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 We investigate the integration of a planning mechanism into
 sequence-to-sequence models using attention. We develop a model which can plan

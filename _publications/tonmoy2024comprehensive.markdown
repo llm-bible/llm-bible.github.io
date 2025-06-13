@@ -7,7 +7,7 @@ year: 2024
 bibkey: tonmoy2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.01313"}
-tags: ['Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Survey Paper', 'Applications', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 As Large Language Models (LLMs) continue to advance in their ability to write
 human-like text, a key challenge remains around their tendency to hallucinate

@@ -7,7 +7,7 @@ year: 2024
 bibkey: pavlovic2024effectiveness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01299"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have emerged as powerful support tools across
 various natural language tasks and a range of application domains. Recent

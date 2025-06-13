@@ -7,7 +7,7 @@ year: 2024
 bibkey: booker2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23968"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Attention Mechanism']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Recent advances in Large Language Models (LLMs) have helped facilitate
 exciting progress for robotic planning in real, open-world environments. 3D

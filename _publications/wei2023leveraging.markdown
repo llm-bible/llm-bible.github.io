@@ -7,7 +7,7 @@ year: 2023
 bibkey: wei2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.05843"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Reinforcement Learning']
 ---
 Large language models (LLMs) provide a new way to build chatbots by accepting
 natural language prompts. Yet, it is unclear how to design prompts to power

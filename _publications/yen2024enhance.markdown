@@ -7,7 +7,7 @@ year: 2024
 bibkey: yen2024enhance
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05036"}
-tags: ['Security', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Multimodal Models', 'Prompting']
 ---
 Converting different modalities into general text, serving as input prompts
 for large language models (LLMs), is a common method to align multimodal models

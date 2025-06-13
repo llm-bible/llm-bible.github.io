@@ -8,7 +8,7 @@ bibkey: zhang2025train
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13533"}
   - {name: "Code", url: "https://github.com/junzhang-zj/LoRAM"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pruning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
 ---
 Large Language Models (LLMs) have significantly advanced natural language
 processing with exceptional task generalization capabilities. Low-Rank Adaption

@@ -7,7 +7,7 @@ year: 2025
 bibkey: kovács2025hallucination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17125"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'BERT', 'Prompting', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Prompting']
 ---
 Retrieval Augmented Generation (RAG) systems remain vulnerable to
 hallucinated answers despite incorporating external knowledge sources. We

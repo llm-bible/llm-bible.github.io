@@ -7,7 +7,7 @@ year: 2024
 bibkey: padula2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17126"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques']
 ---
 Proximal Policy Optimization (PPO) is commonly used in Reinforcement Learning
 from Human Feedback to align large language models (LLMs) with downstream

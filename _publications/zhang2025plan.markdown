@@ -8,7 +8,7 @@ bibkey: zhang2025plan
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14563"}
   - {name: "Code", url: "https://github.com/zsq259/Plan-over-Graph"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large Language Models (LLMs) have demonstrated exceptional abilities in
 reasoning for task planning. However, challenges remain under-explored for

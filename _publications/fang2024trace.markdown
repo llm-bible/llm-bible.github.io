@@ -7,7 +7,7 @@ year: 2024
 bibkey: fang2024trace
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11460"}
-tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Retrieval-augmented generation (RAG) offers an effective approach for
 addressing question answering (QA) tasks. However, the imperfections of the

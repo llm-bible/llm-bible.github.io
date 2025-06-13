@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024relation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.19021"}
-tags: ['Prompting', 'Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Multimodal Models', 'Prompting', 'Reinforcement Learning']
 ---
 Open-vocabulary Scene Graph Generation (OV-SGG) overcomes the limitations of
 the closed-set assumption by aligning visual relationship representations with

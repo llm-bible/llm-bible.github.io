@@ -7,7 +7,7 @@ year: 2024
 bibkey: radhakrishnan2024knowing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13741"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are prone to generating factually incorrect
 information when responding to queries that involve numerical and statistical

@@ -7,7 +7,7 @@ year: 2023
 bibkey: hoang2023fusion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08306"}
-tags: ['Prompting', 'Merging', 'Applications']
+tags: ['Prompting', 'Applications', 'Merging']
 ---
 We propose the on-the-fly ensembling of a machine translation model with an
 LLM, prompted on the same task and input. We perform experiments on 4 language

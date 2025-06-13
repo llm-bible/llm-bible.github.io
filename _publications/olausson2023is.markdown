@@ -7,7 +7,7 @@ year: 2023
 bibkey: olausson2023is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.09896"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Reinforcement Learning']
+tags: ['Model Architecture', 'GPT', 'Applications', 'Reinforcement Learning']
 ---
 Large language models have shown remarkable aptitude in code generation, but
 still struggle to perform complex tasks. Self-repair -- in which the model

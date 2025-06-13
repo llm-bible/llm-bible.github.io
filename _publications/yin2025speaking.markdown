@@ -7,7 +7,7 @@ year: 2025
 bibkey: yin2025speaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21544"}
-tags: ['Tools', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Prompting']
 ---
 Intent, typically clearly formulated and planned, functions as a cognitive
 framework for reasoning and problem-solving. This paper introduces the concept

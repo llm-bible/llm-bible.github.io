@@ -7,7 +7,7 @@ year: 2022
 bibkey: huang2022clues
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.00274"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 A trending paradigm for multiple-choice question answering (MCQA) is using a
 text-to-text framework. By unifying data in different tasks into a single

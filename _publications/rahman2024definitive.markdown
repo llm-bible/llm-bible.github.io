@@ -8,7 +8,7 @@ bibkey: rahman2024definitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09155"}
   - {name: "Code", url: "https://github.com/ashikiut/DefAn}{https://github.com/ashikiut/DefAn"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities,
 revolutionizing the integration of AI in daily life applications. However, they

@@ -7,7 +7,7 @@ year: 2021
 bibkey: li2021self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.05197"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'RecSys']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'RecSys']
 ---
 Conversational recommender systems offer the promise of interactive, engaging
 ways for users to find items they enjoy. We seek to improve conversational

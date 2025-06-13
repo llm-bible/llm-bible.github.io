@@ -7,7 +7,7 @@ year: 2019
 bibkey: hua2019sentence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.00734"}
-tags: ['Language Modeling', 'Applications', 'RAG']
+tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Building effective text generation systems requires three critical
 components: content selection, text planning, and surface realization, and

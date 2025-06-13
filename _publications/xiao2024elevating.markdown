@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiao2024elevating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05248"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 To acquire instruction-following capabilities, large language models (LLMs)
 undergo instruction tuning, where they are trained on instruction-response

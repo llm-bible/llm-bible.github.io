@@ -7,7 +7,7 @@ year: 2022
 bibkey: tang2022event
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.12463"}
-tags: ['RAG', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Transformer', 'Model Architecture']
 ---
 One of the key challenges of automatic story generation is how to generate a
 long narrative that can maintain fluency, relevance, and coherence. Despite

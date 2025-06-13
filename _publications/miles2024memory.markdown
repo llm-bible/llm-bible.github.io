@@ -7,7 +7,7 @@ year: 2024
 bibkey: miles2024memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17991"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have recently emerged as powerful tools for
 tackling many language-processing tasks. Despite their success, training and

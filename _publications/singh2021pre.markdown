@@ -7,7 +7,7 @@ year: 2021
 bibkey: singh2021pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.08408"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recently, text world games have been proposed to enable artificial agents to
 understand and reason about real-world scenarios. These text-based games are

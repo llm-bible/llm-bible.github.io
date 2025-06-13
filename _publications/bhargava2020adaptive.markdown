@@ -7,7 +7,7 @@ year: 2020
 bibkey: bhargava2020adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.07486"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 The usage of transformers has grown from learning about language semantics to
 forming meaningful visiolinguistic representations. These architectures are

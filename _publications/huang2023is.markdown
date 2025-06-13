@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.07736"}
-tags: ['Model Architecture', 'GPT', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Prompting']
 ---
 Recent studies have alarmed that many online hate speeches are implicit. With
 its subtle nature, the explainability of the detection of such hateful speech

@@ -8,7 +8,7 @@ bibkey: xiao2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02469"}
   - {name: "Code", url: "https://github.com/Yijia-Xiao/PrivacyMind"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The proliferation of Large Language Models (LLMs) has driven considerable
 interest in fine-tuning them with domain-specific data to create specialized

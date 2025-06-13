@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024natural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15441"}
-tags: ['Efficiency and Optimization', 'Tools', 'RAG', 'Merging', 'RecSys']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Merging', 'RecSys']
 ---
 Recently, large language models (LLMs) have demonstrated exceptional
 capabilities in serving as the foundation for AI assistants. One emerging

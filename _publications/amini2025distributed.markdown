@@ -7,7 +7,7 @@ year: 2025
 bibkey: amini2025distributed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16585"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Survey Paper', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'Large-Scale Training', 'Training Techniques', 'Security', 'Pretraining Methods', 'Multimodal Models']
 ---
 Language models (LMs) are machine learning models designed to predict
 linguistic patterns by estimating the probability of word sequences based on

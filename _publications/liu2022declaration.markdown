@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022declaration
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.02456"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Few-Shot', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 In recent years, the pre-training-then-fine-tuning paradigm has yielded
 immense success on a wide spectrum of cross-modal tasks, such as visual

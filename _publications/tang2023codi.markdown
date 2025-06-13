@@ -7,7 +7,7 @@ year: 2023
 bibkey: tang2023codi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.18775"}
-tags: ['Multimodal Models', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 We present CoDi-2, a versatile and interactive Multimodal Large Language
 Model (MLLM) that can follow complex multimodal interleaved instructions,

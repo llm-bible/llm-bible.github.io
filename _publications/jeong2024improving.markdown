@@ -7,7 +7,7 @@ year: 2024
 bibkey: jeong2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12701"}
-tags: ['Language Modeling', 'Training Techniques', 'Applications', 'Tools']
+tags: ['Applications', 'Training Techniques', 'Language Modeling', 'Tools']
 ---
 In the medical domain, numerous scenarios necessitate the long-form
 generation ability of large language models (LLMs). Specifically, when

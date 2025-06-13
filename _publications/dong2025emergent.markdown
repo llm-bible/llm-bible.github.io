@@ -7,7 +7,7 @@ year: 2025
 bibkey: dong2025emergent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06258"}
-tags: ['Prompting', 'Ethics and Bias', 'Interpretability', 'Applications']
+tags: ['Interpretability', 'Ethics and Bias', 'Prompting', 'Applications']
 ---
 In this work, we argue that large language models (LLMs), though trained to
 predict only the next token, exhibit emergent planning behaviors:

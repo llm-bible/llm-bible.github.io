@@ -8,7 +8,7 @@ bibkey: lu2017best
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1706.01554"}
   - {name: "Code", url: "https://github.com/jiasenlu/visDial.pytorch"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 We present a novel training framework for neural sequence models,
 particularly for grounded dialog generation. The standard training paradigm for

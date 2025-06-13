@@ -7,7 +7,7 @@ year: 2024
 bibkey: raza2024bias
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04220"}
-tags: ['Responsible AI', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) have greatly enhanced
 natural language processing (NLP) applications. Nevertheless, these models

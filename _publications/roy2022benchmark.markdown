@@ -7,7 +7,7 @@ year: 2022
 bibkey: roy2022benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.10668"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent work has shown that generation from a prompted or fine-tuned language
 model can perform well at semantic parsing when the output is constrained to be

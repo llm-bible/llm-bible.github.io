@@ -7,7 +7,7 @@ year: 2025
 bibkey: pilcher2025purposefully
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12012"}
-tags: ['Responsible AI', 'RAG', 'Ethics and Bias', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'Ethics and Bias', 'RAG']
 ---
 Hallucinations in Large Language Models (LLMs) are widely regarded as errors
 - outputs that deviate from factual accuracy. However, in creative or

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kalajdzievski2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.05605"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Pretraining Methods', 'Large-Scale Training', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
 ---
 We study and quantify the problem of forgetting when fine-tuning pre-trained
 large language models (LLMs) on a downstream task. We find that

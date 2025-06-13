@@ -7,7 +7,7 @@ year: 2025
 bibkey: dobslaw2025challenges
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00481"}
-tags: ['Agentic', 'ACL', 'Tools']
+tags: ['ACL', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) and Multi-Agent LLMs (MALLMs) introduce
 non-determinism unlike traditional or machine learning software, requiring new

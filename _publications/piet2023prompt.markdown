@@ -8,7 +8,7 @@ bibkey: piet2023prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17673"}
   - {name: "Code", url: "https://github.com/wagner-group/prompt-injection-defense"}
-tags: ['Security', 'Model Architecture', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) are attracting significant research attention
 due to their instruction-following abilities, allowing users and developers to

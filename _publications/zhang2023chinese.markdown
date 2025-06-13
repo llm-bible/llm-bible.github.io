@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023chinese
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14471"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Generative chat models, such as ChatGPT and GPT-4, have revolutionized
 natural language generation (NLG) by incorporating instructions and human

@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024guardians
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15623"}
-tags: ['Responsible AI', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Identifying offensive language is essential for maintaining safety and
 sustainability in the social media era. Though large language models (LLMs)

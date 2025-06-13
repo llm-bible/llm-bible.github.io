@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025examining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08856"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Extracting key concepts and their relationships from course information and
 materials facilitates the provision of visualizations and recommendations for

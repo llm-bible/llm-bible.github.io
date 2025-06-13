@@ -7,7 +7,7 @@ year: 2024
 bibkey: yadav2024redefining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.03855"}
-tags: ['Prompting', 'Ethics and Bias', 'Security', 'Applications']
+tags: ['Security', 'Prompting', 'Ethics and Bias', 'Applications']
 ---
 Driven by the surge in code generation using large language models (LLMs),
 numerous benchmarks have emerged to evaluate these LLMs capabilities. We

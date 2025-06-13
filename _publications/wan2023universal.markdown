@@ -7,7 +7,7 @@ year: 2023
 bibkey: wan2023universal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14926"}
-tags: ['Prompting', 'In-Context Learning', 'Applications', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning', 'Applications']
 ---
 A hallmark of modern large language models (LLMs) is their impressive general
 zero-shot and few-shot abilities, often elicited through in-context learning

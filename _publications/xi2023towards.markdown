@@ -7,7 +7,7 @@ year: 2023
 bibkey: xi2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.10933"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RecSys', 'Prompting']
+tags: ['Tools', 'Reinforcement Learning', 'Training Techniques', 'RecSys', 'Prompting']
 ---
 Recommender systems play a vital role in various online services. However,
 the insulated nature of training and deploying separately within a specific

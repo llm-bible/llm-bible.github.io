@@ -7,7 +7,7 @@ year: 2024
 bibkey: keles2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12126"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Machine translation is indispensable in healthcare for enabling the global
 dissemination of medical knowledge across languages. However, complex medical

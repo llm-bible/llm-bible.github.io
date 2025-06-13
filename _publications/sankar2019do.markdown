@@ -7,7 +7,7 @@ year: 2019
 bibkey: sankar2019do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1906.01603"}
-tags: ['Agentic', 'Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Pretraining Methods']
 ---
 Neural generative models have been become increasingly popular when building
 conversational agents. They offer flexibility, can be easily adapted to new

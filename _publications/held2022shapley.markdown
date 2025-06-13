@@ -7,7 +7,7 @@ year: 2022
 bibkey: held2022shapley
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.05709"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Few-Shot', 'Pruning', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
 ---
 Multilingual transformer-based models demonstrate remarkable zero and
 few-shot transfer across languages by learning and reusing language-agnostic

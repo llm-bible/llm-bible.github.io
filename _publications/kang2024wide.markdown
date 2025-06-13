@@ -7,7 +7,7 @@ year: 2024
 bibkey: kang2024wide
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15456"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
 ---
 Significant methodological strides have been made toward Chest X-ray (CXR)
 understanding via modern vision-language models (VLMs), demonstrating

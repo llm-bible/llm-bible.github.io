@@ -7,7 +7,7 @@ year: 2020
 bibkey: li2020transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.10839"}
-tags: ['Multimodal Models', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 Audio Visual Scene-aware Dialog (AVSD) is a task to generate responses when
 discussing about a given video. The previous state-of-the-art model shows

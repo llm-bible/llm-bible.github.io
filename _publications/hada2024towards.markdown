@@ -7,7 +7,7 @@ year: 2024
 bibkey: hada2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01667"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
 ---
 With the rising human-like precision of Large Language Models (LLMs) in
 numerous tasks, their utilization in a variety of real-world applications is

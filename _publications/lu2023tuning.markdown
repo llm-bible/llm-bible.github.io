@@ -8,7 +8,7 @@ bibkey: lu2023tuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08239"}
   - {name: "Code", url: "https://github.com/LuJunru/MemoChat"}
-tags: ['Has Code', 'Tools']
+tags: ['Tools', 'Has Code']
 ---
 We propose MemoChat, a pipeline for refining instructions that enables large
 language models (LLMs) to effectively employ self-composed memos for

@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025intrinsic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16491"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism']
 ---
 Large language models (LLMs) have significantly influenced various industries
 but suffer from a critical flaw, the potential sensitivity of generating

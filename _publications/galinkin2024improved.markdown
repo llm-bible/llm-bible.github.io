@@ -7,7 +7,7 @@ year: 2024
 bibkey: galinkin2024improved
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01547"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Training Techniques', 'Tools', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'Applications', 'Security', 'Training Techniques', 'Prompting']
 ---
 The adoption of large language models (LLMs) in many applications, from
 customer service chat bots and software development assistants to more capable

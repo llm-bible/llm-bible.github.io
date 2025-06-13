@@ -7,7 +7,7 @@ year: 2021
 bibkey: hashemi2021learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.04993"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Pre-training visual and textual representations from large-scale image-text
 pairs is becoming a standard approach for many downstream vision-language

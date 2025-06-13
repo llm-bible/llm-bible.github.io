@@ -8,7 +8,7 @@ bibkey: jiang2024toolkit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03346"}
   - {name: "Code", url: "https://github.com/cofe-ai/Sketch"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) represented by GPT family have achieved
 remarkable success. The characteristics of LLMs lie in their ability to

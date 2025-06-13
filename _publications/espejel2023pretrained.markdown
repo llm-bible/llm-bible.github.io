@@ -7,7 +7,7 @@ year: 2023
 bibkey: espejel2023pretrained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12869"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Pretrained transformer-based models have shown high performance in natural
 language generation task. However, a new wave of interest has surged: automatic

@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.00665"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Automated Machine Learning (AutoML) offers a promising approach to streamline
 the training of machine learning models. However, existing AutoML frameworks

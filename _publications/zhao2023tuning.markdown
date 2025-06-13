@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023tuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11420"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 This paper introduces an efficient strategy to transform Large Language
 Models (LLMs) into Multi-Modal Large Language Models (MLLMs). By

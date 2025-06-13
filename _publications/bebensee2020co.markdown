@@ -7,7 +7,7 @@ year: 2020
 bibkey: bebensee2020co
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.14104"}
-tags: ['Agentic', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Inspired by recent trends in vision and language learning, we explore
 applications of attention mechanisms for visio-lingual fusion within an

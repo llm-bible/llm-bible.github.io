@@ -7,7 +7,7 @@ year: 2024
 bibkey: gautam2024robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03134"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Ethics and Bias']
+tags: ['Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Robust, faithful and harm-free pronoun use for individuals is an important
 goal for language model development as their use increases, but prior work

@@ -7,7 +7,7 @@ year: 2023
 bibkey: gilabert2023re
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11761"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Our proposed method, ReSeTOX (REdo SEarch if TOXic), addresses the issue of
 Neural Machine Translation (NMT) generating translation outputs that contain

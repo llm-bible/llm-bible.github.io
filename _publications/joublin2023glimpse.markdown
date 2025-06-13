@@ -7,7 +7,7 @@ year: 2023
 bibkey: joublin2023glimpse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.06087"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Large language models (LLMs) have recently become a popular topic in the
 field of Artificial Intelligence (AI) research, with companies such as Google,

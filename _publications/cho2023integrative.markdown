@@ -7,7 +7,7 @@ year: 2023
 bibkey: cho2023integrative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17017"}
-tags: ['Responsible AI', 'Agentic', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Attention Mechanism']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Attention Mechanism']
 ---
 Mental health conversational agents (a.k.a. chatbots) are widely studied for
 their potential to offer accessible support to those experiencing mental health

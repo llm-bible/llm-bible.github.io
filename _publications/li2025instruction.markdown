@@ -8,7 +8,7 @@ bibkey: li2025instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18556"}
   - {name: "Code", url: "https://github.com/Lee-lab558/IAVA"}
-tags: ['Has Code', 'Multimodal Models', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Multimodal Models', 'Has Code', 'Model Architecture']
 ---
 Despite the significant success of Large Vision-Language models(LVLMs), these
 models still suffer hallucinations when describing images, generating answers

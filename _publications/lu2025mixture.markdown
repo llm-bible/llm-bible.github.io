@@ -8,7 +8,7 @@ bibkey: lu2025mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13189"}
   - {name: "Code", url: "https://github.com/MoonshotAI/MoBA"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 Scaling the effective context length is essential for advancing large
 language models (LLMs) toward artificial general intelligence (AGI). However,

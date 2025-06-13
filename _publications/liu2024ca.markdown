@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024ca
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13701"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Effective communication in automated chat systems hinges on the ability to
 understand and respond to context. Traditional models often struggle with

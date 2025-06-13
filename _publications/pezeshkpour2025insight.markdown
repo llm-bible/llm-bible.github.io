@@ -7,7 +7,7 @@ year: 2025
 bibkey: pezeshkpour2025insight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00187"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) frameworks have shown significant
 promise in leveraging external knowledge to enhance the performance of large

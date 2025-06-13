@@ -7,7 +7,7 @@ year: 2023
 bibkey: feldman2023trapping
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06085"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Recent advances in large language models (LLMs), such as ChatGPT, have led to
 highly sophisticated conversation agents. However, these models suffer from

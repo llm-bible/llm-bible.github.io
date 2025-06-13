@@ -8,7 +8,7 @@ bibkey: kim2025optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.15191"}
   - {name: "Code", url: "https://github.com/seohyunwoo-0407/GAR"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Retrieval-Augmented Generation (RAG) has emerged as a promising framework to
 mitigate hallucinations in Large Language Models (LLMs), yet its overall

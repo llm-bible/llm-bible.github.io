@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023detectgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14479"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Prompting', 'Model Architecture']
 ---
 General large language models (LLMs) such as ChatGPT have shown remarkable
 success, but it has also raised concerns among people about the misuse of

@@ -7,7 +7,7 @@ year: 2018
 bibkey: hupkes2018analysing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.09178"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 We investigate how encoder-decoder models trained on a synthetic dataset of
 task-oriented dialogues process disfluencies, such as hesitations and

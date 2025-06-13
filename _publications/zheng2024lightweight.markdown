@@ -7,7 +7,7 @@ year: 2024
 bibkey: zheng2024lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14398"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 With the recent proliferation of large language models (LLMs), enterprises
 have been able to rapidly develop proof-of-concepts and prototypes. As a

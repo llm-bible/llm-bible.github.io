@@ -7,7 +7,7 @@ year: 2023
 bibkey: kassem2023mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.01550"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'BERT', 'Prompting']
+tags: ['Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'BERT', 'Prompting']
 ---
 Large Language models (LLMs) are trained on large amounts of data, which can
 include sensitive information that may compromise personal privacy. LLMs showed

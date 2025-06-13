@@ -8,7 +8,7 @@ bibkey: pan2025beneath
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19749"}
   - {name: "Code", url: "https://github.com/JP-25/Hidden-Bias-Benchmark"}
-tags: ['Ethics and Bias', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Has Code', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 The exceptional performance of Large Language Models (LLMs) often comes with
 the unintended propagation of social biases embedded in their training data.

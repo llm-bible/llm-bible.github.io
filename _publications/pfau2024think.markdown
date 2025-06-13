@@ -7,7 +7,7 @@ year: 2024
 bibkey: pfau2024think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.15758"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Chain-of-thought responses from language models improve performance across
 most benchmarks. However, it remains unclear to what extent these performance

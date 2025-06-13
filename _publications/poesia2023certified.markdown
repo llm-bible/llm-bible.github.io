@@ -7,7 +7,7 @@ year: 2023
 bibkey: poesia2023certified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.04031"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Language models often achieve higher accuracy when reasoning step-by-step in
 complex tasks. However, even when arriving at a correct final answer, their

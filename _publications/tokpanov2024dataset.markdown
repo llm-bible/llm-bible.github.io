@@ -7,7 +7,7 @@ year: 2024
 bibkey: tokpanov2024dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01981"}
-tags: ['Pretraining Methods', 'Language Modeling', 'Training Techniques', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Language Modeling', 'Pretraining Methods']
 ---
 The size of large language models (LLMs) has scaled dramatically in recent
 years and their computational and data requirements have surged

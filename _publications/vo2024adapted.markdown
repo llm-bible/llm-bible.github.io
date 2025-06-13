@@ -7,7 +7,7 @@ year: 2024
 bibkey: vo2024adapted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11294"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The field of Natural Language Processing (NLP) has seen significant
 advancements with the development of Large Language Models (LLMs). However,

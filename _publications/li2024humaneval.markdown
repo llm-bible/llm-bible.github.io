@@ -8,7 +8,7 @@ bibkey: li2024humaneval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14852"}
   - {name: "Code", url: "https://github.com/daniel442li/gpt-human-eval"}
-tags: ['Model Architecture', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 In 2023, we are using the latest models of GPT-4 to advance program
 synthesis. The large language models have significantly improved the

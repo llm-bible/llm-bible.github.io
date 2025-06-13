@@ -8,7 +8,7 @@ bibkey: tang2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10537"}
   - {name: "Code", url: "https://github.com/gersteinlab/MedAgents"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large language models (LLMs), despite their remarkable progress across
 various general domains, encounter significant barriers in medicine and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17171"}
-tags: ['Tokenization', 'RAG', 'Training Techniques']
+tags: ['RAG', 'Training Techniques', 'Tokenization']
 ---
 Generative recommendation systems, driven by large language models (LLMs),
 present an innovative approach to predicting user preferences by modeling items

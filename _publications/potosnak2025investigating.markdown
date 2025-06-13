@@ -7,7 +7,7 @@ year: 2025
 bibkey: potosnak2025investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06037"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
 ---
 Large pre-trained time series foundation models (TSFMs) have demonstrated
 promising zero-shot performance across a wide range of domains. However, a

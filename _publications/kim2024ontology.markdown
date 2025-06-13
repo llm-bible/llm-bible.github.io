@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024ontology
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07088"}
-tags: ['Language Modeling', 'Applications', 'RAG']
+tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 Knowledge Graph-to-Text (G2T) generation involves verbalizing structured
 knowledge graphs into natural language text. Recent advancements in Pretrained

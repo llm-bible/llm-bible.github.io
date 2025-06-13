@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024pioneering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15236"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, both closed-source LLMs and open-source communities have made
 significant strides, outperforming humans in various general domains. However,

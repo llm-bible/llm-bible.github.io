@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01768"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 To deliver high-quality, personalized responses, large language models (LLMs)
 must effectively incorporate context -- personal, demographic, and cultural

@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03169"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Model Architecture']
+tags: ['Fine-Tuning', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs), known for their exceptional reasoning
 capabilities, generalizability, and fluency across diverse domains, present a

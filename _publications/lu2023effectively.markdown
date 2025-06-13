@@ -7,7 +7,7 @@ year: 2023
 bibkey: lu2023effectively
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.01504"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Writing radiology reports from medical images requires a high level of domain
 expertise. It is time-consuming even for trained radiologists and can be

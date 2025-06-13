@@ -7,7 +7,7 @@ year: 2023
 bibkey: dong2023blockwise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.01483"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
 ---
 Transformer-based models, exemplified by GPT-3, ChatGPT, and GPT-4, have
 recently garnered considerable attention in both academia and industry due to

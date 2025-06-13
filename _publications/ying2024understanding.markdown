@@ -7,7 +7,7 @@ year: 2024
 bibkey: ying2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12022"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Agentic', 'Multimodal Models', 'Model Architecture']
 ---
 How do people understand and evaluate claims about others' beliefs, even
 though these beliefs cannot be directly observed? In this paper, we introduce a

@@ -8,7 +8,7 @@ bibkey: shen2022parameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.13715"}
   - {name: "Code", url: "https://github.com/yuanyehome/PALT"}
-tags: ['Has Code', 'Applications', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 This paper presents a parameter-lite transfer learning approach of pretrained
 language models (LM) for knowledge graph (KG) completion. Instead of

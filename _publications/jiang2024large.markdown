@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12879"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Large visual-language models (LVLMs) exhibit exceptional performance in
 visual-language reasoning across diverse cross-modal benchmarks. Despite these

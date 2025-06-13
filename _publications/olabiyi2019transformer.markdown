@@ -7,7 +7,7 @@ year: 2019
 bibkey: olabiyi2019transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.01841"}
-tags: ['Training Techniques', 'Model Architecture', 'Tokenization', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
 ---
 Neural dialogue models, despite their successes, still suffer from lack of
 relevance, diversity, and in many cases coherence in their generated responses.

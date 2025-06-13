@@ -7,7 +7,7 @@ year: 2020
 bibkey: dong2020injecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.13401"}
-tags: ['Language Modeling', 'Applications']
+tags: ['Applications', 'Language Modeling']
 ---
 Recent successes in deep generative modeling have led to significant advances
 in natural language generation (NLG). Incorporating entities into neural

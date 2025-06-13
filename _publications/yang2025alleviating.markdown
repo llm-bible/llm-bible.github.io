@@ -8,7 +8,7 @@ bibkey: yang2025alleviating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09757"}
   - {name: "Code", url: "https://github.com/kangyangWHU/LLMAlignment"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated revolutionary capabilities in
 understanding complex contexts and performing a wide range of tasks. However,

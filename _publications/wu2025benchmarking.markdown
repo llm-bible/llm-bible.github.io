@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19467"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) hold great promise for medical applications and
 are evolving rapidly, with new models being released at an accelerated pace.

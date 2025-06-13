@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03027"}
-tags: ['Prompting', 'Security', 'Tools', 'Multimodal Models']
+tags: ['Security', 'Tools', 'Multimodal Models', 'Prompting']
 ---
 With the rapid advancements in Multimodal Large Language Models (MLLMs),
 securing these models against malicious inputs while aligning them with human

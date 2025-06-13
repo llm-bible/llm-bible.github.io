@@ -8,7 +8,7 @@ bibkey: chiang2024over
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11467"}
   - {name: "Code", url: "https://github.com/d223302/Over-Reasoning-of-LLMs"}
-tags: ['Uncategorized', 'Has Code']
+tags: ['Has Code', 'Uncategorized']
 ---
 Large language models (LLMs) can solve problems step-by-step. While this
 chain-of-thought (CoT) reasoning boosts LLMs' performance, it is unclear if

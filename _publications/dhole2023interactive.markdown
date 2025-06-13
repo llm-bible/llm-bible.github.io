@@ -7,7 +7,7 @@ year: 2023
 bibkey: dhole2023interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11226"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 While search is the predominant method of accessing information, formulating
 effective queries remains a challenging task, especially for situations where

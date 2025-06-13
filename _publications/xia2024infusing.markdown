@@ -7,7 +7,7 @@ year: 2024
 bibkey: xia2024infusing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15574"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In traditional research approaches, sensory perception and emotion
 classification have traditionally been considered separate domains. Yet, the

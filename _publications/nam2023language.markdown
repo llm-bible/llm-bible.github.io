@@ -7,7 +7,7 @@ year: 2023
 bibkey: nam2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11127"}
-tags: ['Security', 'Efficiency and Optimization', 'Tools', 'Distillation', 'Merging', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Merging', 'Security', 'Prompting', 'Distillation']
 ---
 By integrating recent advances in large language models (LLMs) and generative
 models into the emerging semantic communication (SC) paradigm, in this article

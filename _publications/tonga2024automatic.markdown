@@ -7,7 +7,7 @@ year: 2024
 bibkey: tonga2024automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.03495"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 The automatic generation of hints by Large Language Models (LLMs) within
 Intelligent Tutoring Systems (ITSs) has shown potential to enhance student

@@ -7,7 +7,7 @@ year: 2025
 bibkey: rodriguez2025ranking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11381"}
-tags: ['Prompting', 'RAG', 'Training Techniques', 'Applications']
+tags: ['RAG', 'Training Techniques', 'Prompting', 'Applications']
 ---
 Although large language models (LLMs) have become generally more capable and
 accurate across many tasks, some fundamental sources of unreliability remain in

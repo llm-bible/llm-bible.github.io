@@ -8,7 +8,7 @@ bibkey: santilli2023italian
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.16456"}
   - {name: "Code", url: "https://github.com/teelinsan/camoscio"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 In recent years Large Language Models (LLMs) have increased the state of the
 art on several natural language processing tasks. However, their accessibility

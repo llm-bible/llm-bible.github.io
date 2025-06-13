@@ -7,7 +7,7 @@ year: 2021
 bibkey: lauscher2021sustainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.03646"}
-tags: ['Training Techniques', 'Fairness', 'Model Architecture', 'Language Modeling', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'BERT']
+tags: ['Ethics and Bias', 'Bias Mitigation', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Fairness']
 ---
 Unfair stereotypical biases (e.g., gender, racial, or religious biases)
 encoded in modern pretrained language models (PLMs) have negative ethical

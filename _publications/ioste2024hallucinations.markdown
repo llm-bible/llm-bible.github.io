@@ -7,7 +7,7 @@ year: 2024
 bibkey: ioste2024hallucinations
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14002"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models with transformer architecture have revolutionized the
 domain of text generation, setting unprecedented benchmarks. Despite their

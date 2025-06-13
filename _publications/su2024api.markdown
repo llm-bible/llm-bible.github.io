@@ -7,7 +7,7 @@ year: 2024
 bibkey: su2024api
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01216"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 This study aims to address the pervasive challenge of quantifying uncertainty
 in large language models (LLMs) without logit-access. Conformal Prediction

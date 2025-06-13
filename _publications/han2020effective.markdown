@@ -7,7 +7,7 @@ year: 2020
 bibkey: han2020effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.15283"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 While pre-trained language models (PTLMs) have achieved noticeable success on
 many NLP tasks, they still struggle for tasks that require event temporal

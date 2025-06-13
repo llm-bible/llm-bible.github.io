@@ -8,7 +8,7 @@ bibkey: shah2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05288"}
   - {name: "Code", url: "https://github.com/ProsusAI/stack-eval"}
-tags: ['Survey Paper', 'Reinforcement Learning', 'Merging', 'Ethics and Bias', 'Has Code']
+tags: ['Survey Paper', 'Ethics and Bias', 'Merging', 'Reinforcement Learning', 'Has Code']
 ---
 We present two comprehensive benchmarks to evaluate the performance of
 language models in coding assistance tasks, covering code writing, debugging,

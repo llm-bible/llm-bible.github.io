@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18111"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Multimodal Models', 'Tools']
 ---
 Large Vision-Language Models (LVLMs) that incorporate visual models and Large
 Language Models (LLMs) have achieved impressive results across various

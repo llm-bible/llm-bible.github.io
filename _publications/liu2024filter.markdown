@@ -8,7 +8,7 @@ bibkey: liu2024filter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09094"}
   - {name: "Code", url: "https://github.com/LB0828/FtG"}
-tags: ['Prompting', 'Applications', 'Has Code', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) present massive inherent knowledge and superior
 semantic comprehension capability, which have revolutionized various tasks in

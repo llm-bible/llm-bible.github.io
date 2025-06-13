@@ -7,7 +7,7 @@ year: 2024
 bibkey: sulimov2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06445"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) are increasingly adopted for complex scientific
 text generation tasks, yet they often suffer from limitations in accuracy,

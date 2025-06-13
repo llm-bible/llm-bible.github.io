@@ -7,7 +7,7 @@ year: 2022
 bibkey: armeni2022characterizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.13569"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 When a language model is trained to predict natural language sequences, its
 prediction at each moment depends on a representation of prior context. What

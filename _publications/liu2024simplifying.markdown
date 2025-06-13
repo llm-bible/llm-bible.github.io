@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024simplifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14789"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'RAG', 'Distillation', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 Contrastive Language-Image Pre-training (CLIP) has attracted a surge of
 attention for its superior zero-shot performance and excellent transferability

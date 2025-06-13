@@ -7,7 +7,7 @@ year: 2023
 bibkey: yin2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06771"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent work has explored integrating autoregressive language models with
 energy-based models (EBMs) to enhance text generation capabilities. However,

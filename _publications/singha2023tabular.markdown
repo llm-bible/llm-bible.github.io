@@ -7,7 +7,7 @@ year: 2023
 bibkey: singha2023tabular
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10358"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+tags: ['Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) are increasingly applied for tabular tasks using
 in-context learning. The prompt representation for a table may play a role in

@@ -8,7 +8,7 @@ bibkey: jiang2023general
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.09645"}
   - {name: "Code", url: "https://github.com/RUCAIBox/StructGPT"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 In this paper, we study how to improve the zero-shot reasoning ability of
 large language models~(LLMs) over structured data in a unified way. Inspired by

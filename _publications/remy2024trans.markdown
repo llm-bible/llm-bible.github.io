@@ -7,7 +7,7 @@ year: 2024
 bibkey: remy2024trans
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04303"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Tokenization', 'Language Modeling', 'RAG', 'Applications']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Tokenization']
 ---
 The development of monolingual language models for low and mid-resource
 languages continues to be hindered by the difficulty in sourcing high-quality

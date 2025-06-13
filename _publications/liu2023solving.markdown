@@ -8,7 +8,7 @@ bibkey: liu2023solving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.05662"}
   - {name: "Code", url: "https://github.com/OpenGVLab/InternGPT"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Has Code', 'Multimodal Models']
 ---
 We present an interactive visual framework named InternGPT, or iGPT for
 short. The framework integrates chatbots that have planning and reasoning

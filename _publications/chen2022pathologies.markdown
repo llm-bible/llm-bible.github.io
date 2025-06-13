@@ -7,7 +7,7 @@ year: 2022
 bibkey: chen2022pathologies
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.08039"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot']
 ---
 Although adapting pre-trained language models with few examples has shown
 promising performance on text classification, there is a lack of understanding

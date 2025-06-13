@@ -7,7 +7,7 @@ year: 2025
 bibkey: zuo2025value
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05321"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In the realm of sponsored search advertising, matching advertisements with
 the search intent of a user's query is crucial. Query-to-bidwords(i.e. bidding

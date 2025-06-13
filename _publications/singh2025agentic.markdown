@@ -7,7 +7,7 @@ year: 2025
 bibkey: singh2025agentic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01441"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Interpretability', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved remarkable progress in complex
 reasoning tasks, yet they remain fundamentally limited by their reliance on

@@ -7,7 +7,7 @@ year: 2021
 bibkey: kalyan2021ammus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2108.05542"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Transformer-based pretrained language models (T-PTLMs) have achieved great
 success in almost every NLP task. The evolution of these models started with

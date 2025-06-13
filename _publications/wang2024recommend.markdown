@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024recommend
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.18628"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'RecSys', 'Pretraining Methods', 'Prompting']
 ---
 Most current recommender systems primarily focus on what to recommend,
 assuming users always require personalized recommendations. However, with the

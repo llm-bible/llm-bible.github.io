@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024vl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.11919"}
-tags: ['Responsible AI', 'Multimodal Models', 'Prompting', 'Tools']
+tags: ['Responsible AI', 'Tools', 'Multimodal Models', 'Prompting']
 ---
 Given the higher information load processed by large vision-language models
 (LVLMs) compared to single-modal LLMs, detecting LVLM hallucinations requires

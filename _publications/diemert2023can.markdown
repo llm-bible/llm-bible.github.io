@@ -7,7 +7,7 @@ year: 2023
 bibkey: diemert2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.15473"}
-tags: ['Responsible AI', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs), such as GPT-3, have demonstrated remarkable
 natural language processing and generation capabilities and have been applied

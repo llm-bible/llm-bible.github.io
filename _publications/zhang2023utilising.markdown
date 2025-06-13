@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023utilising
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11318"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 In support of open and reproducible research, there has been a rapidly
 increasing number of datasets made available for research. As the availability

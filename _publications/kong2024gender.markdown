@@ -7,7 +7,7 @@ year: 2024
 bibkey: kong2024gender
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20739"}
-tags: ['Ethics and Bias', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Applications', 'GPT', 'Model Architecture', 'Ethics and Bias']
 ---
 LLMs have emerged as a promising tool for assisting individuals in diverse
 text-generation tasks, including job-related texts. However, LLM-generated

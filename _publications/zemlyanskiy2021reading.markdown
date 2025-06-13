@@ -8,7 +8,7 @@ bibkey: zemlyanskiy2021reading
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.04241"}
   - {name: "Code", url: "https://goo.gle/research-readtwice"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Has Code', 'Pretraining Methods']
 ---
 Knowledge-intensive tasks such as question answering often require
 assimilating information from different sections of large inputs such as books

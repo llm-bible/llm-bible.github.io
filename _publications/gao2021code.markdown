@@ -7,7 +7,7 @@ year: 2021
 bibkey: gao2021code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.09340"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Ethics and Bias', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Code summaries help developers comprehend programs and reduce their time to
 infer the program functionalities during software maintenance. Recent efforts

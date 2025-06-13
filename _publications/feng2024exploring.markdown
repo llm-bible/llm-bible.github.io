@@ -7,7 +7,7 @@ year: 2024
 bibkey: feng2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02124"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Multiple-choice questions (MCQs) are ubiquitous in almost all levels of
 education since they are easy to administer, grade, and are a reliable format

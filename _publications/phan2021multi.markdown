@@ -7,7 +7,7 @@ year: 2021
 bibkey: phan2021multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.08645"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 We present CoTexT, a pre-trained, transformer-based encoder-decoder model
 that learns the representative context between natural language (NL) and

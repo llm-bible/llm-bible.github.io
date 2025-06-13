@@ -8,7 +8,7 @@ bibkey: thrush2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.05816"}
   - {name: "Code", url: "https://github.com/TristanThrush/perplexity-correlations"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Has Code', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Quality pretraining data is often seen as the key to high-performance
 language models. However, progress in understanding pretraining data has been

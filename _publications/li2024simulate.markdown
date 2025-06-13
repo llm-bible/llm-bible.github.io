@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024simulate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07667"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'Agentic', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 With rapid advances, generative large language models (LLMs) dominate various
 Natural Language Processing (NLP) tasks from understanding to reasoning. Yet,

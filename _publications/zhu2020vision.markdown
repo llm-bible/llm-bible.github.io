@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhu2020vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.06745"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Interpretability', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Multimodal Models']
 ---
 Vision-dialog navigation posed as a new holy-grail task in vision-language
 disciplinary targets at learning an agent endowed with the capability of

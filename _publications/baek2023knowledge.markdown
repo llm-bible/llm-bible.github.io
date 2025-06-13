@@ -7,7 +7,7 @@ year: 2023
 bibkey: baek2023knowledge
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2311.06318v2"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) excel at tackling various natural language
 tasks. However, due to the significant costs involved in re-training or

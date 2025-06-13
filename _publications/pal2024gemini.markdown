@@ -8,7 +8,7 @@ bibkey: pal2024gemini
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07023"}
   - {name: "Code", url: "https://github.com/promptslab/RosettaEval"}
-tags: ['Responsible AI', 'Multimodal Models', 'Model Architecture', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'GPT', 'Applications', 'Model Architecture', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Large language models have the potential to be valuable in the healthcare
 industry, but it's crucial to verify their safety and effectiveness through

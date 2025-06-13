@@ -7,7 +7,7 @@ year: 2024
 bibkey: javaji2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.17172"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) can store a massive amount of knowledge, yet
 their potential to acquire new knowledge remains unknown. We propose a novel

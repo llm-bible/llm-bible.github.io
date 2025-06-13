@@ -7,7 +7,7 @@ year: 2024
 bibkey: joshi2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.15477"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Security', 'Agentic', 'Applications']
 ---
 Large Language Models (LLMs) have shown to be a great success in a wide range
 of applications ranging from regular NLP-based use cases to AI agents. LLMs

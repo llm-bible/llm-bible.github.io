@@ -8,7 +8,7 @@ bibkey: han2025reinforced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21272"}
   - {name: "Code", url: "https://github.com/WuDiHJQ/Reinforced-Model-Merging"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'Has Code', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 The success of large language models has garnered widespread attention for
 model merging techniques, especially training-free methods which combine model

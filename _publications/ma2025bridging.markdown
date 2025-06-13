@@ -7,7 +7,7 @@ year: 2025
 bibkey: ma2025bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11777"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Medical Visual Question Answering (MVQA) systems can interpret medical images
 in response to natural language queries. However, linguistic variability in

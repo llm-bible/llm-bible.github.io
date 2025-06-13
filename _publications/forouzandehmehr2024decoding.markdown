@@ -7,7 +7,7 @@ year: 2024
 bibkey: forouzandehmehr2024decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12150"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Personalized outfit recommendation remains a complex challenge, demanding
 both fashion compatibility understanding and trend awareness. This paper

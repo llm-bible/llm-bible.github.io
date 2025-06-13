@@ -7,7 +7,7 @@ year: 2025
 bibkey: pisarevskaya2025zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10860"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 The claim matching (CM) task can benefit an automated fact-checking pipeline
 by putting together claims that can be resolved with the same fact-check. In

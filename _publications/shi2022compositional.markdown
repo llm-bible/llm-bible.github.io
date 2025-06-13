@@ -7,7 +7,7 @@ year: 2022
 bibkey: shi2022compositional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.03758"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 When writing programs, people have the ability to tackle a new complex task
 by decomposing it into smaller and more familiar subtasks. While it is

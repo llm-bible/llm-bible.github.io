@@ -7,7 +7,7 @@ year: 2024
 bibkey: qiu2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08509"}
-tags: ['Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) have been driving a new wave of interactive AI
 applications across numerous domains. However, efficiently serving LLM

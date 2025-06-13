@@ -7,7 +7,7 @@ year: 2023
 bibkey: ding2023fluid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.12832"}
-tags: ['Model Architecture', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Ethics and Bias', 'Model Architecture', 'Pretraining Methods']
 ---
 Cross-domain analogical reasoning is a core creative ability that can be
 challenging for humans. Recent work has shown some proofs-of concept of Large

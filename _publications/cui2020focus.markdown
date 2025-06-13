@@ -7,7 +7,7 @@ year: 2020
 bibkey: cui2020focus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.12102"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 To model diverse responses for a given post, one promising way is to
 introduce a latent variable into Seq2Seq models. The latent variable is

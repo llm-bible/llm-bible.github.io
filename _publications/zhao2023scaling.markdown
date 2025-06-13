@@ -8,7 +8,7 @@ bibkey: zhao2023scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.04087"}
   - {name: "Code", url: "https://github.com/BAAI-DCAI/Visual-Instruction-Tuning"}
-tags: ['Multimodal Models', 'Model Architecture', 'Merging', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Merging', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Thanks to the emerging of foundation models, the large language and vision
 models are integrated to acquire the multimodal ability of visual captioning,

@@ -7,7 +7,7 @@ year: 2022
 bibkey: wang2022behavior
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.07382"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Pretraining Methods']
 ---
 In this work, we explore techniques for augmenting interactive agents with
 information from symbolic modules, much like humans use tools like calculators

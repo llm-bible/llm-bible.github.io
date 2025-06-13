@@ -7,7 +7,7 @@ year: 2024
 bibkey: heilala2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16376"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
 ---
 Generative artificial intelligence (GenAI) can reshape education and
 learning. While large language models (LLMs) like ChatGPT dominate current

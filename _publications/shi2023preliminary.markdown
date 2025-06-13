@@ -8,7 +8,7 @@ bibkey: shi2023preliminary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15599"}
   - {name: "Code", url: "https://github.com/TianhaoShi2001/LSAT"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RecSys', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'RecSys', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Adapting Large Language Models for Recommendation (LLM4Rec) has shown
 promising results. However, the challenges of deploying LLM4Rec in real-world

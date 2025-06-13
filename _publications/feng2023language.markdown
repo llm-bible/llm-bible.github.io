@@ -7,7 +7,7 @@ year: 2023
 bibkey: feng2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06158"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Logical reasoning is a fundamental aspect of human intelligence and a key
 component of tasks like problem-solving and decision-making. Recent

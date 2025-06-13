@@ -7,7 +7,7 @@ year: 2024
 bibkey: tao2024illuminating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.04156"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Interpretability and Explainability', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) specializing in code generation (which are also
 often referred to as code LLMs), e.g., StarCoder and Code Llama, play

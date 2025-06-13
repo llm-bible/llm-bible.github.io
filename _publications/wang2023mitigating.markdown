@@ -8,7 +8,7 @@ bibkey: wang2023mitigating
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2312.01701v1"}
   - {name: "Code", url: "https://github.com/Anonymousanoy/FOHE"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large language models (LLMs) have shown remarkable performance in natural
 language processing (NLP) tasks. To comprehend and execute diverse human

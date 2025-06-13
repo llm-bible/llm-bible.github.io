@@ -7,7 +7,7 @@ year: 2024
 bibkey: zimmerman2024oft
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10924"}
-tags: ['Arxiv', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'BERT', 'Arxiv']
 ---
 Tokenization is a necessary component within the current architecture of many
 language models, including the transformer-based large language models (LLMs)

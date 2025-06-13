@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09318"}
-tags: ['Applications', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 LLMs can generate human-like dialogues, yet their ability to simulate early
 child-adult interactions remains largely unexplored. In this paper, we examined

@@ -7,7 +7,7 @@ year: 2023
 bibkey: ouyang2023shifted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12418"}
-tags: ['Applications', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Reinforcement Learning', 'GPT', 'Applications', 'Model Architecture']
 ---
 Recent progress in Large Language Models (LLMs) has produced models that
 exhibit remarkable performance across a variety of NLP tasks. However, it

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ceraolo2024analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20318"}
-tags: ['Prompting', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Recent progress in Large Language Model (LLM) technology has changed our role
 in interacting with these models. Instead of primarily testing these models

@@ -7,7 +7,7 @@ year: 2022
 bibkey: albrecht2022despite
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.06295"}
-tags: ['Responsible AI', 'Security', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Large language models (LLMs) have exploded in popularity in the past few
 years and have achieved undeniably impressive results on benchmarks as varied

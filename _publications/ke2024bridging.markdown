@@ -7,7 +7,7 @@ year: 2024
 bibkey: ke2024bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06954"}
-tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'RAG', 'Agentic', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated superior results across a wide
 range of tasks, and Retrieval-augmented Generation (RAG) is an effective way to

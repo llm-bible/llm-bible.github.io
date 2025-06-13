@@ -7,7 +7,7 @@ year: 2024
 bibkey: jia2024controlling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16294"}
-tags: ['Agentic', 'Agent', 'Few-Shot', 'Reinforcement Learning']
+tags: ['Few-Shot', 'Agentic', 'Agent', 'Reinforcement Learning']
 ---
 Recent advances in Large Language Models (LLMs) have shown inspiring
 achievements in constructing autonomous agents that rely on language

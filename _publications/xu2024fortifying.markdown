@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024fortifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.12882"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Reinforcement Learning', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Recent advances in code-specific large language models (LLMs) have greatly
 enhanced code generation and refinement capabilities. However, the safety of

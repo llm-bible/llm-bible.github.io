@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05707"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have recently attracted considerable interest
 for their ability to perform complex reasoning tasks, such as chain-of-thought

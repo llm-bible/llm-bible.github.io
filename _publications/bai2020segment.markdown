@@ -7,7 +7,7 @@ year: 2020
 bibkey: bai2020segment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.14996"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Transformers are powerful for sequence modeling. Nearly all state-of-the-art
 language models and pre-trained language models are based on the Transformer

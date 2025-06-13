@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02155"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tokenization', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal Large Language Models have made significant strides in integrating
 visual and textual information, yet they often struggle with effectively

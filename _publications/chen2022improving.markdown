@@ -7,7 +7,7 @@ year: 2022
 bibkey: chen2022improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.01703"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Few-Shot']
+tags: ['Few-Shot', 'Training Techniques', 'Pretraining Methods']
 ---
 Self-supervised pretraining has made few-shot learning possible for many NLP
 tasks. But the pretraining objectives are not typically adapted specifically

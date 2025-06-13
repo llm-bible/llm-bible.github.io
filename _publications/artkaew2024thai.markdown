@@ -7,7 +7,7 @@ year: 2024
 bibkey: artkaew2024thai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18375"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Commonsense reasoning is one of the important aspect of natural language
 understanding, with several benchmarks developed to evaluate it. However, only

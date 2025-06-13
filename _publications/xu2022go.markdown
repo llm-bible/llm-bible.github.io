@@ -7,7 +7,7 @@ year: 2022
 bibkey: xu2022go
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10461"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'RAG', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Prompting']
+tags: ['GPT', 'RAG', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 With increasing scale, large language models demonstrate both quantitative
 improvement and new qualitative capabilities, especially as zero-shot learners,

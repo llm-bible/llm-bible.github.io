@@ -7,7 +7,7 @@ year: 2023
 bibkey: deng2023facing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.02064"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 World models are a fundamental component in model-based reinforcement
 learning (MBRL). To perform temporally extended and consistent simulations of

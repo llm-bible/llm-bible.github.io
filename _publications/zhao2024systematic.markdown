@@ -8,7 +8,7 @@ bibkey: zhao2024systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02302"}
   - {name: "Code", url: "https://www.youtube.com/watch?v=GYT-65HZwus"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) have become powerful tools for advancing natural
 language processing applications in the financial industry. However, existing

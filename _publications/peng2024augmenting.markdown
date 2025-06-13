@@ -7,7 +7,7 @@ year: 2024
 bibkey: peng2024augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17485"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'INTERSPEECH']
+tags: ['Fine-Tuning', 'INTERSPEECH', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent studies have augmented large language models (LLMs) with speech
 capabilities, leading to the development of speech language models (SpeechLMs).

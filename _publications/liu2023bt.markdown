@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023bt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15785"}
-tags: ['Masked Language Model', 'Agentic', 'Multimodal Models', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Masked Language Model', 'Training Techniques', 'Multimodal Models']
 ---
 The recent progress in Large Language Models (LLM) has spurred various
 advancements in image-language conversation agents, while how to build a

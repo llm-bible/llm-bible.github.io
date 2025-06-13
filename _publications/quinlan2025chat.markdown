@@ -7,7 +7,7 @@ year: 2025
 bibkey: quinlan2025chat
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.10883"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Time-series analysis is critical for a wide range of fields such as
 healthcare, finance, transportation, and energy, among many others. The

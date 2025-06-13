@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhu2025simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18434"}
-tags: ['Multimodal Models', 'Training Techniques', 'Pre-Training', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pre-Training', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent methods that integrate spatial layouts with text for document
 understanding in large language models (LLMs) have shown promising results. A

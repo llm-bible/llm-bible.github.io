@@ -8,7 +8,7 @@ bibkey: wang2023t
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.03453v4"}
   - {name: "Code", url: "https://github.com/T-SciQ/T-SciQ"}
-tags: ['Multimodal Models', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have recently demonstrated exceptional
 performance in various Natural Language Processing (NLP) tasks. They have also

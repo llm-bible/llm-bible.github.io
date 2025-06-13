@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.15378"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Knowledge Graph (KG)-augmented Large Language Models (LLMs) have recently
 propelled significant advances in complex reasoning tasks, thanks to their

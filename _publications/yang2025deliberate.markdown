@@ -7,7 +7,7 @@ year: 2025
 bibkey: yang2025deliberate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00662"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 As Large Language Models (LLMs) are rapidly evolving, providing accurate
 feedback and scalable oversight on their outputs becomes an urgent and critical

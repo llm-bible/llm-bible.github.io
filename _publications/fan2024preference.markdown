@@ -7,7 +7,7 @@ year: 2024
 bibkey: fan2024preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12865"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Alignment, endowing a pre-trained Large language model (LLM) with the ability
 to follow instructions, is crucial for its real-world applications.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07035"}
-tags: ['Prompting', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) demonstrate impressive capabilities across
 various domains, including role-playing, creative writing, mathematical

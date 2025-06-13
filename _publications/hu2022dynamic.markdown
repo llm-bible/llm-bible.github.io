@@ -7,7 +7,7 @@ year: 2022
 bibkey: hu2022dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.09100"}
-tags: ['Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Despite recent progress of pre-trained language models on generating fluent
 text, existing methods still suffer from incoherence problems in long-form text

@@ -7,7 +7,7 @@ year: 2021
 bibkey: garciaolano2021improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.06888"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Interpretability and Explainability', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Pre-Training', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Knowledge-Based Visual Question Answering (KBVQA) is a bi-modal task
 requiring external world knowledge in order to correctly answer a text question

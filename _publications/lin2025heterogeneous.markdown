@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025heterogeneous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.02795"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recently, large language models (LLMs) have achieved remarkable
 breakthroughs, revolutionizing the natural language processing domain and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024mind
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01677"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Interpretability and Explainability']
+tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Research into the external behaviors and internal mechanisms of large
 language models (LLMs) has shown promise in addressing complex tasks in the

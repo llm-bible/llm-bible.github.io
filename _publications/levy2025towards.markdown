@@ -7,7 +7,7 @@ year: 2025
 bibkey: levy2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.17723"}
-tags: ['Security', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Security']
 ---
 The rise of Large Language Models (LLMs) has revolutionized artificial
 intelligence, yet these models remain vulnerable to adversarial perturbations,

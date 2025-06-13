@@ -7,7 +7,7 @@ year: 2019
 bibkey: akoury2019syntactically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1906.02780"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Standard decoders for neural machine translation autoregressively generate a
 single target token per time step, which slows inference especially for long

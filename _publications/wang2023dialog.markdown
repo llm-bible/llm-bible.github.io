@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023dialog
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.02240"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent works usually address Dialog policy learning DPL by training a
 reinforcement learning (RL) agent to determine the best dialog action. However,

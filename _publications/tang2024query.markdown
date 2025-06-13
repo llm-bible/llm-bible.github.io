@@ -8,7 +8,7 @@ bibkey: tang2024query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10774"}
   - {name: "Code", url: "http://github.com/mit-han-lab/Quest"}
-tags: ['Has Code', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Has Code', 'Model Architecture']
 ---
 As the demand for long-context large language models (LLMs) increases, models
 with context windows of up to 128K or 1M tokens are becoming increasingly

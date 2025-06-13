@@ -8,7 +8,7 @@ bibkey: ren2023investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.11019"}
   - {name: "Code", url: "https://github.com/RUCAIBox/LLM-Knowledge-Boundary"}
-tags: ['Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown impressive prowess in solving a wide
 range of tasks with world knowledge. However, it remains unclear how well LLMs

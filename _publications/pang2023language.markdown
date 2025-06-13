@@ -7,7 +7,7 @@ year: 2023
 bibkey: pang2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14483"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Large Language Models (LLMs) have exhibited remarkable performance across
 various natural language processing (NLP) tasks. However, fine-tuning these

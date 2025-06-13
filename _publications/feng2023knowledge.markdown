@@ -7,7 +7,7 @@ year: 2023
 bibkey: feng2023knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.03118"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs), such as ChatGPT and GPT-4, are versatile and
 can solve different tasks due to their emergent ability and generalizability.

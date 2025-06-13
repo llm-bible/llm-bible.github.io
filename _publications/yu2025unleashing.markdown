@@ -7,7 +7,7 @@ year: 2025
 bibkey: yu2025unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00425"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Tools', 'Quantization', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Quantization']
 ---
 Multimodal large language models (MLLMs) have garnered widespread attention
 due to their ability to understand multimodal input. However, their large

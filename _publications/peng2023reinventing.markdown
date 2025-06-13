@@ -7,7 +7,7 @@ year: 2023
 bibkey: peng2023reinventing
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.13048v2"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers have revolutionized almost all natural language processing (NLP)
 tasks but suffer from memory and computational complexity that scales

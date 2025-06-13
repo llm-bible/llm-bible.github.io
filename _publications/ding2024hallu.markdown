@@ -8,7 +8,7 @@ bibkey: ding2024hallu
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01355"}
   - {name: "Code", url: "https://github.com/NJUNLP/Hallu-PI"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Has Code', 'Attention Mechanism']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 Multi-modal Large Language Models (MLLMs) have demonstrated remarkable
 performance on various visual-language understanding and generation tasks.

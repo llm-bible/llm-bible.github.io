@@ -7,7 +7,7 @@ year: 2023
 bibkey: elkins2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.06638"}
-tags: ['Language Modeling', 'Applications']
+tags: ['Applications', 'Language Modeling']
 ---
 Controllable text generation (CTG) by large language models has a huge
 potential to transform education for teachers and students alike. Specifically,

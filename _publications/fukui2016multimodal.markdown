@@ -7,7 +7,7 @@ year: 2016
 bibkey: fukui2016multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1606.01847"}
-tags: ['Multimodal Models', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Multimodal Models', 'Applications', 'Model Architecture']
 ---
 Modeling textual or visual information with vector representations trained
 from large language or visual datasets has been successfully explored in recent

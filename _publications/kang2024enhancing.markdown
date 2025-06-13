@@ -7,7 +7,7 @@ year: 2024
 bibkey: kang2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16265"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Although Large Language Models (LLMs) achieve remarkable performance across
 various tasks, they often struggle with complex reasoning tasks, such as

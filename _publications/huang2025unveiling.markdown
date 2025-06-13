@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22420"}
-tags: ['Security', 'Multimodal Models', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Multimodal Models']
 ---
 Existing 3D vision-language (3D-VL) benchmarks fall short in evaluating 3D-VL
 models, creating a "mist" that obscures rigorous insights into model

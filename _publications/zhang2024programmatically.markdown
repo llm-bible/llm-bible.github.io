@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024programmatically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07012"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 With the rise of multimodal applications, instruction data has become
 critical for training multimodal language models capable of understanding

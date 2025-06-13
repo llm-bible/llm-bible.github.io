@@ -7,7 +7,7 @@ year: 2022
 bibkey: yao2022efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.01861"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'GPT', 'Quantization', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
 ---
 How to efficiently serve ever-larger trained natural language models in
 practice has become exceptionally challenging even for powerful cloud servers

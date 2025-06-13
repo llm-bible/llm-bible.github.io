@@ -8,7 +8,7 @@ bibkey: hu2023simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.09936"}
   - {name: "Code", url: "https://github.com/mlpc-ucsd/BLIVA"}
-tags: ['Multimodal Models', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Applications', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Vision Language Models (VLMs), which extend Large Language Models (LLM) by
 incorporating visual understanding capability, have demonstrated significant

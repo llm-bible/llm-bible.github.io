@@ -7,7 +7,7 @@ year: 2023
 bibkey: tian2023attribute
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16494"}
-tags: ['Prompting', 'RAG', 'Multimodal Models']
+tags: ['RAG', 'Multimodal Models', 'Prompting']
 ---
 Although soft prompt tuning is effective in efficiently adapting
 Vision-Language (V&L) models for downstream tasks, it shows limitations in

@@ -7,7 +7,7 @@ year: 2023
 bibkey: si2023knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.15766"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Merging', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'Survey Paper', 'Applications', 'Merging', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 In recent years, large language models (LLMs) have spurred a new research
 paradigm in natural language processing. Despite their excellent capability in

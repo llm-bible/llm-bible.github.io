@@ -7,7 +7,7 @@ year: 2024
 bibkey: dong2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18534"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Responsible AI', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 By training on text in various languages, large language models (LLMs)
 typically possess multilingual support and demonstrate remarkable capabilities

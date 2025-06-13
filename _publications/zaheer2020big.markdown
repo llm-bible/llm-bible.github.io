@@ -7,7 +7,7 @@ year: 2020
 bibkey: zaheer2020big
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.14062"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Transformers-based models, such as BERT, have been one of the most successful
 deep learning models for NLP. Unfortunately, one of their core limitations is

@@ -7,7 +7,7 @@ year: 2024
 bibkey: stureborg2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01724"}
-tags: ['Prompting', 'Ethics and Bias', 'Security', 'Tools']
+tags: ['Security', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 The zero-shot capability of Large Language Models (LLMs) has enabled highly
 flexible, reference-free metrics for various tasks, making LLM evaluators

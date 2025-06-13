@@ -7,7 +7,7 @@ year: 2022
 bibkey: honovich2022instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.10782"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 Large language models are able to perform a task by conditioning on a few
 input-output demonstrations - a paradigm known as in-context learning. We show

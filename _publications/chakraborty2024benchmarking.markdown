@@ -7,7 +7,7 @@ year: 2024
 bibkey: chakraborty2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.06072"}
-tags: ['Applications', 'RAG', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'RAG', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 natural language processing tasks. However, their practical application in

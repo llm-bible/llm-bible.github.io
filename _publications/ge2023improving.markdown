@@ -7,7 +7,7 @@ year: 2023
 bibkey: ge2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07689"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Red-teaming is a common practice for mitigating unsafe behaviors in Large
 Language Models (LLMs), which involves thoroughly assessing LLMs to identify

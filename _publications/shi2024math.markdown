@@ -8,7 +8,7 @@ bibkey: shi2024math
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17294"}
   - {name: "Code", url: "https://github.com/HZQ950419/Math-LLaVA"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large language models (LLMs) have demonstrated impressive reasoning
 capabilities, particularly in textual mathematical problem-solving. However,

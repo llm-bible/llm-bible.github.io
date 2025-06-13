@@ -8,7 +8,7 @@ bibkey: chang2025transfer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14211"}
   - {name: "Code", url: "https://github.com/llm172/Transfer-Prompting"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) face significant challenges when balancing
 multiple high-level objectives, such as generating coherent, relevant, and

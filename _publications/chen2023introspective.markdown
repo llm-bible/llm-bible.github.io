@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023introspective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11598"}
-tags: ['Agentic', 'Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 The emergence of large language models (LLMs) has substantially influenced
 natural language processing, demonstrating exceptional results across various

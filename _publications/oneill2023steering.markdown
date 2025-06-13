@@ -7,7 +7,7 @@ year: 2023
 bibkey: oneill2023steering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07645"}
-tags: ['Prompting', 'Training Techniques', 'Applications', 'Tools']
+tags: ['Training Techniques', 'Tools', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) hold immense potential to generate synthetic
 data of high quality and utility, which has numerous applications from

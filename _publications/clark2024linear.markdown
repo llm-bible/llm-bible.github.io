@@ -7,7 +7,7 @@ year: 2024
 bibkey: clark2024linear
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11250"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent psycholinguistic research has compared human reading times to
 surprisal estimates from language models to study the factors shaping human

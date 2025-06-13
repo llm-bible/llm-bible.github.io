@@ -7,7 +7,7 @@ year: 2024
 bibkey: tikhonov2024humor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07280"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 In this paper, we explore the generation of one-liner jokes through
 multi-step reasoning. Our work involved reconstructing the process behind

@@ -7,7 +7,7 @@ year: 2023
 bibkey: hao2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10813"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 With the advancement of large pre-trained vision-language models, effectively
 transferring the knowledge embedded within these foundational models to

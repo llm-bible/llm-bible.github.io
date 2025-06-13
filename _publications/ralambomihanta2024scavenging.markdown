@@ -7,7 +7,7 @@ year: 2024
 bibkey: ralambomihanta2024scavenging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.17574"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Distillation', 'GPT', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 The rapid evolution of Large Language Models (LLMs), epitomized by
 architectures like GPT-4, has reshaped the landscape of natural language

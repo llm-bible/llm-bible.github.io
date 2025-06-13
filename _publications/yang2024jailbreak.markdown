@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024jailbreak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01902"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Tools', 'GPT', 'Prompting', 'Applications']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Prompting']
 ---
 The widespread applications of large language models (LLMs) have brought
 about concerns regarding their potential misuse. Although aligned with human

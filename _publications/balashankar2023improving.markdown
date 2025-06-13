@@ -7,7 +7,7 @@ year: 2023
 bibkey: balashankar2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16959"}
-tags: ['Responsible AI', 'Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 As large language models (LLMs) are widely adopted, new safety issues and
 policies emerge, to which existing safety classifiers do not generalize well.

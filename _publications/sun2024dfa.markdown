@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024dfa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.04411"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 This paper introduces the retrieval-augmented large language model with
 Definite Finite Automaton (DFA-RAG), a novel framework designed to enhance the

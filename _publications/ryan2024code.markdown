@@ -7,7 +7,7 @@ year: 2024
 bibkey: ryan2024code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.00097"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Testing plays a pivotal role in ensuring software quality, yet conventional
 Search Based Software Testing (SBST) methods often struggle with complex

@@ -8,7 +8,7 @@ bibkey: shen2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00502"}
   - {name: "Code", url: "https://github.com/intel/intel-extension-for-transformers"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Quantization', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Quantization']
 ---
 Large language models (LLMs) have demonstrated remarkable performance and
 tremendous potential across a wide range of tasks. However, deploying these

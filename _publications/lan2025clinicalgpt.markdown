@@ -8,7 +8,7 @@ bibkey: lan2025clinicalgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09421"}
   - {name: "Code", url: "https://github.com/medfound/medfound"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Recent advances in reasoning with large language models (LLMs)has shown
 remarkable reasoning capabilities in domains such as mathematics and coding,

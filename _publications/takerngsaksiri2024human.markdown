@@ -7,7 +7,7 @@ year: 2024
 bibkey: takerngsaksiri2024human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.12924"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 Recently, Large Language Models (LLMs)-based multi-agent paradigms for
 software engineering are introduced to automatically resolve software

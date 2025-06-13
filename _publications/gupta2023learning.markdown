@@ -7,7 +7,7 @@ year: 2023
 bibkey: gupta2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09606"}
-tags: ['Training Techniques', 'Model Architecture', 'In-Context Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In-context Learning (ICL) is the ability of Large Language Models (LLMs) to
 perform new tasks when conditioned on prompts comprising a few task examples.

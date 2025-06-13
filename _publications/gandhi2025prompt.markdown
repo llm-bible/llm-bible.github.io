@@ -7,7 +7,7 @@ year: 2025
 bibkey: gandhi2025prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13510"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 The rise of large language models (LLMs) has revolutionized natural language
 processing (NLP), yet the influence of prompt sentiment, a latent affective

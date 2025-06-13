@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhu2025interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03293"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have shown promise in providing scalable mental
 health support, while evaluating their counseling capability remains crucial to

@@ -8,7 +8,7 @@ bibkey: xing2025where
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13891"}
   - {name: "Code", url: "https://github.com/bytedance/LVLM_Interpretation"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Large Vision-Language Models (LVLMs) have shown promising performance in
 vision-language understanding and reasoning tasks. However, their visual

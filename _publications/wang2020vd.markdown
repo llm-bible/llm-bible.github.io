@@ -8,7 +8,7 @@ bibkey: wang2020vd
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.13278"}
   - {name: "Code", url: "https://github.com/salesforce/VD-BERT"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Visual dialog is a challenging vision-language task, where a dialog agent
 needs to answer a series of questions through reasoning on the image content

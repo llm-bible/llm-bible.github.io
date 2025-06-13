@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07018"}
-tags: ['Agentic', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Applications', 'Reinforcement Learning']
 ---
 There has been a surge in the use of large language models (LLM)
 conversational agents to generate responses based on long-term history from

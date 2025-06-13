@@ -7,7 +7,7 @@ year: 2023
 bibkey: urchs2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03031"}
-tags: ['Prompting', 'Ethics and Bias', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Ethics and Bias', 'Model Architecture']
 ---
 With the introduction of ChatGPT, OpenAI made large language models (LLM)
 accessible to users with limited IT expertise. However, users with no

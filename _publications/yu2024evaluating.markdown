@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05262"}
-tags: ['Ethics and Bias', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 As the application of Large Language Models (LLMs) expands, the demand for
 reliable evaluations increases. Existing LLM evaluation benchmarks primarily

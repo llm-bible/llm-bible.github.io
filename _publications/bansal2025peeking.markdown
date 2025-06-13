@@ -7,7 +7,7 @@ year: 2025
 bibkey: bansal2025peeking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04756"}
-tags: ['Prompting', 'Ethics and Bias', 'Tools']
+tags: ['Tools', 'Prompting', 'Ethics and Bias']
 ---
 The rapid advancement in building large language models (LLMs) has
 intensified competition among big-tech companies and AI startups. In this

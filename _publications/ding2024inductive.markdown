@@ -8,7 +8,7 @@ bibkey: ding2024inductive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02939"}
   - {name: "Code", url: "https://github.com/Jamesding000/SpecGR"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'GPT', 'Pretraining Methods', 'Has Code']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Generative recommendation (GR) is an emerging paradigm that tokenizes items
 into discrete tokens and learns to autoregressively generate the next tokens as

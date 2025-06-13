@@ -8,7 +8,7 @@ bibkey: zhang2024pptc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03788"}
   - {name: "Code", url: "https://github.com/ZekaiGalaxy/PPTCR"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code']
 ---
 The growing dependence on Large Language Models (LLMs) for finishing user
 instructions necessitates a comprehensive understanding of their robustness to

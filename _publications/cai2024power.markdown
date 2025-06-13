@@ -7,7 +7,7 @@ year: 2024
 bibkey: cai2024power
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17891"}
-tags: ['Prompting', 'RAG', 'In-Context Learning']
+tags: ['RAG', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have demonstrated exceptional abilities across a
 broad range of language-related tasks, including generating solutions to

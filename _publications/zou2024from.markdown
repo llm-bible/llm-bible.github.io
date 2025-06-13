@@ -7,7 +7,7 @@ year: 2024
 bibkey: zou2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18938"}
-tags: ['RAG', 'Training Techniques', 'Survey Paper', 'Multimodal Models']
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Survey Paper']
 ---
 The integration of Large Language Models (LLMs) with visual encoders has
 recently shown promising performance in visual understanding tasks, leveraging

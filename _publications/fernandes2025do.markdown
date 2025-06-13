@@ -8,7 +8,7 @@ bibkey: fernandes2025do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07583"}
   - {name: "Code", url: "https://github.com/deep-spin/treqa"}
-tags: ['Tools', 'RAG', 'Has Code', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Has Code']
 ---
 Despite the steady progress in machine translation evaluation, existing
 automatic metrics struggle to capture how well meaning is preserved beyond

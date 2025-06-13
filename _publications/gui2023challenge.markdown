@@ -7,7 +7,7 @@ year: 2023
 bibkey: gui2023challenge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15524"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have shown impressive potential to simulate
 human behavior. We identify a fundamental challenge in using them to simulate

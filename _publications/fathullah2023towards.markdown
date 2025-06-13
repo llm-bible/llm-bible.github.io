@@ -7,7 +7,7 @@ year: 2023
 bibkey: fathullah2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06753"}
-tags: ['Prompting', 'Multimodal Models', 'Applications']
+tags: ['Multimodal Models', 'Prompting', 'Applications']
 ---
 In this work, we extend the instruction-tuned Llama-2 model with end-to-end
 general-purpose speech processing and reasoning abilities while maintaining the

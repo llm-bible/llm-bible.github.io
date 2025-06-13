@@ -7,7 +7,7 @@ year: 2024
 bibkey: cohn2024chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14565"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Interpretability and Explainability', 'Prompting']
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 This paper explores the use of large language models (LLMs) to score and
 explain short-answer assessments in K-12 science. While existing methods can

@@ -7,7 +7,7 @@ year: 2024
 bibkey: pi2024mllm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.02906"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 The deployment of multimodal large language models (MLLMs) has brought forth
 a unique vulnerability: susceptibility to malicious attacks through visual

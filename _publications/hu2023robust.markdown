@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.03838"}
-tags: ['Security', 'Training Techniques', 'Fairness', 'Model Architecture', 'Tools', 'Language Modeling', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Language Modeling', 'Security', 'Training Techniques', 'Fairness']
 ---
 Recent advances in large language models (LLMs) and the intensifying
 popularity of ChatGPT-like applications have blurred the boundary of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024era
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17764"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 Recent research, such as BitNet, is paving the way for a new era of 1-bit
 Large Language Models (LLMs). In this work, we introduce a 1-bit LLM variant,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: mishra2024synfac
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13919"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) such as GPT & Llama have demonstrated
 significant achievements in summarization tasks but struggle with factual

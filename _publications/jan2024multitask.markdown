@@ -7,7 +7,7 @@ year: 2024
 bibkey: jan2024multitask
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15361"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Recent breakthroughs in Large Language Models (LLMs) have led to their
 adoption across a wide range of tasks, ranging from code generation to machine

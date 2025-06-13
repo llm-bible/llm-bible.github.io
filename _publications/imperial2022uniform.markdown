@@ -7,7 +7,7 @@ year: 2022
 bibkey: imperial2022uniform
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.05185"}
-tags: ['Model Architecture', 'Language Modeling', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) have shown promising results in a wide array of
 generative NLP tasks, such as summarization and machine translation. In the

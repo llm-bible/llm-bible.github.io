@@ -8,7 +8,7 @@ bibkey: chen2024document
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16740"}
   - {name: "Code", url: "https://github.com/Vision-CAIR/dochaystacks"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Large multimodal models (LMMs) have achieved impressive progress in
 vision-language understanding, yet they face limitations in real-world

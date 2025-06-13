@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024proactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.12361"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Agents powered by large language models have shown remarkable abilities in
 solving complex tasks. However, most agent systems remain reactive, limiting

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kharrat2024actor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.12736"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The effectiveness of Large Language Models (LLMs) in solving tasks vastly
 depends on the quality of the instructions, which often require fine-tuning

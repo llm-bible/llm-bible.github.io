@@ -8,7 +8,7 @@ bibkey: li2023mastering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09676"}
   - {name: "Code", url: "https://midas-icml.github.io/"}
-tags: ['ICML', 'Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'ICML', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Prompt-based learning has been demonstrated as a compelling paradigm
 contributing to large language models' tremendous success (LLMs). Inspired by

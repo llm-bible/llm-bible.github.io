@@ -7,7 +7,7 @@ year: 2023
 bibkey: maynez2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.16793"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot']
 ---
 Pre-trained large language models (PLMs) underlie most new developments in
 natural language processing. They have shifted the field from

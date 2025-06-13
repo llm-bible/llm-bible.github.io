@@ -7,7 +7,7 @@ year: 2024
 bibkey: gal2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01731"}
-tags: ['Prompting', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting']
 ---
 The practical use of text-to-image generation has evolved from simple,
 monolithic models to complex workflows that combine multiple specialized

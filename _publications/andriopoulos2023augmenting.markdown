@@ -7,7 +7,7 @@ year: 2023
 bibkey: andriopoulos2023augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.16459"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Survey Paper', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Model Architecture', 'Merging']
 ---
 Large pre-trained language models have demonstrated their proficiency in
 storing factual knowledge within their parameters and achieving remarkable

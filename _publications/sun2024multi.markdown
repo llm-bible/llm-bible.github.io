@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04686"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security']
 ---
 Large language models (LLMs) have significantly enhanced the performance of
 numerous applications, from intelligent conversations to text generation.

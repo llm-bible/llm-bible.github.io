@@ -7,7 +7,7 @@ year: 2024
 bibkey: tao2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05199"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have revolutionized code generation but require
 significant resources and often over-generalize, limiting their task-specific

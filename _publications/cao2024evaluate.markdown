@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024evaluate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14973"}
-tags: ['Multimodal Models', 'Training Techniques', 'Merging', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Multimodal Models', 'Merging']
 ---
 Multimodal Large Language Models (MLLMs) are typically assessed using
 expensive annotated multimodal benchmarks, which often lag behind the rapidly

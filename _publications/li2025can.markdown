@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10496"}
   - {name: "Code", url: "https://github.com/arxivBenchLLM/arXivBench"}
   - {name: "Code", url: "https://huggingface.co/datasets/arXivBenchLLM/arXivBench"}
-tags: ['Prompting', 'Arxiv', 'Has Code', 'Tools']
+tags: ['Tools', 'Has Code', 'Prompting', 'Arxiv']
 ---
 Large language models (LLMs) have demonstrated remarkable effectiveness in
 completing various tasks such as reasoning, translation, and question

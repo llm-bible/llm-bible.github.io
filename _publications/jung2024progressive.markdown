@@ -7,7 +7,7 @@ year: 2024
 bibkey: jung2024progressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21571"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) encounter significant challenges in continual
 learning due to catastrophic forgetting, where new information overwrites

@@ -8,7 +8,7 @@ bibkey: fu2024imitation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.15980"}
   - {name: "Code", url: "https://icrt.dev/"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 We explore how to enhance next-token prediction models to perform in-context
 imitation learning on a real robot, where the robot executes new tasks by

@@ -8,7 +8,7 @@ bibkey: sungbin2024cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18325"}
   - {name: "Code", url: "https://github.com/kaist-ami/AVHBench"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Has Code']
+tags: ['Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Following the success of Large Language Models (LLMs), expanding their
 boundaries to new modalities represents a significant paradigm shift in

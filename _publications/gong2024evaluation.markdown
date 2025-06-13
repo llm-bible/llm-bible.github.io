@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04814"}
   - {name: "Code", url: "https://github.com/gonglinyuan/safim,"}
   - {name: "Code", url: "https://safimbenchmark.com"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Has Code', 'Prompting']
+tags: ['Tools', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 We introduce Syntax-Aware Fill-In-the-Middle (SAFIM), a new benchmark for
 evaluating Large Language Models (LLMs) on the code Fill-in-the-Middle (FIM)

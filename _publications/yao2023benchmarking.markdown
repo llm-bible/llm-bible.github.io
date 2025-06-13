@@ -7,7 +7,7 @@ year: 2023
 bibkey: yao2023benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14328"}
-tags: ['RAG', 'Merging', 'Applications']
+tags: ['RAG', 'Applications', 'Merging']
 ---
 Translating culture-related content is vital for effective cross-cultural
 communication. However, many culture-specific items (CSIs) often lack viable

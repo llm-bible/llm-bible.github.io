@@ -8,7 +8,7 @@ bibkey: li2023understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09182"}
   - {name: "Code", url: "https://github.com/ddhruvkr/CONTRADOC)"}
-tags: ['Has Code', 'Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Has Code', 'Applications', 'Model Architecture']
 ---
 In recent times, large language models (LLMs) have shown impressive
 performance on various document-level tasks such as document classification,

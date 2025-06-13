@@ -8,7 +8,7 @@ bibkey: kamahori2024cpu
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07033"}
   - {name: "Code", url: "https://github.com/efeslab/fiddler"}
-tags: ['Model Architecture', 'Has Code']
+tags: ['Has Code', 'Model Architecture']
 ---
 Large Language Models (LLMs) with the Mixture-of-Experts (MoE) architectures
 have shown promising performance on various tasks. However, due to the huge

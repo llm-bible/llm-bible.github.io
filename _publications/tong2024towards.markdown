@@ -7,7 +7,7 @@ year: 2024
 bibkey: tong2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01711"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability and Explainability', 'Applications']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'RAG', 'Bias Mitigation', 'Training Techniques']
 ---
 Although large language models (LLMs) have demonstrated their effectiveness
 in a wide range of applications, they have also been observed to perpetuate

@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024flexattention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20228"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models']
 ---
 Current high-resolution vision-language models encode images as
 high-resolution image tokens and exhaustively take all these tokens to compute

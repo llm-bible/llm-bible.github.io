@@ -8,7 +8,7 @@ bibkey: dong2023comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.13345"}
   - {name: "Code", url: "https://github.com/RUCAIBox/BAMBOO"}
-tags: ['Prompting', 'Language Modeling', 'Applications', 'Has Code']
+tags: ['Applications', 'Has Code', 'Prompting', 'Language Modeling']
 ---
 Large language models (LLMs) have achieved dramatic proficiency over NLP
 tasks with normal length. Recently, multiple studies have committed to

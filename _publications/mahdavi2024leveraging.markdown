@@ -8,7 +8,7 @@ bibkey: mahdavi2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12979"}
   - {name: "Code", url: "https://github.com/BorealisAI/llm-pddl-planning"}
-tags: ['Agentic', 'Model Architecture', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have shown remarkable performance in various
 natural language tasks, but they often struggle with planning problems that

@@ -8,7 +8,7 @@ bibkey: pan2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12314"}
   - {name: "Code", url: "https://github.com/beepkh/SUPMER"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting']
 ---
 Prompt tuning is a parameter-efficient method, which learns soft prompts and
 conditions frozen language models to perform specific downstream tasks. Though

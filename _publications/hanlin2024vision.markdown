@@ -7,7 +7,7 @@ year: 2024
 bibkey: hanlin2024vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16994"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'GPT', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In the Vision-and-Language Navigation (VLN) field, agents are tasked with
 navigating real-world scenes guided by linguistic instructions. Enabling the

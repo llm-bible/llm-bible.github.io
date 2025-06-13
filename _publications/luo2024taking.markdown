@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024taking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10985"}
-tags: ['Model Architecture', 'Tools', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'RAG', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown promising efficacy across various
 tasks, becoming powerful tools in numerous aspects of human life. However,

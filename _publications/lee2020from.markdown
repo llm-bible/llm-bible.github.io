@@ -7,7 +7,7 @@ year: 2020
 bibkey: lee2020from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.04315"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Tools', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Research in human-centered AI has shown the benefits of systems that can
 explain their predictions. Methods that allow an AI to take advice from humans

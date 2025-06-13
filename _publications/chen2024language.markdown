@@ -8,7 +8,7 @@ bibkey: chen2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.04282"}
   - {name: "Code", url: "https://github.com/SalesforceAIResearch/LaTRO"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have shown impressive capabilities, but still
 struggle with complex reasoning tasks requiring multiple steps. While

@@ -7,7 +7,7 @@ year: 2024
 bibkey: kong2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04638"}
-tags: ['Training Techniques', 'Tools', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Pre-Training', 'Tools', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Large Language Model (LLM) pre-training exhausts an ever growing compute
 budget, yet recent research has demonstrated that careful document selection

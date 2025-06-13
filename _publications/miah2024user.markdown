@@ -7,7 +7,7 @@ year: 2024
 bibkey: miah2024user
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03130"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture']
 ---
 With the rapid advance of machine learning (ML) technology, large language
 models (LLMs) are increasingly explored as an intelligent tool to generate

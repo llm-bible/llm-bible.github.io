@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024your
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13846"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Scaling language models to handle longer contexts introduces substantial
 memory challenges due to the growing cost of key-value (KV) caches. Motivated

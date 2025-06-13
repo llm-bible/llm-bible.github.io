@@ -7,7 +7,7 @@ year: 2024
 bibkey: lau2024personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14001"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Agentic', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Reinforcement Learning from Human Feedback (RLHF) is widely used to align
 Language Models (LMs) with human preferences. However, existing approaches

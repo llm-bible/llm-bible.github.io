@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01261"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 While long-context large language models (LLMs) can technically summarize
 book-length documents (>100K tokens), the length and complexity of the

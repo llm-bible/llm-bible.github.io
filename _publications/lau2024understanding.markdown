@@ -7,7 +7,7 @@ year: 2024
 bibkey: lau2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.03806"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'BERT', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Attention Mechanism', 'BERT']
 ---
 Natural Language Generation has been rapidly developing with the advent of
 large language models (LLMs). While their usage has sparked significant

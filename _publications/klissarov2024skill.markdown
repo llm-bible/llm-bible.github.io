@@ -7,7 +7,7 @@ year: 2024
 bibkey: klissarov2024skill
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08542"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Describing skills in natural language has the potential to provide an
 accessible way to inject human knowledge about decision-making into an AI

@@ -7,7 +7,7 @@ year: 2022
 bibkey: pappas2022data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.04711"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 We study the effect of seven data augmentation (da) methods in factoid
 question answering, focusing on the biomedical domain, where obtaining training

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025encoder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.06225"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 While decoder-only large language models (LLMs) have shown impressive
 results, encoder-decoder models are still widely adopted in real-world

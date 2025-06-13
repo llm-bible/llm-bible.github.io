@@ -7,7 +7,7 @@ year: 2024
 bibkey: bi2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.18108"}
-tags: ['Multimodal Models', 'Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Multimodal Models', 'Model Architecture']
 ---
 Recent advancements in Multimodal Large Language Models (MLLMs) have
 demonstrated remarkable progress in visual understanding. This impressive leap

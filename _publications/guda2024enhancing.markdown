@@ -7,7 +7,7 @@ year: 2024
 bibkey: guda2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14175"}
-tags: ['Model Architecture', 'Tools', 'TACL', 'RAG', 'GPT', 'ACL', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'TACL', 'Model Architecture', 'ACL', 'Prompting']
 ---
 Large Language models (LLMs) have brought about substantial advancements in
 the field of Question Answering (QA) systems. These models do remarkably well

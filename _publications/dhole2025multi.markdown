@@ -7,7 +7,7 @@ year: 2025
 bibkey: dhole2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.07818"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Among parameter-efficient fine-tuning methods, freezing has emerged as a
 popular strategy for speeding up training, reducing catastrophic forgetting,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: gan2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05345"}
-tags: ['Prompting', 'Ethics and Bias', 'Security', 'Reinforcement Learning']
+tags: ['Security', 'Prompting', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have demonstrated impressive capabilities in
 reasoning using Chain-of-Thought (CoT) prompting. However, CoT can be biased by

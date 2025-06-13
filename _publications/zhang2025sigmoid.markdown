@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025sigmoid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18168"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 With the rapid development of large language models (LLMs), fully fine-tuning
 (FT) these models is becoming increasingly infeasible due to high computational

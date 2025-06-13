@@ -7,7 +7,7 @@ year: 2024
 bibkey: elangovan2024lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12822"}
-tags: ['Responsible AI', 'Security', 'Efficiency and Optimization', 'Ethics and Bias', 'Prompting']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Ethics and Bias', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs) have emerged as a potential solution to assist
 digital health development with patient education, commonly medication-related

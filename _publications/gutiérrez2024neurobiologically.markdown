@@ -8,7 +8,7 @@ bibkey: gutiérrez2024neurobiologically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14831"}
   - {name: "Code", url: "https://github.com/OSU-NLP-Group/HippoRAG"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 In order to thrive in hostile and ever-changing natural environments,
 mammalian brains evolved to store large amounts of knowledge about the world

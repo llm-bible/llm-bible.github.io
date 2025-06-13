@@ -7,7 +7,7 @@ year: 2024
 bibkey: hung2024super
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.21037"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 We introduce TangoFlux, an efficient Text-to-Audio (TTA) generative model
 with 515M parameters, capable of generating up to 30 seconds of 44.1kHz audio

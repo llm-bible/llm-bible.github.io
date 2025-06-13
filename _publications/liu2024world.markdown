@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024world
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07381"}
-tags: ['Agentic', 'RAG', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'RAG', 'Agentic', 'Reinforcement Learning']
 ---
 Reinforcement learning struggles in the face of long-horizon tasks and sparse
 goals due to the difficulty in manual reward specification. While existing

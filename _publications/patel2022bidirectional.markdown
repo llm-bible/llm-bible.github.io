@@ -7,7 +7,7 @@ year: 2022
 bibkey: patel2022bidirectional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.14500"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
 ---
 Large language models such as GPT-3 (Brown et al., 2020) can perform
 arbitrary tasks without undergoing fine-tuning after being prompted with only a

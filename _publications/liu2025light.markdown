@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025light
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12587"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 The Incomplete Utterance Rewriting (IUR) task has garnered significant
 attention in recent years. Its goal is to reconstruct conversational utterances

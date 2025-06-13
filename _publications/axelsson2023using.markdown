@@ -7,7 +7,7 @@ year: 2023
 bibkey: axelsson2023using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.07312"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 In any system that uses structured knowledge graph (KG) data as its
 underlying knowledge representation, KG-to-text generation is a useful tool for

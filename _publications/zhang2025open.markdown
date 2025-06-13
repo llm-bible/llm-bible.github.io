@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06430"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 Current multimodal large language models (MLLMs) often underperform on
 mathematical problem-solving tasks that require fine-grained visual

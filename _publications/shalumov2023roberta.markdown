@@ -7,7 +7,7 @@ year: 2023
 bibkey: shalumov2023roberta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.11077"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 In this paper, we fill in an existing gap in resources available to the
 Hebrew NLP community by providing it with the largest so far pre-train dataset

@@ -7,7 +7,7 @@ year: 2022
 bibkey: gupta2022is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.07471"}
-tags: ['Model Architecture', 'GPT', 'Few-Shot']
+tags: ['Few-Shot', 'GPT', 'Model Architecture']
 ---
 In current NLP research, large-scale language models and their abilities are
 widely being discussed. Some recent works have also found notable failures of

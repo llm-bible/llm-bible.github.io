@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023mystery
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00237"}
-tags: ['Survey Paper', 'Ethics and Bias', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Survey Paper', 'Ethics and Bias', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
 ---
 Understanding in-context learning (ICL) capability that enables large
 language models (LLMs) to excel in proficiency through demonstration examples

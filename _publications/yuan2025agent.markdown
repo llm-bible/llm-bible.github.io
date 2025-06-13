@@ -7,7 +7,7 @@ year: 2025
 bibkey: yuan2025agent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.11425"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) agents are increasingly pivotal for addressing
 complex tasks in interactive environments. Existing work mainly focuses on

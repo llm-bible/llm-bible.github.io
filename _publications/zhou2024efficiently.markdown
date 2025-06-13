@@ -8,7 +8,7 @@ bibkey: zhou2024efficiently
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14365"}
   - {name: "Code", url: "https://github.com/RUCAIBox/JiuZhang3.0"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'GPT', 'Has Code', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Applications', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting', 'Distillation']
 ---
 Mathematical reasoning is an important capability of large language
 models~(LLMs) for real-world applications. To enhance this capability, existing

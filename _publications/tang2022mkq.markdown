@@ -7,7 +7,7 @@ year: 2022
 bibkey: tang2022mkq
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.13483"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Quantization', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Quantization', 'Distillation']
 ---
 Recently, pre-trained Transformer based language models, such as BERT, have
 shown great superiority over the traditional methods in many Natural Language

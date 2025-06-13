@@ -7,7 +7,7 @@ year: 2023
 bibkey: fan2023chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11721"}
-tags: ['Masked Language Model', 'Tools', 'Pretraining Methods', 'BERT', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Masked Language Model', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Chain-of-Thought (CoT) is a technique that guides Large Language Models
 (LLMs) to decompose complex tasks into multi-step reasoning through

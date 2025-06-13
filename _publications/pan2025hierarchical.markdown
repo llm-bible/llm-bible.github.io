@@ -7,7 +7,7 @@ year: 2025
 bibkey: pan2025hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01407"}
-tags: ['Pretraining Methods', 'RAG', 'GPT', 'Tools']
+tags: ['RAG', 'Tools', 'GPT', 'Pretraining Methods']
 ---
 Large video-language models (LVLMs) have shown remarkable performance across
 various video-language tasks. However, they encounter significant challenges

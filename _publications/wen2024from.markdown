@@ -7,7 +7,7 @@ year: 2024
 bibkey: wen2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05459"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Chain-of-thought (CoT) significantly enhances the reasoning performance of
 large language models (LLM). While current theoretical studies often attribute

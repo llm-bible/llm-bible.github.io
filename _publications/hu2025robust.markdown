@@ -7,7 +7,7 @@ year: 2025
 bibkey: hu2025robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14810"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Pruning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Ad-hoc instruction fine-tuning of large language models (LLMs) is widely
 adopted for domain-specific adaptation. While domain-specific supervised

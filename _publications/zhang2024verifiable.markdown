@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024verifiable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06611"}
-tags: ['Security', 'Training Techniques', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Interpretability', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 As fine-tuning large language models (LLMs) becomes increasingly prevalent,
 users often rely on third-party services with limited visibility into their

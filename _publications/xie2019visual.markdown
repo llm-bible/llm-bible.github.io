@@ -8,7 +8,7 @@ bibkey: xie2019visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1901.06706"}
   - {name: "Code", url: "https://github.com/"}
-tags: ['Multimodal Models', 'Model Architecture', 'Ethics and Bias', 'Interpretability', 'Has Code', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Existing visual reasoning datasets such as Visual Question Answering (VQA),
 often suffer from biases conditioned on the question, image or answer

@@ -7,7 +7,7 @@ year: 2024
 bibkey: jo2024accumulative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.20485"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Fairness', 'Pruning', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Pruning', 'Attention Mechanism', 'Pretraining Methods', 'Fairness']
 ---
 Recently, large language models (LLM) based on transformers are facing memory
 bottleneck issues due to KV cache, especially in long sequence handling.

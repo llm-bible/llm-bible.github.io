@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024butterfly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.09656"}
-tags: ['Model Architecture', 'GPT', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Although model editing has shown promise in revising knowledge in Large
 Language Models (LLMs), its impact on the inherent capabilities of LLMs is

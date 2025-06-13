@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheng2024retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13401"}
-tags: ['Security', 'Training Techniques', 'Survey Paper', 'RAG', 'Pretraining Methods', 'Applications']
+tags: ['Survey Paper', 'Applications', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have raised concerns about potential security
 threats despite performing significantly in Natural Language Processing (NLP).

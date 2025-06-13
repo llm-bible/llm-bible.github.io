@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023semantic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01260"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 Prompt engineering is a new paradigm for enhancing the performance of trained
 neural network models. For optimizing text-style prompts, existing methods

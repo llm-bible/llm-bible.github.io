@@ -7,7 +7,7 @@ year: 2023
 bibkey: serrano2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17301"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Given the growing importance of AI literacy, we decided to write this
 tutorial to help narrow the gap between the discourse among those who study

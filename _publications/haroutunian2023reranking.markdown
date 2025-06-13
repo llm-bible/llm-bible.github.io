@@ -7,7 +7,7 @@ year: 2023
 bibkey: haroutunian2023reranking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.12294"}
-tags: ['Prompting', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 natural language generation. However, their output quality can be inconsistent,

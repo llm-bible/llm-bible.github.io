@@ -7,7 +7,7 @@ year: 2025
 bibkey: gao2025devil
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11739"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Prompting']
 ---
 The evolution of Text-to-video (T2V) generative models, trained on
 large-scale datasets, has been marked by significant progress. However, the

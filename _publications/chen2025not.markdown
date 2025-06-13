@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23360"}
-tags: ['Language Modeling', 'Model Architecture', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Language Modeling', 'Applications', 'Model Architecture']
 ---
 Current research on LoRA primarily focuses on minimizing the number of
 fine-tuned parameters or optimizing its architecture. However, the necessity of

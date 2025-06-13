@@ -8,7 +8,7 @@ bibkey: cardiel2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11919"}
   - {name: "Code", url: "https://github.com/valeoai/LLM_wrapper"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision Language Models (VLMs) have demonstrated remarkable capabilities in
 various open-vocabulary tasks, yet their zero-shot performance lags behind

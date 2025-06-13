@@ -7,7 +7,7 @@ year: 2024
 bibkey: chang2024modeling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13071"}
-tags: ['Responsible AI', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods']
+tags: ['Responsible AI', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper explores the integration of human-like emotions and ethical
 considerations into Large Language Models (LLMs). We first model eight

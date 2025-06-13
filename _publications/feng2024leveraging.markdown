@@ -7,7 +7,7 @@ year: 2024
 bibkey: feng2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08124"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 The success of the reward model in distinguishing between responses with
 subtle safety differences depends critically on the high-quality preference

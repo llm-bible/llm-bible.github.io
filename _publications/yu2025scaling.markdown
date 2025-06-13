@@ -7,7 +7,7 @@ year: 2025
 bibkey: yu2025scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17910"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'GPT', 'Pretraining Methods', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
 ---
 Modern language models rely on static vocabularies, fixed before pretraining,
 in contrast to the adaptive vocabulary acquisition observed in human language

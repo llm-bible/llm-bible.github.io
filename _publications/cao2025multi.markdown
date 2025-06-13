@@ -7,7 +7,7 @@ year: 2025
 bibkey: cao2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02867"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated impressive performance across
 diverse domains, yet they still encounter challenges such as insufficient

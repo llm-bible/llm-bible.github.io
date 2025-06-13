@@ -7,7 +7,7 @@ year: 2025
 bibkey: cheng2025think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01306"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Language Modeling', 'Reinforcement Learning']
 ---
 Large language models (LLMs) demonstrate exceptional capabilities, yet still
 face the hallucination issue. Typical text generation approaches adopt an

@@ -8,7 +8,7 @@ bibkey: du2025preliminary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01904"}
   - {name: "Code", url: "https://github.com/RUCAIBox/Virgo"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recently, slow-thinking reasoning systems, built upon large language models
 (LLMs), have garnered widespread attention by scaling the thinking time during

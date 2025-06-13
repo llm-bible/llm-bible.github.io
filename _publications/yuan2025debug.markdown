@@ -7,7 +7,7 @@ year: 2025
 bibkey: yuan2025debug
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21557"}
-tags: ['Agentic', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Agentic', 'Tools']
 ---
 Large Language Models (LLMs) are increasingly relied upon for coding tasks,
 yet in most scenarios it is assumed that all relevant information can be either

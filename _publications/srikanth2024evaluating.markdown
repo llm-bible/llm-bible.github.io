@@ -7,7 +7,7 @@ year: 2024
 bibkey: srikanth2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15072"}
-tags: ['Security', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Security', 'Tools', 'GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) have the potential to significantly enhance
 threat intelligence by automating the collection, preprocessing, and analysis

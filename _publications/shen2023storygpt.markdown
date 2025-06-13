@@ -8,7 +8,7 @@ bibkey: shen2023storygpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02252"}
   - {name: "Code", url: "https://xiaoqian-shen.github.io/StoryGPT-V}{https://xiaoqian-shen.github.io/StoryGPT-V"}
-tags: ['Model Architecture', 'RAG', 'Merging', 'GPT', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Recent generative models have demonstrated impressive capabilities in
 generating realistic and visually pleasing images grounded on textual prompts.

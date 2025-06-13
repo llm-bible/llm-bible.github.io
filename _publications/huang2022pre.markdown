@@ -8,7 +8,7 @@ bibkey: huang2022pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.08387"}
   - {name: "Code", url: "https://aka.ms/layoutlmv3"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Masked Language Model', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Self-supervised pre-training techniques have achieved remarkable progress in
 Document AI. Most multimodal pre-trained models use a masked language modeling

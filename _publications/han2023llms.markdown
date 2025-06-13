@@ -7,7 +7,7 @@ year: 2023
 bibkey: han2023llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11904"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision-language models (VLMs) offer a promising paradigm for image
 classification by comparing the similarity between images and class embeddings.

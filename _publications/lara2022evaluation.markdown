@@ -7,7 +7,7 @@ year: 2022
 bibkey: lara2022evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.08167"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'RecSys', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'RAG', 'RecSys', 'Training Techniques']
 ---
 For researchers leveraging Large-Language Models (LLMs) in the generation of
 training datasets, especially for conversational recommender systems - the

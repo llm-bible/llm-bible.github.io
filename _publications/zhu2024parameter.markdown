@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024parameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18271"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Text-rich graphs, which exhibit rich textual information on nodes and edges,
 are prevalent across a wide range of real-world business applications. Large

@@ -7,7 +7,7 @@ year: 2024
 bibkey: väth2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05821"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pruning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recently, Large Language Models (LLMs) have emerged as an alternative to
 training task-specific dialog agents, due to their broad reasoning capabilities

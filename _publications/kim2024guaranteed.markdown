@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024guaranteed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06716"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 As large language models (LLMs) are increasingly used across various
 applications, there is a growing need to control text generation to satisfy

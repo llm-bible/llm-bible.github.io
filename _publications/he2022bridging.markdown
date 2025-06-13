@@ -7,7 +7,7 @@ year: 2022
 bibkey: he2022bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.08394"}
-tags: ['Ethics and Bias', 'Training Techniques', 'Applications']
+tags: ['Applications', 'Training Techniques', 'Ethics and Bias']
 ---
 Back-translation is a critical component of Unsupervised Neural Machine
 Translation (UNMT), which generates pseudo parallel data from target

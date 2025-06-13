@@ -7,7 +7,7 @@ year: 2024
 bibkey: yakura2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01754"}
-tags: ['Agentic', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 Artificial Intelligence (AI) agents now interact with billions of humans in
 natural language, thanks to advances in Large Language Models (LLMs) like

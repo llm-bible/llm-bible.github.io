@@ -8,7 +8,7 @@ bibkey: zhang2025integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00084"}
   - {name: "Code", url: "https://github.com/FunAudioLLM/InspireMusic"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 We introduce InspireMusic, a framework integrated super resolution and large
 language model for high-fidelity long-form music generation. A unified

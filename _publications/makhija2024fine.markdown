@@ -7,7 +7,7 @@ year: 2024
 bibkey: makhija2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04817"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Efficiency and Optimization']
+tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Applications']
 ---
 Large language models (LLMs) are being increasingly tuned to power complex
 generation tasks such as writing, fact-seeking, querying and reasoning.

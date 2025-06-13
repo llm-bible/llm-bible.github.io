@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024citation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.16063"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Agentic', 'Tools', 'Reinforcement Learning']
 ---
 Large language models (LLMs) exhibit powerful general intelligence across
 diverse scenarios, including their integration into chatbots. However, a vital

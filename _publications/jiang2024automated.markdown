@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03876"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Prompting']
 ---
 Ensuring the safety of large language models (LLMs) is paramount, yet
 identifying potential vulnerabilities is challenging. While manual red teaming

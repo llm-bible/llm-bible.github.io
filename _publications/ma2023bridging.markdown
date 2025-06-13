@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10698"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have showcased remarkable prowess in code
 generation. However, automated code generation is still challenging since it

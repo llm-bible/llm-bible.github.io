@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024logical
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.11622v2"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Multimodal Models']
 ---
 Object hallucination has been an Achilles' heel which hinders the broader
 applications of large vision-language models (LVLMs). Object hallucination

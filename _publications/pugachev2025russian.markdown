@@ -7,7 +7,7 @@ year: 2025
 bibkey: pugachev2025russian
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13102"}
-tags: ['Few-Shot', 'Tools', 'Language Modeling', 'Ethics and Bias', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Few-Shot']
 ---
 Recent advances in large language models (LLMs) have introduced the novel
 paradigm of using LLMs as judges, where an LLM evaluates and scores the outputs

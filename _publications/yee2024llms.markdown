@@ -7,7 +7,7 @@ year: 2024
 bibkey: yee2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16070"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'TACL', 'RAG', 'Fine-Tuning', 'ACL']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'RAG', 'TACL', 'Reinforcement Learning', 'ACL']
 ---
 This paper presents a systematic review of the infrastructure requirements
 for deploying Large Language Models (LLMs) on-device within the context of

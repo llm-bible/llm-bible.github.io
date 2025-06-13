@@ -7,7 +7,7 @@ year: 2025
 bibkey: stoisser2025sparks
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00016"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning']
 ---
 This work reframes the Text-to-SQL task as a pathway for teaching large
 language models (LLMs) to reason over and manipulate tabular data--moving

@@ -8,7 +8,7 @@ bibkey: lan2025linearizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01496"}
   - {name: "Code", url: "https://github.com/OpenSparseLLMs/Linearization"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Transformers with linear recurrent modeling offer linear-time training and
 constant-memory inference. Despite their demonstrated efficiency and

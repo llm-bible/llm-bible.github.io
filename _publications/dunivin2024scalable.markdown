@@ -7,7 +7,7 @@ year: 2024
 bibkey: dunivin2024scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15170"}
-tags: ['Prompting', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Qualitative coding, or content analysis, extracts meaning from text to
 discern quantitative patterns across a corpus of texts. Recently, advances in

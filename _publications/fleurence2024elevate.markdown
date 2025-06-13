@@ -7,7 +7,7 @@ year: 2024
 bibkey: fleurence2024elevate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12394"}
-tags: ['Fairness', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability']
+tags: ['Tools', 'Survey Paper', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Interpretability', 'Fairness']
 ---
 Introduction. Generative Artificial Intelligence, particularly large language
 models (LLMs), offers transformative potential for Health Economics and

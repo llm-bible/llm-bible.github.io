@@ -7,7 +7,7 @@ year: 2024
 bibkey: su2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14324"}
-tags: ['Prompting', 'Security', 'Model Architecture', 'GPT']
+tags: ['Security', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) equipped with chain-of-thoughts (CoT) prompting
 have shown significant multi-step reasoning capabilities in factual content

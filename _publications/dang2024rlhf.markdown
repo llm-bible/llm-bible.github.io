@@ -7,7 +7,7 @@ year: 2024
 bibkey: dang2024rlhf
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02552"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Reinforcement Learning']
+tags: ['Training Techniques', 'RAG', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Preference optimization techniques have become a standard final stage for
 training state-of-art large language models (LLMs). However, despite widespread

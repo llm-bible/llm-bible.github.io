@@ -8,7 +8,7 @@ bibkey: xu2024thinner
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21018"}
   - {name: "Code", url: "https://github.com/SalesforceAIResearch/ThinK"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Quantization', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Quantization']
 ---
 Large Language Models (LLMs) have revolutionized the field of natural
 language processing, achieving unprecedented performance across a variety of

@@ -8,7 +8,7 @@ bibkey: zhang2024automating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10762"}
   - {name: "Code", url: "https://github.com/FoundationAgents/AFlow"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Large language models (LLMs) have demonstrated remarkable potential in
 solving complex tasks across diverse domains, typically by employing agentic

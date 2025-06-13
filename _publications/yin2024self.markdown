@@ -8,7 +8,7 @@ bibkey: yin2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20830"}
   - {name: "Code", url: "https://github.com/yinyueqin/SAPO"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Traditional language model alignment methods, such as Direct Preference
 Optimization (DPO), are limited by their dependence on static, pre-collected

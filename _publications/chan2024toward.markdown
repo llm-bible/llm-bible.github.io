@@ -7,7 +7,7 @@ year: 2024
 bibkey: chan2024toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23042"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 It has recently been demonstrated empirically that in-context learning
 emerges in transformers when certain distributional properties are present in

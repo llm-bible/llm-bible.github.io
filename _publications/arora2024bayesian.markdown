@@ -7,7 +7,7 @@ year: 2024
 bibkey: arora2024bayesian
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16531"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Scaling Laws', 'Reinforcement Learning', 'GPT', 'Large-Scale Training', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) is a powerful technique for getting language models
 to perform complex tasks with no training updates. Prior work has established

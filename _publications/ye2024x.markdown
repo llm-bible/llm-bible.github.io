@@ -7,7 +7,7 @@ year: 2024
 bibkey: ye2024x
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19335"}
-tags: ['Multimodal Models', 'Training Techniques', 'Merging', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Multimodal Models', 'Merging', 'Reinforcement Learning']
 ---
 We introduce X-VILA, an omni-modality model designed to extend the
 capabilities of large language models (LLMs) by incorporating image, video, and

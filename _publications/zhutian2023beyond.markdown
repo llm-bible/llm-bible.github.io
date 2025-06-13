@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhutian2023beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02914"}
-tags: ['Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Pretraining Methods']
 ---
 This paper presents an empirical evaluation of the performance of the
 Generative Pre-trained Transformer (GPT) model in Harvard's CS171 data

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14926"}
-tags: ['Agentic', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'RAG', 'Agentic', 'Reinforcement Learning']
 ---
 Financial sentiment analysis is crucial for trading and investment
 decision-making. This study introduces an adaptive retrieval augmented

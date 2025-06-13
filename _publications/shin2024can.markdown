@@ -7,7 +7,7 @@ year: 2024
 bibkey: shin2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05602"}
-tags: ['Responsible AI', 'Tools', 'Merging', 'Ethics and Bias', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Ethics and Bias', 'Merging', 'Prompting']
 ---
 It has been shown that many generative models inherit and amplify societal
 biases. To date, there is no uniform/systematic agreed standard to

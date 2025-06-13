@@ -7,7 +7,7 @@ year: 2024
 bibkey: panickssery2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.13076"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Self-evaluation using large language models (LLMs) has proven valuable not
 only in benchmarking but also methods like reward modeling, constitutional AI,

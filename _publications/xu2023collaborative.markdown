@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023collaborative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04030"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Augmented Language Models (ALMs) empower large language models with the
 ability to use tools, transforming them into intelligent agents for real-world

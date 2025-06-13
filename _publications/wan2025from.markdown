@@ -7,7 +7,7 @@ year: 2025
 bibkey: wan2025from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00330"}
-tags: ['Efficiency and Optimization', 'Few-Shot', 'Merging', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'Applications', 'Merging', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent advances in long-context large language models (LLMs) have led to the
 emerging paradigm of many-shot in-context learning (ICL), where it is observed

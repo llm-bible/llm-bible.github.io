@@ -7,7 +7,7 @@ year: 2025
 bibkey: krumdick2025no
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.05061"}
-tags: ['Ethics and Bias', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 LLM-as-a-Judge is a framework that uses an LLM (large language model) to
 evaluate the quality of natural language text - typically text that is also

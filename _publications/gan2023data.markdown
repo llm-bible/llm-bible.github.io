@@ -7,7 +7,7 @@ year: 2023
 bibkey: gan2023data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.03301"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'RAG', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
 ---
 Various large language models (LLMs) have been proposed in recent years,
 including closed- and open-source ones, continually setting new records on

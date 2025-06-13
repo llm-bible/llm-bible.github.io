@@ -7,7 +7,7 @@ year: 2023
 bibkey: berengueres2023applying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.03503"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Prompting', 'Tools']
+tags: ['Responsible AI', 'Tools', 'Prompting', 'Ethics and Bias']
 ---
 This paper explores how AI-owners can develop safeguards for AI-generated
 content by drawing from established codes of conduct and ethical standards in

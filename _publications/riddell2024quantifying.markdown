@@ -7,7 +7,7 @@ year: 2024
 bibkey: riddell2024quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04811"}
-tags: ['Security', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods', 'Applications']
+tags: ['Survey Paper', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 While large language models have achieved remarkable performance on various
 code generation benchmarks, there have been growing concerns regarding

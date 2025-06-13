@@ -7,7 +7,7 @@ year: 2024
 bibkey: lingo2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.09415"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Prompting']
 ---
 Large Language Models (LLMs) have transformed natural language processing,
 yet improving their problem-solving capabilities, particularly for complex,

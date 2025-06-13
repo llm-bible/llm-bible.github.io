@@ -7,7 +7,7 @@ year: 2023
 bibkey: kumar2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.05576"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Attention Mechanism', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) have made rapid progress in recent months and
 weeks, garnering significant public attention. This has sparked concerns about

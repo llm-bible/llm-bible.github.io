@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16090"}
-tags: ['Agentic', 'Training Techniques', 'Applications', 'Tools']
+tags: ['Training Techniques', 'Agentic', 'Applications', 'Tools']
 ---
 Research on large language models (LLMs) has shown remarkable performance in
 domains such as mathematics, programming, and literary creation. However, most

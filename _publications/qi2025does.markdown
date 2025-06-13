@@ -7,7 +7,7 @@ year: 2025
 bibkey: qi2025does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00163"}
-tags: ['RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Cognitive Reframing, a core element of Cognitive Behavioral Therapy (CBT),
 helps individuals reinterpret negative experiences by finding positive meaning.

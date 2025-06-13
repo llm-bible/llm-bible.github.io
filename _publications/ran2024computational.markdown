@@ -7,7 +7,7 @@ year: 2024
 bibkey: ran2024computational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05209"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Training Techniques', 'Pretraining Methods']
 ---
 The rapid advancement of Large Language Models (LLMs) has led to their
 increased integration into mobile devices for personalized assistance, which

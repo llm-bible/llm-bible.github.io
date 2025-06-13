@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023auto
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13127"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) can perform a wide range of tasks by following
 natural language instructions, without the necessity of task-specific

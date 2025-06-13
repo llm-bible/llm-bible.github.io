@@ -7,7 +7,7 @@ year: 2020
 bibkey: zeng2020simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.11140"}
-tags: ['Pretraining Methods', 'RAG', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
 ---
 Conditioned dialogue generation suffers from the scarcity of labeled
 responses. In this work, we exploit labeled non-dialogue text data related to

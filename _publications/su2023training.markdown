@@ -7,7 +7,7 @@ year: 2023
 bibkey: su2023training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.03459"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'Pruning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recently Text-to-Video (T2V) synthesis has undergone a breakthrough by
 training transformers or diffusion models on large-scale datasets.

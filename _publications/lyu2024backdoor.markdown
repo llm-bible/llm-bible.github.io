@@ -7,7 +7,7 @@ year: 2024
 bibkey: lyu2024backdoor
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19232"}
-tags: ['Security', 'Multimodal Models', 'Language Modeling', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Language Modeling', 'Security', 'Multimodal Models']
 ---
 The emergence of Vision Language Models (VLMs) is a significant advancement
 in integrating computer vision with Large Language Models (LLMs) to produce

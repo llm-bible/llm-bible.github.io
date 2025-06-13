@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024one
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19670"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Retrieval-augmented generation (RAG) is a promising way to improve large
 language models (LLMs) for generating more factual, accurate, and up-to-date

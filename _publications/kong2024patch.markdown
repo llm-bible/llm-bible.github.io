@@ -7,7 +7,7 @@ year: 2024
 bibkey: kong2024patch
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04884"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Visual language pre-training (VLP) models have demonstrated significant
 success across various domains, yet they remain vulnerable to adversarial

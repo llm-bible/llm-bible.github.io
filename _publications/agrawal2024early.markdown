@@ -7,7 +7,7 @@ year: 2024
 bibkey: agrawal2024early
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18351"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods']
+tags: ['GPT', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Speculative decoding is a powerful technique that attempts to circumvent the
 autoregressive constraint of modern Large Language Models (LLMs). The aim of

@@ -8,7 +8,7 @@ bibkey: yang2023lever
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.10104"}
   - {name: "Code", url: "https://github.com/ForJadeForest/Lever-LM"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 As Archimedes famously said, ``Give me a lever long enough and a fulcrum on
 which to place it, and I shall move the world'', in this study, we propose to

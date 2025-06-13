@@ -7,7 +7,7 @@ year: 2024
 bibkey: pozdniakov2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11072"}
-tags: ['Efficiency and Optimization', 'RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Applications']
 ---
 Incorporating Generative AI (GenAI) and Large Language Models (LLMs) in
 education can enhance teaching efficiency and enrich student learning. Current

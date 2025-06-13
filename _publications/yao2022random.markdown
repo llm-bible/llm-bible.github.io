@@ -7,7 +7,7 @@ year: 2022
 bibkey: yao2022random
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.11586"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Large-scale transformer models have become the de-facto architectures for
 various machine learning applications, e.g., CV and NLP. However, those large

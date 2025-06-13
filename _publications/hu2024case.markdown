@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024case
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17709"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite the impressive performance in a variety of complex tasks, modern
 large language models (LLMs) still have trouble dealing with some math problems

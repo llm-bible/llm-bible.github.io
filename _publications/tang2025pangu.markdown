@@ -7,7 +7,7 @@ year: 2025
 bibkey: tang2025pangu
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.04519"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Reinforcement Learning']
+tags: ['Training Techniques', 'RAG', 'Efficiency and Optimization', 'Reinforcement Learning']
 ---
 Sparse large language models (LLMs) with Mixture of Experts (MoE) and close
 to a trillion parameters are dominating the realm of most capable language

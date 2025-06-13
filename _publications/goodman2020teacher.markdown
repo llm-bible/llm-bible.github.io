@@ -7,7 +7,7 @@ year: 2020
 bibkey: goodman2020teacher
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.03494"}
-tags: ['Ethics and Bias', 'WMT', 'Model Architecture', 'Applications']
+tags: ['Model Architecture', 'Applications', 'Ethics and Bias', 'WMT']
 ---
 Sequence generation models trained with teacher-forcing suffer from issues
 related to exposure bias and lack of differentiability across timesteps. Our

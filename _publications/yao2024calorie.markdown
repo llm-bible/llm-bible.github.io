@@ -8,7 +8,7 @@ bibkey: yao2024calorie
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09936"}
   - {name: "Code", url: "https://github.com/KennyYao2001/16824-CaLORAify"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 The obesity phenomenon, known as the heavy issue, is a leading cause of
 preventable chronic diseases worldwide. Traditional calorie estimation tools

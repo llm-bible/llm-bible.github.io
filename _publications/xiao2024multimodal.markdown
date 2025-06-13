@@ -8,7 +8,7 @@ bibkey: xiao2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11363"}
   - {name: "Code", url: "https://github.com/ProteinGPT/ProteinGPT"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'GPT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Has Code', 'Multimodal Models']
 ---
 Understanding biological processes, drug development, and biotechnological
 advancements requires a detailed analysis of protein structures and functions,

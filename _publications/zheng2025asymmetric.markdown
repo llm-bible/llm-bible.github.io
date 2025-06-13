@@ -7,7 +7,7 @@ year: 2025
 bibkey: zheng2025asymmetric
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11223"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Applications', 'RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 The emergence of Large Language Models (LLMs) has advanced the multilingual
 machine translation (MMT), yet the Curse of Multilinguality (CoM) remains a

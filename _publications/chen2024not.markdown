@@ -8,7 +8,7 @@ bibkey: chen2024not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12606"}
   - {name: "Code", url: "https://github.com/RUCAIBox/ALLO"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Has Code', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are still struggling in aligning with human
 preference in complex tasks and scenarios. They are prone to overfit into the

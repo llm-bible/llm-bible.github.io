@@ -7,7 +7,7 @@ year: 2024
 bibkey: roshani2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15027"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models (LLMs) have shown remarkable capabilities in various
 natural language tasks and are increasingly being applied in healthcare

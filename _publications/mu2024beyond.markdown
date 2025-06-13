@@ -7,7 +7,7 @@ year: 2024
 bibkey: mu2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11128"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Reinforcement Learning']
 ---
 With the rise of Large Language Models (LLMs), AI assistants' ability to
 utilize tools, especially through API calls, has advanced notably. This

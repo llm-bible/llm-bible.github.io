@@ -8,7 +8,7 @@ bibkey: diao2023active
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2302.12246v5"}
   - {name: "Code", url: "https://github.com/shizhediao/active-prompt"}
-tags: ['Prompting', 'Has Code']
+tags: ['Has Code', 'Prompting']
 ---
 The increasing scale of large language models (LLMs) brings emergent
 abilities to various complex tasks requiring reasoning, such as arithmetic and

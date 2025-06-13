@@ -8,7 +8,7 @@ bibkey: xie2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03735"}
   - {name: "Code", url: "https://github.com/xjjxmu/QSLAW"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Quantization', 'Has Code']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Quantization']
 ---
 This paper presents the first study to explore the potential of parameter
 quantization for multimodal large language models to alleviate the significant

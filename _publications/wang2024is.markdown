@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14729"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Contrastive Language-Image Pretraining (CLIP) excels at learning
 generalizable image representations but often falls short in zero-shot

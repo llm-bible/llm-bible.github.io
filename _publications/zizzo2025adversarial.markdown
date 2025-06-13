@@ -8,7 +8,7 @@ bibkey: zizzo2025adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15427"}
   - {name: "Code", url: "https://github.com/IBM/Adversarial-Prompt-Evaluation"}
-tags: ['Prompting', 'Security', 'Applications', 'Has Code']
+tags: ['Security', 'Has Code', 'Prompting', 'Applications']
 ---
 As large language models (LLMs) become integrated into everyday applications,
 ensuring their robustness and security is increasingly critical. In particular,

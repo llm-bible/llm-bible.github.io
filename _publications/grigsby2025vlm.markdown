@@ -7,7 +7,7 @@ year: 2025
 bibkey: grigsby2025vlm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03181"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent research looks to harness the general knowledge and reasoning of large
 language models (LLMs) into agents that accomplish user-specified goals in

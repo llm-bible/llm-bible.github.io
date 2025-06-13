@@ -7,7 +7,7 @@ year: 2023
 bibkey: raunak2023dissecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15987"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Most of the recent work in leveraging Large Language Models (LLMs) such as
 GPT-3 for Machine Translation (MT) has focused on selecting the few-shot

@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025symbolic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.05641"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture']
 ---
 Combining existing pre-trained expert LLMs is a promising avenue for scalably
 tackling large-scale and diverse tasks. However, selecting experts at the task

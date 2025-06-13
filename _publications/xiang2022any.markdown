@@ -7,7 +7,7 @@ year: 2022
 bibkey: xiang2022any
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.04325"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'GPT', 'Merging', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'Training Techniques', 'Prompting']
 ---
 Data-to-text generation is challenging due to the great variety of the input
 data in terms of domains (e.g., finance vs sports) or schemata (e.g., diverse

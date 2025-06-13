@@ -7,7 +7,7 @@ year: 2024
 bibkey: bansal2024yet
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16737"}
-tags: ['RAG', 'Training Techniques', 'Distillation', 'Efficiency and Optimization']
+tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Distillation']
 ---
 Training on high-quality synthetic data from strong language models (LMs) is
 a common strategy to improve the reasoning performance of LMs. In this work, we

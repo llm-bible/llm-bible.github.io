@@ -7,7 +7,7 @@ year: 2024
 bibkey: namvarpour2024apprentices
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06404"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have emerged as powerful tools in various
 research domains. This article examines their potential through a literature

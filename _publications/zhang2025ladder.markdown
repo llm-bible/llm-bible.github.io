@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025ladder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06589"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language model inference is both memory-intensive and time-consuming,
 often requiring distributed algorithms to efficiently scale. Various model

@@ -7,7 +7,7 @@ year: 2023
 bibkey: kristensenmclachlan2023are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05769"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Ethics and Bias', 'Interpretability', 'BERT', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'BERT', 'Few-Shot', 'Prompting']
 ---
 Recent research highlights the significant potential of ChatGPT for text
 annotation in social science research. However, ChatGPT is a closed-source

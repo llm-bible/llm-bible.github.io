@@ -7,7 +7,7 @@ year: 2023
 bibkey: shao2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15294"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Large language models are powerful text processors and reasoners, but are
 still subject to limitations including outdated knowledge and hallucinations,

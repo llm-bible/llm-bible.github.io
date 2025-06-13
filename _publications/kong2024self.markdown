@@ -8,7 +8,7 @@ bibkey: kong2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08995"}
   - {name: "Code", url: "https://anonymous.4open.science/r/Self-Prompt-Tuning-739E/}{url"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Recent advancements in LLMs have showcased their remarkable role-playing
 capabilities, able to accurately simulate the dialogue styles and cognitive

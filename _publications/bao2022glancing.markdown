@@ -7,7 +7,7 @@ year: 2022
 bibkey: bao2022glancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.02030"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recently, parallel text generation has received widespread attention due to
 its success in generation efficiency. Although many advanced techniques are

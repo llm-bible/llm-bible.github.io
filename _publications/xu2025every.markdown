@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025every
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04747"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The rise of (multimodal) large language models (LLMs) has shed light on
 software agent -- where software can understand and follow user instructions in

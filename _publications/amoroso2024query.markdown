@@ -7,7 +7,7 @@ year: 2024
 bibkey: amoroso2024query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.19304"}
-tags: ['RAG', 'Applications', 'Multimodal Models']
+tags: ['RAG', 'Multimodal Models', 'Applications']
 ---
 Video Question Answering (Video QA) is a challenging video understanding task
 that requires models to comprehend entire videos, identify the most relevant

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.10145"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 handling long texts and have almost perfect performance in traditional

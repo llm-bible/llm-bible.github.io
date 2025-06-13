@@ -7,7 +7,7 @@ year: 2023
 bibkey: fan2023proximal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.05585"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 The Reinforcement Learning from Human Feedback (RLHF) plays a pivotal role in
 shaping the impact of large language models (LLMs), contributing significantly

@@ -7,7 +7,7 @@ year: 2024
 bibkey: saadat2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13029"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Large language models (LLMs) are increasingly relied upon to solve complex
 mathematical word problems. However, being susceptible to hallucination, they

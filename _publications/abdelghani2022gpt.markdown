@@ -7,7 +7,7 @@ year: 2022
 bibkey: abdelghani2022gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.14228"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 In order to train children's ability to ask curiosity-driven questions,
 previous research has explored designing specific exercises relying on

@@ -7,7 +7,7 @@ year: 2025
 bibkey: raganato2025reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00776"}
-tags: ['Few-Shot', 'Reinforcement Learning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) have shown remarkable capabilities in
 manipulating natural language across multiple applications, but their ability

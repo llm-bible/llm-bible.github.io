@@ -8,7 +8,7 @@ bibkey: sukeda2024development
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11783"}
   - {name: "Code", url: "https://github.com/stardust-coder/japanese-lm-med-harness"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The recent success of large language models (LLMs) and the scaling law has
 led to a widespread adoption of larger models. Particularly in the healthcare

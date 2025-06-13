@@ -7,7 +7,7 @@ year: 2023
 bibkey: towle2023learn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.07258"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Language models pre-trained on large self-supervised corpora, followed by
 task-specific fine-tuning has become the dominant paradigm in NLP. These

@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025quantization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.03035"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Quantization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Large language models have achieved significant advancements in complex
 mathematical reasoning benchmarks, such as MATH. However, their substantial

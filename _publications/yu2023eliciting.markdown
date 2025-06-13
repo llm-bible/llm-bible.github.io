@@ -8,7 +8,7 @@ bibkey: yu2023eliciting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17041"}
   - {name: "Code", url: "https://github.com/yukw777/EILEV"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 A major reason behind the recent success of large language models (LLMs) is
 their \textit\{in-context learning\} capability, which makes it possible to

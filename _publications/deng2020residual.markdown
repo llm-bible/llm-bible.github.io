@@ -7,7 +7,7 @@ year: 2020
 bibkey: deng2020residual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.11714"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Ethics and Bias', 'BERT', 'Applications']
+tags: ['Ethics and Bias', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'BERT']
 ---
 Text generation is ubiquitous in many NLP tasks, from summarization, to
 dialogue and machine translation. The dominant parametric approach is based on

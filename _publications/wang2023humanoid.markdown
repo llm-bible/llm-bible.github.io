@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2310.05418v1"}
   - {name: "Code", url: "https://www.humanoidagents.com/"}
   - {name: "Code", url: "https://github.com/HumanoidAgents/HumanoidAgents"}
-tags: ['Agentic', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Has Code', 'Reinforcement Learning']
 ---
 Just as computational simulations of atoms, molecules and cells have shaped
 the way we study the sciences, true-to-life simulations of human-like agents

@@ -7,7 +7,7 @@ year: 2024
 bibkey: gholami2024ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14123"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
 ---
 The availability of unprecedented unsupervised training data, along with
 neural scaling laws, has resulted in an unprecedented surge in model size and

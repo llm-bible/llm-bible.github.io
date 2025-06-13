@@ -7,7 +7,7 @@ year: 2024
 bibkey: jeon2024dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14854"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 Despite the increasing demand for AI-based mental health monitoring tools,
 their practical utility for clinicians is limited by the lack of

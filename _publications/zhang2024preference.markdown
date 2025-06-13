@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02886"}
-tags: ['RAG', 'Distillation', 'Efficiency and Optimization', 'Tools']
+tags: ['RAG', 'Tools', 'Efficiency and Optimization', 'Distillation']
 ---
 Large Language Models (LLMs) have exhibited impressive capabilities in
 various tasks, yet their vast parameter sizes restrict their applicability in

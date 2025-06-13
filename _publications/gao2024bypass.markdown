@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024bypass
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10576"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pruning', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning']
 ---
 In contrast to moderate-size neural network pruning, structural weight
 pruning on the Large-Language Models (LLMs) imposes a novel challenge on the

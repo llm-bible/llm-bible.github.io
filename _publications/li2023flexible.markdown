@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023flexible
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12060"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot']
 ---
 Knowledge base question answering (KBQA) is a critical yet challenging task
 due to the vast number of entities within knowledge bases and the diversity of

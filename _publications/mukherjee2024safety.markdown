@@ -7,7 +7,7 @@ year: 2024
 bibkey: mukherjee2024safety
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13313"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 We develop Polaris, the first safety-focused LLM constellation for real-time
 patient-AI healthcare conversations. Unlike prior LLM works in healthcare

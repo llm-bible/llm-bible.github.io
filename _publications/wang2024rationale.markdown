@@ -8,7 +8,7 @@ bibkey: wang2024rationale
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10587"}
   - {name: "Code", url: "https://github.com/WangXFng/RDRec"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Distillation', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting', 'Distillation']
 ---
 Large language model (LLM)-based recommender models that bridge users and
 items through textual prompts for effective semantic reasoning have gained

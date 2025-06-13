@@ -7,7 +7,7 @@ year: 2024
 bibkey: takayanagi2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16710"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 In the post-Turing era, evaluating large language models (LLMs) involves
 assessing generated text based on readers' reactions rather than merely its

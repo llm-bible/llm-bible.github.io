@@ -7,7 +7,7 @@ year: 2025
 bibkey: lee2025bringing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18342"}
-tags: ['Ethics and Bias', 'Applications', 'Pretraining Methods', 'Bias Mitigation']
+tags: ['Applications', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods']
 ---
 Hallucination refers to the inaccurate, irrelevant, and inconsistent text
 generated from large language models (LLMs). While the LLMs have shown great

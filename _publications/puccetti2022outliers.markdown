@@ -7,7 +7,7 @@ year: 2022
 bibkey: puccetti2022outliers
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.11380"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 While Transformer-based language models are generally very robust to pruning,
 there is the recently discovered outlier phenomenon: disabling only 48 out of

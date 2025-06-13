@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023bayesian
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.13111"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 Low-rank adaptation (LoRA) has emerged as a new paradigm for cost-efficient
 fine-tuning of large language models (LLMs). However, fine-tuned LLMs often

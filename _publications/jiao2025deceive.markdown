@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiao2025deceive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.09456"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Large Multimodal Models (LMMs) have demonstrated remarkable capabilities
 across a wide range of tasks. However, their vulnerability to user

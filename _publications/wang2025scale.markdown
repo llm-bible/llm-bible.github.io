@@ -8,7 +8,7 @@ bibkey: wang2025scale
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15499"}
   - {name: "Code", url: "https://github.com/kaihemo/SDD"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Training stability is a persistent challenge in the pre-training of large
 language models (LLMs), particularly for architectures such as Post-Norm

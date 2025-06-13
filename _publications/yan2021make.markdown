@@ -8,7 +8,7 @@ bibkey: yan2021make
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.04718"}
   - {name: "Code", url: "https://github.com/microsoft/fastseq"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Transformer-based models have made tremendous impacts in natural language
 generation. However the inference speed is a bottleneck due to large model size

@@ -7,7 +7,7 @@ year: 2024
 bibkey: addepalli2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03235"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) are known to be susceptible to crafted
 adversarial attacks or jailbreaks that lead to the generation of objectionable

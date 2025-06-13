@@ -7,7 +7,7 @@ year: 2022
 bibkey: chen2022jointly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.06794"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Effective scaling and a flexible task interface enable large language models
 to excel at many tasks. We present PaLI (Pathways Language and Image model), a

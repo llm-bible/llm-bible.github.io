@@ -7,7 +7,7 @@ year: 2024
 bibkey: pop2024rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.19552"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 In this paper, we investigate the degree to which fine-tuning in Large
 Language Models (LLMs) effectively mitigates versus merely conceals undesirable

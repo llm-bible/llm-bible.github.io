@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03734"}
-tags: ['Tools', 'Reinforcement Learning', 'Interpretability', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Prompting']
 ---
 Integrating large language models (LLMs) and knowledge graphs (KGs) holds
 great promise for revolutionizing intelligent education, but challenges remain

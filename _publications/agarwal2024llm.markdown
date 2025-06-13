@@ -7,7 +7,7 @@ year: 2024
 bibkey: agarwal2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01687"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Tools', 'GPT', 'Model Architecture']
 ---
 This study evaluates the effectiveness of various large language models
 (LLMs) in performing tasks common among undergraduate computer science

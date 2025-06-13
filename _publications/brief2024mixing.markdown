@@ -7,7 +7,7 @@ year: 2024
 bibkey: brief2024mixing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01109"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The application of large language models (LLMs) in domain-specific contexts,
 including finance, has expanded rapidly. Domain-specific LLMs are typically

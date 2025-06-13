@@ -7,7 +7,7 @@ year: 2022
 bibkey: prystawski2022psychologically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.08141"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Prompting']
 ---
 Probabilistic models of language understanding are valuable tools for
 investigating human language use. However, they need to be hand-designed for a

@@ -7,7 +7,7 @@ year: 2023
 bibkey: yin2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.06687"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Interpretability', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 Large language models have emerged as a promising approach towards achieving
 general-purpose AI agents. The thriving open-source LLM community has greatly

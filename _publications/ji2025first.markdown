@@ -7,7 +7,7 @@ year: 2025
 bibkey: ji2025first
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02875"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Improving the reasoning capabilities of large language models (LLMs)
 typically requires supervised fine-tuning with labeled data or computationally

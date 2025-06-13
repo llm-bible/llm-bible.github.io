@@ -7,7 +7,7 @@ year: 2024
 bibkey: armeni2024transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07075"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 To predict upcoming text, language models must in some cases retrieve
 in-context information verbatim. In this report, we investigated how the

@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.07415"}
-tags: ['Prompting', 'Efficiency and Optimization', 'In-Context Learning', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'In-Context Learning']
 ---
 This paper presents AutoHint, a novel framework for automatic prompt
 engineering and optimization for Large Language Models (LLM). While LLMs have

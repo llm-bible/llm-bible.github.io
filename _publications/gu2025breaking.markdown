@@ -7,7 +7,7 @@ year: 2025
 bibkey: gu2025breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.17432"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Distillation']
 ---
 The Contrastive Language-Image Pre-training (CLIP) framework has become a
 widely used approach for multimodal representation learning, particularly in

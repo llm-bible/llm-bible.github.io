@@ -8,7 +8,7 @@ bibkey: xie2024monte
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00451"}
   - {name: "Code", url: "https://github.com/YuxiXie/MCTS-DPO"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We introduce an approach aimed at enhancing the reasoning capabilities of
 Large Language Models (LLMs) through an iterative preference learning process

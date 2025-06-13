@@ -8,7 +8,7 @@ bibkey: sha2022bird
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.03985"}
   - {name: "Code", url: "https://sites.google.com/view/bet-transformer/home"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Transformers have become an indispensable module for text generation models
 since their great success in machine translation. Previous works attribute

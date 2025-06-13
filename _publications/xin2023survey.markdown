@@ -7,7 +7,7 @@ year: 2023
 bibkey: xin2023survey
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.18223v13"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Scaling Laws', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Survey Paper', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Scaling Laws']
 ---
 Language is essentially a complex, intricate system of human expressions
 governed by grammatical rules. It poses a significant challenge to develop

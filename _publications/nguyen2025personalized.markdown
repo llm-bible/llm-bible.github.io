@@ -7,7 +7,7 @@ year: 2025
 bibkey: nguyen2025personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20998"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Few-Shot', 'Tools', 'RAG', 'Language Modeling', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 Large Multimodal Models (e.g., GPT-4, Gemini, Chameleon) have evolved into
 powerful tools with millions of users. However, they remain generic models and

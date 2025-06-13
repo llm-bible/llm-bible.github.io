@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024calibrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15393"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Fairness', 'Tools', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Attention Mechanism', 'Fairness']
 ---
 The use of large language models (LLMs) as automated evaluation tools to
 assess the quality of generated natural language, known as LLMs-as-Judges, has

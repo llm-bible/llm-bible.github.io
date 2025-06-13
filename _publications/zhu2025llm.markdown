@@ -8,7 +8,7 @@ bibkey: zhu2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03313"}
   - {name: "Code", url: "https://github.com/agiresearch/PromptGFM"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Text-Attributed Graphs (TAGs), where each node is associated with text
 descriptions, are ubiquitous in real-world scenarios. They typically exhibit

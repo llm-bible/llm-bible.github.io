@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024collaborative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06447"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'RecSys', 'Prompting']
+tags: ['Agentic', 'Tools', 'RAG', 'Reinforcement Learning', 'RecSys', 'Prompting']
 ---
 The long-tail recommendation is a challenging task for traditional
 recommender systems, due to data sparsity and data imbalance issues. The recent

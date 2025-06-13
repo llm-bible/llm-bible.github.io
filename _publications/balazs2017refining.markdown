@@ -7,7 +7,7 @@ year: 2017
 bibkey: balazs2017refining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1707.03103"}
-tags: ['Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture']
 ---
 In this paper we present the model used by the team Rivercorners for the 2017
 RepEval shared task. First, our model separately encodes a pair of sentences

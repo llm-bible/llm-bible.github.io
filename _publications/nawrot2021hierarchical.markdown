@@ -7,7 +7,7 @@ year: 2021
 bibkey: nawrot2021hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.13711"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Pretraining Methods']
 ---
 Transformer models yield impressive results on many NLP and sequence modeling
 tasks. Remarkably, Transformers can handle long sequences which allows them to

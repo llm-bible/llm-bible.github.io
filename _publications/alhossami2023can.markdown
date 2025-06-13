@@ -8,7 +8,7 @@ bibkey: alhossami2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03210"}
   - {name: "Code", url: "https://github.com/taisazero/socratic-debugging-benchmark"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 When employing the Socratic method of teaching, instructors guide students
 toward solving a problem on their own rather than providing the solution

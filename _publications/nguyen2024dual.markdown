@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04489"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 Prompt learning methods are gaining increasing attention due to their ability
 to customize large vision-language models to new domains using pre-trained

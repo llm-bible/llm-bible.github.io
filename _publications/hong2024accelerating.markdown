@@ -7,7 +7,7 @@ year: 2024
 bibkey: hong2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10660"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) have remarkably enhanced
 performances on a variety of tasks in multiple languages. However, tokenizers

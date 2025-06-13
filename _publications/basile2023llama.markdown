@@ -7,7 +7,7 @@ year: 2023
 bibkey: basile2023llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09993"}
-tags: ['Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
 ---
 Large Language Models represent state-of-the-art linguistic models designed
 to equip computers with the ability to comprehend natural language. With its

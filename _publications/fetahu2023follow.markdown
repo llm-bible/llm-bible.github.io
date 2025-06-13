@@ -7,7 +7,7 @@ year: 2023
 bibkey: fetahu2023follow
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17034"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The adoption of voice assistants like Alexa or Siri has grown rapidly,
 allowing users to instantly access information via voice search. Query

@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023summary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.01852"}
-tags: ['Agentic', 'Arxiv', 'Model Architecture', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'GPT', 'Applications', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Arxiv']
 ---
 This paper presents a comprehensive survey of ChatGPT-related (GPT-3.5 and
 GPT-4) research, state-of-the-art large language models (LLM) from the GPT

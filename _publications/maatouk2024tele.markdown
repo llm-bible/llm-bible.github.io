@@ -7,7 +7,7 @@ year: 2024
 bibkey: maatouk2024tele
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.05314"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 The emergence of large language models (LLMs) has significantly impacted
 various fields, from natural language processing to sectors like medicine and

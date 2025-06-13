@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023restful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.11060"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 We present SkillGPT, a tool for skill extraction and standardization (SES)
 from free-style job descriptions and user profiles with an open-source Large

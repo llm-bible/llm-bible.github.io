@@ -7,7 +7,7 @@ year: 2024
 bibkey: raunak2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05553"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 In this work, we introduce instruction finetuning for Neural Machine
 Translation (NMT) models, which distills instruction following capabilities

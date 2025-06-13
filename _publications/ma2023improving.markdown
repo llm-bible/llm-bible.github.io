@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.00852"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The natural language generation domain has witnessed great success thanks to
 Transformer models. Although they have achieved state-of-the-art generative

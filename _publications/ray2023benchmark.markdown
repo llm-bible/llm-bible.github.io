@@ -7,7 +7,7 @@ year: 2023
 bibkey: ray2023benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03689"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Compositional reasoning is a hallmark of human visual intelligence. Yet,
 despite the size of large vision-language models, they struggle to represent

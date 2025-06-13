@@ -7,7 +7,7 @@ year: 2019
 bibkey: stahlberg2019nmt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.10090"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We report on search errors and model errors in neural machine translation
 (NMT). We present an exact inference procedure for neural sequence models based

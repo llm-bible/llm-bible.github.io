@@ -7,7 +7,7 @@ year: 2019
 bibkey: libovický2019probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.11125"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent literature shows that large-scale language modeling provides excellent
 reusable sentence representations with both recurrent and self-attentive

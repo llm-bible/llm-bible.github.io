@@ -7,7 +7,7 @@ year: 2025
 bibkey: deng2025adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05084"}
-tags: ['Security', 'Efficiency and Optimization', 'Tools', 'Prompting', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Security', 'Prompting']
 ---
 The astonishing performance of large language models (LLMs) and their
 remarkable achievements in production and daily life have led to their

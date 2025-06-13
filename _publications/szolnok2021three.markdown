@@ -7,7 +7,7 @@ year: 2021
 bibkey: szolnok2021three
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.07006"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Transformer', 'Model Architecture']
+tags: ['Transformer', 'Training Techniques', 'Model Architecture', 'Pretraining Methods']
 ---
 We present the BME submission for the SIGMORPHON 2021 Task 0 Part 1,
 Generalization Across Typologically Diverse Languages shared task. We use an

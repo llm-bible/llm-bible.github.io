@@ -8,7 +8,7 @@ bibkey: kulkarni2024synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.02285"}
   - {name: "Code", url: "https://github.com/apple/ml-synthdst"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In-context learning with Large Language Models (LLMs) has emerged as a
 promising avenue of research in Dialog State Tracking (DST). However, the

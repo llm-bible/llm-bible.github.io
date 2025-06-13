@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01178"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Alongside the rapid development of Large Language Models (LLMs), there has
 been a notable increase in efforts to integrate LLM techniques in information

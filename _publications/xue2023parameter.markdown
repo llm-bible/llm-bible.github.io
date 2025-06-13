@@ -7,7 +7,7 @@ year: 2023
 bibkey: xue2023parameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00819"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Aligning large language models (LLMs) with human preferences is essential for
 safe and useful LLMs. Previous works mainly adopt reinforcement learning (RLHF)

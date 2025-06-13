@@ -7,7 +7,7 @@ year: 2024
 bibkey: rathore2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18880"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Recently, very large language models (LLMs) have shown exceptional
 performance on several English NLP tasks with just in-context learning (ICL),

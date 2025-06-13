@@ -8,7 +8,7 @@ bibkey: wu2024optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11200"}
   - {name: "Code", url: "https://github.com/zou-group/avatar"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'RAG', 'Has Code', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Large language model (LLM) agents have demonstrated impressive capabilities
 in utilizing external tools and knowledge to boost accuracy and reduce

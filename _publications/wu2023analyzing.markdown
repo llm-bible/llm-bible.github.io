@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.13339"}
-tags: ['Security', 'Few-Shot', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'RAG', 'Security', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Chain-of-thought (CoT) prompting has been shown to empirically improve the
 accuracy of large language models (LLMs) on various question answering tasks.

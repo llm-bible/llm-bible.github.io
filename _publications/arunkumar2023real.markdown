@@ -7,7 +7,7 @@ year: 2023
 bibkey: arunkumar2023real
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.04434"}
-tags: ['Security', 'Model Architecture', 'Survey Paper', 'GPT', 'BERT']
+tags: ['GPT', 'Survey Paper', 'Model Architecture', 'Security', 'BERT']
 ---
 Recent research has shown that language models exploit `artifacts' in
 benchmarks to solve tasks, rather than truly learning them, leading to inflated

@@ -7,7 +7,7 @@ year: 2024
 bibkey: fei2024internlm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14887"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 While large language models (LLMs) have showcased impressive capabilities,
 they struggle with addressing legal queries due to the intricate complexities

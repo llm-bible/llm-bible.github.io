@@ -8,7 +8,7 @@ bibkey: huang2024ecr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.10860"}
   - {name: "Code", url: "https://github.com/hzp3517/ECR-Chain"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting']
 ---
 Understanding the process of emotion generation is crucial for analyzing the
 causes behind emotions. Causal Emotion Entailment (CEE), an

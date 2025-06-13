@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16810"}
-tags: ['Model Architecture', 'GPT', 'BERT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'BERT', 'Prompting']
 ---
 This study investigates the ability of GPT models (ChatGPT, GPT-4 and GPT-4o)
 to generate dialogue summaries that adhere to human guidelines. Our evaluation

@@ -7,7 +7,7 @@ year: 2025
 bibkey: toker2025padding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06751"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Text-to-image (T2I) diffusion models rely on encoded prompts to guide the
 image generation process. Typically, these prompts are extended to a fixed

@@ -7,7 +7,7 @@ year: 2024
 bibkey: you2024ferret
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05719"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 Recent advancements in multimodal large language models (MLLMs) have been
 noteworthy, yet, these general-domain MLLMs often fall short in their ability

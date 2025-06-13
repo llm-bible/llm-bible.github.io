@@ -7,7 +7,7 @@ year: 2024
 bibkey: gholami2024generalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19754"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Distillation']
 ---
 Knowledge distillation from LLMs is essential for the efficient deployment of
 language models. Prior works have proposed data generation using LLMs for

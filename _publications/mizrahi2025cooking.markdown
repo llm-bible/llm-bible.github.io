@@ -7,7 +7,7 @@ year: 2025
 bibkey: mizrahi2025cooking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20643"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Large Language Models (LLMs) excel at countless tasks, yet struggle with
 creativity. In this paper, we introduce a novel approach that couples LLMs with

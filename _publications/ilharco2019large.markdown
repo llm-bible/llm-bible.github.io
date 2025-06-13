@@ -7,7 +7,7 @@ year: 2019
 bibkey: ilharco2019large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.08782"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Systems that can associate images with their spoken audio captions are an
 important step towards visually grounded language learning. We describe a

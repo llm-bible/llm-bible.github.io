@@ -7,7 +7,7 @@ year: 2025
 bibkey: sason2025attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01564"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pruning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Pruning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 As the context window expands, self-attention increasingly dominates the
 transformer's inference time. Therefore, accelerating attention computation

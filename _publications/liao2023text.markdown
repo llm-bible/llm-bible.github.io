@@ -7,7 +7,7 @@ year: 2023
 bibkey: liao2023text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.14623"}
-tags: ['Prompting', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting']
 ---
 Recent years have witnessed the substantial progress of large-scale models
 across various domains, such as natural language processing and computer

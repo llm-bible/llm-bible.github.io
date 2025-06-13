@@ -8,7 +8,7 @@ bibkey: feng2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12914"}
   - {name: "Code", url: "https://github.com/XueyangFeng/ReHAC"}
-tags: ['Agentic', 'Agent', 'Has Code', 'Reinforcement Learning']
+tags: ['Agentic', 'Has Code', 'Agent', 'Reinforcement Learning']
 ---
 In recent developments within the research community, the integration of
 Large Language Models (LLMs) in creating fully autonomous agents has garnered

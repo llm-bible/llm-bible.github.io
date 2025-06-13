@@ -7,7 +7,7 @@ year: 2024
 bibkey: mittal2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19162"}
-tags: ['Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'In-Context Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Language Modeling', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large autoregressive models like Transformers can solve tasks through
 in-context learning (ICL) without learning new weights, suggesting avenues for

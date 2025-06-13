@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024factual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14709"}
-tags: ['Efficiency and Optimization', 'Distillation', 'Applications', 'Reinforcement Learning']
+tags: ['Distillation', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
 ---
 Factual consistency is an important quality in dialogue summarization. Large
 language model (LLM)-based automatic text summarization models generate more

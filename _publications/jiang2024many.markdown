@@ -8,7 +8,7 @@ bibkey: jiang2024many
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.09798"}
   - {name: "Code", url: "https://github.com/stanfordmlgroup/ManyICL"}
-tags: ['Multimodal Models', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Large language models are effective at few-shot in-context learning (ICL).
 Recent advancements in multimodal foundation models have enabled

@@ -8,7 +8,7 @@ bibkey: xuan2023unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00582"}
   - {name: "Code", url: "https://github.com/SY-Xuan/Pink"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Has Code', 'Dataset']
+tags: ['Tools', 'RAG', 'Training Techniques', 'Has Code', 'Dataset']
 ---
 Multi-modal Large Language Models (MLLMs) have shown remarkable capabilities
 in various multi-modal tasks. Nevertheless, their performance in fine-grained

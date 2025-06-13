@@ -8,7 +8,7 @@ bibkey: wang2023conceptualization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14869"}
   - {name: "Code", url: "https://github.com/HKUST-KnowComp/CAR"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The task of zero-shot commonsense question answering evaluates models on
 their capacity to reason about general scenarios beyond those presented in

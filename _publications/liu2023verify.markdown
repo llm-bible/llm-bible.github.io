@@ -8,7 +8,7 @@ bibkey: liu2023verify
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14628"}
   - {name: "Code", url: "https://github.com/tengxiaoliu/XoT"}
-tags: ['Prompting', 'Has Code', 'Tools']
+tags: ['Tools', 'Has Code', 'Prompting']
 ---
 As large language models (LLMs) have shown effectiveness with different
 prompting methods, such as Chain of Thought, Program of Thought, we find that

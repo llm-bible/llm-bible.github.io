@@ -7,7 +7,7 @@ year: 2024
 bibkey: alexandrov2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.08699"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Merging', 'Model Architecture']
+tags: ['Training Techniques', 'Pretraining Methods', 'Model Architecture', 'Merging']
 ---
 As open-weight large language models (LLMs) achieve ever more impressive
 performances across a wide range of tasks in English, practitioners aim to

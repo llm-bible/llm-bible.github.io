@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024tool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11451"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques']
 ---
 Scientific reasoning poses an excessive challenge for even the most advanced
 Large Language Models (LLMs). To make this task more practical and solvable for

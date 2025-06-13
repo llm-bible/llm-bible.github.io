@@ -7,7 +7,7 @@ year: 2024
 bibkey: mukherjee2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05885"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 We analyze the performance of large language models (LLMs) on Text Style
 Transfer (TST), specifically focusing on sentiment transfer and text

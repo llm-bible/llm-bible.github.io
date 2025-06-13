@@ -7,7 +7,7 @@ year: 2020
 bibkey: park2020multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.14025"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'RAG', 'Attention Mechanism']
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 Visual dialog is a challenging vision-language task in which a series of
 questions visually grounded by a given image are answered. To resolve the

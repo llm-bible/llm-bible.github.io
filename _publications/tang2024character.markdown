@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024character
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.16727"}
-tags: ['Security', 'RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Security', 'Applications']
 ---
 Role-playing systems powered by large language models (LLMs) have become
 increasingly influential in emotional communication applications. However,

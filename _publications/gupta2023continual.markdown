@@ -7,7 +7,7 @@ year: 2023
 bibkey: gupta2023continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.04014"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pre-Training', 'Model Architecture']
+tags: ['Training Techniques', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture']
 ---
 Large language models (LLMs) are routinely pre-trained on billions of tokens,
 only to restart the process over again once new data becomes available. A much

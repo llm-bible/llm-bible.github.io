@@ -7,7 +7,7 @@ year: 2025
 bibkey: ge2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.21231"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques']
 ---
 Scaling long-context ability is essential for Large Language Models (LLMs).
 To amortize the memory consumption across multiple devices in long-context

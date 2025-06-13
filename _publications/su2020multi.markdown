@@ -8,7 +8,7 @@ bibkey: su2020multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.09240"}
   - {name: "Code", url: "https://github.com/HLTCHKUST/MulQG}{https://github.com/HLTCHKUST/MulQG"}
-tags: ['RAG', 'Merging', 'Has Code']
+tags: ['RAG', 'Has Code', 'Merging']
 ---
 Multi-hop Question Generation (QG) aims to generate answer-related questions
 by aggregating and reasoning over multiple scattered evidence from different

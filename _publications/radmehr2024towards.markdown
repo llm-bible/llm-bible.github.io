@@ -7,7 +7,7 @@ year: 2024
 bibkey: radmehr2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.18978"}
-tags: ['Prompting', 'RAG', 'Agentic', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Prompting', 'Reinforcement Learning']
 ---
 There has been a growing interest in developing learner models to enhance
 learning and teaching experiences in educational environments. However,

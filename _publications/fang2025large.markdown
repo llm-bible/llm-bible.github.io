@@ -7,7 +7,7 @@ year: 2025
 bibkey: fang2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.02061"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Training Techniques', 'Reinforcement Learning']
 ---
 While recent advancements in aligning Large Language Models (LLMs) with
 recommendation tasks have shown great potential and promising performance

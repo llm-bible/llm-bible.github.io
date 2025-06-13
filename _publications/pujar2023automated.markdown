@@ -7,7 +7,7 @@ year: 2023
 bibkey: pujar2023automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.02783"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 The recent improvement in code generation capabilities due to the use of
 large language models has mainly benefited general purpose programming

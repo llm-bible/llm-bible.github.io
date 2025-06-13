@@ -8,7 +8,7 @@ bibkey: ren2024simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.07522"}
   - {name: "Code", url: "https://github.com/microsoft/Samba"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Efficiently modeling sequences with infinite context length has long been a
 challenging problem. Previous approaches have either suffered from quadratic

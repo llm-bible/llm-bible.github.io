@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.07164"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 An increasingly common practice is to train large language models (LLMs)
 using synthetic data. Often this synthetic data is produced by the same or

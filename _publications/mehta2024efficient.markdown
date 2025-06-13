@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14619"}
   - {name: "Code", url: "https://github.com/apple/corenet"}
   - {name: "Code", url: "https://huggingface.co/apple/OpenELM"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The reproducibility and transparency of large language models are crucial for
 advancing open research, ensuring the trustworthiness of results, and enabling

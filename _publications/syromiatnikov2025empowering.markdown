@@ -8,7 +8,7 @@ bibkey: syromiatnikov2025empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13988"}
   - {name: "Code", url: "https://github.com/NLPForUA/ZNO"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Leading large language models have demonstrated impressive capabilities in
 reasoning-intensive tasks, such as standardized educational testing. However,

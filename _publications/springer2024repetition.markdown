@@ -7,7 +7,7 @@ year: 2024
 bibkey: springer2024repetition
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15449"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent approaches to improving the extraction of text embeddings from
 autoregressive large language models (LLMs) have largely focused on

@@ -8,7 +8,7 @@ bibkey: zhou2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04199"}
   - {name: "Code", url: "https://github.com/PALIN2018/Evaluate_GPT-4V_Rec"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Large Multimodal Models (LMMs) have demonstrated impressive performance
 across various vision and language tasks, yet their potential applications in

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lemkin2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04769"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Large language models (LLMs) are initially trained on vast amounts of data,
 then fine-tuned using reinforcement learning from human feedback (RLHF); this

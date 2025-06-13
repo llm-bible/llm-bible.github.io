@@ -7,7 +7,7 @@ year: 2024
 bibkey: fu2024towards
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2408.05211v2"}
-tags: ['Multimodal Models', 'Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Multimodal Models', 'Applications', 'Model Architecture']
 ---
 The remarkable multimodal capabilities and interactive experience of GPT-4o
 underscore their necessity in practical applications, yet open-source models

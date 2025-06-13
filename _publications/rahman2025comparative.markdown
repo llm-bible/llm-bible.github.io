@@ -7,7 +7,7 @@ year: 2025
 bibkey: rahman2025comparative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04783"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
 ---
 Nowadays, DeepSeek, ChatGPT, and Google Gemini are the most trending and
 exciting Large Language Model (LLM) technologies for reasoning, multimodal

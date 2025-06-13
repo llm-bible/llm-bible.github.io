@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12046"}
-tags: ['Prompting', 'Agentic', 'Few-Shot', 'Tools']
+tags: ['Few-Shot', 'Agentic', 'Prompting', 'Tools']
 ---
 Tables, figures, and listings (TFLs) are essential tools for summarizing
 clinical trial data. Creation of TFLs for reporting activities is often a

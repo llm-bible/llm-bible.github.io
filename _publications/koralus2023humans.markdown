@@ -7,7 +7,7 @@ year: 2023
 bibkey: koralus2023humans
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.17276"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Increase in computational scale and fine-tuning has seen a dramatic
 improvement in the quality of outputs of large language models (LLMs) like GPT.

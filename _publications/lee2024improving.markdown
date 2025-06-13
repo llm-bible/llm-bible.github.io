@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03051"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Distillation', 'Quantization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Distillation']
 ---
 The rapid advancement of large language models (LLMs) has facilitated their
 transformation into conversational chatbots that can grasp contextual nuances

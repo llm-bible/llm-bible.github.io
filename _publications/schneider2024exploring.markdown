@@ -7,7 +7,7 @@ year: 2024
 bibkey: schneider2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05977"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 This study explores real-world human interactions with large language models
 (LLMs) in diverse, unconstrained settings in contrast to most prior research

@@ -7,7 +7,7 @@ year: 2025
 bibkey: lovin2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04095"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This work presents a custom approach to developing a domain specific
 knowledge assistant for sustainability reporting using the International

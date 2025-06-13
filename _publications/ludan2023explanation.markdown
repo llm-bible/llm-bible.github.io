@@ -7,7 +7,7 @@ year: 2023
 bibkey: ludan2023explanation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.04990"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Interpretability and Explainability']
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs) are so powerful that they sometimes learn
 correlations between labels and features that are irrelevant to the task,

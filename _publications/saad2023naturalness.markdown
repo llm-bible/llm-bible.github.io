@@ -7,7 +7,7 @@ year: 2023
 bibkey: saad2023naturalness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13508"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Language models for code such as CodeBERT offer the capability to learn
 advanced source code representation, but their opacity poses barriers to

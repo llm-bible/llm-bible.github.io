@@ -8,7 +8,7 @@ bibkey: yuan2024predicting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10764"}
   - {name: "Code", url: "https://github.com/chenhan97/Otter"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLMs) exhibit limitations such as
 generating unsafe responses, unreliable reasoning, etc. Existing inference

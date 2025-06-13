@@ -7,7 +7,7 @@ year: 2020
 bibkey: cao2020zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.07200"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism']
 ---
 Despite recent breakthroughs in reinforcement learning (RL) and imitation
 learning (IL), existing algorithms fail to generalize beyond the training

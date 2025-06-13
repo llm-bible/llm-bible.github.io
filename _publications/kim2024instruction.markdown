@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024instruction
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01512"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Pretraining Methods']
 ---
 It is challenging to generate high-quality instruction datasets for
 non-English languages due to tail phenomena, which limit performance on less

@@ -7,7 +7,7 @@ year: 2024
 bibkey: druart2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13269"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 In spoken Task-Oriented Dialogue (TOD) systems, the choice of the semantic
 representation describing the users' requests is key to a smooth interaction.

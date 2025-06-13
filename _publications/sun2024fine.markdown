@@ -8,7 +8,7 @@ bibkey: sun2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20941"}
   - {name: "Code", url: "https://github.com/EIT-NLP/BLEUless_DocMT"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have excelled in various NLP tasks, including
 machine translation (MT), yet most studies focus on sentence-level translation.

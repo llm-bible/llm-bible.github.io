@@ -8,7 +8,7 @@ bibkey: min2023beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.14053"}
   - {name: "Code", url: "https://github.com/marcusm117/IdentityChain"}
-tags: ['Applications', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Code Large Language Models (Code LLMs) are being increasingly employed in
 real-life applications, so evaluating them is critical. While the conventional

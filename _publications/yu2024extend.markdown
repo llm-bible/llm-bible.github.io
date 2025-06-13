@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024extend
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03092"}
-tags: ['Merging', 'Applications']
+tags: ['Applications', 'Merging']
 ---
 Merging Large Language Models (LLMs) aims to amalgamate multiple homologous
 LLMs into one with all the capabilities. Ideally, any LLMs sharing the same

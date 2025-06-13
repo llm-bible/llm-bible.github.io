@@ -8,7 +8,7 @@ bibkey: dekoninck2023controlled
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.14479"}
   - {name: "Code", url: "https://github.com/eth-sri/language-model-arithmetic"}
-tags: ['Training Techniques', 'Tools', 'Language Modeling', 'Ethics and Bias', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 As Large Language Models (LLMs) are deployed more widely, customization with
 respect to vocabulary, style, and character becomes more important. In this

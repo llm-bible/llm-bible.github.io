@@ -7,7 +7,7 @@ year: 2023
 bibkey: hong2023injecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.12981"}
-tags: ['Prompting', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
+tags: ['Multimodal Models', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) and Vision-Language Models (VLMs) have been
 proven to excel at multiple tasks, such as commonsense reasoning. Powerful as

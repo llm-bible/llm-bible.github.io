@@ -7,7 +7,7 @@ year: 2022
 bibkey: deng2022unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.06923"}
-tags: ['RecSys', 'Prompting', 'Tools']
+tags: ['Tools', 'Prompting', 'RecSys']
 ---
 Recent years witnessed several advances in developing multi-goal
 conversational recommender systems (MG-CRS) that can proactively attract users'

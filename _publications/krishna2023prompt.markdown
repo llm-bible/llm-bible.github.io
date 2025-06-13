@@ -7,7 +7,7 @@ year: 2023
 bibkey: krishna2023prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.05915"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
 ---
 We propose a framework - Prompt, Generate, Train (PGT) - to efficiently
 develop a generative question-answering model for open-book question-answering

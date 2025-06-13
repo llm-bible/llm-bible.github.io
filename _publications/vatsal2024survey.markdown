@@ -7,7 +7,7 @@ year: 2024
 bibkey: vatsal2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12994"}
-tags: ['Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have shown remarkable performance on many
 different Natural Language Processing (NLP) tasks. Prompt engineering plays a

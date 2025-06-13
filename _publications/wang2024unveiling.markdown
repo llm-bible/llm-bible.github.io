@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19487"}
-tags: ['Security', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Security']
 ---
 Effective patient care in digital healthcare requires large language models
 (LLMs) that not only answer questions but also actively gather critical

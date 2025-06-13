@@ -7,7 +7,7 @@ year: 2023
 bibkey: du2023blending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.00953"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Attention Mechanism']
+tags: ['Agentic', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The development of trustworthy conversational information-seeking systems
 relies on dialogue models that can generate faithful and accurate responses

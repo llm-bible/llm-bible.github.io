@@ -7,7 +7,7 @@ year: 2024
 bibkey: anand2024mm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08704"}
-tags: ['Prompting', 'Multimodal Models', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Multimodal Models', 'Prompting', 'Model Architecture']
 ---
 While Large Language Models (LLMs) can achieve human-level performance in
 various tasks, they continue to face challenges when it comes to effectively

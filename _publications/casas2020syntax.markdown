@@ -7,7 +7,7 @@ year: 2020
 bibkey: casas2020syntax
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.02211"}
-tags: ['Model Architecture', 'Language Modeling', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods']
 ---
 The dominant language modeling paradigm handles text as a sequence of
 discrete tokens. While that approach can capture the latent structure of the

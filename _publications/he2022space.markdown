@@ -7,7 +7,7 @@ year: 2022
 bibkey: he2022space
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.06664"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Recently, pre-training methods have shown remarkable success in task-oriented
 dialog (TOD) systems. However, most existing pre-trained models for TOD focus

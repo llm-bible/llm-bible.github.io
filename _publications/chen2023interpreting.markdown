@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023interpreting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10591"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large-scale pre-trained vision foundation models, such as CLIP, have become
 de facto backbones for various vision tasks. However, due to their black-box

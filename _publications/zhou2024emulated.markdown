@@ -8,7 +8,7 @@ bibkey: zhou2024emulated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12343"}
   - {name: "Code", url: "https://github.com/ZHZisZZ/emulated-disalignment"}
-tags: ['Responsible AI', 'Security', 'Arxiv', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Responsible AI', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Arxiv']
 ---
 Large language models (LLMs) undergo safety alignment to ensure safe
 conversations with humans. However, this paper introduces a training-free

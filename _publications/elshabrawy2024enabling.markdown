@@ -7,7 +7,7 @@ year: 2024
 bibkey: elshabrawy2024enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12897"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
 ---
 While Large Language Models (LLMs) exhibit remarkable capabilities in
 zero-shot and few-shot scenarios, they often require computationally

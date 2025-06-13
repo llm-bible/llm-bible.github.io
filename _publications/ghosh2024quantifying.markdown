@@ -7,7 +7,7 @@ year: 2024
 bibkey: ghosh2024quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.00857"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Retrieval Augmented Generation (RAG) is a widely used approach for leveraging
 external context in several natural language applications such as question

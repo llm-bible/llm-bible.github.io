@@ -7,7 +7,7 @@ year: 2024
 bibkey: pawitan2024confidence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15296"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 There is a growing literature on reasoning by large language models (LLMs),
 but the discussion on the uncertainty in their responses is still lacking. Our

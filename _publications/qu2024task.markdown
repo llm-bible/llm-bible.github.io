@@ -7,7 +7,7 @@ year: 2024
 bibkey: qu2024task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.04233"}
-tags: ['RAG', 'Few-Shot', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Few-Shot', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) exhibit the ability to perform in-context
 learning (ICL), where they acquire new tasks directly from examples provided in

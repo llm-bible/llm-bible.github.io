@@ -7,7 +7,7 @@ year: 2023
 bibkey: greshake2023not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.12173"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs) are increasingly being integrated into various
 applications. The functionalities of recent LLMs can be flexibly modulated via

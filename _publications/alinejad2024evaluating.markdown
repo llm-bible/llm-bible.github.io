@@ -7,7 +7,7 @@ year: 2024
 bibkey: alinejad2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06458"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Question answering systems (QA) utilizing Large Language Models (LLMs)
 heavily depend on the retrieval component to provide them with domain-specific

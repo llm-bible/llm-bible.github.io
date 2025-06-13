@@ -7,7 +7,7 @@ year: 2023
 bibkey: bitton2023visit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.06595"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'TACL', 'GPT', 'ACL']
+tags: ['GPT', 'TACL', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Multimodal Models']
 ---
 We introduce VisIT-Bench (Visual InsTruction Benchmark), a benchmark for
 evaluation of instruction-following vision-language models for real-world use.

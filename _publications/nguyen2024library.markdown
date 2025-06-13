@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024library
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00918"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'RAG', 'Tools', 'Reinforcement Learning']
 ---
 Mixture of Experts (MoEs) plays an important role in the development of more
 efficient and effective large language models (LLMs). Due to the enormous

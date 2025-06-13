@@ -8,7 +8,7 @@ bibkey: zhu2023chatgpt
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.06594v1"}
   - {name: "Code", url: "https://github.com/Vision-CAIR/ChatCaptioner"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Asking insightful questions is crucial for acquiring knowledge and expanding
 our understanding of the world. However, the importance of questioning has been

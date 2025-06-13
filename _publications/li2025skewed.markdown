@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025skewed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01187"}
-tags: ['Security', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Memorization in Large Language Models (LLMs) poses privacy and security
 risks, as models may unintentionally reproduce sensitive or copyrighted data.

@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023transfer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.01278"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 While developing a new multimodal LLM (MLLM) by pre-training on tremendous
 image-text pairs from scratch can be exceedingly resource-consuming, connecting

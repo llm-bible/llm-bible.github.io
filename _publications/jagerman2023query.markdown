@@ -7,7 +7,7 @@ year: 2023
 bibkey: jagerman2023query
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03653"}
-tags: ['Prompting', 'RAG', 'Few-Shot']
+tags: ['RAG', 'Few-Shot', 'Prompting']
 ---
 Query expansion is a widely used technique to improve the recall of search
 systems. In this paper, we propose an approach to query expansion that

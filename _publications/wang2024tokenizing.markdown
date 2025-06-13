@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024tokenizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21264"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Tokenization', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present LARP, a novel video tokenizer designed to overcome limitations in
 current video tokenization methods for autoregressive (AR) generative models.

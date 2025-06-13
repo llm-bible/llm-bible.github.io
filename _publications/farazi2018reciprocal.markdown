@@ -7,7 +7,7 @@ year: 2018
 bibkey: farazi2018reciprocal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.04247"}
-tags: ['Model Architecture', 'Merging', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism']
 ---
 Existing attention mechanisms either attend to local image grid or object
 level features for Visual Question Answering (VQA). Motivated by the

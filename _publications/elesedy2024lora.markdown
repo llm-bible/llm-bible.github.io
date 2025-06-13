@@ -7,7 +7,7 @@ year: 2024
 bibkey: elesedy2024lora
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02987"}
-tags: ['Responsible AI', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Applications']
 ---
 Guardrails have emerged as an alternative to safety alignment for content
 moderation of large language models (LLMs). Existing model-based guardrails

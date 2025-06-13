@@ -7,7 +7,7 @@ year: 2024
 bibkey: kao2024solving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.05134"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance in
 solving math problems, a hallmark of human intelligence. Despite high success

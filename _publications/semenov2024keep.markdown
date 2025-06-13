@@ -7,7 +7,7 @@ year: 2024
 bibkey: semenov2024keep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.05691"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Distillation']
 ---
 This paper describes Asterisk, a compact GPT-based model for generating text
 embeddings. The model uses a minimalist architecture with two layers, two

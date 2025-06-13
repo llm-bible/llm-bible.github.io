@@ -7,7 +7,7 @@ year: 2020
 bibkey: liang2020new
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.01401"}
-tags: ['Training Techniques', 'Model Architecture', 'BERT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'BERT']
 ---
 In this paper, we introduce XGLUE, a new benchmark dataset that can be used
 to train large-scale cross-lingual pre-trained models using multilingual and

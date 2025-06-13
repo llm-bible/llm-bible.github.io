@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024temporal
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2401.09861v1"}
-tags: ['RAG', 'Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Recent advancements in Multimodal Large Language Models (MLLMs) have
 significantly enhanced the comprehension of multimedia content, bringing

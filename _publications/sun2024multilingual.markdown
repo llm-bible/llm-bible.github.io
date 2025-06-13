@@ -8,7 +8,7 @@ bibkey: sun2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06273"}
   - {name: "Code", url: "https://github.com/tjunlp-lab/FuxiTranyu)"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large language models (LLMs) have demonstrated prowess in a wide range of
 tasks. However, many LLMs exhibit significant performance discrepancies between

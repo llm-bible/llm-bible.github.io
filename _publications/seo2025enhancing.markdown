@@ -7,7 +7,7 @@ year: 2025
 bibkey: seo2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01031"}
-tags: ['Training Techniques', 'Fairness', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Survey Paper', 'RAG', 'Language Modeling', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'Survey Paper', 'Ethics and Bias', 'Applications', 'RAG', 'Bias Mitigation', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Fairness', 'Prompting', 'In-Context Learning']
 ---
 Ensuring cultural values alignment in Large Language Models (LLMs) remains a
 critical challenge, as these models often embed Western-centric biases from

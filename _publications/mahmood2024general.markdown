@@ -7,7 +7,7 @@ year: 2024
 bibkey: mahmood2024general
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14743"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Recent studies have demonstrated the effectiveness of Large Language Models
 (LLMs) as reasoning modules that can deconstruct complex tasks into more

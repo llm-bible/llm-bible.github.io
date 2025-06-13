@@ -7,7 +7,7 @@ year: 2024
 bibkey: ociepa2024bielik
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18565"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 We introduce Bielik 7B v0.1, a 7-billion-parameter generative text model for
 Polish language processing. Trained on curated Polish corpora, this model

@@ -7,7 +7,7 @@ year: 2017
 bibkey: bradbury2017towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1709.01915"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Building models that take advantage of the hierarchical structure of language
 without a priori annotation is a longstanding goal in natural language

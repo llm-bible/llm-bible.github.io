@@ -7,7 +7,7 @@ year: 2024
 bibkey: chung2024autoregressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04721"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Autoregressive models (ARMs) and diffusion models (DMs) represent two leading
 paradigms in generative modeling, each excelling in distinct areas: ARMs in

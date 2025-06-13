@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024gender
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00277"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
 ---
 With the growing deployment of large language models (LLMs) across various
 applications, assessing the influence of gender biases embedded in LLMs becomes

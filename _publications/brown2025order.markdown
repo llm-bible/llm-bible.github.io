@@ -7,7 +7,7 @@ year: 2025
 bibkey: brown2025order
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23483"}
-tags: ['Security', 'Training Techniques', 'Language Modeling', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Language Modeling', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) demonstrate remarkable performance on many NLP
 tasks, yet often exhibit order dependence: simply reordering semantically

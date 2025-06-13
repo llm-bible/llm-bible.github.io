@@ -7,7 +7,7 @@ year: 2023
 bibkey: ye2023rational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.12519"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Interpretability', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
 ---
 Large language models (LLMs) have demonstrated remarkable advancements and
 have attracted significant efforts to develop LLMs into agents capable of

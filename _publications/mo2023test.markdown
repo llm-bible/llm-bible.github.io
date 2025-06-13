@@ -7,7 +7,7 @@ year: 2023
 bibkey: mo2023test
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09763"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Existing studies in backdoor defense have predominantly focused on the
 training phase, overlooking the critical aspect of testing time defense. This

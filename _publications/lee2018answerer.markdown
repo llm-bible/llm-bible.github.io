@@ -7,7 +7,7 @@ year: 2018
 bibkey: lee2018answerer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1802.03881"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Goal-oriented dialog has been given attention due to its numerous
 applications in artificial intelligence. Goal-oriented dialogue tasks occur

@@ -7,7 +7,7 @@ year: 2023
 bibkey: gupta2023editing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14956"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Editing model parameters directly in Transformers makes updating open-source
 transformer-based models possible without re-training (Meng et al., 2023).

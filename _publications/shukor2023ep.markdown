@@ -8,7 +8,7 @@ bibkey: shukor2023ep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.11403"}
   - {name: "Code", url: "https://github.com/mshukor/eP-ALM"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Large Language Models (LLMs) have so far impressed the world, with
 unprecedented capabilities that emerge in models at large scales. On the vision

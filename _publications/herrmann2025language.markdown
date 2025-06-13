@@ -7,7 +7,7 @@ year: 2025
 bibkey: herrmann2025language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01045"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Reinforcement Learning']
 ---
 Speech-comprehension difficulties are common among older people. Standard
 speech tests do not fully capture such difficulties because the tests poorly

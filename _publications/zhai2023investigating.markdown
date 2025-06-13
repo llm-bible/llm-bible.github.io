@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhai2023investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10313"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Following the success of GPT4, there has been a surge in interest in
 multimodal large language model (MLLM) research. This line of research focuses

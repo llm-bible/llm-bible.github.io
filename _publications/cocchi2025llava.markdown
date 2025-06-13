@@ -8,7 +8,7 @@ bibkey: cocchi2025llava
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.15621"}
   - {name: "Code", url: "https://github.com/aimagelab/LLaVA-MORE"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Recent progress in Multimodal Large Language Models (MLLMs) has highlighted
 the critical roles of both the visual backbone and the underlying language

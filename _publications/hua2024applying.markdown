@@ -7,7 +7,7 @@ year: 2024
 bibkey: hua2024applying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11288"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Fairness', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability', 'Applications']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Interpretability', 'Security', 'Fairness']
 ---
 Large language models (LLMs) are emerging as promising tools for mental
 health care, offering scalable support through their ability to generate

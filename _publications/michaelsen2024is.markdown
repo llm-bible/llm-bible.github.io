@@ -7,7 +7,7 @@ year: 2024
 bibkey: michaelsen2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08684"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Background: The integration of artificial intelligence (AI) into daily life,
 particularly through chatbots utilizing natural language processing (NLP),

@@ -7,7 +7,7 @@ year: 2024
 bibkey: garg2024attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.04447"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 This study investigates the generation of unsafe or harmful content in
 state-of-the-art generative models, focusing on methods for restricting such

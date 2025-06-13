@@ -7,7 +7,7 @@ year: 2023
 bibkey: devunuri2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.02618"}
-tags: ['Model Architecture', 'Applications', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
 ---
 The General Transit Feed Specification (GTFS) standard for publishing transit
 data is ubiquitous. GTFS being tabular data, with information spread across

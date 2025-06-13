@@ -7,7 +7,7 @@ year: 2020
 bibkey: muttenthaler2020unsupervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.03222"}
-tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Applications']
+tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
 ---
 It is challenging to automatically evaluate the answer of a QA model at
 inference time. Although many models provide confidence scores, and simple

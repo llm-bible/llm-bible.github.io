@@ -7,7 +7,7 @@ year: 2024
 bibkey: holla2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00698"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 This paper describes the architecture and systems built towards solving the
 SemEval 2023 Task 2: MultiCoNER II (Multilingual Complex Named Entity

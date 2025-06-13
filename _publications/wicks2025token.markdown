@@ -7,7 +7,7 @@ year: 2025
 bibkey: wicks2025token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.21265"}
-tags: ['Language Modeling', 'Security', 'Applications', 'Reinforcement Learning']
+tags: ['Security', 'Reinforcement Learning', 'Language Modeling', 'Applications']
 ---
 Model ensembling is a technique to combine the predicted distributions of two
 or more models, often leading to improved robustness and performance. For

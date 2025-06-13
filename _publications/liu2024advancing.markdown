@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.14866"}
-tags: ['Responsible AI', 'Security', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Security']
 ---
 Language Language Models (LLMs) face safety concerns due to potential misuse
 by malicious users. Recent red-teaming efforts have identified adversarial

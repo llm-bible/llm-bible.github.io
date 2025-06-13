@@ -8,7 +8,7 @@ bibkey: xin2022chinese
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2206.06315v1"}
   - {name: "Code", url: "https://github.com/RUCAIBox/JiuZhang"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 This paper aims to advance the mathematical intelligence of machines by
 presenting the first Chinese mathematical pre-trained language model~(PLM) for

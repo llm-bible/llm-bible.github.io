@@ -7,7 +7,7 @@ year: 2024
 bibkey: bershatsky2024low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01376"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper we generalize and extend an idea of low-rank adaptation (LoRA)
 of large language models (LLMs) based on Transformer architecture. Widely used

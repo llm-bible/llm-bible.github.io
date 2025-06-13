@@ -8,7 +8,7 @@ bibkey: jiao2025harmonizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04423"}
   - {name: "Code", url: "https://github.com/SxJyJay/UniToken"}
-tags: ['Multimodal Models', 'Has Code', 'Tools']
+tags: ['Tools', 'Multimodal Models', 'Has Code']
 ---
 We introduce UniToken, an auto-regressive generation model that encodes
 visual inputs through a combination of discrete and continuous representations,

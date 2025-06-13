@@ -7,7 +7,7 @@ year: 2024
 bibkey: ferraz2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06458"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Instruction following is a key capability for LLMs. However, recent studies
 have shown that LLMs often struggle with instructions containing multiple

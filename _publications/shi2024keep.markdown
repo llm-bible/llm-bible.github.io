@@ -8,7 +8,7 @@ bibkey: shi2024keep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.18003"}
   - {name: "Code", url: "https://github.com/zcli-charlie/Awesome-KV-Cache"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs), epitomized by ChatGPT's release in late 2022,
 have revolutionized various industries with their advanced language

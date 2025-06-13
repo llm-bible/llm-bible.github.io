@@ -7,7 +7,7 @@ year: 2025
 bibkey: xiao2025restoring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01997"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 One of the key technologies for the success of Large Language Models (LLMs)
 is preference alignment. However, a notable side effect of preference alignment

@@ -7,7 +7,7 @@ year: 2018
 bibkey: zeyer2018improved
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.03294"}
-tags: ['Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Attention Mechanism', 'INTERSPEECH']
+tags: ['INTERSPEECH', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Sequence-to-sequence attention-based models on subword units allow simple
 open-vocabulary end-to-end speech recognition. In this work, we show that such

@@ -7,7 +7,7 @@ year: 2025
 bibkey: kermani2025systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.24307"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 This study presents a systematic comparison of three approaches for the
 analysis of mental health text using large language models (LLMs): prompt

@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.19116"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging']
+tags: ['RAG', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Weakly-supervised Phrase Grounding (WPG) is an emerging task of inferring the
 fine-grained phrase-region matching, while merely leveraging the coarse-grained

@@ -7,7 +7,7 @@ year: 2023
 bibkey: thakur2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.00708"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 In this study, we explore the capability of Large Language Models (LLMs) to
 automate hardware design by generating high-quality Verilog code, a common

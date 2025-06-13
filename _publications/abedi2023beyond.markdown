@@ -7,7 +7,7 @@ year: 2023
 bibkey: abedi2023beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.13059"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 In the rapidly evolving landscape of education, digital technologies have
 repeatedly disrupted traditional pedagogical methods. This paper explores the

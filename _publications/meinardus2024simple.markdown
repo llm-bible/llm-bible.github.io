@@ -7,7 +7,7 @@ year: 2024
 bibkey: meinardus2024simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18113"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 The recent success of Large Language Models (LLMs) has prompted the extension
 to the multimodal domain developing image-text Multimodal LLMs (MLLMs) and then

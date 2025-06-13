@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11410"}
-tags: ['RAG', 'Training Techniques', 'Large-Scale Training', 'Efficiency and Optimization']
+tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Large-Scale Training']
 ---
 Human priors play a crucial role in efficiently utilizing data in deep
 learning. However, with the development of large language models (LLMs), there

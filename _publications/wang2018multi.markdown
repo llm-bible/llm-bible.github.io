@@ -7,7 +7,7 @@ year: 2018
 bibkey: wang2018multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1811.11934"}
-tags: ['Model Architecture', 'RAG', 'Merging', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Merging', 'Attention Mechanism']
 ---
 This paper describes a novel hierarchical attention network for reading
 comprehension style question answering, which aims to answer questions for a

@@ -8,7 +8,7 @@ bibkey: xu2021task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.09996"}
   - {name: "Code", url: "https://github.com/pytorch/fairseq/tree/main/examples/MMPT"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present a simplified, task-agnostic multi-modal pre-training approach that
 can accept either video or text input, or both for a variety of end tasks.

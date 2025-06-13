@@ -7,7 +7,7 @@ year: 2024
 bibkey: roy2024convolutional
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.20317"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Continual Learning (CL) enables machine learning models to learn from
 continuously shifting new training data in absence of data from old tasks.

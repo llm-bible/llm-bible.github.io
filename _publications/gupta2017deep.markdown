@@ -7,7 +7,7 @@ year: 2017
 bibkey: gupta2017deep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1709.05074"}
-tags: ['Model Architecture', 'Applications', 'Tools']
+tags: ['Tools', 'Applications', 'Model Architecture']
 ---
 Paraphrase generation is an important problem in NLP, especially in question
 answering, information retrieval, information extraction, conversation systems,

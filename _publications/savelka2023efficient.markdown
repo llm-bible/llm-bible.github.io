@@ -7,7 +7,7 @@ year: 2023
 bibkey: savelka2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20105"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The accurate classification of student help requests with respect to the type
 of help being sought can enable the tailoring of effective responses.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: schlichtkrull2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00781"}
-tags: ['Ethics and Bias', 'RAG', 'Model Architecture', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Ethics and Bias', 'Model Architecture']
 ---
 Not everything on the internet is true. This unfortunate fact requires both
 humans and models to perform complex reasoning about credibility when working

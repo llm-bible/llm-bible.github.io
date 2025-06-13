@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09827"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pruning', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In modern large language models (LLMs), increasing the context length is
 crucial for improving comprehension and coherence in long-context, multi-modal,

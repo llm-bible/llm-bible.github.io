@@ -8,7 +8,7 @@ bibkey: gu2024rwkv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06973"}
   - {name: "Code", url: "https://github.com/deepglint/RWKV-CLIP"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Contrastive Language-Image Pre-training (CLIP) has significantly improved
 performance in various vision-language tasks by expanding the dataset with

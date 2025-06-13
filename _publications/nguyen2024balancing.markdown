@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024balancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01185"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Finetuning approaches in NLP often focus on exploitation rather than
 exploration, which may lead to suboptimal models. Given the vast search space

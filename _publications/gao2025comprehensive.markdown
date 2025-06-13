@@ -7,7 +7,7 @@ year: 2025
 bibkey: gao2025comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.14288"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 The rapid advancement of large language models (LLMs) has made detecting
 AI-generated text an increasingly critical challenge. Traditional methods often

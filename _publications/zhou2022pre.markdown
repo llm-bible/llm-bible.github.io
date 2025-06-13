@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhou2022pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.12682"}
-tags: ['RAG', 'Merging', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications', 'Merging']
 ---
 Existing auto-regressive pre-trained language models (PLMs) like T5 and BART,
 have been well applied to table question answering by UNIFIEDSKG and TAPEX,

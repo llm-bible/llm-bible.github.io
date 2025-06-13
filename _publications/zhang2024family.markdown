@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024family
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03215"}
-tags: ['Agentic', 'Agent', 'GPT', 'Model Architecture']
+tags: ['Agentic', 'GPT', 'Agent', 'Model Architecture']
 ---
 Autonomous agents powered by large language models (LLMs) have attracted
 significant research interest. However, the open-source community faces many

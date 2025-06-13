@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024bbox
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08219"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Pretraining Methods']
 ---
 Adapting state-of-the-art Large Language Models (LLMs) like GPT-4 and Gemini
 for specific tasks is challenging. Due to the opacity in their parameters,

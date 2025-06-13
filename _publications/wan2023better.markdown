@@ -7,7 +7,7 @@ year: 2023
 bibkey: wan2023better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14106"}
-tags: ['Prompting', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting']
 ---
 Modern large language models (LLMs) have demonstrated impressive capabilities
 at sophisticated tasks, often through step-by-step reasoning similar to humans.

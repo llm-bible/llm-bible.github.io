@@ -7,7 +7,7 @@ year: 2025
 bibkey: rayo2025hybrid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16767"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Regulatory texts are inherently long and complex, presenting significant
 challenges for information retrieval systems in supporting regulatory officers

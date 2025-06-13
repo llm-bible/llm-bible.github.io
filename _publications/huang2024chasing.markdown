@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024chasing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10675"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The capability of Large Language Models (LLMs) to plan remains a topic of
 debate. Some critics argue that strategies to boost LLMs' reasoning skills are

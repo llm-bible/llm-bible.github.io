@@ -8,7 +8,7 @@ bibkey: yao2023tree
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.10601v2"}
   - {name: "Code", url: "https://github.com/princeton-nlp/tree-of-thought-llm"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Interpretability', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Interpretability', 'Has Code', 'Prompting']
 ---
 Language models are increasingly being deployed for general problem solving
 across a wide range of tasks, but are still confined to token-level,

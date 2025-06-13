@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023calibration
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08669"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Multilingual pre-trained Large Language Models (LLMs) are incredibly
 effective at Question Answering (QA), a core task in Natural Language

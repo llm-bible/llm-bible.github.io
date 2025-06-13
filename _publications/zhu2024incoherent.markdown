@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024incoherent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.16646"}
-tags: ['Prompting', 'Pretraining Methods', 'GPT']
+tags: ['GPT', 'Prompting', 'Pretraining Methods']
 ---
 Autoregressive Large Language Models (LLMs) trained for next-word prediction
 have demonstrated remarkable proficiency at producing coherent text. But are

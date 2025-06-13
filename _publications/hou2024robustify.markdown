@@ -7,7 +7,7 @@ year: 2024
 bibkey: hou2024robustify
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23182"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Transformer-based architectures have dominated various areas of machine
 learning in recent years. In this paper, we introduce a novel robust attention

@@ -7,7 +7,7 @@ year: 2023
 bibkey: nan2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12586"}
-tags: ['Few-Shot', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'RAG', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) has emerged as a new approach to various natural
 language processing tasks, utilizing large language models (LLMs) to make

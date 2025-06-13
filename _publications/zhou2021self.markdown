@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhou2021self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.04475"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Pretraining Methods']
 ---
 In the field of machine learning, the well-trained model is assumed to be
 able to recover the training labels, i.e. the synthetic labels predicted by the

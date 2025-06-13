@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024efficiency
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16385"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 In the realm of Medical Visual Language Models (Med-VLMs), the quest for
 universal efficient fine-tuning mechanisms remains paramount, especially given

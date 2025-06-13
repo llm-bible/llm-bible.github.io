@@ -7,7 +7,7 @@ year: 2023
 bibkey: roychowdhury2023hallucination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07592"}
-tags: ['Prompting', 'Interpretability', 'Applications', 'Tools']
+tags: ['Interpretability', 'Tools', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have been applied to build several automation
 and personalized question-answering prototypes so far. However, scaling such

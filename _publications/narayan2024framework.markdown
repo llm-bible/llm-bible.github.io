@@ -7,7 +7,7 @@ year: 2024
 bibkey: narayan2024framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05224"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) on instruction datasets is a common
 way to improve their generative capabilities. However, instruction datasets can

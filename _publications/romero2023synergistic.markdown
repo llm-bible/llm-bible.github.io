@@ -7,7 +7,7 @@ year: 2023
 bibkey: romero2023synergistic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.09830"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 This paper explores the integration of two AI subdisciplines employed in the
 development of artificial agents that exhibit intelligent behavior: Large

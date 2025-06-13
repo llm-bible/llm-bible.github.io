@@ -8,7 +8,7 @@ bibkey: laban2021can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2107.03448"}
   - {name: "Code", url: "https://github.com/tingofurro/shuffle_test/"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 The Shuffle Test is the most common task to evaluate whether NLP models can
 measure coherence in text. Most recent work uses direct supervision on the

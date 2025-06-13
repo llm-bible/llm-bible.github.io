@@ -7,7 +7,7 @@ year: 2020
 bibkey: alipour2020study
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.00431"}
-tags: ['Responsible AI', 'Agentic', 'Multimodal Models', 'Model Architecture', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Responsible AI', 'Agentic', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Multimodal Models']
 ---
 Explainability and interpretability of AI models is an essential factor
 affecting the safety of AI. While various explainable AI (XAI) approaches aim

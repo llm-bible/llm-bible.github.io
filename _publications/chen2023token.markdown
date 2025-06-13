@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08723"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Language Modeling', 'Pretraining Methods']
 ---
 This paper introduces a novel approach for identifying the possible large
 language models (LLMs) involved in text generation. Instead of adding an

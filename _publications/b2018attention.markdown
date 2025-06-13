@@ -8,7 +8,7 @@ bibkey: b2018attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1804.08454"}
   - {name: "Code", url: "https://github.com/rl-lang-grounding/rl-lang-ground"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 In this work, we focus on the problem of grounding language by training an
 agent to follow a set of natural language instructions and navigate to a target

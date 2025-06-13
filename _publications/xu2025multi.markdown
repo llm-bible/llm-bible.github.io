@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01457"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Retrieval-augmented generation (RAG) systems have predominantly focused on
 text-based retrieval, limiting their effectiveness in handling visually-rich

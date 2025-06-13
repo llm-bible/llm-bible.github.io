@@ -7,7 +7,7 @@ year: 2024
 bibkey: mckeereid2024honesty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06491"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Previous work has shown that training "helpful-only" LLMs with reinforcement
 learning on a curriculum of gameable environments can lead models to generalize

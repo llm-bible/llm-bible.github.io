@@ -7,7 +7,7 @@ year: 2023
 bibkey: vatsa2023adventures
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04231"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Multimodal Models', 'Survey Paper', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Responsible AI', 'Transformer', 'Tools', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Security', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recently, transformers have become incredibly popular in computer vision and
 vision-language tasks. This notable rise in their usage can be primarily

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023privately
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16960"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Agentic', 'GPT', 'Applications', 'Tools', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Positioned between pre-training and user deployment, aligning large language
 models (LLMs) through reinforcement learning (RL) has emerged as a prevailing

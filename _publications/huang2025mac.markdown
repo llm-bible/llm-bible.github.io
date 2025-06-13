@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025mac
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.21773"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 With the widespread application of large language models (LLMs), the issue of
 generating non-existing facts, known as hallucination, has garnered increasing

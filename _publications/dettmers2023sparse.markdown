@@ -7,7 +7,7 @@ year: 2023
 bibkey: dettmers2023sparse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.03078"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Quantization', 'Pretraining Methods', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Recent advances in large language model (LLM) pretraining have led to
 high-quality LLMs with impressive abilities. By compressing such LLMs via

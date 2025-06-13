@@ -7,7 +7,7 @@ year: 2025
 bibkey: fei2025skyreels
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.02436"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 This paper presents SkyReels-A2, a controllable video generation framework
 capable of assembling arbitrary visual elements (e.g., characters, objects,

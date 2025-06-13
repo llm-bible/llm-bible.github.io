@@ -7,7 +7,7 @@ year: 2024
 bibkey: fan2024federated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02224"}
-tags: ['Language Modeling', 'Applications', 'Tools']
+tags: ['Applications', 'Tools', 'Language Modeling']
 ---
 Recent research in federated large language models (LLMs) has primarily
 focused on enabling clients to fine-tune their locally deployed homogeneous

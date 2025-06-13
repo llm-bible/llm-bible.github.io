@@ -7,7 +7,7 @@ year: 2023
 bibkey: lee2023making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20111"}
-tags: ['Prompting', 'Security', 'Applications', 'Reinforcement Learning']
+tags: ['Security', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Although large language models (LLMs) have advanced the state-of-the-art in
 NLP significantly, deploying them for downstream applications is still

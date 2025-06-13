@@ -8,7 +8,7 @@ bibkey: he2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19334"}
   - {name: "Code", url: "https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation"}
-tags: ['Responsible AI', 'Agentic', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'Merging', 'Has Code', 'Applications']
+tags: ['Responsible AI', 'Agentic', 'Survey Paper', 'Applications', 'RAG', 'Reinforcement Learning', 'Merging', 'Has Code', 'Multimodal Models']
 ---
 With the recent advancement in large language models (LLMs), there is a
 growing interest in combining LLMs with multimodal learning. Previous surveys

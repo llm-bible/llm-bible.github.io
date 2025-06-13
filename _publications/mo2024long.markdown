@@ -7,7 +7,7 @@ year: 2024
 bibkey: mo2024long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17406"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Visual Prompt Tuning (VPT) techniques have gained prominence for their
 capacity to adapt pre-trained Vision Transformers (ViTs) to downstream visual

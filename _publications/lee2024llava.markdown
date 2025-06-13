@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024llava
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.06264"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Multimodal Models']
 ---
 Despite the development of various AI systems to support learning in various
 domains, AI assistance for art appreciation education has not been extensively

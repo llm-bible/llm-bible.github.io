@@ -7,7 +7,7 @@ year: 2025
 bibkey: vasselli2025measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06728"}
-tags: ['Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 Advancements in dialogue systems powered by large language models (LLMs) have
 outpaced the development of reliable evaluation metrics, particularly for

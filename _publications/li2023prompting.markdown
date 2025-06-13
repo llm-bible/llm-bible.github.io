@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14791"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have made remarkable progress in a wide range of
 natural language understanding and generation tasks. However, their ability to

@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024x
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03115"}
-tags: ['WMT', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have achieved remarkable success across various
 NLP tasks with a focus on English due to English-centric pre-training and

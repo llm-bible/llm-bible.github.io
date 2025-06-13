@@ -7,7 +7,7 @@ year: 2024
 bibkey: vu2024foundational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.10817"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 As large language models (LLMs) advance, it becomes more challenging to
 reliably evaluate their output due to the high costs of human evaluation. To

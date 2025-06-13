@@ -7,7 +7,7 @@ year: 2023
 bibkey: liao2023make
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.00477"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Parameter-efficient fine-tuning (PEFT) of pre-trained language models (PLMs)
 has emerged as a highly successful approach, with training only a small number

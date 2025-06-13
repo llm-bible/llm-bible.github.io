@@ -8,7 +8,7 @@ bibkey: baheti2020fluent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.10464"}
   - {name: "Code", url: "https://github.com/abaheti95/QADialogSystem"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'BERT', 'Has Code', 'Applications']
+tags: ['Agentic', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'BERT']
 ---
 Question answering (QA) is an important aspect of open-domain conversational
 agents, garnering specific research focus in the conversational QA (ConvQA)

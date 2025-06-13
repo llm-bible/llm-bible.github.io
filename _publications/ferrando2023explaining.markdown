@@ -7,7 +7,7 @@ year: 2023
 bibkey: ferrando2023explaining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12535"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Pretraining Methods']
 ---
 Language Generation Models produce words based on the previous context.
 Although existing methods offer input attributions as explanations for a

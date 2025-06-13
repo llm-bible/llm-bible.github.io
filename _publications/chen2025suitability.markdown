@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025suitability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05682"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Reinforcement Fine-Tuning (RFT) is proved to be greatly valuable for
 enhancing the reasoning ability of LLMs. Researchers have been starting to

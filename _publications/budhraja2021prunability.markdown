@@ -7,7 +7,7 @@ year: 2021
 bibkey: budhraja2021prunability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2109.12683"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Large multilingual models, such as mBERT, have shown promise in crosslingual
 transfer. In this work, we employ pruning to quantify the robustness and

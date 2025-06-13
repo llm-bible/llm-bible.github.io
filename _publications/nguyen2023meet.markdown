@@ -7,7 +7,7 @@ year: 2023
 bibkey: nguyen2023meet
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.07295"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 Most language models (LMs) are trained and applied in an autoregressive
 left-to-right fashion, assuming that the next token only depends on the

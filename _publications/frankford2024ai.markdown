@@ -7,7 +7,7 @@ year: 2024
 bibkey: frankford2024ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02548"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'GPT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Survey Paper', 'Model Architecture']
 ---
 With the rapid advancement of artificial intelligence (AI) in various
 domains, the education sector is set for transformation. The potential of

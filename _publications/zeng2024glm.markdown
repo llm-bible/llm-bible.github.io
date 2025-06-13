@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02612"}
   - {name: "Code", url: "https://github.com/THUDM/GLM-4-Voice"}
   - {name: "Code", url: "https://huggingface.co/THUDM/glm-4-voice-9b"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'Has Code', 'Pre-Training', 'Applications', 'INTERSPEECH']
+tags: ['INTERSPEECH', 'Pre-Training', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 We introduce GLM-4-Voice, an intelligent and human-like end-to-end spoken
 chatbot. It supports both Chinese and English, engages in real-time voice

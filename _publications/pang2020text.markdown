@@ -7,7 +7,7 @@ year: 2020
 bibkey: pang2020text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.07839"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Applications']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Current approaches to text generation largely rely on autoregressive models
 and maximum likelihood estimation. This paradigm leads to (i) diverse but

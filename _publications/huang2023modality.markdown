@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023modality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07886"}
-tags: ['Prompting', 'Multimodal Models', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Multimodal Models', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) are capable of reasoning over diverse input data
 modalities through pre-trained encoders. However, the growing diversity of

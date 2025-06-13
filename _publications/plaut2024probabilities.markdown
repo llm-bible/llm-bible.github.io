@@ -7,7 +7,7 @@ year: 2024
 bibkey: plaut2024probabilities
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13213"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 We study 15 large language models (LLMs) fine-tuned for chat and find that
 their maximum softmax probabilities (MSPs) are consistently miscalibrated on

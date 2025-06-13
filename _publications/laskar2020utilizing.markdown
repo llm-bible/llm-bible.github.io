@@ -7,7 +7,7 @@ year: 2020
 bibkey: laskar2020utilizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.07208"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Pre-training a transformer-based model for the language modeling task in a
 large dataset and then fine-tuning it for downstream tasks has been found very

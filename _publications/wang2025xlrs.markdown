@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025xlrs
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23771"}
-tags: ['RAG', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
+tags: ['RAG', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
 ---
 The astonishing breakthrough of multimodal large language models (MLLMs) has
 necessitated new benchmarks to quantitatively assess their capabilities, reveal

@@ -7,7 +7,7 @@ year: 2024
 bibkey: schmidt2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14445"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Model Architecture', 'Prompting']
 ---
 This paper describes a rapid feasibility study of using GPT-4, a large
 language model (LLM), to (semi)automate data extraction in systematic reviews.

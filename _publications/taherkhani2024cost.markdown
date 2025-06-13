@@ -7,7 +7,7 @@ year: 2024
 bibkey: taherkhani2024cost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.11198"}
-tags: ['Prompting', 'RAG', 'Applications']
+tags: ['RAG', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have seen increasing use in various software
 development tasks, especially in code generation. The most advanced recent

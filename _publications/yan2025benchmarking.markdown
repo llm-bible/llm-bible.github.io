@@ -7,7 +7,7 @@ year: 2025
 bibkey: yan2025benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19166"}
-tags: ['Efficiency and Optimization', 'Applications', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Tools', 'Efficiency and Optimization', 'Applications']
 ---
 With the rapid advancement of Large Language Models (LLMs), the demand for
 robust instruction-following capabilities in code generation tasks has grown

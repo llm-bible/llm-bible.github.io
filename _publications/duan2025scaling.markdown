@@ -7,7 +7,7 @@ year: 2025
 bibkey: duan2025scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00812"}
-tags: ['Prompting', 'Training Techniques', 'Model Architecture']
+tags: ['Training Techniques', 'Prompting', 'Model Architecture']
 ---
 Composed Image Retrieval (CIR) is the task of retrieving images matching a
 reference image augmented with a text, where the text describes changes to the

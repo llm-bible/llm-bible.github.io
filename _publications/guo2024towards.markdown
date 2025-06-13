@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01186"}
-tags: ['Prompting', 'Security', 'RAG']
+tags: ['RAG', 'Security', 'Prompting']
 ---
 In this paper, we introduce SailCompass, a reproducible and robust evaluation
 benchmark for assessing Large Language Models (LLMs) on Southeast Asian

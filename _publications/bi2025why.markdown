@@ -7,7 +7,7 @@ year: 2025
 bibkey: bi2025why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03151"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Survey Paper', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Reasoning is central to human intelligence, enabling structured
 problem-solving across diverse tasks. Recent advances in large language models

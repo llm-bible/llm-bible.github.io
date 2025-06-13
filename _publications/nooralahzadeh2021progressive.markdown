@@ -7,7 +7,7 @@ year: 2021
 bibkey: nooralahzadeh2021progressive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.09777"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Tools']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Pretraining Methods']
 ---
 Inspired by Curriculum Learning, we propose a consecutive (i.e.,
 image-to-text-to-text) generation framework where we divide the problem of

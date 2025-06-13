@@ -7,7 +7,7 @@ year: 2025
 bibkey: duong2025self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13674"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large Language Models (LLMs), when used for conditional text generation,
 often produce hallucinations, i.e., information that is unfaithful or not

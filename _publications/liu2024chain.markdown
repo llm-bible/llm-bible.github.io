@@ -8,7 +8,7 @@ bibkey: liu2024chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12966"}
   - {name: "Code", url: "https://github.com/dongyh20/Chain-of-Spot"}
-tags: ['Multimodal Models', 'Applications', 'Has Code']
+tags: ['Multimodal Models', 'Has Code', 'Applications']
 ---
 In the realm of vision-language understanding, the proficiency of models in
 interpreting and reasoning over visual content has become a cornerstone for

@@ -7,7 +7,7 @@ year: 2024
 bibkey: somasundaram2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01447"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 To reduce the latency associated with autoretrogressive LLM inference,
 speculative decoding has emerged as a novel decoding paradigm, where future

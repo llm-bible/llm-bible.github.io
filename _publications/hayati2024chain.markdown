@@ -7,7 +7,7 @@ year: 2024
 bibkey: hayati2024chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11532"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) with a collection of large and
 diverse instructions has improved the model's generalization to different

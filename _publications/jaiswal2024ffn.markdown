@@ -7,7 +7,7 @@ year: 2024
 bibkey: jaiswal2024ffn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.03865"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Autoregressive Large Language Models (e.g., LLaMa, GPTs) are omnipresent
 achieving remarkable success in language understanding and generation. However,

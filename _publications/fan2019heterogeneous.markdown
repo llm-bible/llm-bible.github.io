@@ -7,7 +7,7 @@ year: 2019
 bibkey: fan2019heterogeneous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.04357"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Merging', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Multimodal Models']
 ---
 In this paper, we propose a novel end-to-end trainable Video Question
 Answering (VideoQA) framework with three major components: 1) a new

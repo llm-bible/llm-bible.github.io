@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02233"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Merging', 'Training Techniques', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have shown success in various
 general image processing tasks, yet their application in medical imaging is

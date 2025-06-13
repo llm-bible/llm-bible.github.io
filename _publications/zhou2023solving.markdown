@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023solving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.07921"}
-tags: ['Prompting', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Recent progress in large language models (LLMs) like GPT-4 and PaLM-2 has
 brought significant advancements in addressing math reasoning problems. In

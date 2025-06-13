@@ -7,7 +7,7 @@ year: 2024
 bibkey: das2024low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.18572"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Fairness', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Bias Mitigation', 'Training Techniques', 'Pretraining Methods', 'Fairness']
 ---
 Low-rank approximation techniques have become the de facto standard for
 fine-tuning Large Language Models (LLMs) due to their reduced computational and

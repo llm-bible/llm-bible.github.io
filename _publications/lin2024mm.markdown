@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024mm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02571"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 State-of-the-art retrieval models typically address a straightforward search
 scenario, in which retrieval tasks are fixed (e.g., finding a passage to answer

@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024active
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13835"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Quantization', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
 ---
 Practitioners have consistently observed three puzzling phenomena in
 transformer-based large language models (LLMs): attention sinks, value-state

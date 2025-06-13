@@ -7,7 +7,7 @@ year: 2024
 bibkey: scarlatos2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01304"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Automatically generating feedback via large language models (LLMs) in
 intelligent tutoring systems and online learning platforms has the potential to

@@ -7,7 +7,7 @@ year: 2024
 bibkey: das2024mta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21654"}
-tags: ['Multimodal Models', 'Tools', 'RAG', 'Pretraining Methods', 'Prompting']
+tags: ['Tools', 'RAG', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Recent approaches have shown that large-scale vision-language models such as
 CLIP can improve semantic segmentation performance. These methods typically aim

@@ -7,7 +7,7 @@ year: 2025
 bibkey: golovneva2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00927"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Soft attention is a critical mechanism powering LLMs to locate relevant parts
 within a given context. However, individual attention weights are determined by

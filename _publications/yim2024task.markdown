@@ -7,7 +7,7 @@ year: 2024
 bibkey: yim2024task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02943"}
-tags: ['Prompting', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Task-oriented queries (e.g., one-shot queries to play videos, order food, or
 call a taxi) are crucial for assessing the quality of virtual assistants,

@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14456"}
   - {name: "Code", url: "https://huggingface.co/RWKV,"}
   - {name: "Code", url: "https://github.com/RWKV/RWKV-LM"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 We present RWKV-7 "Goose", a new sequence modeling architecture with constant
 memory usage and constant inference time per token. Despite being trained on

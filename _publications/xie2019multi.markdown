@@ -7,7 +7,7 @@ year: 2019
 bibkey: xie2019multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.07816"}
-tags: ['Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Open-domain dialog systems (also known as chatbots) have increasingly drawn
 attention in natural language processing. Some of the recent work aims at

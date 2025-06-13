@@ -8,7 +8,7 @@ bibkey: yang2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.03241"}
   - {name: "Code", url: "https://github.com/THUDM/MathGLM"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Previous studies have typically assumed that large language models are unable
 to accurately perform arithmetic operations, particularly multiplication of >8

@@ -8,7 +8,7 @@ bibkey: fang2025creation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14478"}
   - {name: "Code", url: "https://github.com/open-compass/Creation-MMBench"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Creativity is a fundamental aspect of intelligence, involving the ability to
 generate novel and appropriate solutions across diverse contexts. While Large

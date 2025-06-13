@@ -7,7 +7,7 @@ year: 2025
 bibkey: yu2025back
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10835"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 We investigate how large language models perform latent multi-hop reasoning
 in prompts like "Wolfgang Amadeus Mozart's mother's spouse is". To analyze this

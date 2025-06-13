@@ -7,7 +7,7 @@ year: 2016
 bibkey: lee2016fully
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1610.03017"}
-tags: ['WMT', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Applications', 'WMT']
 ---
 Most existing machine translation systems operate at the level of words,
 relying on explicit segmentation to extract tokens. We introduce a neural

@@ -7,7 +7,7 @@ year: 2024
 bibkey: xin2024atomic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16495"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Despite the outstanding capabilities of large language models (LLMs),
 knowledge-intensive reasoning still remains a challenging task due to LLMs'

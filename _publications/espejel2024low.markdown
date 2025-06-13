@@ -7,7 +7,7 @@ year: 2024
 bibkey: espejel2024low
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11160"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have become a popular choice for many Natural
 Language Processing (NLP) tasks due to their versatility and ability to produce

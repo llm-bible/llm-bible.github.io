@@ -7,7 +7,7 @@ year: 2025
 bibkey: filice2025generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.12789"}
-tags: ['Efficiency and Optimization', 'SIGIR', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'SIGIR']
 ---
 Evaluating Retrieval-Augmented Generation (RAG) systems, especially in
 domain-specific contexts, requires benchmarks that address the distinctive

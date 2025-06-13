@@ -7,7 +7,7 @@ year: 2025
 bibkey: shao2025meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17635"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Low-rank Adaptation (LoRA) has demonstrated remarkable capabilities for task
 specific fine-tuning. However, in scenarios that involve multiple tasks,

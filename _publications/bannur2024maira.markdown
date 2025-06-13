@@ -7,7 +7,7 @@ year: 2024
 bibkey: bannur2024maira
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04449"}
-tags: ['RAG', 'Multimodal Models', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Radiology reporting is a complex task requiring detailed medical image
 understanding and precise language generation, for which generative multimodal

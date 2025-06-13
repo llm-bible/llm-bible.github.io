@@ -7,7 +7,7 @@ year: 2024
 bibkey: cheng2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.13275"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 Recently, AI assistants based on large language models (LLMs) show surprising
 performance in many tasks, such as dialogue, solving math problems, writing

@@ -7,7 +7,7 @@ year: 2022
 bibkey: shao2022overcoming
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.03910"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Distillation']
 ---
 Neural networks tend to gradually forget the previously learned knowledge
 when learning multiple tasks sequentially from dynamic data distributions. This

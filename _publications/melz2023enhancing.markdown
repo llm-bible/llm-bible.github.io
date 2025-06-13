@@ -7,7 +7,7 @@ year: 2023
 bibkey: melz2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04177"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are smart but forgetful. Recent studies, (e.g.,
 (Bubeck et al., 2023)) on modern LLMs have shown that they are capable of

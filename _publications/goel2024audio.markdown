@@ -8,7 +8,7 @@ bibkey: goel2024audio
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.07616"}
   - {name: "Code", url: "https://audiodialogues.github.io/"}
-tags: ['Prompting', 'RAG', 'Applications', 'Has Code']
+tags: ['RAG', 'Has Code', 'Prompting', 'Applications']
 ---
 Existing datasets for audio understanding primarily focus on single-turn
 interactions (i.e. audio captioning, audio question answering) for describing

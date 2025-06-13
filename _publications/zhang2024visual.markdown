@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18275"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Responsible AI', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Vision-language models (VLMs) have significantly advanced autonomous driving
 (AD) by enhancing reasoning capabilities. However, these models remain highly

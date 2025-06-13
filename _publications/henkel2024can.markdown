@@ -7,7 +7,7 @@ year: 2024
 bibkey: henkel2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02985"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This paper presents reports on a series of experiments with a novel dataset
 evaluating how well Large Language Models (LLMs) can mark (i.e. grade) open

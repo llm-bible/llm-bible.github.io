@@ -7,7 +7,7 @@ year: 2025
 bibkey: patil2025cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.10095"}
-tags: ['Security', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Transformer', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Pretraining Methods', 'BERT', 'Few-Shot', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated potential in predicting mental
 health outcomes from online text, yet traditional classification methods often

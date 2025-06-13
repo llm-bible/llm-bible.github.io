@@ -7,7 +7,7 @@ year: 2023
 bibkey: jiang2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00752"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling']
 ---
 We present TIGERScore, a \textbf\{T\}rained metric that follows
 \textbf\{I\}nstruction \textbf\{G\}uidance to perform \textbf\{E\}xplainable, and

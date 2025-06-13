@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16552"}
-tags: ['Pretraining Methods', 'GPT']
+tags: ['GPT', 'Pretraining Methods']
 ---
 Existing Large Language Models (LLMs) generate text through unidirectional
 autoregressive decoding methods to respond to various user queries. These

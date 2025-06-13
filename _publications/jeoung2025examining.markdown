@@ -7,7 +7,7 @@ year: 2025
 bibkey: jeoung2025examining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.14294"}
-tags: ['Prompting', 'Security', 'Survey Paper']
+tags: ['Security', 'Survey Paper', 'Prompting']
 ---
 Examining the alignment of large language models (LLMs) has become
 increasingly important, e.g., when LLMs fail to operate as intended. This study

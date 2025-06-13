@@ -7,7 +7,7 @@ year: 2024
 bibkey: eindor2024conversational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04560"}
-tags: ['Prompting', 'Applications', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'Applications']
 ---
 Prompts are how humans communicate with LLMs. Informative prompts are
 essential for guiding LLMs to produce the desired output. However, prompt

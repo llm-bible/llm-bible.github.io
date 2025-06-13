@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024cost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19708"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Prompting']
 ---
 Interacting with humans through multi-turn conversations is a fundamental
 feature of large language models (LLMs). However, existing LLM serving engines

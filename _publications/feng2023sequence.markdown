@@ -7,7 +7,7 @@ year: 2023
 bibkey: feng2023sequence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10448"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 This paper presents GenDoc, a general sequence-to-sequence document
 understanding model pre-trained with unified masking across three modalities:

@@ -7,7 +7,7 @@ year: 2025
 bibkey: palepu2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06074"}
-tags: ['Agentic', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Reinforcement Learning']
 ---
 While large language models (LLMs) have shown promise in diagnostic dialogue,
 their capabilities for effective management reasoning - including disease

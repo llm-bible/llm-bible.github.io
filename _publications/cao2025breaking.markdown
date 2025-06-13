@@ -7,7 +7,7 @@ year: 2025
 bibkey: cao2025breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01707"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) is critical for large language models (LLMs), but
 its effectiveness is constrained by finite context windows, particularly in

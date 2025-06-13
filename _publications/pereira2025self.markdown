@@ -7,7 +7,7 @@ year: 2025
 bibkey: pereira2025self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20362"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Large Vision-Language Models (LVLMs) demonstrate remarkable performance in
 short-video tasks such as video question answering, but struggle in long-video

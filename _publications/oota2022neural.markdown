@@ -7,7 +7,7 @@ year: 2022
 bibkey: oota2022neural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.01404"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Several popular Transformer based language models have been found to be
 successful for text-driven brain encoding. However, existing literature

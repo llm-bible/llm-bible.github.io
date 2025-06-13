@@ -7,7 +7,7 @@ year: 2022
 bibkey: cheng2022capture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.12209"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Spoken Language Understanding (SLU), a core component of the task-oriented
 dialogue system, expects a shorter inference facing the impatience of human

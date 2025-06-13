@@ -7,7 +7,7 @@ year: 2020
 bibkey: guan2020unreferenced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.07602"}
-tags: ['Model Architecture', 'BERT', 'Reinforcement Learning']
+tags: ['BERT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Despite the success of existing referenced metrics (e.g., BLEU and
 MoverScore), they correlate poorly with human judgments for open-ended text

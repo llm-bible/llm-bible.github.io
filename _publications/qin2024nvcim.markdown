@@ -7,7 +7,7 @@ year: 2024
 bibkey: qin2024nvcim
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.08244"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) deployed on edge devices, known as edge LLMs,
 need to continuously fine-tune their model parameters from user-generated data

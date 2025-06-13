@@ -7,7 +7,7 @@ year: 2019
 bibkey: sahay2019modeling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1912.10130"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'RAG', 'Attention Mechanism']
+tags: ['Agentic', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Building a machine learning driven spoken dialog system for goal-oriented
 interactions involves careful design of intents and data collection along with

@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024fostering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.09662"}
-tags: ['Prompting', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Reinforcement Learning']
 ---
 Expressing stressful experiences in words is proven to improve mental and
 physical health, but individuals often disengage with writing interventions as

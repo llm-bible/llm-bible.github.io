@@ -7,7 +7,7 @@ year: 2022
 bibkey: iyer2022opt
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2212.12017v3"}
-tags: ['Training Techniques', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Recent work has shown that fine-tuning large pre-trained language models on a
 collection of tasks described via instructions, a.k.a. instruction-tuning,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22767"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Reinforcement Learning']
 ---
 Goal-oriented chatbots are essential for automating user tasks, such as
 booking flights or making restaurant reservations. A key component of these

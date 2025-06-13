@@ -7,7 +7,7 @@ year: 2024
 bibkey: lo2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.01814"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pruning', 'Interpretability and Explainability']
+tags: ['Responsible AI', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Pruning', 'Reinforcement Learning', 'Training Techniques']
 ---
 Advances in model editing through neuron pruning hold promise for removing
 undesirable concepts from large language models. However, it remains unclear

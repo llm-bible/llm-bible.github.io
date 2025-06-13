@@ -7,7 +7,7 @@ year: 2024
 bibkey: hou2024geocode
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.17031"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The increasing demand for spatiotemporal data and modeling tasks in
 geosciences has made geospatial code generation technology a critical factor in

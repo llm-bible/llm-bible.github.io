@@ -7,7 +7,7 @@ year: 2024
 bibkey: fatemi2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.21741"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 While Large Language Models (LLMs) have shown impressive capabilities in
 numerous Natural Language Processing (NLP) tasks, they still struggle with

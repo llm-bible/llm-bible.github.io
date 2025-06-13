@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025trustworthy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07501"}
-tags: ['Security', 'Training Techniques', 'Fairness', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Survey Paper', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Attention Mechanism']
+tags: ['Tools', 'Survey Paper', 'Ethics and Bias', 'RAG', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Fairness']
 ---
 The role of memorization in machine learning (ML) has garnered significant
 attention, particularly as modern models are empirically observed to memorize

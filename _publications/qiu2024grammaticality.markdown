@@ -7,7 +7,7 @@ year: 2024
 bibkey: qiu2024grammaticality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11116"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Large language models (LLMs) have demonstrated exceptional performance across
 various linguistic tasks. However, it remains uncertain whether LLMs have

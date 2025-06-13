@@ -7,7 +7,7 @@ year: 2023
 bibkey: miao2023empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05557"}
-tags: ['Model Architecture', 'GPT', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture']
 ---
 Nowadays, the versatile capabilities of Pre-trained Large Language Models
 (LLMs) have attracted much attention from the industry. However, some vertical

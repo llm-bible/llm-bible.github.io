@@ -7,7 +7,7 @@ year: 2024
 bibkey: radivojevic2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.07940"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias']
+tags: ['Tools', 'GPT', 'Survey Paper', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
 ---
 The emergence of Large Language Models (LLMs) has great potential to reshape
 the landscape of many social media platforms. While this can bring promising

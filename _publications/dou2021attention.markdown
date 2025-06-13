@@ -7,7 +7,7 @@ year: 2021
 bibkey: dou2021attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.01264"}
-tags: ['Training Techniques', 'Model Architecture', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Auto-regressive sequence-to-sequence models with attention mechanisms have
 achieved state-of-the-art performance in various tasks including Text-To-Speech

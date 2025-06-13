@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024exact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02847"}
-tags: ['Model Architecture', 'In-Context Learning', 'GPT', 'Pretraining Methods', 'Ethics and Bias', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In-Context Learning (ICL) has been a powerful emergent property of large
 language models that has attracted increasing attention in recent years. In

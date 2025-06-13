@@ -7,7 +7,7 @@ year: 2024
 bibkey: ou2024lossless
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08698"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 While Large Language Models (LLMs) have shown remarkable abilities, they are
 hindered by significant resource consumption and considerable latency due to

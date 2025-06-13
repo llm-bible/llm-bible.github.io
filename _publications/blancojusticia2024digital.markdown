@@ -7,7 +7,7 @@ year: 2024
 bibkey: blancojusticia2024digital
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02062"}
-tags: ['Ethics and Bias', 'Training Techniques', 'Survey Paper']
+tags: ['Training Techniques', 'Survey Paper', 'Ethics and Bias']
 ---
 The objective of digital forgetting is, given a model with undesirable
 knowledge or behavior, obtain a new model where the detected issues are no

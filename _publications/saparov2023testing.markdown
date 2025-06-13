@@ -7,7 +7,7 @@ year: 2023
 bibkey: saparov2023testing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15269"}
-tags: ['Prompting', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Prompting']
 ---
 Given the intractably large size of the space of proofs, any model that is
 capable of general deductive reasoning must generalize to proofs of greater

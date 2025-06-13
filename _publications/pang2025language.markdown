@@ -8,7 +8,7 @@ bibkey: pang2025language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11751"}
   - {name: "Code", url: "https://github.com/Pbhgit/MVCD"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'TACL', 'RAG', 'Has Code', 'ACL', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'TACL', 'ACL', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Although Large Language Models (LLMs) excel in reasoning and generation for
 language tasks, they are not specifically designed for multimodal challenges.

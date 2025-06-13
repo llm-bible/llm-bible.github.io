@@ -8,7 +8,7 @@ bibkey: lew2023sequential
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.03081"}
   - {name: "Code", url: "https://github.com/probcomp/hfppl),"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Even after fine-tuning and reinforcement learning, large language models
 (LLMs) can be difficult, if not impossible, to control reliably with prompts

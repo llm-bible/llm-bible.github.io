@@ -7,7 +7,7 @@ year: 2025
 bibkey: huang2025modular
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14125"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Pre-trained vision-language models are able to interpret visual concepts and
 language semantics. Prompt learning, a method of constructing prompts for text

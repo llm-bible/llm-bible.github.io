@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15277"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Distillation', 'Prompting']
+tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Prompting', 'Distillation']
 ---
 Pre-trained Vision-Language (VL) models such as CLIP have demonstrated their
 excellent performance across numerous downstream tasks. A recent method,

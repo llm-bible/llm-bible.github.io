@@ -7,7 +7,7 @@ year: 2022
 bibkey: niklaus2022can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.17135"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Pretrained transformer models have achieved state-of-the-art results in many
 tasks and benchmarks recently. Many state-of-the-art Language Models (LMs),

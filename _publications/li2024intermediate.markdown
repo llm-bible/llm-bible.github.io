@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024intermediate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12169"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Distillation', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Distillation']
 ---
 Recent research has explored distilling knowledge from large language models
 (LLMs) to optimize retriever models, especially within the retrieval-augmented

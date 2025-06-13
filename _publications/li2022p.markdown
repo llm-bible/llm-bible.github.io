@@ -7,7 +7,7 @@ year: 2022
 bibkey: li2022p
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.05830"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Directly training a document-to-document (Doc2Doc) neural machine translation
 (NMT) via Transformer from scratch, especially on small datasets usually fails

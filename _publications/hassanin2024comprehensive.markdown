@@ -7,7 +7,7 @@ year: 2024
 bibkey: hassanin2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14487"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 The recent progression of Large Language Models (LLMs) has witnessed great
 success in the fields of data-centric applications. LLMs trained on massive

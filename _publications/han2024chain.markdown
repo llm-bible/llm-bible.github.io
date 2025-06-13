@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13786"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Interpretability', 'Prompting']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Prompting']
 ---
 Automatic coding patient behaviors is essential to support decision making
 for psychotherapists during the motivational interviewing (MI), a collaborative

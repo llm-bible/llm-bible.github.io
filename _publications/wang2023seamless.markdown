@@ -8,7 +8,7 @@ bibkey: wang2023seamless
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.03731"}
   - {name: "Code", url: "https://github.com/mathllm/MathCoder"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The recently released GPT-4 Code Interpreter has demonstrated remarkable
 proficiency in solving challenging math problems, primarily attributed to its

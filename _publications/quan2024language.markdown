@@ -8,7 +8,7 @@ bibkey: quan2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23933"}
   - {name: "Code", url: "https://github.com/QwenLM/Self-Lengthen"}
-tags: ['Training Techniques', 'Tools', 'Language Modeling', 'RAG', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Has Code']
 ---
 Recent advancements in Large Language Models (LLMs) have significantly
 enhanced their ability to process long contexts, yet a notable gap remains in

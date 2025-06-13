@@ -7,7 +7,7 @@ year: 2024
 bibkey: ning2024wtu
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12823"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Although Large Language Models (LLMs) excel in NLP tasks, they still need
 external tools to extend their ability. Current research on tool learning with

@@ -7,7 +7,7 @@ year: 2025
 bibkey: long2025retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16641"}
-tags: ['Applications', 'Pretraining Methods', 'RAG', 'GPT']
+tags: ['RAG', 'GPT', 'Applications', 'Pretraining Methods']
 ---
 Retrieval-augmented generation (RAG) has emerged to address the
 knowledge-intensive visual question answering (VQA) task. Current methods

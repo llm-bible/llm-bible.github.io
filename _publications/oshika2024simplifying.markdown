@@ -7,7 +7,7 @@ year: 2024
 bibkey: oshika2024simplifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04217"}
-tags: ['Ethics and Bias', 'Training Techniques', 'Applications']
+tags: ['Applications', 'Training Techniques', 'Ethics and Bias']
 ---
 In recent years, neural machine translation (NMT) has been widely used in
 everyday life. However, the current NMT lacks a mechanism to adjust the

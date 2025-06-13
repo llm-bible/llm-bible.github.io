@@ -7,7 +7,7 @@ year: 2024
 bibkey: lyu2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06667"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
 ---
 The capabilities of Large Language Models (LLMs) have significantly evolved,
 extending from natural language processing to complex tasks like code

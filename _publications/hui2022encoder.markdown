@@ -7,7 +7,7 @@ year: 2022
 bibkey: hui2022encoder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.11458"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'BERT', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'BERT']
 ---
 State-of-the-art neural models typically encode document-query pairs using
 cross-attention for re-ranking. To this end, models generally utilize an

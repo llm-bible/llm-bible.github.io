@@ -8,7 +8,7 @@ bibkey: hao2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00771"}
   - {name: "Code", url: "https://github.com/hypasd-art/ETAPP"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Language Modeling', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Ethics and Bias', 'Applications', 'Language Modeling', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Personalized tool utilization is essential for aligning large language models
 (LLMs) with user preference in interaction scenarios with various tools.

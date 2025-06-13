@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024searching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01219"}
-tags: ['RAG', 'Multimodal Models', 'Efficiency and Optimization', 'Reinforcement Learning']
+tags: ['RAG', 'Efficiency and Optimization', 'Multimodal Models', 'Reinforcement Learning']
 ---
 Retrieval-augmented generation (RAG) techniques have proven to be effective
 in integrating up-to-date information, mitigating hallucinations, and enhancing

@@ -7,7 +7,7 @@ year: 2025
 bibkey: gong2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17024"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Interpretability and Explainability', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable in-context learning
 (ICL) abilities. However, existing theoretical analysis of ICL primarily

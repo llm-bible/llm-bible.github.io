@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15255"}
   - {name: "Code", url: "https://michelleramanovich.github.io/spectron/spectron)"}
   - {name: "Code", url: "https://github.com/google-research-datasets/LLAMA1-Test-Set)"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Has Code', 'Applications', 'INTERSPEECH']
+tags: ['INTERSPEECH', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 We present Spectron, a novel approach to adapting pre-trained large language
 models (LLMs) to perform spoken question answering (QA) and speech

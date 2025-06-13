@@ -7,7 +7,7 @@ year: 2025
 bibkey: meguellati2025are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16790"}
-tags: ['Multimodal Models', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['GPT', 'Training Techniques', 'Multimodal Models', 'Model Architecture']
 ---
 High-quality textual training data is essential for the success of multimodal
 data processing tasks, yet outputs from image captioning models like BLIP and

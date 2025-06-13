@@ -7,7 +7,7 @@ year: 2025
 bibkey: bae2025context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19426"}
-tags: ['Fairness', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Ethics and Bias', 'Applications', 'RAG', 'Bias Mitigation', 'Fairness', 'Prompting']
 ---
 While Large Language Models (LLMs) excel in zero-shot Question Answering
 (QA), they tend to expose biases in their internal knowledge when faced with

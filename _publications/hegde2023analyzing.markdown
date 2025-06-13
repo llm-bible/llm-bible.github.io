@@ -7,7 +7,7 @@ year: 2023
 bibkey: hegde2023analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.14389"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 Recent document question answering models consist of two key components: the
 vision encoder, which captures layout and visual elements in images, and a

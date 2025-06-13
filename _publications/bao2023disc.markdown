@@ -8,7 +8,7 @@ bibkey: bao2023disc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.14346"}
   - {name: "Code", url: "https://github.com/FudanDISC/DISC-MedLLM"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 We propose DISC-MedLLM, a comprehensive solution that leverages Large
 Language Models (LLMs) to provide accurate and truthful medical response in

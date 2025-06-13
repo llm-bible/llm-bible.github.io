@@ -7,7 +7,7 @@ year: 2023
 bibkey: xu2023it
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08268"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved remarkable proficiency on solving
 diverse problems. However, their generalization ability is not always

@@ -8,7 +8,7 @@ bibkey: ma2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08801"}
   - {name: "Code", url: "https://github.com/XuezheMax/megalodon"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 The quadratic complexity and weak length extrapolation of Transformers limits
 their ability to scale to long sequences, and while sub-quadratic solutions

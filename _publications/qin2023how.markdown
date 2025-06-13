@@ -8,7 +8,7 @@ bibkey: qin2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.15016"}
   - {name: "Code", url: "https://github.com/htqin/GoogleBard-VisUnderstand"}
-tags: ['Model Architecture', 'GPT', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 Google's Bard has emerged as a formidable competitor to OpenAI's ChatGPT in
 the field of conversational AI. Notably, Bard has recently been updated to

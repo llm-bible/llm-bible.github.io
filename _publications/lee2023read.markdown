@@ -8,7 +8,7 @@ bibkey: lee2023read
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.14960"}
   - {name: "Code", url: "https://github.com/mlvlab/RPO"}
-tags: ['Security', 'Model Architecture', 'Efficiency and Optimization', 'Few-Shot', 'Multimodal Models', 'RAG', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 In recent years, prompt tuning has proven effective in adapting pre-trained
 vision-language models to downstream tasks. These methods aim to adapt the

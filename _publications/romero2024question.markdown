@@ -7,7 +7,7 @@ year: 2024
 bibkey: romero2024question
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10698"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 We present Q-ViD, a simple approach for video question answering (video QA),
 that unlike prior methods, which are based on complex architectures,

@@ -8,7 +8,7 @@ bibkey: zhang2025survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.24235"}
   - {name: "Code", url: "https://github.com/testtimescaling/testtimescaling.github.io/"}
-tags: ['Training Techniques', 'Survey Paper', 'Tools', 'Pretraining Methods', 'Has Code']
+tags: ['Tools', 'Survey Paper', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 As enthusiasm for scaling computation (data and parameters) in the
 pretraining era gradually diminished, test-time scaling (TTS), also referred to

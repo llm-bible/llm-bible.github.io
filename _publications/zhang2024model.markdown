@@ -8,7 +8,7 @@ bibkey: zhang2024model
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.10790"}
   - {name: "Code", url: "https://github.com/QingruZhang/AutoPASTA"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated remarkable performance across
 various real-world tasks. However, they often struggle to fully comprehend and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024refine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12227"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning large language models (LLMs) can cause them to lose their general
 capabilities. However, the intrinsic mechanisms behind such forgetting remain

@@ -8,7 +8,7 @@ bibkey: li2023seed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17092"}
   - {name: "Code", url: "https://github.com/AILab-CVC/SEED-Bench"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Multimodal large language models (MLLMs), building upon the foundation of
 powerful large language models (LLMs), have recently demonstrated exceptional

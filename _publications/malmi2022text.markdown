@@ -7,7 +7,7 @@ year: 2022
 bibkey: malmi2022text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2206.07043"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Language Modeling', 'Ethics and Bias', 'Interpretability and Explainability', 'Applications']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Language Modeling', 'Reinforcement Learning']
 ---
 Text-editing models have recently become a prominent alternative to seq2seq
 models for monolingual text-generation tasks such as grammatical error

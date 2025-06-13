@@ -7,7 +7,7 @@ year: 2023
 bibkey: gupta2023context
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.09888"}
-tags: ['Prompting', 'Model Architecture', 'In-Context Learning', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Prompting', 'In-Context Learning', 'Model Architecture']
 ---
 Two lines of work are taking the central stage in AI research. On the one
 hand, the community is making increasing efforts to build models that discard

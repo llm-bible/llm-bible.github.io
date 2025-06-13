@@ -7,7 +7,7 @@ year: 2024
 bibkey: marioriyad2024diffusion
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.22775"}
-tags: ['Reinforcement Learning', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['GPT', 'Language Modeling', 'Merging', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
 ---
 Text-to-image (T2I) generative models, such as Stable Diffusion and DALL-E,
 have shown remarkable proficiency in producing high-quality, realistic, and

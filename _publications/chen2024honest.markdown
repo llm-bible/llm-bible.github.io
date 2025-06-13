@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024honest
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09699"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Hallucination is a key roadblock for applications of Large Language Models
 (LLMs), particularly for enterprise applications that are sensitive to

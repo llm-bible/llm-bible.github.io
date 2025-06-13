@@ -7,7 +7,7 @@ year: 2020
 bibkey: nogueira2020document
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2003.06713"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 This work proposes a novel adaptation of a pretrained sequence-to-sequence
 model to the task of document ranking. Our approach is fundamentally different

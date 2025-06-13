@@ -7,7 +7,7 @@ year: 2025
 bibkey: qin2025scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19551"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Scaling Laws', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
 ---
 Large language models (LLMs) achieve strong performance across diverse tasks,
 largely driven by high-quality web data used in pre-training. However, recent

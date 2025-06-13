@@ -7,7 +7,7 @@ year: 2024
 bibkey: jha2024jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.08862"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 We introduce LLMStinger, a novel approach that leverages Large Language
 Models (LLMs) to automatically generate adversarial suffixes for jailbreak

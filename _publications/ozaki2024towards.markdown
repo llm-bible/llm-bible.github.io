@@ -8,7 +8,7 @@ bibkey: ozaki2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01584"}
   - {name: "Code", url: "https://huggingface.co/datasets/naist-nlp/MultiExpArt"}
-tags: ['Training Techniques', 'Ethics and Bias', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Has Code']
 ---
 As the performance of Large-scale Vision Language Models (LVLMs) improves,
 they are increasingly capable of responding in multiple languages, and there is

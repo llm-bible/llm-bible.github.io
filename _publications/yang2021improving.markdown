@@ -7,7 +7,7 @@ year: 2021
 bibkey: yang2021improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.08140"}
-tags: ['Model Architecture', 'Applications']
+tags: ['Applications', 'Model Architecture']
 ---
 Conversational recommendation systems (CRS) engage with users by inferring
 user preferences from dialog history, providing accurate recommendations, and

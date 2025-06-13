@@ -7,7 +7,7 @@ year: 2022
 bibkey: atrio2022small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.10579"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 We study the role of an essential hyper-parameter that governs the training
 of Transformers for neural machine translation in a low-resource setting: the

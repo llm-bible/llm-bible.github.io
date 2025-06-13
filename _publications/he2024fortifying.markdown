@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024fortifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01725"}
-tags: ['Security', 'Model Architecture', 'Fairness', 'Efficiency and Optimization', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Language Modeling', 'Security', 'Pretraining Methods', 'Fairness', 'Prompting']
 ---
 Recent advancements in large language models (LLMs) have significantly
 enhanced capabilities in natural language processing and artificial

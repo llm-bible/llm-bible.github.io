@@ -7,7 +7,7 @@ year: 2025
 bibkey: georganas2025ml
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13565"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Quantization', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Quantization']
 ---
 Speculative decoding (SD) has emerged as a method to accelerate LLM inference
 without sacrificing any accuracy over the 16-bit model inference. In a typical

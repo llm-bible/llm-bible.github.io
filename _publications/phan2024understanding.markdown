@@ -7,7 +7,7 @@ year: 2024
 bibkey: phan2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16829"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Tokenization', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Pretraining Methods', 'Prompting']
 ---
 State-of-the-art language models are autoregressive and operate on subword
 units known as tokens. Specifically, one must encode the conditioning string

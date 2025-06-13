@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024reward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15360"}
-tags: ['Agentic', 'Security', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Merging']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Merging', 'Security']
 ---
 As Large Language Models (LLMs) continue to progress toward more advanced
 forms of intelligence, Reinforcement Learning from Human Feedback (RLHF) is

@@ -7,7 +7,7 @@ year: 2024
 bibkey: souza2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16276"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Reinforcement Learning']
 ---
 Psychological consultation is essential for improving mental health and
 well-being, yet challenges such as the shortage of qualified professionals and

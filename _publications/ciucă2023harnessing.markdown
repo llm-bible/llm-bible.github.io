@@ -7,7 +7,7 @@ year: 2023
 bibkey: ciucă2023harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.11648"}
-tags: ['Prompting', 'Security', 'Model Architecture', 'GPT']
+tags: ['Security', 'GPT', 'Prompting', 'Model Architecture']
 ---
 This study investigates the application of Large Language Models (LLMs),
 specifically GPT-4, within Astronomy. We employ in-context prompting, supplying

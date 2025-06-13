@@ -7,7 +7,7 @@ year: 2022
 bibkey: alajrami2022how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.10415"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Pre-Training']
+tags: ['Pre-Training', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Several pre-training objectives, such as masked language modeling (MLM), have
 been proposed to pre-train language models (e.g. BERT) with the aim of learning

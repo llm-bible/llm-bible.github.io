@@ -8,7 +8,7 @@ bibkey: pan2024auto
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01926"}
   - {name: "Code", url: "https://github.com/DCDmllm/MorphTokens"}
-tags: ['Prompting', 'Multimodal Models', 'Has Code']
+tags: ['Has Code', 'Multimodal Models', 'Prompting']
 ---
 For multimodal LLMs, the synergy of visual comprehension (textual output) and
 generation (visual output) presents an ongoing challenge. This is due to a

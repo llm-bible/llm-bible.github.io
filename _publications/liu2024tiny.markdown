@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024tiny
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12604"}
-tags: ['Responsible AI', 'Agentic', 'Security', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 With the proliferation of red-teaming strategies for Large Language Models
 (LLMs), the deficiency in the literature about improving the safety and

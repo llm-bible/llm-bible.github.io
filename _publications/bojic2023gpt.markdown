@@ -7,7 +7,7 @@ year: 2023
 bibkey: bojic2023gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09545"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 As Large Language Models (LLMs) become increasingly integrated into everyday
 life, their capabilities to understand and emulate human cognition are under

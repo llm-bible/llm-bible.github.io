@@ -7,7 +7,7 @@ year: 2025
 bibkey: barnhart2025aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09025"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Reinforcement Learning from Human Feedback (RLHF) is increasingly used to
 align large language models (LLMs) with human preferences. However, the

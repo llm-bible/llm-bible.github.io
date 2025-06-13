@@ -8,7 +8,7 @@ bibkey: kim2025lost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13909"}
   - {name: "Code", url: "https://github.com/Sein-Kim/LLM-SRec"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have recently emerged as promising tools for
 recommendation thanks to their advanced textual understanding ability and

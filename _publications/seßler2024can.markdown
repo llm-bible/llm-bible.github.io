@@ -7,7 +7,7 @@ year: 2024
 bibkey: seßler2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16337"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 The manual assessment and grading of student writing is a time-consuming yet
 critical task for teachers. Recent developments in generative AI, such as large

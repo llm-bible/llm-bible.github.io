@@ -8,7 +8,7 @@ bibkey: xu2024bag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09324"}
   - {name: "Code", url: "https://github.com/usail-hkust/JailTrickBench"}
-tags: ['Security', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code', 'Prompting']
 ---
 Although Large Language Models (LLMs) have demonstrated significant
 capabilities in executing complex tasks in a zero-shot manner, they are

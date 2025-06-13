@@ -7,7 +7,7 @@ year: 2022
 bibkey: piergiovanni2022pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2209.04372"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 We present a pre-training approach for vision and language transformer
 models, which is based on a mixture of diverse tasks. We explore both the use

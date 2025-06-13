@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024focus
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11621"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pruning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are composed of neurons that exhibit various
 behaviors and roles, which become increasingly diversified as models scale.

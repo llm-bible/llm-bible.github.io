@@ -7,7 +7,7 @@ year: 2024
 bibkey: yi2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18013"}
-tags: ['Applications', 'Survey Paper']
+tags: ['Survey Paper', 'Applications']
 ---
 This survey provides a comprehensive review of research on multi-turn
 dialogue systems, with a particular focus on multi-turn dialogue systems based

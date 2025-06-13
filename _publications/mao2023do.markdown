@@ -7,7 +7,7 @@ year: 2023
 bibkey: mao2023do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14493"}
-tags: ['Prompting', 'Model Architecture', 'Few-Shot', 'Attention Mechanism']
+tags: ['Few-Shot', 'Attention Mechanism', 'Prompting', 'Model Architecture']
 ---
 Prompt-based models have gathered a lot of attention from researchers due to
 their remarkable advancements in the fields of zero-shot and few-shot learning.

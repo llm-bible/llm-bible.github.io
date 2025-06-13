@@ -7,7 +7,7 @@ year: 2024
 bibkey: xing2024empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11102"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The unprecedented advancements in Large Language Models (LLMs) have
 profoundly impacted natural language processing but have yet to fully embrace

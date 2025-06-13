@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.14945"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Prognostics and health management (PHM) is essential for industrial operation
 and maintenance, focusing on predicting, diagnosing, and managing the health

@@ -8,7 +8,7 @@ bibkey: gioacchini2024modular
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06411"}
   - {name: "Code", url: "https://github.com/nec-research/agentquest"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Has Code', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Model Architecture', 'Has Code']
 ---
 The advances made by Large Language Models (LLMs) have led to the pursuit of
 LLM agents that can solve intricate, multi-step reasoning tasks. As with any

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12930"}
-tags: ['Quantization', 'Efficiency and Optimization']
+tags: ['Efficiency and Optimization', 'Quantization']
 ---
 Large language models (LLMs) demonstrate outstanding performance in various
 tasks in machine learning and have thus become one of the most important

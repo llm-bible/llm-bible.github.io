@@ -7,7 +7,7 @@ year: 2024
 bibkey: sultan2024visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02952"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Distillation', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 We present a practical distillation approach to fine-tune LLMs for invoking
 tools in real-time applications. We focus on visual editing tasks;

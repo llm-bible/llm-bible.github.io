@@ -7,7 +7,7 @@ year: 2024
 bibkey: singh2024lora
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.15804"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 The rapid advancements in large language models (LLMs) have revolutionized
 natural language processing, creating an increased need for efficient,

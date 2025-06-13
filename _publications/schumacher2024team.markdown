@@ -8,7 +8,7 @@ bibkey: schumacher2024team
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01961"}
   - {name: "Code", url: "https://github.com/danschumac1/CivilPromptReasoningGPT4"}
-tags: ['Model Architecture', 'GPT', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 In this paper, we present our system for the SemEval Task 5, The Legal
 Argument Reasoning Task in Civil Procedure Challenge. Legal argument reasoning

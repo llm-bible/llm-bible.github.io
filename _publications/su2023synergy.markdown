@@ -7,7 +7,7 @@ year: 2023
 bibkey: su2023synergy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18813"}
-tags: ['Language Modeling', 'Model Architecture', 'Applications', 'GPT']
+tags: ['Language Modeling', 'GPT', 'Applications', 'Model Architecture']
 ---
 Large Language Models (LLMs) like GPT are state-of-the-art text generation
 models that provide significant assistance in daily routines. However, LLM

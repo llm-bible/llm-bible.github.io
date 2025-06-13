@@ -7,7 +7,7 @@ year: 2024
 bibkey: kumar2024training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12917"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Self-correction is a highly desirable capability of large language models
 (LLMs), yet it has consistently been found to be largely ineffective in modern

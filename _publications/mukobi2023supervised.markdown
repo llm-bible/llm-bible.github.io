@@ -7,7 +7,7 @@ year: 2023
 bibkey: mukobi2023supervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16763"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 While large language models demonstrate remarkable capabilities, they often
 present challenges in terms of safety, alignment with human values, and

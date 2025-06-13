@@ -7,7 +7,7 @@ year: 2023
 bibkey: liao2023automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.02077"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved significant success in interacting
 with human. However, recent studies have revealed that these models often

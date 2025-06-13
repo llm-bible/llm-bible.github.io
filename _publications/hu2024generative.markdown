@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08293"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 A syntactic language model (SLM) incrementally generates a sentence with its
 syntactic tree in a left-to-right manner. We present Generative Pretrained

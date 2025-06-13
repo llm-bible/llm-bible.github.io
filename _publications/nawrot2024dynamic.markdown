@@ -7,7 +7,7 @@ year: 2024
 bibkey: nawrot2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09636"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers have emerged as the backbone of large language models (LLMs).
 However, generation remains inefficient due to the need to store in memory a

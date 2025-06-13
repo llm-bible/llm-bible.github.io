@@ -8,7 +8,7 @@ bibkey: jiao2023translating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.02426"}
   - {name: "Code", url: "https://github.com/wxjiao/ParroT"}
-tags: ['WMT', 'Model Architecture', 'Tools', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'WMT', 'Has Code']
 ---
 Large language models (LLMs) like ChatGPT have exhibited remarkable abilities
 on a wide range of natural language processing~(NLP) tasks, including various

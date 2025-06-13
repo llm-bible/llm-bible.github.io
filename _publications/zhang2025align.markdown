@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025align
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11185"}
-tags: ['Responsible AI', 'Security', 'Prompting', 'Tools']
+tags: ['Responsible AI', 'Security', 'Tools', 'Prompting']
 ---
 Large Language Models (LLMs) are vulnerable to jailbreak attacks, which use
 crafted prompts to elicit toxic responses. These attacks exploit LLMs'

@@ -7,7 +7,7 @@ year: 2024
 bibkey: le2024auto
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08179"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Financial analysis heavily relies on the evaluation of earnings reports to
 gain insights into company performance. Traditional generation of these reports

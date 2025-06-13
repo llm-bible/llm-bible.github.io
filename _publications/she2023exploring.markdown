@@ -7,7 +7,7 @@ year: 2023
 bibkey: she2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07194"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 LLMs (Large Language Models) usually interact with users in the form of
 dialogue and generate responses following their instructions, which naturally

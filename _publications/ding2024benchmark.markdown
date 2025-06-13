@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19913"}
   - {name: "Code", url: "https://mango.ttic.edu"}
   - {name: "Code", url: "https://github.com/oaklight/mango/"}
-tags: ['Model Architecture', 'GPT', 'Has Code', 'Reinforcement Learning']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models such as ChatGPT and GPT-4 have recently achieved
 astonishing performance on a variety of natural language processing tasks. In

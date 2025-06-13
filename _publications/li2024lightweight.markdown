@@ -8,7 +8,7 @@ bibkey: li2024lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02801"}
   - {name: "Code", url: "https://github.com/TiffanyBlews/MozartsTouch"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 In recent years, AI-Generated Content (AIGC) has witnessed rapid
 advancements, facilitating the creation of music, images, and other artistic

@@ -7,7 +7,7 @@ year: 2025
 bibkey: cao2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07956"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 The emergence of large language models (LLMs) like GPT-4 has revolutionized
 natural language processing (NLP), enabling diverse, complex tasks. However,

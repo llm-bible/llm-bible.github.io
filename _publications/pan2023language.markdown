@@ -7,7 +7,7 @@ year: 2023
 bibkey: pan2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07889"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Prompting', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 We explore the use of language as a perceptual representation for
 vision-and-language navigation (VLN), with a focus on low-data settings. Our

@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023forgetful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06646"}
-tags: ['Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Model Architecture', 'Prompting']
 ---
 Large language models offer new ways of empowering people to program robot
 applications-namely, code generation via prompting. However, the code generated

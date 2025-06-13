@@ -7,7 +7,7 @@ year: 2019
 bibkey: liu2019multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.03588"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Pretrained language models have led to significant performance gains in many
 NLP tasks. However, the intensive computing resources to train such models

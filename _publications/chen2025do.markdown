@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03846"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are increasingly used as automatic evaluators in
 applications such as benchmarking, reward modeling, and self-refinement. Prior

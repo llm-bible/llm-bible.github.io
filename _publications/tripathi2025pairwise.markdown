@@ -7,7 +7,7 @@ year: 2025
 bibkey: tripathi2025pairwise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14716"}
-tags: ['Agentic', 'Ethics and Bias', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Agentic', 'Training Techniques', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are widely used as proxies for human labelers in
 both training (Reinforcement Learning from AI Feedback) and large-scale

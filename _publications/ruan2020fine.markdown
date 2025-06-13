@@ -7,7 +7,7 @@ year: 2020
 bibkey: ruan2020fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.00181"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 We present our work on Track 4 in the Dialogue System Technology Challenges 8
 (DSTC8). The DSTC8-Track 4 aims to perform dialogue state tracking (DST) under

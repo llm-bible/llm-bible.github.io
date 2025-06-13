@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01935"}
-tags: ['Training Techniques', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Applications']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent studies have shown that code language models at scale demonstrate
 significant performance gains on downstream tasks, i.e., code generation.

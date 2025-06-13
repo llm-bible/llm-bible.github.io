@@ -7,7 +7,7 @@ year: 2024
 bibkey: cao2024moe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.11217"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning']
 ---
 Efficient deployment of large language models, particularly Mixture of
 Experts (MoE), on resource-constrained platforms presents significant

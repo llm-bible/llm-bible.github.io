@@ -7,7 +7,7 @@ year: 2024
 bibkey: tong2024securing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04151"}
-tags: ['Security', 'RAG', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Security', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have acquired the ability to handle longer
 context lengths and understand nuances in text, expanding their dialogue

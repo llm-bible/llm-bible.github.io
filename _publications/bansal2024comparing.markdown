@@ -8,7 +8,7 @@ bibkey: bansal2024comparing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00530"}
   - {name: "Code", url: "https://github.com/Hritikbansal/dove"}
-tags: ['Efficiency and Optimization', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 A common technique for aligning large language models (LLMs) relies on
 acquiring human preferences by comparing multiple generations conditioned on a

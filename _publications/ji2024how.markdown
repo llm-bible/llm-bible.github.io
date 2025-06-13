@@ -7,7 +7,7 @@ year: 2024
 bibkey: ji2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04850"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Instruction tuning a large language model with multiple languages can prepare
 it for multilingual downstream tasks. Nonetheless, it is yet to be determined

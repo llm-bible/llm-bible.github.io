@@ -7,7 +7,7 @@ year: 2024
 bibkey: scholten2024metacognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05568"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'Ethics and Bias', 'Interpretability and Explainability']
+tags: ['Agentic', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques']
 ---
 Large Language Models (LLMs) exhibit potentially harmful biases that
 reinforce culturally inherent stereotypes, cloud moral judgments, or amplify

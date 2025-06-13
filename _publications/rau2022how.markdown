@@ -7,7 +7,7 @@ year: 2022
 bibkey: rau2022how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.07233"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Pretraining Methods', 'BERT']
 ---
 In recent years, large pre-trained transformers have led to substantial gains
 in performance over traditional retrieval models and feedback approaches.

@@ -7,7 +7,7 @@ year: 2020
 bibkey: li2020rewriter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.05414"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Encoder-decoder has been widely used in neural machine translation (NMT). A
 few methods have been proposed to improve it with multiple passes of decoding.

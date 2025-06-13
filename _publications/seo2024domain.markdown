@@ -7,7 +7,7 @@ year: 2024
 bibkey: seo2024domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.09255"}
-tags: ['Language Modeling', 'Applications', 'RAG']
+tags: ['RAG', 'Language Modeling', 'Applications']
 ---
 We introduce DAHL, a benchmark dataset and automated evaluation system
 designed to assess hallucination in long-form text generation, specifically

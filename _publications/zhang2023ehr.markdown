@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023ehr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.17475"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques']
 ---
 With the rapid advancement of Large Language Models (LLMs) and their
 outstanding performance in semantic and contextual comprehension, the potential

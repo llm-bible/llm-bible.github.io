@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024passage
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20654"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Effective passage retrieval and reranking methods have been widely utilized
 to identify suitable candidates in open-domain question answering tasks, recent

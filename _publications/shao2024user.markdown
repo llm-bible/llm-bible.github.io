@@ -7,7 +7,7 @@ year: 2024
 bibkey: shao2024user
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05543"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Quantization']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Quantization']
 ---
 Recent advances in Large Language Models (LLMs) have demonstrated promising
 performance in sequential recommendation tasks, leveraging their superior

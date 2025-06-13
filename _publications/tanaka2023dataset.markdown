@@ -7,7 +7,7 @@ year: 2023
 bibkey: tanaka2023dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.04883"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Visual question answering on document images that contain textual, visual,
 and layout information, called document VQA, has received much attention

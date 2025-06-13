@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024restructure
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11357"}
-tags: ['RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Applications']
 ---
 Large Language Models (LLMs) are limited by their parametric knowledge,
 leading to hallucinations in knowledge-extensive tasks. To address this,

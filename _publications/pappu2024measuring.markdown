@@ -7,7 +7,7 @@ year: 2024
 bibkey: pappu2024measuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11715"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Reinforcement learning with human feedback (RLHF) has become the dominant
 method to align large models to user preferences. Unlike fine-tuning, for which

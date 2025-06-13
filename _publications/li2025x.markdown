@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025x
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11132"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 Multi-head latent attention (MLA) is designed to optimize KV cache memory
 through low-rank key-value joint compression. Rather than caching keys and

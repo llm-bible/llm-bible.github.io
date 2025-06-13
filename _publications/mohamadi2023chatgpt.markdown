@@ -7,7 +7,7 @@ year: 2023
 bibkey: mohamadi2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.04251"}
-tags: ['Model Architecture', 'Survey Paper', 'Merging', 'GPT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Merging']
 ---
 ChatGPT is a large language model (LLM) created by OpenAI that has been
 carefully trained on a large amount of data. It has revolutionized the field of

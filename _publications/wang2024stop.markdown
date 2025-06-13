@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024stop
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14899"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'RAG', 'Interpretability', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Security', 'Attention Mechanism', 'Multimodal Models']
 ---
 Multimodal LLMs (MLLMs) with a great ability of text and image understanding
 have received great attention. To achieve better reasoning with MLLMs,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024streamlining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07276"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Tokenization', 'RAG', 'Quantization']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Quantization']
 ---
 Traditional recommendation models often rely on unique item identifiers (IDs)
 to distinguish between items, which can hinder their ability to effectively

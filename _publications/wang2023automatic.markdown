@@ -8,7 +8,7 @@ bibkey: wang2023automatic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.05087"}
   - {name: "Code", url: "https://github.com/WeOpenML/PandaLM"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Has Code']
 ---
 Instruction tuning large language models (LLMs) remains a challenging task,
 owing to the complexity of hyperparameter selection and the difficulty involved

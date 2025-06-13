@@ -7,7 +7,7 @@ year: 2024
 bibkey: kasetty2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.05545"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 Numerous decision-making tasks require estimating causal effects under
 interventions on different parts of a system. As practitioners consider using

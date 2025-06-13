@@ -7,7 +7,7 @@ year: 2024
 bibkey: yao2024reinforcing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.09173"}
-tags: ['Training Techniques', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Training Techniques']
 ---
 Following formatting instructions to generate well-structured content is a
 fundamental yet often unmet capability for large language models (LLMs). To

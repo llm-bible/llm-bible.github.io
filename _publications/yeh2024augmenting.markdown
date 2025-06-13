@@ -7,7 +7,7 @@ year: 2024
 bibkey: yeh2024augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.08855"}
-tags: ['RAG', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning']
 ---
 Writing is a well-established practice to support ideation and creativity.
 While Large Language Models (LLMs) have become ubiquitous in providing

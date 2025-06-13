@@ -7,7 +7,7 @@ year: 2023
 bibkey: aissa2023multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15585"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Multimodal Models']
 ---
 Neural Module Networks (NMN) are a compelling method for visual question
 answering, enabling the translation of a question into a program consisting of

@@ -7,7 +7,7 @@ year: 2024
 bibkey: momeni2024continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15563"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Existing continual learning (CL) methods mainly rely on fine-tuning or
 adapting large language models (LLMs). They still suffer from catastrophic

@@ -8,7 +8,7 @@ bibkey: jiang2023adversarial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12870"}
   - {name: "Code", url: "https://github.com/YJiangcm/Lion"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'GPT', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting', 'Distillation']
 ---
 The practice of transferring knowledge from a sophisticated, proprietary
 large language model (LLM) to a compact, open-source LLM has garnered

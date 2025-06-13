@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01468"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are effective at answering questions that are
 clearly asked. However, when faced with ambiguous queries they can act

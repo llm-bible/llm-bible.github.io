@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023speech
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07418"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Recently, advancements in large language models (LLMs) have shown an
 unprecedented ability across various language tasks. This paper investigates

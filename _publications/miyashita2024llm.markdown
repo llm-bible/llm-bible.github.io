@@ -7,7 +7,7 @@ year: 2024
 bibkey: miyashita2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.14733"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 High-Performance Computing (HPC) is crucial for performing advanced
 computational tasks, yet their complexity often challenges users, particularly

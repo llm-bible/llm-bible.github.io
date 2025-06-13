@@ -8,7 +8,7 @@ bibkey: zhong2023think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.02439"}
   - {name: "Code", url: "https://zhongshsh.github.io/CLoT/"}
-tags: ['Multimodal Models', 'RAG', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Has Code', 'Multimodal Models']
 ---
 Chain-of-Thought (CoT) guides large language models (LLMs) to reason
 step-by-step, and can motivate their logical reasoning ability. While effective

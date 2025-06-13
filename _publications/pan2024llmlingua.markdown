@@ -8,7 +8,7 @@ bibkey: pan2024llmlingua
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12968"}
   - {name: "Code", url: "https://aka.ms/LLMLingua-2"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'BERT', 'Prompting', 'Distillation']
 ---
 This paper focuses on task-agnostic prompt compression for better
 generalizability and efficiency. Considering the redundancy in natural

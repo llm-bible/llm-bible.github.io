@@ -7,7 +7,7 @@ year: 2024
 bibkey: bhambhoria2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12349"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Ethics and Bias', 'Interpretability']
+tags: ['GPT', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Interpretability']
 ---
 This study evaluates the performance of general-purpose AI, like ChatGPT, in
 legal question-answering tasks, highlighting significant risks to legal

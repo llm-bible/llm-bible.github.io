@@ -8,7 +8,7 @@ bibkey: biderman2023emergent
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.11158v2"}
   - {name: "Code", url: "https://github.com/EleutherAI/pythia"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Large-Scale Training', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Scaling Laws']
 ---
 Memorization, or the tendency of large language models (LLMs) to output
 entire sequences from their training data verbatim, is a key concern for safely

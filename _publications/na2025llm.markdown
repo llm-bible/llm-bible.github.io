@@ -7,7 +7,7 @@ year: 2025
 bibkey: na2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19734"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Dialogue data has been a key source for understanding learning processes,
 offering critical insights into how students engage in collaborative

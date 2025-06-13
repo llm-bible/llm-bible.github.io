@@ -7,7 +7,7 @@ year: 2020
 bibkey: gu2020discourse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.01775"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Recent advances in pre-trained language models have significantly improved
 neural response generation. However, existing methods usually view the dialogue

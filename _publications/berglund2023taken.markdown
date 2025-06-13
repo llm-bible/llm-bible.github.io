@@ -8,7 +8,7 @@ bibkey: berglund2023taken
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.00667"}
   - {name: "Code", url: "https://github.com/AsaCooperStickland/situational-awareness-evals"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'GPT', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Scaling Laws', 'Prompting', 'In-Context Learning']
 ---
 We aim to better understand the emergence of `situational awareness' in large
 language models (LLMs). A model is situationally aware if it's aware that it's

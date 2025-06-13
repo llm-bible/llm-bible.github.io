@@ -7,7 +7,7 @@ year: 2023
 bibkey: ardeshir2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.03212"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Trained on a vast amount of data, Large Language models (LLMs) have achieved
 unprecedented success and generalization in modeling fairly complex textual

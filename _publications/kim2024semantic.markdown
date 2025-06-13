@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024semantic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08469"}
-tags: ['Multimodal Models', 'Few-Shot', 'Tools']
+tags: ['Few-Shot', 'Tools', 'Multimodal Models']
 ---
 A text encoder within Vision-Language Models (VLMs) like CLIP plays a crucial
 role in translating textual input into an embedding space shared with images,

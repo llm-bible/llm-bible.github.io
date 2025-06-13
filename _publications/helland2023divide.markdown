@@ -7,7 +7,7 @@ year: 2023
 bibkey: helland2023divide
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16897"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The growing capabilities of transformer models pave the way for solving
 increasingly complex NLP tasks. A key to supporting application-specific

@@ -8,7 +8,7 @@ bibkey: ding2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17349"}
   - {name: "Code", url: "https://github.com/ECNU-ICALK/SocraticMath"}
-tags: ['Survey Paper', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Survey Paper', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 With the introduction of large language models (LLMs), automatic math
 reasoning has seen tremendous success. However, current methods primarily focus

@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19686"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'GPT', 'Interpretability and Explainability', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture']
 ---
 Large language models (LLMs) have demonstrated remarkable proficiency in a
 range of natural language processing tasks. Once deployed, LLMs encounter users

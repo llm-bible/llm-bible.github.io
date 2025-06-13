@@ -7,7 +7,7 @@ year: 2025
 bibkey: pan2025optimization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00843"}
-tags: ['Security', 'Efficiency and Optimization', 'Tools', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Security', 'Prompting']
 ---
 Large Language Models (LLMs) have demonstrated remarkable capabilities in
 natural language understanding and generation, enabling their widespread

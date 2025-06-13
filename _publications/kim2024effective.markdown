@@ -8,7 +8,7 @@ bibkey: kim2024effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12404"}
   - {name: "Code", url: "https://seharanul17.github.io/project-synthetic-tabular-llm/"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have demonstrated remarkable in-context learning
 capabilities across diverse applications. In this work, we explore the

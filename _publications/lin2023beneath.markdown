@@ -7,7 +7,7 @@ year: 2023
 bibkey: lin2023beneath
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.05434"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Merging', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 The age of social media is rife with memes. Understanding and detecting
 harmful memes pose a significant challenge due to their implicit meaning that

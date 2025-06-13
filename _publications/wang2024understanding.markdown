@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11459"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) enables large language models (LLMs) to adapt to
 new tasks without fine-tuning by leveraging contextual information provided

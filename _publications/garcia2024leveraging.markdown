@@ -7,7 +7,7 @@ year: 2024
 bibkey: garcia2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02149"}
-tags: ['Model Architecture', 'Survey Paper', 'RAG', 'GPT', 'Applications']
+tags: ['Survey Paper', 'GPT', 'Applications', 'RAG', 'Model Architecture']
 ---
 In this paper, we introduce ChatCite, a novel method leveraging large
 language models (LLMs) for generating comparative literature summaries. The

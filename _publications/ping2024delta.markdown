@@ -7,7 +7,7 @@ year: 2024
 bibkey: ping2024delta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08903"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Fine-tuning is a crucial process for adapting large language models (LLMs) to
 diverse applications. In certain scenarios, such as multi-tenant serving,

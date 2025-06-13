@@ -8,7 +8,7 @@ bibkey: he2024hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06067"}
   - {name: "Code", url: "https://github.com/OswaldHe/HMT-pytorch"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Has Code', 'Pretraining Methods']
 ---
 Transformer-based large language models (LLM) have been widely used in
 language processing applications. However, due to the memory constraints of the

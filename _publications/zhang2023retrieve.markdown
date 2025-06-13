@@ -8,7 +8,7 @@ bibkey: zhang2023retrieve
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.07554"}
   - {name: "Code", url: "https://github.com/FlagOpen/FlagEmbedding"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
 ---
 Large language models (LLMs) face significant challenges stemming from their
 inherent limitations in knowledge, memory, alignment, and action. These

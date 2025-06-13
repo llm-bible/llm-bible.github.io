@@ -7,7 +7,7 @@ year: 2022
 bibkey: sun2022tokenization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.09912"}
-tags: ['Training Techniques', 'Model Architecture', 'Tokenization', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Tokenization', 'Attention Mechanism']
 ---
 Generative models have been widely applied to solve extractive tasks, where
 parts of the input is extracted to form the desired output, and achieved

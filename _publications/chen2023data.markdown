@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.02033"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The immense evolution in Large Language Models (LLMs) has underscored the
 importance of massive, heterogeneous, and high-quality data. A data recipe is a

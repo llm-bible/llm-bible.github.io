@@ -7,7 +7,7 @@ year: 2023
 bibkey: mitchell2023comparing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09247"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 We explore the abstract reasoning abilities of text-only and multimodal
 versions of GPT-4, using the ConceptARC benchmark [10], which is designed to

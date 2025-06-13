@@ -7,7 +7,7 @@ year: 2025
 bibkey: moroni2025optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.17025"}
-tags: ['Pretraining Methods', 'RAG', 'Training Techniques', 'Efficiency and Optimization']
+tags: ['RAG', 'Training Techniques', 'Efficiency and Optimization', 'Pretraining Methods']
 ---
 The number of pretrained Large Language Models (LLMs) is increasing steadily,
 though the majority are designed predominantly for the English language. While

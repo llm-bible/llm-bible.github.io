@@ -7,7 +7,7 @@ year: 2024
 bibkey: balesni2024two
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.16353"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 [Notice: This version is outdated. Recent research contradicts some key
 claims; we are working on a major revision with more nuanced analysis. Please

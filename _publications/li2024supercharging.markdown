@@ -8,7 +8,7 @@ bibkey: li2024supercharging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.20095"}
   - {name: "Code", url: "https://github.com/LostXine/LLaRA"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 Vision Language Models (VLMs) have recently been leveraged to generate
 robotic actions, forming Vision-Language-Action (VLA) models. However, directly

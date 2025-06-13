@@ -7,7 +7,7 @@ year: 2023
 bibkey: carreira2023revolutionizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01434"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Quantization', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 The field of Artificial Intelligence has witnessed remarkable progress in
 recent years, especially with the emergence of powerful large language models

@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13372"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Tools']
+tags: ['RAG', 'Tools', 'GPT', 'Model Architecture']
 ---
 While Large Language Models (LLMs) excel at the Winograd Schema Challenge
 (WSC), a coreference resolution task testing common-sense reasoning through

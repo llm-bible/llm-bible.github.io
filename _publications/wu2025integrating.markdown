@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.12286"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Background: Several studies show that large language models (LLMs) struggle
 with phenotype-driven gene prioritization for rare diseases. These studies

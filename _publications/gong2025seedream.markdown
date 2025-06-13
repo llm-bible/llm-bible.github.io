@@ -7,7 +7,7 @@ year: 2025
 bibkey: gong2025seedream
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07703"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Merging', 'Ethics and Bias', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Prompting']
 ---
 Rapid advancement of diffusion models has catalyzed remarkable progress in
 the field of image generation. However, prevalent models such as Flux, SD3.5

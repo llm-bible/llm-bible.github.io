@@ -8,7 +8,7 @@ bibkey: lian2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10307"}
   - {name: "Code", url: "https://github.com/UnicomAI/DataSet/tree/main/TestData/GeneralAbility"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 General large language models enhanced with supervised fine-tuning and
 reinforcement learning from human feedback are increasingly popular in academia

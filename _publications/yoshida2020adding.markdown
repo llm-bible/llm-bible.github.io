@@ -7,7 +7,7 @@ year: 2020
 bibkey: yoshida2020adding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2008.07027"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-tuning a pretrained transformer for a downstream task has become a
 standard method in NLP in the last few years. While the results from these

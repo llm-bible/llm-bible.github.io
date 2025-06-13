@@ -7,7 +7,7 @@ year: 2019
 bibkey: tian2019wasteless
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1912.06638"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Transformer based Very Large Language Models (VLLMs) like BERT, XLNet and
 RoBERTa, have recently shown tremendous performance on a large variety of

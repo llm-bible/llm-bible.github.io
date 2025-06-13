@@ -8,7 +8,7 @@ bibkey: dibia2023tool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.02927"}
   - {name: "Code", url: "https://microsoft.github.io/lida/"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 Systems that support users in the automatic creation of visualizations must
 address several subtasks - understand the semantics of data, enumerate relevant

@@ -7,7 +7,7 @@ year: 2023
 bibkey: kang2023from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17857"}
-tags: ['Training Techniques', 'Survey Paper', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Being able to predict people's opinions on issues and behaviors in realistic
 scenarios can be helpful in various domains, such as politics and marketing.

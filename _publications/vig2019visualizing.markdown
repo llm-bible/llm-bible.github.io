@@ -7,7 +7,7 @@ year: 2019
 bibkey: vig2019visualizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.02679"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 We present an open-source tool for visualizing multi-head self-attention in
 Transformer-based language representation models. The tool extends earlier work

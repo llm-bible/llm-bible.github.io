@@ -7,7 +7,7 @@ year: 2024
 bibkey: min2024speech
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16500"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'INTERSPEECH']
+tags: ['Fine-Tuning', 'Tools', 'INTERSPEECH', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 One common approach for question answering over speech data is to first
 transcribe speech using automatic speech recognition (ASR) and then employ

@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhang2020future
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.12465"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Simultaneous translation (ST) starts translations synchronously while reading
 source sentences, and is used in many online scenarios. The previous wait-k

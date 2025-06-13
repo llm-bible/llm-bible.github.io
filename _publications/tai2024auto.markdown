@@ -7,7 +7,7 @@ year: 2024
 bibkey: tai2024auto
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.03321"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Applications']
+tags: ['GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Recent work showed the possibility of building open-vocabulary large language
 models (LLMs) that directly operate on pixel representations. These models are

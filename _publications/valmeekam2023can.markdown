@@ -7,7 +7,7 @@ year: 2023
 bibkey: valmeekam2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08118"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 There have been widespread claims about Large Language Models (LLMs) being
 able to successfully verify or self-critique their candidate solutions in

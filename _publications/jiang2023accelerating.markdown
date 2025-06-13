@@ -8,7 +8,7 @@ bibkey: jiang2023accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06839"}
   - {name: "Code", url: "https://aka.ms/LongLLMLingua"}
-tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Has Code', 'Prompting']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 In long context scenarios, large language models (LLMs) face three main
 challenges: higher computational cost, performance reduction, and position

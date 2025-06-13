@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023building
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.00786"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'ACL']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'ACL', 'Training Techniques', 'Pretraining Methods']
 ---
 We propose gated language experts and curriculum training to enhance
 multilingual transformer transducer models without requiring language

@@ -7,7 +7,7 @@ year: 2024
 bibkey: aksenov2024linear
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10644"}
-tags: ['Model Architecture', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Tools', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Advancing the frontier of subquadratic architectures for Language Models
 (LMs) is crucial in the rapidly evolving field of natural language processing.

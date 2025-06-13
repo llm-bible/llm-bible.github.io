@@ -8,7 +8,7 @@ bibkey: zhang2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11063"}
   - {name: "Code", url: "https://github.com/megagonlabs/xatu"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Text editing is a crucial task of modifying text to better align with user
 intents. However, existing text editing benchmark datasets contain only

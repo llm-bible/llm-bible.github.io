@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024push
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.17674"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 Understanding the emotions in a dialogue usually requires external knowledge
 to accurately understand the contents. As the LLMs become more and more

@@ -7,7 +7,7 @@ year: 2024
 bibkey: olson2024steering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06060"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Although capable of generating creative text, Large Language Models (LLMs)
 are poor judges of what constitutes "creativity". In this work, we show that we

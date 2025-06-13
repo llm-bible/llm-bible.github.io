@@ -7,7 +7,7 @@ year: 2025
 bibkey: oketch2025bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11827"}
-tags: ['Model Architecture', 'Fairness', 'Few-Shot', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability']
+tags: ['GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Interpretability', 'Few-Shot', 'Fairness']
 ---
 Closed large language models (LLMs) such as GPT-4 have set state-of-the-art
 results across a number of NLP tasks and have become central to NLP and machine

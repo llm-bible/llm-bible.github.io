@@ -8,7 +8,7 @@ bibkey: jin2023unified
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2309.04669v3"}
   - {name: "Code", url: "https://github.com/jy0205/LaVIT"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Tokenization', 'Pretraining Methods', 'Has Code', 'Prompting']
+tags: ['Reinforcement Learning', 'Training Techniques', 'Tokenization', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Recently, the remarkable advance of the Large Language Model (LLM) has
 inspired researchers to transfer its extraordinary reasoning capability to both

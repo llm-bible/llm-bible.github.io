@@ -7,7 +7,7 @@ year: 2024
 bibkey: etxaniz2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.20266"}
-tags: ['Pretraining Methods', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 We introduce Latxa, a family of large language models for Basque ranging from
 7 to 70 billion parameters. Latxa is based on Llama 2, which we continue

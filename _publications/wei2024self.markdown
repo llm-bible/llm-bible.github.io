@@ -7,7 +7,7 @@ year: 2024
 bibkey: wei2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.24198"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 Instruction tuning is a supervised fine-tuning approach that significantly
 improves the ability of large language models (LLMs) to follow human

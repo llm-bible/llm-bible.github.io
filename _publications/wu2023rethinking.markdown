@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.06374"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Keyphrase Generation (KPG) is a longstanding task in NLP with widespread
 applications. The advent of sequence-to-sequence (seq2seq) pre-trained language

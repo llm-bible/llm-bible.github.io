@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024defending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.00508"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recent breakthroughs in preference alignment have significantly improved
 Large Language Models' ability to generate texts that align with human

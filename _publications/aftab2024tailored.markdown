@@ -7,7 +7,7 @@ year: 2024
 bibkey: aftab2024tailored
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19185"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Large language models demonstrate impressive proficiency in language
 understanding and generation. Nonetheless, training these models from scratch,

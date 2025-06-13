@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17256"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Out-of-domain (OOD) intent detection aims to examine whether the user's query
 falls outside the predefined domain of the system, which is crucial for the

@@ -7,7 +7,7 @@ year: 2019
 bibkey: hao2019modeling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1904.03092"}
-tags: ['WMT', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recently, the Transformer model that is based solely on attention mechanisms,
 has advanced the state-of-the-art on various machine translation tasks.

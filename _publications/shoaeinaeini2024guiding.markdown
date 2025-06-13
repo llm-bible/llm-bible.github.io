@@ -7,7 +7,7 @@ year: 2024
 bibkey: shoaeinaeini2024guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14457"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Human guidance in reinforcement learning (RL) is often impractical for
 large-scale applications due to high costs and time constraints. Large Language

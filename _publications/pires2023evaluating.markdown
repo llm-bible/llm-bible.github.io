@@ -8,7 +8,7 @@ bibkey: pires2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.14169"}
   - {name: "Code", url: "https://github.com/piresramon/gpt-4-enem"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Recent advancements in language models have showcased human-comparable
 performance in academic entrance exams. However, existing studies often

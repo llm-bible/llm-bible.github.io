@@ -8,7 +8,7 @@ bibkey: sun2025interpretable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22048"}
   - {name: "Code", url: "https://github.com/Trustworthy-ML-Lab/ThinkEdit"}
-tags: ['Has Code', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent studies have shown that Large Language Models (LLMs) augmented with
 chain-of-thought (CoT) reasoning demonstrate impressive problem-solving

@@ -7,7 +7,7 @@ year: 2022
 bibkey: wen2022towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.08017"}
-tags: ['Model Architecture', 'Fairness', 'Reinforcement Learning', 'Bias Mitigation', 'RecSys', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Ethics and Bias', 'Interpretability and Explainability', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'RecSys', 'Attention Mechanism', 'Pretraining Methods', 'Fairness']
 ---
 As recommender systems become increasingly sophisticated and complex, they
 often suffer from lack of fairness and transparency. Providing robust and

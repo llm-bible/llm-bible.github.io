@@ -7,7 +7,7 @@ year: 2024
 bibkey: corral2024pipeline
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13922"}
-tags: ['Pre-Training', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Pre-Training', 'Applications']
 ---
 Large language models (LLMs) are typically optimized for resource-rich
 languages like English, exacerbating the gap between high-resource and

@@ -8,7 +8,7 @@ bibkey: thakur2023when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11361"}
   - {name: "Code", url: "https://github.com/project-miracl/nomiracl"}
-tags: ['Security', 'Model Architecture', 'RAG', 'GPT', 'Has Code', 'ACL']
+tags: ['GPT', 'RAG', 'Model Architecture', 'ACL', 'Security', 'Has Code']
 ---
 Retrieval-Augmented Generation (RAG) grounds Large Language Model (LLM)
 output by leveraging external knowledge sources to reduce factual

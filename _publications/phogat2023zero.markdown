@@ -7,7 +7,7 @@ year: 2023
 bibkey: phogat2023zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.14722"}
-tags: ['Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 We introduce a large language model (LLM) based approach to answer complex
 questions requiring multi-hop numerical reasoning over financial reports. While

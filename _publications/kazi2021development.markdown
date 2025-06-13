@@ -7,7 +7,7 @@ year: 2021
 bibkey: kazi2021development
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.01543"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 In recent years, low-resource Machine Reading Comprehension (MRC) has made
 significant progress, with models getting remarkable performance on various

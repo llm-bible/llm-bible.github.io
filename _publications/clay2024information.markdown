@@ -7,7 +7,7 @@ year: 2024
 bibkey: clay2024information
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16196"}
-tags: ['Applications', 'Tools']
+tags: ['Tools', 'Applications']
 ---
 LLMs are frequently used tools for conversational generation. Without
 additional information LLMs can generate lower quality responses due to lacking

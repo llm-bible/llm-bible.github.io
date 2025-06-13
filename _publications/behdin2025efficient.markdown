@@ -7,7 +7,7 @@ year: 2025
 bibkey: behdin2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14305"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Scaling Laws', 'Distillation', 'Pruning', 'Quantization', 'Large-Scale Training', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws', 'Quantization', 'Distillation']
 ---
 Large language models (LLMs) have demonstrated remarkable performance across
 a wide range of industrial applications, from search and recommendations to

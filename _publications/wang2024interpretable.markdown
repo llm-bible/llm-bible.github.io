@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024interpretable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12845"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Interpretability and Explainability']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques']
 ---
 Reinforcement learning from human feedback (RLHF) has emerged as the primary
 method for aligning large language models (LLMs) with human preferences. The

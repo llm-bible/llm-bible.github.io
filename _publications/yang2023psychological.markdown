@@ -8,7 +8,7 @@ bibkey: yang2023psychological
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20256"}
   - {name: "Code", url: "https://github.com/TaoYang225/PsyCoT"}
-tags: ['Security', 'Model Architecture', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Security', 'Has Code', 'Prompting']
 ---
 Recent advances in large language models (LLMs), such as ChatGPT, have
 showcased remarkable zero-shot performance across various NLP tasks. However,

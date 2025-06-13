@@ -7,7 +7,7 @@ year: 2022
 bibkey: moslem2022domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.05909"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Preservation of domain knowledge from the source to target is crucial in any
 translation workflow. It is common in the translation industry to receive

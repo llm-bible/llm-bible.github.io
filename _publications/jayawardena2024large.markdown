@@ -7,7 +7,7 @@ year: 2024
 bibkey: jayawardena2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12010"}
-tags: ['Merging', 'Applications']
+tags: ['Applications', 'Merging']
 ---
 Paraphrase generation is a pivotal task in natural language processing (NLP).
 Existing datasets in the domain lack syntactic and lexical diversity, resulting

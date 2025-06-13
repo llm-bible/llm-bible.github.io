@@ -7,7 +7,7 @@ year: 2024
 bibkey: syamkumar2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.04308"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) offer promise in generating educational content,
 providing instructor feedback, and reducing teacher workload on assessments.

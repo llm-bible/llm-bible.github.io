@@ -7,7 +7,7 @@ year: 2024
 bibkey: mahendru2024venn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05369"}
-tags: ['Prompting', 'Ethics and Bias', 'Applications']
+tags: ['Ethics and Bias', 'Prompting', 'Applications']
 ---
 We introduce Venn Diagram (VD) Prompting, an innovative prompting technique
 which allows Large Language Models (LLMs) to combine and synthesize information

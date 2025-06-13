@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025making
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00473"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) can perform complex reasoning by generating
 intermediate thoughts under zero-shot or few-shot settings. However, zero-shot

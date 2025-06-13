@@ -7,7 +7,7 @@ year: 2023
 bibkey: qi2023visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.13213"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Multimodal Models', 'Few-Shot', 'Merging', 'GPT']
+tags: ['Responsible AI', 'GPT', 'Model Architecture', 'Merging', 'Security', 'Few-Shot', 'Multimodal Models']
 ---
 Recently, there has been a surge of interest in integrating vision into Large
 Language Models (LLMs), exemplified by Visual Language Models (VLMs) such as

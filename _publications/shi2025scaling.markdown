@@ -7,7 +7,7 @@ year: 2025
 bibkey: shi2025scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19903"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pruning', 'Pretraining Methods', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Pruning', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 High-resolution perception of visual details is crucial for daily tasks.
 Current vision pre-training, however, is still limited to low resolutions

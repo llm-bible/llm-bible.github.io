@@ -7,7 +7,7 @@ year: 2025
 bibkey: christakopoulou2025conversational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19500"}
-tags: ['Agentic', 'Agent', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Agent']
 ---
 The language generation and reasoning capabilities of large language models
 (LLMs) have enabled conversational systems with impressive performance in a

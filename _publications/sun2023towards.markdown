@@ -7,7 +7,7 @@ year: 2023
 bibkey: sun2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09075"}
-tags: ['Prompting', 'Language Modeling', 'Applications', 'Tools']
+tags: ['Applications', 'Tools', 'Prompting', 'Language Modeling']
 ---
 Despite the remarkable ability of large language models (LLMs) in language
 comprehension and generation, they often suffer from producing factually

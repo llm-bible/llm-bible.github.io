@@ -8,7 +8,7 @@ bibkey: prabhakar2024deciphering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01687"}
   - {name: "Code", url: "https://github.com/aksh555/deciphering_cot"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Chain-of-Thought (CoT) prompting has been shown to enhance the multi-step
 reasoning capabilities of Large Language Models (LLMs). However, debates

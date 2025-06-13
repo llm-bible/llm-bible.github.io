@@ -7,7 +7,7 @@ year: 2023
 bibkey: beurerkellner2023prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.04954"}
-tags: ['Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Pretraining Methods', 'Prompting']
 ---
 Many recent prompting strategies for large language models (LLMs) query the
 model multiple times sequentially -- first to produce intermediate results and

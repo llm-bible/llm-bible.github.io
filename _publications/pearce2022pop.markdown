@@ -7,7 +7,7 @@ year: 2022
 bibkey: pearce2022pop
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.01142"}
-tags: ['Prompting', 'Tools', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Tools', 'Prompting']
 ---
 Large language models (such as OpenAI's Codex) have demonstrated impressive
 zero-shot multi-task capabilities in the software domain, including code

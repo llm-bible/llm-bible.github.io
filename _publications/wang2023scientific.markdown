@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023scientific
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14259"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 We explore and enhance the ability of neural language models to generate
 novel scientific directions grounded in literature. Work on literature-based

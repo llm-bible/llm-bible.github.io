@@ -7,7 +7,7 @@ year: 2025
 bibkey: he2025prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11267"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 Millions of users prompt large language models (LLMs) for various tasks, but
 how good are people at prompt engineering? Do users actually get closer to

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wei2023larger
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.03846"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 We study how in-context learning (ICL) in language models is affected by
 semantic priors versus input-label mappings. We investigate two setups-ICL with

@@ -7,7 +7,7 @@ year: 2024
 bibkey: bertsimas2024robust
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00568"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 In this paper, we explore the application of ChatGPT in the domain of Robust
 and Adaptive Robust Optimization. We demonstrate that with appropriate

@@ -7,7 +7,7 @@ year: 2023
 bibkey: wenzel2023overview
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.00002"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Temporal commonsense reasoning refers to the ability to understand the
 typical temporal context of phrases, actions, and events, and use it to reason

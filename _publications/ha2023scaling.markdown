@@ -8,7 +8,7 @@ bibkey: ha2023scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.14535"}
   - {name: "Code", url: "https://www.cs.columbia.edu/~huy/scalingup/"}
-tags: ['RAG', 'Merging', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code', 'Merging']
 ---
 We present a framework for robot skill acquisition, which 1) efficiently
 scale up data generation of language-labelled robot data and 2) effectively

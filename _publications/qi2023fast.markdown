@@ -7,7 +7,7 @@ year: 2023
 bibkey: qi2023fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.10586"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Building models that comprehends videos and responds specific user
 instructions is a practical and challenging topic, as it requires mastery of

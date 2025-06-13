@@ -7,7 +7,7 @@ year: 2023
 bibkey: gekhman2023learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11171"}
-tags: ['Security', 'Training Techniques', 'RAG']
+tags: ['RAG', 'Training Techniques', 'Security']
 ---
 Factual consistency evaluation is often conducted using Natural Language
 Inference (NLI) models, yet these models exhibit limited success in evaluating

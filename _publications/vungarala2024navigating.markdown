@@ -8,7 +8,7 @@ bibkey: vungarala2024navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20553"}
   - {name: "Code", url: "https://github.com/ACADLab/SPICEPilot.git"}
-tags: ['Applications', 'Has Code', 'Tools']
+tags: ['Tools', 'Has Code', 'Applications']
 ---
 Large Language Models (LLMs) have shown great potential in automating code
 generation; however, their ability to generate accurate circuit-level SPICE

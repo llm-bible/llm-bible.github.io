@@ -8,7 +8,7 @@ bibkey: xie2024detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13494"}
   - {name: "Code", url: "https://github.com/xyq7/GradSafe"}
-tags: ['Responsible AI', 'Training Techniques', 'Tools', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) face threats from jailbreak prompts. Existing
 methods for detecting jailbreak prompts are primarily online moderation APIs or

@@ -7,7 +7,7 @@ year: 2021
 bibkey: micheli2021language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.07972"}
-tags: ['Agentic', 'Few-Shot', 'Reinforcement Learning', 'GPT', 'Pretraining Methods']
+tags: ['Agentic', 'GPT', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot']
 ---
 Pretrained language models demonstrate strong performance in most NLP tasks
 when fine-tuned on small task-specific datasets. Hence, these autoregressive

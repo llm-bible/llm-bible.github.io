@@ -7,7 +7,7 @@ year: 2022
 bibkey: wu2022pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10233"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'BERT', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'BERT']
 ---
 Neural models that do not rely on pre-training have excelled in the keyphrase
 generation task with large annotated datasets. Meanwhile, new approaches have

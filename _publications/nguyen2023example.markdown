@@ -7,7 +7,7 @@ year: 2023
 bibkey: nguyen2023example
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.11042"}
-tags: ['Few-Shot', 'Tools', 'Ethics and Bias', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'Ethics and Bias', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) is a powerful paradigm emerged from large language
 models (LLMs). Despite its promises, ICL performance is known to be highly

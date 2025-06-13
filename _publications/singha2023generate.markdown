@@ -8,7 +8,7 @@ bibkey: singha2023generate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.11605"}
   - {name: "Code", url: "https://github.com/mainaksingha01/GOPro"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Pretraining Methods', 'Has Code', 'Prompting']
+tags: ['Tools', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Large-scale foundation models, such as CLIP, have demonstrated remarkable
 success in visual recognition tasks by embedding images in a semantically rich

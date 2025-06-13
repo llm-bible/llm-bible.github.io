@@ -8,7 +8,7 @@ bibkey: ren2024analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18865"}
   - {name: "Code", url: "https://github.com/which47/LLMCL"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Existing research has shown that large language models (LLMs) exhibit
 remarkable performance in language understanding and generation. However, when

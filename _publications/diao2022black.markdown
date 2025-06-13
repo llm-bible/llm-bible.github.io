@@ -8,7 +8,7 @@ bibkey: diao2022black
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2201.08531"}
   - {name: "Code", url: "https://github.com/shizhediao/Black-Box-Prompt-Learning"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 The increasing scale of general-purpose Pre-trained Language Models (PLMs)
 necessitates the study of more efficient adaptation across different downstream

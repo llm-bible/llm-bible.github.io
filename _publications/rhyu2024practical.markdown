@@ -7,7 +7,7 @@ year: 2024
 bibkey: rhyu2024practical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19900"}
-tags: ['Model Architecture', 'Tools', 'Tokenization', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'RAG', 'Model Architecture', 'Tokenization', 'Pretraining Methods']
 ---
 Music generation introduces challenging complexities to large language
 models. Symbolic structures of music often include vertical harmonization as

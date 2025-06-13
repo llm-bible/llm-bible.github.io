@@ -7,7 +7,7 @@ year: 2024
 bibkey: thirukovalluru2024atomic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.13131"}
-tags: ['Model Architecture', 'GPT', 'Merging']
+tags: ['GPT', 'Model Architecture', 'Merging']
 ---
 Recent work has aimed to improve LLM generations by filtering out
 hallucinations, thereby improving the precision of the information in

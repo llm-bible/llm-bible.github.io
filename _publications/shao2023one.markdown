@@ -7,7 +7,7 @@ year: 2023
 bibkey: shao2023one
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09499"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pruning', 'Quantization', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pruning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Various Large Language Models~(LLMs) from the Generative Pretrained
 Transformer(GPT) family have achieved outstanding performances in a wide range

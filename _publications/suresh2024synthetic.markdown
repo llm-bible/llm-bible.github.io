@@ -7,7 +7,7 @@ year: 2024
 bibkey: suresh2024synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19020"}
-tags: ['Training Techniques', 'Applications', 'Few-Shot', 'Tools']
+tags: ['Few-Shot', 'Training Techniques', 'Applications', 'Tools']
 ---
 The scarcity of domain-specific dialogue datasets limits the development of
 dialogue systems across applications. Existing research is constrained by

@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024challenge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11905"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Can advanced multi-modal models effectively tackle complex web-based tasks?
 Such tasks are often found on crowdsourcing platforms, where crowdworkers

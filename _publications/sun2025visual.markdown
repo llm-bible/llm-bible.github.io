@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13621"}
-tags: ['Multimodal Models', 'Training Techniques', 'Applications']
+tags: ['Training Techniques', 'Multimodal Models', 'Applications']
 ---
 Visual grounding associates textual descriptions with objects in an image.
 Conventional methods target third-person image inputs and named object queries.

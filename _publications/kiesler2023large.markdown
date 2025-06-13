@@ -7,7 +7,7 @@ year: 2023
 bibkey: kiesler2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.08572"}
-tags: ['Model Architecture', 'GPT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'GPT', 'Model Architecture']
 ---
 This paper investigates the performance of the Large Language Models (LLMs)
 ChatGPT-3.5 and GPT-4 in solving introductory programming tasks. Based on the

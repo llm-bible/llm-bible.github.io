@@ -7,7 +7,7 @@ year: 2024
 bibkey: mo2024session
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.11335"}
-tags: ['Training Techniques', 'Tools', 'Language Modeling', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 Conversational search provides a more convenient interface for users to
 search by allowing multi-turn interaction with the search engine. However, the

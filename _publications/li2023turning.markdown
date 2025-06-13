@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023turning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12832"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Distillation']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Distillation']
 ---
 Large Language Models (LLMs) have performed well on various reasoning tasks,
 but their inaccessibility and numerous parameters hinder wide application in

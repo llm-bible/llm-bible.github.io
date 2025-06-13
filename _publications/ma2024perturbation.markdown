@@ -8,7 +8,7 @@ bibkey: ma2024perturbation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16821"}
   - {name: "Code", url: "https://github.com/mjy1111/PRUNE"}
-tags: ['Has Code', 'Training Techniques', 'Merging', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Has Code', 'Merging']
 ---
 Model editing is an emerging field that focuses on updating the knowledge
 embedded within large language models (LLMs) without extensive retraining.

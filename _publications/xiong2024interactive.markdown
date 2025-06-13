@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiong2024interactive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15131"}
-tags: ['Few-Shot', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This study explores the realm of knowledge base question answering (KBQA).
 KBQA is considered a challenging task, particularly in parsing intricate

@@ -7,7 +7,7 @@ year: 2024
 bibkey: proskurina2024when
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00632"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Quantization', 'Ethics and Bias', 'Interpretability and Explainability']
+tags: ['Efficiency and Optimization', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'Quantization']
 ---
 Recent studies introduced effective compression techniques for Large Language
 Models (LLMs) via post-training quantization or low-bit weight representation.

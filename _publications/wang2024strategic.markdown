@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024strategic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.03271"}
-tags: ['Prompting', 'Few-Shot', 'Tools']
+tags: ['Few-Shot', 'Tools', 'Prompting']
 ---
 The Chain-of-Thought (CoT) paradigm has emerged as a critical approach for
 enhancing the reasoning capabilities of large language models (LLMs). However,

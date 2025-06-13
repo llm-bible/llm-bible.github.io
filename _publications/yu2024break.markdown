@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024break
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.18262"}
-tags: ['Model Architecture', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture']
 ---
 The recent breakthrough of large language models (LLMs) in natural language
 processing has sparked exploration in recommendation systems, however, their

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tur2024prompted
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00217"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'INTERSPEECH']
+tags: ['INTERSPEECH', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large Language Models (LLMs) have shown their ability to improve the
 performance of speech recognizers by effectively rescoring the n-best

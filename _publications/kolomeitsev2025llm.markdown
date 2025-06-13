@@ -7,7 +7,7 @@ year: 2025
 bibkey: kolomeitsev2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08213"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'GPT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Distillation']
 ---
 In this work, we propose an architecture of LLM Modules that enables the
 transfer of knowledge from a large pre-trained model to a smaller model using

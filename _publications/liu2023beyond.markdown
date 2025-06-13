@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.13053"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models', 'Prompting']
 ---
 The proliferation of Large Language Models like ChatGPT has significantly
 advanced language understanding and generation, impacting a broad spectrum of

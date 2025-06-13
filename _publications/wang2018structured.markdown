@@ -7,7 +7,7 @@ year: 2018
 bibkey: wang2018structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1801.07853"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Applications', 'Model Architecture']
 ---
 Visual question answering (VQA) is of significant interest due to its
 potential to be a strong test of image understanding systems and to probe the

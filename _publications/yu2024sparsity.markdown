@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024sparsity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.01162"}
-tags: ['RAG', 'Pruning', 'Efficiency and Optimization', 'Multimodal Models']
+tags: ['RAG', 'Efficiency and Optimization', 'Multimodal Models', 'Pruning']
 ---
 Recently, multimodal large language models (MM-LLMs) have achieved
 significant success in various tasks, but their high computational costs limit

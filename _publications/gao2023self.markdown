@@ -7,7 +7,7 @@ year: 2023
 bibkey: gao2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.12940"}
-tags: ['Prompting', 'Few-Shot', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Few-Shot', 'Prompting']
 ---
 Task-oriented dialogue (TOD) systems facilitate users in executing various
 activities via multi-turn dialogues, but Large Language Models (LLMs) often

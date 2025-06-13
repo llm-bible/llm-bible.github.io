@@ -8,7 +8,7 @@ bibkey: guan2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14909"}
   - {name: "Code", url: "https://guansuns.github.io/pages/llm-dm"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Prompting']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 There is a growing interest in applying pre-trained large language models
 (LLMs) to planning problems. However, methods that use LLMs directly as

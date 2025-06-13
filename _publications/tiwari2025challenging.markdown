@@ -7,7 +7,7 @@ year: 2025
 bibkey: tiwari2025challenging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.06279"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 We introduce DebateBench, a novel dataset consisting of an extensive
 collection of transcripts and metadata from some of the world's most

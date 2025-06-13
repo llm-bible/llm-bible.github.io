@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhou2022not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.09267"}
-tags: ['Prompting', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Human communication relies on common ground (CG), the mutual knowledge and
 beliefs shared by participants, to produce coherent and interesting

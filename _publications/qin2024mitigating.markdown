@@ -7,7 +7,7 @@ year: 2024
 bibkey: qin2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07820"}
-tags: ['Ethics and Bias', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'Training Techniques', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 In recent years, with the maturation of large language model (LLM) technology
 and the emergence of high-quality programming code datasets, researchers have

@@ -7,7 +7,7 @@ year: 2024
 bibkey: sicilia2024eliciting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14744"}
-tags: ['Ethics and Bias', 'Training Techniques']
+tags: ['Training Techniques', 'Ethics and Bias']
 ---
 Conversation forecasting tasks a model with predicting the outcome of an
 unfolding conversation. For instance, it can be applied in social media

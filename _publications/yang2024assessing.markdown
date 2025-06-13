@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02764"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have revolutionized natural language processing,
 but their robustness against adversarial attacks remains a critical concern. We

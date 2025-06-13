@@ -7,7 +7,7 @@ year: 2025
 bibkey: qian2025transferability
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08127"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 While large language models (LLMs) have shown strong general reasoning
 capabilities, their effectiveness in financial reasoning, which is crucial for

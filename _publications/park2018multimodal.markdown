@@ -7,7 +7,7 @@ year: 2018
 bibkey: park2018multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1802.08129"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Deep models that are both effective and explainable are desirable in many
 settings; prior explainable models have been unimodal, offering either

@@ -7,7 +7,7 @@ year: 2023
 bibkey: islam2023pushing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00127"}
-tags: ['Multimodal Models', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 \\( \\)The synergy of language and vision models has given rise to Large Language
 and Vision Assistant models (LLVAs), designed to engage users in rich

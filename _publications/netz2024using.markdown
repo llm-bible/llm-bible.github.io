@@ -7,7 +7,7 @@ year: 2024
 bibkey: netz2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.06146"}
-tags: ['Prompting', 'Training Techniques', 'Few-Shot']
+tags: ['Few-Shot', 'Training Techniques', 'Prompting']
 ---
 We present and evaluate a method called grammar masking, which is used to
 guide large language models (LLMs) toward producing syntactically correct

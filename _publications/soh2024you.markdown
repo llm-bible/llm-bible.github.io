@@ -7,7 +7,7 @@ year: 2024
 bibkey: soh2024you
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13695"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Supporting longer context for Large Language Models (LLM) is a promising
 direction to advance LLMs. As training a model for a longer context window is

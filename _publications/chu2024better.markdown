@@ -7,7 +7,7 @@ year: 2024
 bibkey: chu2024better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.09972"}
-tags: ['Prompting', 'Language Modeling', 'Applications', 'Efficiency and Optimization']
+tags: ['Applications', 'Efficiency and Optimization', 'Prompting', 'Language Modeling']
 ---
 This research investigates prompt designs of evaluating generated texts using
 large language models (LLMs). While LLMs are increasingly used for scoring

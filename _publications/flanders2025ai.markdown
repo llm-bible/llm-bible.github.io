@@ -7,7 +7,7 @@ year: 2025
 bibkey: flanders2025ai
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07408"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 This paper explores the use of large language models (LLMs), here represented
 by GPT 3.5-Turbo to perform coding for a thematic analysis. Coding is highly

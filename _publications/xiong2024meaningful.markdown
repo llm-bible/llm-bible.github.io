@@ -8,7 +8,7 @@ bibkey: xiong2024meaningful
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09085"}
   - {name: "Code", url: "https://github.com/Waste-Wood/MeanLearn"}
-tags: ['Reinforcement Learning', 'RAG', 'Interpretability', 'Has Code', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Has Code']
 ---
 Large language models (LLMs) have developed impressive performance and strong
 explainability across various reasoning scenarios, marking a significant stride

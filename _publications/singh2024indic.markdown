@@ -7,7 +7,7 @@ year: 2024
 bibkey: singh2024indic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13522"}
-tags: ['Ethics and Bias', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'Training Techniques', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) perform well on unseen tasks in English, but
 their abilities in non English languages are less explored due to limited

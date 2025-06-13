@@ -7,7 +7,7 @@ year: 2024
 bibkey: ning2024effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01505"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Parameter-efficient fine-tuning techniques like Low-Rank Adaptation (LoRA)
 have revolutionized the adaptation of large language models (LLMs) to diverse

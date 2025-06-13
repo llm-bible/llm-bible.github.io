@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.10131"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Pretraining Large Language Models (LLMs) on large corpora of textual data is
 now a standard paradigm. When using these LLMs for many downstream

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024susgen
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10906"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture']
 ---
 The rapid growth of the financial sector and the rising focus on
 Environmental, Social, and Governance (ESG) considerations highlight the need

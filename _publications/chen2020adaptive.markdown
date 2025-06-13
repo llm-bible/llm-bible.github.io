@@ -7,7 +7,7 @@ year: 2020
 bibkey: chen2020adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.10877"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Attention Mechanism', 'Model Architecture', 'Pretraining Methods']
 ---
 Recently, the attention-enhanced multi-layer encoder, such as Transformer,
 has been extensively studied in Machine Reading Comprehension (MRC). To predict

@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15997"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Reinforcement Learning', 'Merging', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Ethics and Bias', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Aligning large language models (LLMs) with human preferences is crucial for
 enhancing their utility in terms of helpfulness, truthfulness, safety,

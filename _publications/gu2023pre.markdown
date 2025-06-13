@@ -8,7 +8,7 @@ bibkey: gu2023pre
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.09137v1"}
   - {name: "Code", url: "https://github.com/thu-coai/PICL"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'In-Context Learning', 'Has Code', 'Prompting', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 In-context learning, where pre-trained language models learn to perform tasks
 from task examples and instructions in their contexts, has attracted much

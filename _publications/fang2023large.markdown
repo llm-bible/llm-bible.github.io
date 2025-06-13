@@ -7,7 +7,7 @@ year: 2023
 bibkey: fang2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12357"}
-tags: ['Applications', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated significant potential in the
 realm of natural language understanding and programming code processing tasks.

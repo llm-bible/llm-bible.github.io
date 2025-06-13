@@ -7,7 +7,7 @@ year: 2025
 bibkey: chu2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.11733"}
-tags: ['Agentic', 'Fairness', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Applications']
+tags: ['Agentic', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Applications', 'Bias Mitigation', 'Reinforcement Learning', 'Fairness']
 ---
 Large Language Model (LLM) agents have demonstrated remarkable capabilities
 in automating tasks and driving innovation across diverse educational

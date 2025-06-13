@@ -7,7 +7,7 @@ year: 2023
 bibkey: gupta2023generation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14129"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 Developers expend a significant amount of time in editing code for a variety
 of reasons such as bug fixing or adding new features. Designing effective

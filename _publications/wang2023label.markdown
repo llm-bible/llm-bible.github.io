@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023label
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14160"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) emerges as a promising capability of large language
 models (LLMs) by providing them with demonstration examples to perform diverse

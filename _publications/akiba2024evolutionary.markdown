@@ -7,7 +7,7 @@ year: 2024
 bibkey: akiba2024evolutionary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.13187"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Merging']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Merging']
 ---
 Large language models (LLMs) have become increasingly capable, but their
 development often requires substantial computational resources. While model

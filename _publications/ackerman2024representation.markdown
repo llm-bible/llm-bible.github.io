@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.06927"}
   - {name: "Code", url: "https://github.com/cma1114/representation_tuning"}
   - {name: "Code", url: "https://huggingface.co/collections/cackerman/representation-tuning-66da1e5ab41cd1b824687d9f"}
-tags: ['Responsible AI', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Activation engineering is becoming increasingly popular as a means of online
 control of large language models (LLMs). In this work, we extend the idea of

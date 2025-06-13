@@ -7,7 +7,7 @@ year: 2025
 bibkey: saha2025quim
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.02702"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'BERT', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'BERT']
 ---
 This work presents a novel architecture for building Retrieval-Augmented
 Generation (RAG) systems to improve Question Answering (QA) tasks from a target

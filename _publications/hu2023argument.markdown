@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023argument
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.20352"}
-tags: ['Agentic', 'Tools', 'GPT', 'Pretraining Methods', 'Prompting']
+tags: ['Agentic', 'GPT', 'Tools', 'Pretraining Methods', 'Prompting']
 ---
 Argument generation is a challenging task in natural language processing,
 which requires rigorous reasoning and proper content organization. Inspired by

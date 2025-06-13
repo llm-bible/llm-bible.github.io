@@ -8,7 +8,7 @@ bibkey: fernando2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15483"}
   - {name: "Code", url: "https://github.com/heshandevaka/XRIGHT"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Post-training of pre-trained LLMs, which typically consists of the supervised
 fine-tuning (SFT) stage and the preference learning (RLHF or DPO) stage, is

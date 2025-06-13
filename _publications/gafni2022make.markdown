@@ -7,7 +7,7 @@ year: 2022
 bibkey: gafni2022make
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.13131"}
-tags: ['Model Architecture', 'Tokenization', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Model Architecture', 'Tokenization', 'Pretraining Methods', 'Prompting']
 ---
 Recent text-to-image generation methods provide a simple yet exciting
 conversion capability between text and image domains. While these methods have

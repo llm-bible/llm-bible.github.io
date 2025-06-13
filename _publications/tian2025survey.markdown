@@ -7,7 +7,7 @@ year: 2025
 bibkey: tian2025survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.11847"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'RAG', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods']
 ---
 Scientific research faces high costs and inefficiencies with traditional
 methods, but the rise of deep learning and large language models (LLMs) offers

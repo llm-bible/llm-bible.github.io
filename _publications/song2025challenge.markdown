@@ -7,7 +7,7 @@ year: 2025
 bibkey: song2025challenge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.05255"}
-tags: ['Prompting', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 API-driven chatbot systems are increasingly integral to software engineering
 applications, yet their effectiveness hinges on accurately generating and

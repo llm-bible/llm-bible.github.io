@@ -8,7 +8,7 @@ bibkey: luo2024advanced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16273"}
   - {name: "Code", url: "https://github.com/luomingshuang/M3GPT"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'GPT', 'Quantization', 'Has Code']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models', 'Quantization']
 ---
 This paper presents M\\(^3\\)GPT, an advanced \\(\textbf\{M\}\\)ultimodal,
 \\(\textbf\{M\}\\)ultitask framework for \\(\textbf\{M\}\\)otion comprehension and

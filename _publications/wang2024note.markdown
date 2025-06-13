@@ -8,7 +8,7 @@ bibkey: wang2024note
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08821"}
   - {name: "Code", url: "https://github.com/thunlp/DeepNote"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Retrieval-Augmented Generation (RAG) mitigates factual errors and
 hallucinations in Large Language Models (LLMs) for question-answering (QA) by

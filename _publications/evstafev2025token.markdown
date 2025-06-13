@@ -7,7 +7,7 @@ year: 2025
 bibkey: evstafev2025token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.18576"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture']
 ---
 This study investigates the performance of the DeepSeek R1 language model on
 30 challenging mathematical problems derived from the MATH dataset, problems

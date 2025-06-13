@@ -7,7 +7,7 @@ year: 2025
 bibkey: aluffi2025dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04349"}
-tags: ['Agentic', 'Few-Shot', 'Tools', 'Reinforcement Learning']
+tags: ['Few-Shot', 'Agentic', 'Reinforcement Learning', 'Tools']
 ---
 The rapid evolution of large language models (LLMs) has transformed
 conversational agents, enabling complex human-machine interactions. However,

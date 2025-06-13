@@ -7,7 +7,7 @@ year: 2024
 bibkey: mohammadkhani2024reasoning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13781"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Distillation', 'BERT', 'Interpretability and Explainability']
+tags: ['Efficiency and Optimization', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Training Techniques', 'BERT', 'Distillation']
 ---
 Recently, various encoder-only and encoder-decoder pre-trained models like
 BERT and T5 have been applied to automatic essay scoring (AES) as small

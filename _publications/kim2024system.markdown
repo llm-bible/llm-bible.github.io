@@ -7,7 +7,7 @@ year: 2024
 bibkey: kim2024system
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07866"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Agentic', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 While significant progress has been made in task-specific applications,
 current models struggle with deep reasoning, generality, and adaptation -- key

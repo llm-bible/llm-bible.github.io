@@ -8,7 +8,7 @@ bibkey: xu2025diverse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13766"}
   - {name: "Code", url: "https://github.com/YangLabHKUST/UGMathBench"}
-tags: ['Security', 'Has Code', 'RAG']
+tags: ['RAG', 'Security', 'Has Code']
 ---
 Large Language Models (LLMs) have made significant strides in mathematical
 reasoning, underscoring the need for a comprehensive and fair evaluation of

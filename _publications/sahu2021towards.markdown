@@ -7,7 +7,7 @@ year: 2021
 bibkey: sahu2021towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.10139"}
-tags: ['Multimodal Models', 'Model Architecture', 'RAG', 'Ethics and Bias', 'Applications', 'Attention Mechanism']
+tags: ['Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Multimodal Models']
 ---
 This paper targets the problem of procedural multimodal machine comprehension
 (M3C). This task requires an AI to comprehend given steps of multimodal

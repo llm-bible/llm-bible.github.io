@@ -8,7 +8,7 @@ bibkey: guo2023pptc
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01767"}
   - {name: "Code", url: "https://github.com/gydpku/PPTC"}
-tags: ['Agentic', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Few-Shot']
 ---
 Recent evaluations of Large Language Models (LLMs) have centered around
 testing their zero-shot/few-shot capabilities for basic natural language tasks

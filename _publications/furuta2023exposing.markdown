@@ -7,7 +7,7 @@ year: 2023
 bibkey: furuta2023exposing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.18751"}
-tags: ['Agentic', 'Agent', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Interpretability', 'Prompting', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Agent', 'Prompting']
 ---
 Language model agents (LMA) recently emerged as a promising paradigm on
 muti-step decision making tasks, often outperforming humans and other

@@ -7,7 +7,7 @@ year: 2024
 bibkey: xi2024training
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.05808v2"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 In this paper, we propose R\\(^3\\): Learning Reasoning through Reverse
 Curriculum Reinforcement Learning (RL), a novel method that employs only

@@ -7,7 +7,7 @@ year: 2024
 bibkey: pink2024assessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08133"}
-tags: ['Training Techniques', 'Merging', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Merging']
 ---
 Current LLM benchmarks focus on evaluating models' memory of facts and
 semantic relations, primarily assessing semantic aspects of long-term memory.

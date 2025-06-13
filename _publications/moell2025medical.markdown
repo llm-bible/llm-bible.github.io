@@ -7,7 +7,7 @@ year: 2025
 bibkey: moell2025medical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00016"}
-tags: ['Tools', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'Bias Mitigation', 'Reinforcement Learning']
 ---
 Integrating large language models (LLMs) like DeepSeek R1 into healthcare
 requires rigorous evaluation of their reasoning alignment with clinical

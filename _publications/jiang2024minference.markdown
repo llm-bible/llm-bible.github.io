@@ -8,7 +8,7 @@ bibkey: jiang2024minference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02490"}
   - {name: "Code", url: "https://aka.ms/MInference"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 The computational challenges of Large Language Model (LLM) inference remain a
 significant barrier to their widespread deployment, especially as prompt

@@ -7,7 +7,7 @@ year: 2023
 bibkey: raimondo2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.01729"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Agentic', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Task-oriented dialogue is difficult in part because it involves understanding
 user intent, collecting information from the user, executing API calls, and

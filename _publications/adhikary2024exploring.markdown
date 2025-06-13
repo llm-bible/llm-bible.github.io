@@ -7,7 +7,7 @@ year: 2024
 bibkey: adhikary2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.19052"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'BERT', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT']
 ---
 Comprehensive summaries of sessions enable an effective continuity in mental
 health counseling, facilitating informed therapy planning. Yet, manual

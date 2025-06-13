@@ -7,7 +7,7 @@ year: 2025
 bibkey: girija2025optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.02309"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Distillation', 'Pruning', 'Quantization', 'Applications']
+tags: ['Efficiency and Optimization', 'Survey Paper', 'Applications', 'Pruning', 'Reinforcement Learning', 'Quantization', 'Distillation']
 ---
 Large Language Models (LLMs) have revolutionized many areas of artificial
 intelligence (AI), but their substantial resource requirements limit their

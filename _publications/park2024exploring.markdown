@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.16213"}
-tags: ['Prompting', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'Reinforcement Learning']
 ---
 The rapid evolution of artificial intelligence, especially in large language
 models (LLMs), has significantly impacted various domains, including

@@ -7,7 +7,7 @@ year: 2023
 bibkey: chatrath2023she
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18333"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 As the use of large language models (LLMs) increases within society, as does
 the risk of their misuse. Appropriate safeguards must be in place to ensure LLM

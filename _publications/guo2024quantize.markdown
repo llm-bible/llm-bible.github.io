@@ -7,7 +7,7 @@ year: 2024
 bibkey: guo2024quantize
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02891"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Quantization']
+tags: ['Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Quantization']
 ---
 Due to their large size, generative Large Language Models (LLMs) require
 significant computing and storage resources. This paper introduces a new

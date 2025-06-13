@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhai2024online
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14103"}
-tags: ['Prompting', 'RAG', 'Agentic', 'Reinforcement Learning']
+tags: ['RAG', 'Agentic', 'Prompting', 'Reinforcement Learning']
 ---
 Aligning with human preference datasets has been critical to the success of
 large language models (LLMs). Reinforcement learning from human feedback (RLHF)

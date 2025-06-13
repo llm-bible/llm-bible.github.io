@@ -7,7 +7,7 @@ year: 2024
 bibkey: kiulian2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18836"}
-tags: ['Training Techniques', 'Fairness', 'Reinforcement Learning', 'Bias Mitigation', 'Ethics and Bias']
+tags: ['Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Training Techniques', 'Fairness']
 ---
 In this paper, we propose a model-agnostic cost-effective approach to
 developing bilingual base large language models (LLMs) to support English and

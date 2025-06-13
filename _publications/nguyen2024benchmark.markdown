@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024benchmark
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.17475"}
-tags: ['Tools', 'Language Modeling', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Prompting']
 ---
 Counterfactual text generation aims to minimally change a text, such that it
 is classified differently. Judging advancements in method development for

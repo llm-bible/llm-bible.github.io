@@ -8,7 +8,7 @@ bibkey: wu2024u
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01692"}
   - {name: "Code", url: "https://github.com/tony10101105/ExpEmergence"}
-tags: ['Has Code', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Has Code']
 ---
 Large language models (LLMs) have been shown to exhibit emergent abilities in
 some downstream tasks, where model performance stagnates at first and then

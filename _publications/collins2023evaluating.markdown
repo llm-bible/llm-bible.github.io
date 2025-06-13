@@ -7,7 +7,7 @@ year: 2023
 bibkey: collins2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.01694"}
-tags: ['Model Architecture', 'GPT', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 There is much excitement about the opportunity to harness the power of large
 language models (LLMs) when building problem-solving assistants. However, the

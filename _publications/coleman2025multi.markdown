@@ -7,7 +7,7 @@ year: 2025
 bibkey: coleman2025multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05944"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Tools', 'RAG', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Security', 'Training Techniques']
 ---
 Multi-source multi-hop question answering (QA) represents a challenging task
 in natural language processing due to the need for dynamic integration of

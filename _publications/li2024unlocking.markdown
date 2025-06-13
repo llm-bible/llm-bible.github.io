@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10479"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated impressive task-solving
 capabilities through prompting techniques and system designs, including solving

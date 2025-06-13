@@ -7,7 +7,7 @@ year: 2024
 bibkey: sarvazyan2024seamless
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.03946"}
-tags: ['Tools', 'Bias Mitigation', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Bias Mitigation', 'Prompting']
 ---
 Recent advancements in Large Language Models (LLMs) have led to high-quality
 Machine-Generated Text (MGT), giving rise to countless new use cases and

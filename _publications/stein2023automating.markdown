@@ -7,7 +7,7 @@ year: 2023
 bibkey: stein2023automating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09830"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Large language models (LLMs) have revolutionized a large variety of NLP
 tasks. An active debate is to what extent they can do reasoning and planning.

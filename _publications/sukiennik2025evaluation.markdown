@@ -7,7 +7,7 @@ year: 2025
 bibkey: sukiennik2025evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08863"}
-tags: ['Prompting', 'Ethics and Bias', 'Agentic']
+tags: ['Agentic', 'Prompting', 'Ethics and Bias']
 ---
 LLMs as intelligent agents are being increasingly applied in scenarios where
 human interactions are involved, leading to a critical concern about whether

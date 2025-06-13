@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023is
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2304.04339v2"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'BERT', 'Prompting', 'Attention Mechanism']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT', 'Prompting']
 ---
 Recently, ChatGPT has drawn great attention from both the research community
 and the public. We are particularly interested in whether it can serve as a

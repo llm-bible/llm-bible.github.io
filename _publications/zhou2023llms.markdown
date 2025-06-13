@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhou2023llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.06555"}
-tags: ['Prompting', 'In-Context Learning', 'Few-Shot']
+tags: ['Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In this study, we investigate in-context learning (ICL) in document-level
 event argument extraction (EAE) to alleviate the dependency on large-scale

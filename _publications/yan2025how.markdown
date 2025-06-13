@@ -8,7 +8,7 @@ bibkey: yan2025how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20475"}
   - {name: "Code", url: "https://github.com/Lorenayannnnn/how-lms-answer-one-to-many-factual-queries"}
-tags: ['Has Code', 'Model Architecture', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 To answer one-to-many factual queries (e.g., listing cities of a country), a
 language model (LM) must simultaneously recall knowledge and avoid repeating

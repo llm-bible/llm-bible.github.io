@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023directed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.11791"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Ethics and Bias', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Non-AutoRegressive (NAR) text generation models have drawn much attention
 because of their significantly faster decoding speed and good generation

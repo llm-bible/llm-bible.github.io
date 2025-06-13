@@ -7,7 +7,7 @@ year: 2023
 bibkey: balachandran2023tamil
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05845"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Language modeling has witnessed remarkable advancements in recent years, with
 Large Language Models (LLMs) like ChatGPT setting unparalleled benchmarks in

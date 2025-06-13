@@ -7,7 +7,7 @@ year: 2025
 bibkey: elchafei2025span
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18639"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'BERT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Prompting']
 ---
 Detecting spans of hallucination in LLM-generated answers is crucial for
 improving factual consistency. This paper presents a span-level hallucination

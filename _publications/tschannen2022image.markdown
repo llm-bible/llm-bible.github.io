@@ -7,7 +7,7 @@ year: 2022
 bibkey: tschannen2022image
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.08045"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 Multimodal models are becoming increasingly effective, in part due to unified
 components, such as the Transformer architecture. However, multimodal models

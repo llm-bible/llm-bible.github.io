@@ -8,7 +8,7 @@ bibkey: qiao2023code
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.17541"}
   - {name: "Code", url: "https://github.com/microsoft/TaskWeaver/"}
-tags: ['Agentic', 'Security', 'Agent', 'Tools', 'Reinforcement Learning', 'RAG', 'Has Code', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Agent', 'Has Code']
 ---
 Large Language Models (LLMs) have shown impressive abilities in natural
 language understanding and generation, leading to their widespread use in

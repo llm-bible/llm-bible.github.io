@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00808"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Training Techniques']
 ---
 Large language models (LLMs) have facilitated the generation of high-quality,
 cost-effective synthetic data for developing downstream models and conducting

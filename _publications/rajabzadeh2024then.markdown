@@ -7,7 +7,7 @@ year: 2024
 bibkey: rajabzadeh2024then
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14595"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Distillation']
 ---
 Large Language Models (LLMs), with their increasing depth and number of
 parameters, have demonstrated outstanding performance across a variety of

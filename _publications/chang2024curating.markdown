@@ -8,7 +8,7 @@ bibkey: chang2024curating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.03398"}
   - {name: "Code", url: "https://aka.ms/redstone"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Pre-training Large Language Models (LLMs) on high-quality, meticulously
 curated datasets is widely recognized as critical for enhancing their

@@ -7,7 +7,7 @@ year: 2021
 bibkey: yu2021interplay
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.14668"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 Pre-trained transformer language models have shown remarkable performance on
 a variety of NLP tasks. However, recent research has suggested that

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11864"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Distillation', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Distillation']
 ---
 This work addresses the challenge of democratizing advanced Large Language
 Models (LLMs) by compressing their mathematical reasoning capabilities into

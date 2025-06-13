@@ -7,7 +7,7 @@ year: 2024
 bibkey: mokhtarabadi2024empowering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.11186"}
-tags: ['Prompting', 'Training Techniques', 'Fine-Tuning', 'Tools']
+tags: ['Fine-Tuning', 'Training Techniques', 'Tools', 'Prompting']
 ---
 Instruction-tuned large language models have demonstrated remarkable
 capabilities in following human instructions across various domains. However,

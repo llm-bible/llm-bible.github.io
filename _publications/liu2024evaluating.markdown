@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15272"}
-tags: ['Prompting', 'Multimodal Models', 'In-Context Learning']
+tags: ['Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Built on the power of LLMs, numerous multimodal large language models (MLLMs)
 have recently achieved remarkable performance on various vision-language tasks.

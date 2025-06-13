@@ -7,7 +7,7 @@ year: 2024
 bibkey: meyer2024comparison
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.03562"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 This research compares large language model (LLM) fine-tuning methods,
 including Quantized Low Rank Adapter (QLoRA), Retrieval Augmented fine-tuning

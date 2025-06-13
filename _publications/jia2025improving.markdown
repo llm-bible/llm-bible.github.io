@@ -7,7 +7,7 @@ year: 2025
 bibkey: jia2025improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11658"}
-tags: ['Responsible AI', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 The fast development of Large Language Models (LLMs) offers growing
 opportunities to further improve sequential recommendation systems. Yet for

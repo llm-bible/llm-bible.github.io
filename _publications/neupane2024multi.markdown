@@ -7,7 +7,7 @@ year: 2024
 bibkey: neupane2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08607"}
-tags: ['Prompting', 'RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have shown impressive capabilities in generating
 human-like responses. However, their lack of domain-specific knowledge limits

@@ -8,7 +8,7 @@ bibkey: lee2023outlier
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02272"}
   - {name: "Code", url: "https://github.com/xvyaward/owq"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Quantization']
 ---
 Large language models (LLMs) with hundreds of billions of parameters require
 powerful server-grade GPUs for inference, limiting their practical deployment.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: torka2024optimizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10953"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 In recent years, the rise of AI-assisted code-generation tools has
 significantly transformed software development. While code generators have

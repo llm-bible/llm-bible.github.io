@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024stable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.01461"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Is the Text to Motion model robust? Recent advancements in Text to Motion
 models primarily stem from more accurate predictions of specific actions.

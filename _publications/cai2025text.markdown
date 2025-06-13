@@ -8,7 +8,7 @@ bibkey: cai2025text
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02911"}
   - {name: "Code", url: "https://caixxuan.github.io/Text2Scenario.GitHub.io"}
-tags: ['Prompting', 'RAG', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code', 'Prompting']
 ---
 Autonomous driving (AD) testing constitutes a critical methodology for
 assessing performance benchmarks prior to product deployment. The creation of

@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025two
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.19230"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability', 'Interpretability and Explainability']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 Large Language Models (LLMs) often struggle with complex reasoning scenarios.
 While preference optimization methods enhance reasoning performance through

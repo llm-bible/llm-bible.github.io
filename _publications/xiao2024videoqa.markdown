@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiao2024videoqa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.04223"}
-tags: ['Security', 'Applications', 'Survey Paper', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Security', 'Survey Paper', 'Applications']
 ---
 Video Large Language Models (Video-LLMs) are flourishing and has advanced
 many video-language tasks. As a golden testbed, Video Question Answering

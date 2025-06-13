@@ -7,7 +7,7 @@ year: 2024
 bibkey: yan2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12091"}
-tags: ['Model Architecture', 'Few-Shot', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
+tags: ['Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Over the past few years, the abilities of large language models (LLMs) have
 received extensive attention, which have performed exceptionally well in

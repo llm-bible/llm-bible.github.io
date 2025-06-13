@@ -7,7 +7,7 @@ year: 2024
 bibkey: yasunaga2024alignment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.04305"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Reinforcement Learning', 'Distillation', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Few-Shot', 'Prompting', 'Distillation']
 ---
 Recent approaches to large language model (LLM) alignment typically require
 millions of human annotations or rely on external aligned models for synthetic

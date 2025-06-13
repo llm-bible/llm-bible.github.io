@@ -8,7 +8,7 @@ bibkey: han2025kv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14882"}
   - {name: "Code", url: "https://github.com/insuhan/calibquant"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'RAG', 'Quantization', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Has Code', 'Multimodal Models', 'Quantization']
 ---
 Multimodal Large Language Models (MLLMs) have demonstrated remarkable
 performance across diverse applications. However, their computational overhead

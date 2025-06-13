@@ -10,7 +10,7 @@ additional_links:
   - {name: "Code", url: "https://huggingface.co/spaces/GAIR/Preference-Dissection-Visualization"}
   - {name: "Code", url: "https://huggingface.co/datasets/GAIR/preference-dissection"}
   - {name: "Code", url: "https://github.com/GAIR-NLP/Preference-Dissection"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Responsible AI', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 As a relative quality comparison of model responses, human and Large Language
 Model (LLM) preferences serve as common alignment goals in model fine-tuning

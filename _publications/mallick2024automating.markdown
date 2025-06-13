@@ -8,7 +8,7 @@ bibkey: mallick2024automating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11863"}
   - {name: "Code", url: "https://github.com/tanwimallick/ChatVis/"}
-tags: ['Prompting', 'Has Code']
+tags: ['Has Code', 'Prompting']
 ---
 We develop an iterative assistant we call ChatVis that can synthetically
 generate Python scripts for data analysis and visualization using a large

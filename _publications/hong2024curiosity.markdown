@@ -8,7 +8,7 @@ bibkey: hong2024curiosity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.19464"}
   - {name: "Code", url: "https://github.com/Improbable-AI/curiosity_redteam"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Large language models (LLMs) hold great potential for many natural language
 applications but risk generating incorrect or toxic content. To probe when an

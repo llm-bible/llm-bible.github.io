@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023walking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05029"}
-tags: ['Agentic', 'Model Architecture', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Agentic', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Attention Mechanism', 'Prompting']
 ---
 Large language models (LLMs) have advanced in large strides due to the
 effectiveness of the self-attention mechanism that processes and compares all

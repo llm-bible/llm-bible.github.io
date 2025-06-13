@@ -7,7 +7,7 @@ year: 2022
 bibkey: ezukwoke2022leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.17497"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Pre-trained Language Models recently gained traction in the Natural Language
 Processing (NLP) domain for text summarization, generation and

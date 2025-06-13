@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024inducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.12869"}
-tags: ['Training Techniques', 'Applications', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
 ---
 Language models (LMs) can solve tasks such as answering questions about
 tables or images by writing programs. However, using primitive functions often

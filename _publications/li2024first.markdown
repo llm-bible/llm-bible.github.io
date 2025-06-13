@@ -8,7 +8,7 @@ bibkey: li2024first
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18385"}
   - {name: "Code", url: "https://github.com/zhangzhao219/WSDM-Cup-2024"}
-tags: ['RAG', 'Training Techniques', 'Applications', 'Has Code']
+tags: ['RAG', 'Training Techniques', 'Has Code', 'Applications']
 ---
 Conversational multi-doc question answering aims to answer specific questions
 based on the retrieved documents as well as the contextual conversations. In

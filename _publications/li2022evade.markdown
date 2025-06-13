@@ -7,7 +7,7 @@ year: 2022
 bibkey: li2022evade
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.07164"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Recently, powerful Transformer architectures have proven superior in
 generating high-quality sentences. Nevertheless, these models tend to produce

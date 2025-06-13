@@ -7,7 +7,7 @@ year: 2024
 bibkey: kourani2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08892"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 In Business Process Management (BPM), effectively comprehending process
 models is crucial yet poses significant challenges, particularly as

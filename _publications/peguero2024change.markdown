@@ -7,7 +7,7 @@ year: 2024
 bibkey: peguero2024change
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02637"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 Recent work in reframing, within the scope of text style transfer, has so far
 made use of out-of-context, task-prompted utterances in order to produce

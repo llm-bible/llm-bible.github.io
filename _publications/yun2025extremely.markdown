@@ -7,7 +7,7 @@ year: 2025
 bibkey: yun2025extremely
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12375"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Ethics and Bias', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Attention Mechanism']
 ---
 Fine granularity is an essential requirement for controllable text
 generation, which has seen rapid growth with the ability of LLMs. However,

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lankford2024design
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.03582"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 adaptNMT is an open-source application that offers a streamlined approach to
 the development and deployment of Recurrent Neural Networks and Transformer

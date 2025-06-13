@@ -7,7 +7,7 @@ year: 2025
 bibkey: masoud2025cultural
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16094"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large Language Model (LLM) alignment conventionally relies on supervised
 fine-tuning or reinforcement learning based alignment frameworks. These methods

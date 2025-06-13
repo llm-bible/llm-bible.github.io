@@ -8,7 +8,7 @@ bibkey: luo2023unlocking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15661"}
   - {name: "Code", url: "https://github.com/GodFire66666/LLM_rec_explanation/"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Interpretability and Explainability', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Interpretability and Explainability', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Generating user-friendly explanations regarding why an item is recommended
 has become increasingly common, largely due to advances in language generation

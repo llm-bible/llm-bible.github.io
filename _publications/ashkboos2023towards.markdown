@@ -8,7 +8,7 @@ bibkey: ashkboos2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09259"}
   - {name: "Code", url: "https://github.com/IST-DASLab/QUIK"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Quantization', 'Has Code', 'Prompting']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Has Code', 'Quantization', 'Prompting']
 ---
 Large Language Models (LLMs) from the GPT family have become extremely
 popular, leading to a race towards reducing their inference costs to allow for

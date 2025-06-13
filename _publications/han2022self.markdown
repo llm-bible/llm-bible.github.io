@@ -7,7 +7,7 @@ year: 2022
 bibkey: han2022self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.10599"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large-scale pre-trained language models (PLMs) have advanced Graph-to-Text
 (G2T) generation by processing the linearised version of a graph. However, the

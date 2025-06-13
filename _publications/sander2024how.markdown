@@ -7,7 +7,7 @@ year: 2024
 bibkey: sander2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.05787"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Transformers have achieved state-of-the-art performance in language modeling
 tasks. However, the reasons behind their tremendous success are still unclear.

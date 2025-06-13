@@ -7,7 +7,7 @@ year: 2025
 bibkey: lee2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00557"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Visual token reduction lowers inference costs caused by extensive image
 features in large vision-language models (LVLMs). Unlike relevant studies that

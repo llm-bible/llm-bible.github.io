@@ -7,7 +7,7 @@ year: 2024
 bibkey: watson2024is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.12535"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Agentic', 'Tools', 'Reinforcement Learning']
 ---
 Hallucination continues to be one of the most critical challenges in the
 institutional adoption journey of Large Language Models (LLMs). While prior

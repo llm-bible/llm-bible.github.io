@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12538"}
-tags: ['Ethics and Bias', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Developing novel interdisciplinary research ideas often requires discussions
 and feedback from experts across different domains. However, obtaining timely

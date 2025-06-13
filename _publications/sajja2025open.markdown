@@ -7,7 +7,7 @@ year: 2025
 bibkey: sajja2025open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.04916"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recent advances in AI have catalyzed the adoption of intelligent educational
 tools, yet many semantic retrieval systems remain ill-suited to the unique

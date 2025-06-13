@@ -7,7 +7,7 @@ year: 2025
 bibkey: luo2025retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20430"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'RecSys', 'LREC', 'Prompting']
+tags: ['RAG', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'RecSys', 'LREC', 'Prompting']
 ---
 Large Language Models (LLMs) have been integrated into recommender systems to
 enhance user behavior comprehension. The Retrieval Augmented Generation (RAG)

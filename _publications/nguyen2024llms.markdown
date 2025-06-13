@@ -7,7 +7,7 @@ year: 2024
 bibkey: nguyen2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.00722"}
-tags: ['Ethics and Bias', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture']
 ---
 As NLP models become more complex, understanding their decisions becomes more
 crucial. Counterfactuals (CFs), where minimal changes to inputs flip a model's

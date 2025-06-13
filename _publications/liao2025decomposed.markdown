@@ -7,7 +7,7 @@ year: 2025
 bibkey: liao2025decomposed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11482"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Continual learning (CL) is essential for Large Language Models (LLMs) to
 adapt to evolving real-world demands, yet they are susceptible to catastrophic

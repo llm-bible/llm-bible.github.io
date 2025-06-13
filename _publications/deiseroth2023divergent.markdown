@@ -7,7 +7,7 @@ year: 2023
 bibkey: deiseroth2023divergent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.01544"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'Pruning', 'Quantization', 'Applications', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Applications', 'Pruning', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Quantization']
 ---
 Large Language Models (LLMs) have reshaped natural language processing with
 their impressive capabilities. However, their ever-increasing size has raised

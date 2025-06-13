@@ -8,7 +8,7 @@ bibkey: zhang2024scrutinizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.02763"}
   - {name: "Code", url: "https://vinoground.github.io"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Has Code', 'Attention Mechanism']
+tags: ['GPT', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 There has been growing sentiment recently that modern large multimodal models
 (LMMs) have addressed most of the key challenges related to short video

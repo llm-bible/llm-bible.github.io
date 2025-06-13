@@ -8,7 +8,7 @@ bibkey: zhang2025dewey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20376"}
   - {name: "Code", url: "https://huggingface.co/infgrad/dewey_en_beta"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Distillation', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Distillation']
 ---
 This technical report presents the training methodology and evaluation
 results of the open-source dewey_en_beta embedding model. The increasing demand

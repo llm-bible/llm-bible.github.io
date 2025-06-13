@@ -8,7 +8,7 @@ bibkey: li2025generate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20114"}
   - {name: "Code", url: "https://github.com/allen-li1231/TreeHop-RAG"}
-tags: ['Efficiency and Optimization', 'Tools', 'RAG', 'Has Code', 'Applications']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Has Code']
 ---
 Retrieval-augmented generation (RAG) systems face significant challenges in
 multi-hop question answering (MHQA), where complex queries require synthesizing

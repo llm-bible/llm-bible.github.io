@@ -7,7 +7,7 @@ year: 2021
 bibkey: zhang2021long
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.04371"}
-tags: ['Arxiv', 'Model Architecture', 'Applications', 'Attention Mechanism']
+tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Arxiv']
 ---
 In this paper, we introduce a two-level attention schema, Poolingformer, for
 long document modeling. Its first level uses a smaller sliding window pattern

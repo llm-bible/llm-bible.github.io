@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024state
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14354"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers dominate NLP and IR; but their inference inefficiencies and
 challenges in extrapolating to longer contexts have sparked interest in

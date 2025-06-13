@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04659"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Tools']
+tags: ['Tools', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite their strong ability to retrieve knowledge in English, current large
 language models show imbalance abilities in different languages. Two approaches

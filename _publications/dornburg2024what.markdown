@@ -7,7 +7,7 @@ year: 2024
 bibkey: dornburg2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09974"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 The advent of generative AI models holds tremendous potential for aiding
 teachers in the generation of pedagogical materials. However, numerous

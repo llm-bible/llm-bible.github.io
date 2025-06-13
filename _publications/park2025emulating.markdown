@@ -7,7 +7,7 @@ year: 2025
 bibkey: park2025emulating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12462"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Reinforcement Learning']
 ---
 This paper addresses the challenge of comprehending very long contexts in
 Large Language Models (LLMs) by proposing a method that emulates Retrieval

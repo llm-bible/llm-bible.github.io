@@ -7,7 +7,7 @@ year: 2024
 bibkey: tang2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.15885"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Existing large pre-trained models typically map text input to text output in
 an end-to-end manner, such as ChatGPT, or map a segment of text input to a

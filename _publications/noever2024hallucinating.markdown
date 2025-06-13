@@ -7,7 +7,7 @@ year: 2024
 bibkey: noever2024hallucinating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06462"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 The research builds and evaluates the adversarial potential to introduce
 copied code or hallucinated AI recommendations for malicious code in popular

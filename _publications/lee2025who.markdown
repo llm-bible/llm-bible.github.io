@@ -7,7 +7,7 @@ year: 2025
 bibkey: lee2025who
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.10838"}
-tags: ['Ethics and Bias', 'RAG', 'Training Techniques', 'Reinforcement Learning']
+tags: ['RAG', 'Training Techniques', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 This study explores how recent large language models (LLMs) navigate relative
 clause attachment \{ambiguity\} and use world knowledge biases for disambiguation

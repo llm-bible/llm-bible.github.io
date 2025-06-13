@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023knowledge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09797"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 We introduce FinanceMath, a novel benchmark designed to evaluate LLMs'
 capabilities in solving knowledge-intensive math reasoning problems. Compared

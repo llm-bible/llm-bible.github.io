@@ -7,7 +7,7 @@ year: 2024
 bibkey: dekoninck2024cost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00696"}
-tags: ['Ethics and Bias', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['Applications', 'RAG', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Rating-based human evaluation has become an essential tool to accurately
 evaluate the impressive performance of large language models (LLMs). However,

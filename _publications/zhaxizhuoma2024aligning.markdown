@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhaxizhuoma2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.11905"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 This paper presents AlignBot, a novel framework designed to optimize
 VLM-powered customized task planning for household robots by effectively

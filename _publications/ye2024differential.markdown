@@ -7,7 +7,7 @@ year: 2024
 bibkey: ye2024differential
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05258"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Transformer tends to overallocate attention to irrelevant context. In this
 work, we introduce Diff Transformer, which amplifies attention to the relevant

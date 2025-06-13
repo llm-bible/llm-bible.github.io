@@ -8,7 +8,7 @@ bibkey: kim2024tablevqa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.19205"}
   - {name: "Code", url: "https://github.com/naver-ai/tablevqabench}{https://github.com/naver-ai/tablevqabench"}
-tags: ['Has Code', 'Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Has Code', 'Applications', 'Model Architecture']
 ---
 In this paper, we establish a benchmark for table visual question answering,
 referred to as the TableVQA-Bench, derived from pre-existing table

@@ -8,7 +8,7 @@ bibkey: wang2024planning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19743"}
   - {name: "Code", url: "https://github.com/ruleGreen/AppBench"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) can interact with the real world by connecting
 with versatile external APIs, resulting in better problem-solving and task

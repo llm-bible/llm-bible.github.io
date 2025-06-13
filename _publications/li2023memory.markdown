@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.05181"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have shown impressive abilities in various
 tasks. However, fundamentally improving them depends on high-quality datasets

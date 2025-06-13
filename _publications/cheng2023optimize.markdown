@@ -8,7 +8,7 @@ bibkey: cheng2023optimize
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05516"}
   - {name: "Code", url: "https://github.com/intel/auto-round"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Quantization', 'Has Code']
+tags: ['Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code', 'Quantization']
 ---
 Large Language Models (LLMs) have demonstrated exceptional proficiency in
 language-related tasks, but their deployment poses significant challenges due

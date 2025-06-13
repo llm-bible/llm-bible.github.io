@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhu2023efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10400"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) are trained with a pre-defined context length,
 restricting their use in scenarios requiring long inputs. Previous efforts for

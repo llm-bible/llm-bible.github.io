@@ -7,7 +7,7 @@ year: 2023
 bibkey: shaki2023cognitive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.14337"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Attention Mechanism']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) such as ChatGPT have received enormous attention
 over the past year and are now used by hundreds of millions of people every

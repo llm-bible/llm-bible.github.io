@@ -7,7 +7,7 @@ year: 2025
 bibkey: rietz2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.04979"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Agentic', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Harnessing large offline datasets is vital for training foundation models
 that can generalize across diverse tasks. Offline Reinforcement Learning (RL)

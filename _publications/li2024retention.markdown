@@ -7,7 +7,7 @@ year: 2024
 bibkey: li2024retention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.17544"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'Merging', 'GPT']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Merging', 'Security', 'Multimodal Models']
 ---
 The emergence of Vision-Language Models (VLMs) is a significant advancement
 in integrating computer vision with Large Language Models (LLMs) to enhance

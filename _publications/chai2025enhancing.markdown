@@ -7,7 +7,7 @@ year: 2025
 bibkey: chai2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00340"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Tools']
 ---
 Token filtering has been proposed to enhance utility of large language models
 (LLMs) by eliminating inconsequential tokens during training. While using fewer

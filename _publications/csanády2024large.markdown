@@ -7,7 +7,7 @@ year: 2024
 bibkey: csanády2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15938"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Survey Paper', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Large Language Models (LLMs), such as GPT-4 and Llama 2, show remarkable
 proficiency in a wide range of natural language processing (NLP) tasks. Despite

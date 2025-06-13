@@ -7,7 +7,7 @@ year: 2024
 bibkey: pan2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01807"}
-tags: ['Few-Shot', 'RAG', 'Merging', 'Prompting', 'Applications']
+tags: ['Applications', 'RAG', 'Merging', 'Few-Shot', 'Prompting']
 ---
 Large language models (LLMs) are emerging as few-shot learners capable of
 handling a variety of tasks, including comprehension, planning, reasoning,

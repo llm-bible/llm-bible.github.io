@@ -8,7 +8,7 @@ bibkey: liu2024rethinking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03725"}
   - {name: "Code", url: "https://github.com/ChunLiu-cs/LLMEmbed-ACL2024"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'ACL', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 With the booming of Large Language Models (LLMs), prompt-learning has become
 a promising method mainly researched in various research areas. Recently, many

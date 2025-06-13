@@ -7,7 +7,7 @@ year: 2024
 bibkey: moradi2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11973"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Efficiency and Optimization', 'Applications', 'Survey Paper', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In this review paper, we delve into the realm of Large Language Models
 (LLMs), covering their foundational principles, diverse applications, and

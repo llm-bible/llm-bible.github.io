@@ -7,7 +7,7 @@ year: 2024
 bibkey: shah2024causal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.10502"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Causal language modeling using the Transformer architecture has yielded
 remarkable capabilities in Large Language Models (LLMs) over the last few

@@ -7,7 +7,7 @@ year: 2023
 bibkey: imani2023mathematical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.05398"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 Large Language Models (LLMs) have limited performance when solving arithmetic
 reasoning tasks and often provide incorrect answers. Unlike natural language

@@ -7,7 +7,7 @@ year: 2024
 bibkey: huo2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02032"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
 ---
 While Large Vision-Language Models (LVLMs) have rapidly advanced in recent
 years, the prevalent issue known as the `hallucination' problem has emerged as

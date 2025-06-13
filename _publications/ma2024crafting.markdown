@@ -7,7 +7,7 @@ year: 2024
 bibkey: ma2024crafting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.19421"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 In the domain of digital information dissemination, search engines act as
 pivotal conduits linking information seekers with providers. The advent of

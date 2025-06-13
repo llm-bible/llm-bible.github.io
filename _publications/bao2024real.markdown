@@ -8,7 +8,7 @@ bibkey: bao2024real
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23136"}
   - {name: "Code", url: "https://github.com/ym689/rec_icl"}
-tags: ['Training Techniques', 'Few-Shot', 'RAG', 'RecSys', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['RAG', 'Training Techniques', 'RecSys', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Frequently updating Large Language Model (LLM)-based recommender systems to
 adapt to new user interests -- as done for traditional ones -- is impractical

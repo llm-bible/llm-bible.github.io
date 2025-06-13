@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00240"}
-tags: ['Security', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Tools', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Security', 'Prompting']
 ---
 As Large Language Models (LLMs) increasingly become key components in various
 AI applications, understanding their security vulnerabilities and the

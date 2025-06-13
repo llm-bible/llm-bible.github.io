@@ -7,7 +7,7 @@ year: 2024
 bibkey: grindrod2024polysemy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09577"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'GPT']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Pretraining Methods']
 ---
 The transformer architecture, introduced by Vaswani et al. (2017), is at the
 heart of the remarkable recent progress in the development of language models,

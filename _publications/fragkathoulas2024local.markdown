@@ -7,7 +7,7 @@ year: 2024
 bibkey: fragkathoulas2024local
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.13764"}
-tags: ['Interpretability', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'Interpretability']
 ---
 This paper introduces a novel task to assess the faithfulness of large
 language models (LLMs) using local perturbations and self-explanations. Many

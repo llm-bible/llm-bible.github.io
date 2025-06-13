@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02209"}
-tags: ['Training Techniques', 'Survey Paper', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Survey Paper', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We introduce \{\em generative monoculture\}, a behavior observed in large
 language models (LLMs) characterized by a significant narrowing of model output

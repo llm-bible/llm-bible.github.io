@@ -7,7 +7,7 @@ year: 2024
 bibkey: nayab2024concise
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19825"}
-tags: ['Model Architecture', 'RAG', 'Interpretability and Explainability', 'Prompting', 'Attention Mechanism']
+tags: ['Interpretability and Explainability', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 Today's large language models (LLMs) can solve challenging question-answering
 tasks, and prompt engineering techniques, such as chain-of-thought (CoT), have

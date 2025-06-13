@@ -7,7 +7,7 @@ year: 2024
 bibkey: ning2024user
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13598"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Survey Paper', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Prompting']
 ---
 Large language models (LLMs) have achieved remarkable success across various
 domains, but effectively incorporating complex and potentially noisy user

@@ -8,7 +8,7 @@ bibkey: zhong2024generating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10710"}
   - {name: "Code", url: "https://github.com/ZGChung/SyntheT2C"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Integrating Large Language Models (LLMs) with existing Knowledge Graph (KG)
 databases presents a promising avenue for enhancing LLMs' efficacy and

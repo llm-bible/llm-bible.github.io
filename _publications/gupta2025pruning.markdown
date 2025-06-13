@@ -7,7 +7,7 @@ year: 2025
 bibkey: gupta2025pruning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15796"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Pruning', 'Prompting']
+tags: ['Efficiency and Optimization', 'Pruning', 'Security', 'Training Techniques', 'Prompting']
 ---
 Large language models have been shown to memorize significant portions of
 their training data, which they can reproduce when appropriately prompted. This

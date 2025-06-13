@@ -7,7 +7,7 @@ year: 2020
 bibkey: majewska2020verb
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.15421"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'RAG', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 In parallel to their overwhelming success across NLP tasks, language ability
 of deep Transformer networks, pretrained via language modeling (LM) objectives

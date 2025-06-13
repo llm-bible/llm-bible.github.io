@@ -7,7 +7,7 @@ year: 2023
 bibkey: timiryasov2023baby
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.02019"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'GPT']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Training Techniques', 'Distillation']
 ---
 We present our submission to the BabyLM challenge, whose goal was to improve
 the sample efficiency of language models. We trained an ensemble consisting of

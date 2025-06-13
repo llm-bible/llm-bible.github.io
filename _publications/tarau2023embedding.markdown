@@ -7,7 +7,7 @@ year: 2023
 bibkey: tarau2023embedding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.15890"}
-tags: ['Prompting', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Driven by expressiveness commonalities of Python and our Python-based
 embedded logic-based language Natlog, we design high-level interaction patterns

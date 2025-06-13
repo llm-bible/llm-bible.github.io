@@ -7,7 +7,7 @@ year: 2024
 bibkey: gao2024customizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.17390"}
-tags: ['Few-Shot', 'Reinforcement Learning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Reinforcement Learning', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) are becoming increasingly important for machine
 learning applications. However, it can be challenging to align LLMs with our

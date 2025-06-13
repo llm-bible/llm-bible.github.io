@@ -7,7 +7,7 @@ year: 2019
 bibkey: wu2019transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.13215"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism', 'INTERSPEECH', 'SLT']
+tags: ['Transformer', 'INTERSPEECH', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models', 'SLT']
 ---
 This paper describes the cascaded multimodal speech translation systems
 developed by Imperial College London for the IWSLT 2019 evaluation campaign.

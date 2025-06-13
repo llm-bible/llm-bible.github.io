@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024review
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15101"}
-tags: ['RAG', 'Applications', 'Survey Paper', 'Tools']
+tags: ['RAG', 'Tools', 'Survey Paper', 'Applications']
 ---
 Retrieve-augmented generation (RAG) frameworks have emerged as a promising
 solution to multi-hop question answering(QA) tasks since it enables large

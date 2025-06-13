@@ -7,7 +7,7 @@ year: 2025
 bibkey: gan2025rag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03275"}
-tags: ['Prompting', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting']
 ---
 Large language models (LLMs) struggle to effectively utilize a growing number
 of external tools, such as those defined by the Model Context Protocol

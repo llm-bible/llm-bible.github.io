@@ -8,7 +8,7 @@ bibkey: xu2025generalizable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.08672"}
   - {name: "Code", url: "https://github.com/xufangzhi/Genius"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Scaling Laws', 'Large-Scale Training', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Has Code', 'Scaling Laws']
 ---
 Advancing LLM reasoning skills has captivated wide interest. However, current
 post-training techniques rely heavily on supervisory signals, such as outcome

@@ -7,7 +7,7 @@ year: 2022
 bibkey: venkatesh2022ui
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.07615"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
 ---
 Smartphone users often find it difficult to navigate myriad menus to perform
 common tasks such as "How to block calls from unknown numbers?". Currently,

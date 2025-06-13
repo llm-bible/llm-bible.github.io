@@ -7,7 +7,7 @@ year: 2024
 bibkey: kawasaki2024defending
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03230"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Transformer', 'Tools', 'GPT', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 The widespread adoption of Large Language Models (LLMs), exemplified by
 OpenAI's ChatGPT, brings to the forefront the imperative to defend against

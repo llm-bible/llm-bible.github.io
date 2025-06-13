@@ -7,7 +7,7 @@ year: 2025
 bibkey: mahapatra2025factual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.12372"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Scaling Laws', 'Language Modeling', 'Large-Scale Training', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Language Modeling', 'Model Architecture', 'Large-Scale Training', 'Scaling Laws']
 ---
 Monitoring factual inconsistency is essential for ensuring trustworthiness in
 data-to-text generation (D2T). While large language models (LLMs) have

@@ -7,7 +7,7 @@ year: 2025
 bibkey: ratnakar2025beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01131"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 This paper presents an extensive examination of Parameter-Efficient
 Fine-Tuning (PEFT) for embedding domain specific facts into Large Language

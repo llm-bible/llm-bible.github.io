@@ -7,7 +7,7 @@ year: 2025
 bibkey: liang2025recurrence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13361"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Medical question answering requires extensive access to specialized
 conceptual knowledge. The current paradigm, Retrieval-Augmented Generation

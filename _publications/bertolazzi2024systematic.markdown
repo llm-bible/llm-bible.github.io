@@ -7,7 +7,7 @@ year: 2024
 bibkey: bertolazzi2024systematic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11341"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 The reasoning abilities of Large Language Models (LLMs) are becoming a
 central focus of study in NLP. In this paper, we consider the case of

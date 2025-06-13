@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.15071"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Interpretability', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability']
 ---
 Multi-modal Large Language Models (MLLMs) have shown impressive abilities in
 generating reasonable responses with respect to multi-modal contents. However,

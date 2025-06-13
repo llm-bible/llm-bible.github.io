@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08319"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Survey Paper']
+tags: ['Fine-Tuning', 'Training Techniques', 'Survey Paper', 'Pretraining Methods']
 ---
 The effectiveness of multi-stage text retrieval has been solidly demonstrated
 since before the era of pre-trained language models. However, most existing

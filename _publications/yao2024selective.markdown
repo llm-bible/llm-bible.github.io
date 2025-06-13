@@ -8,7 +8,7 @@ bibkey: yao2024selective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08947"}
   - {name: "Code", url: "https://github.com/zhoujiahuan1991/AAAI2025-SVP"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting', 'AAAI', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'AAAI', 'Multimodal Models', 'Prompting']
 ---
 Pre-trained Vision Mamba (Vim) models have demonstrated exceptional
 performance across various computer vision tasks in a computationally efficient

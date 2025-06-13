@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.19658"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Understanding user interests is crucial for Click-Through Rate (CTR)
 prediction tasks. In sequential recommendation, pre-training from user

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025essence
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01705"}
-tags: ['Pre-Training', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pre-Training', 'Applications', 'Reinforcement Learning']
 ---
 Theory-of-Mind (ToM) is a fundamental psychological capability that allows
 humans to understand and interpret the mental states of others. Humans infer

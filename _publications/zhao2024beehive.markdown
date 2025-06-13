@@ -8,7 +8,7 @@ bibkey: zhao2024beehive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23079"}
   - {name: "Code", url: "https://github.com/JunqiZhao888/buzz-llm"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) are essential in natural language processing but
 often struggle with inference speed and computational efficiency, limiting

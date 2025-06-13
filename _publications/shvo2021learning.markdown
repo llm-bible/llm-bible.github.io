@@ -7,7 +7,7 @@ year: 2021
 bibkey: shvo2021learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.00133"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques']
 ---
 Human beings, even small children, quickly become adept at figuring out how
 to use applications on their mobile devices. Learning to use a new app is often

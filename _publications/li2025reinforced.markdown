@@ -8,7 +8,7 @@ bibkey: li2025reinforced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.05759"}
   - {name: "Code", url: "https://github.com/zhrli324/RLEdit"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large language models (LLMs) acquire information from pre-training corpora,
 but their stored knowledge can become inaccurate or outdated over time. Model

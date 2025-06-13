@@ -7,7 +7,7 @@ year: 2022
 bibkey: jiang2022simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.02517"}
-tags: ['Pretraining Methods', 'Language Modeling', 'Training Techniques', 'GPT']
+tags: ['Training Techniques', 'GPT', 'Language Modeling', 'Pretraining Methods']
 ---
 The cross-entropy objective has proved to be an all-purpose training
 objective for autoregressive language models (LMs). However, without

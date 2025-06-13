@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06524"}
-tags: ['Prompting', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Although Large Language Models (LLMs) are effective in performing various NLP
 tasks, they still struggle to handle tasks that require extensive, real-world

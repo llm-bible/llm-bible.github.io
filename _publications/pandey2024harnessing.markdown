@@ -7,7 +7,7 @@ year: 2024
 bibkey: pandey2024harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.10370"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'RAG', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are transforming mental health care by enhancing
 accessibility, personalization, and efficiency in therapeutic interventions.

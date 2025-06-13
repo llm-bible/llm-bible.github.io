@@ -7,7 +7,7 @@ year: 2024
 bibkey: aguinakang2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09675"}
-tags: ['Multimodal Models', 'Training Techniques', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Prompting']
+tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 We present a system for generating indoor scenes in response to text prompts.
 The prompts are not limited to a fixed vocabulary of scene descriptions, and

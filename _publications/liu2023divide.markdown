@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023divide
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.11556"}
-tags: ['Prompting', 'RAG']
+tags: ['RAG', 'Prompting']
 ---
 Chain-of-thought (CoT) prompting combined with large language models (LLMs)
 have achieved encouraging results on complex reasoning tasks. Text-to-SQL is a

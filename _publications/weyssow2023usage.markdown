@@ -7,7 +7,7 @@ year: 2023
 bibkey: weyssow2023usage
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.04106"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Pre-trained language models (PLMs) have become a prevalent technique in deep
 learning for code, utilizing a two-stage pre-training and fine-tuning procedure

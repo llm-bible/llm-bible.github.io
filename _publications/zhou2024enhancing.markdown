@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.12437"}
-tags: ['Prompting', 'Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Prompting', 'Pretraining Methods']
 ---
 Despite recent advances in training and prompting strategies for Large
 Language Models (LLMs), these models continue to face challenges with complex

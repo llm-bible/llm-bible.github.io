@@ -7,7 +7,7 @@ year: 2019
 bibkey: aakur2019abductive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.03099"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Question answering has seen significant advances in recent times, especially
 with the introduction of increasingly bigger transformer-based models

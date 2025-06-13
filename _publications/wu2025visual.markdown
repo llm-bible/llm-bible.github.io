@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16636"}
-tags: ['RAG', 'Applications', 'Multimodal Models']
+tags: ['RAG', 'Multimodal Models', 'Applications']
 ---
 Retrieval-Augmented Generation (RAG) is a popular approach for enhancing
 Large Language Models (LLMs) by addressing their limitations in verifying facts

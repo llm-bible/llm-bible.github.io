@@ -7,7 +7,7 @@ year: 2025
 bibkey: jang2025yalenlp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03932"}
-tags: ['Agentic', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Automated summarization of healthcare community question-answering forums is
 challenging due to diverse perspectives presented across multiple user

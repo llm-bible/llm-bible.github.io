@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiménez2024evaluation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16292"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Ethics and Bias', 'Applications']
+tags: ['GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Training Techniques']
 ---
 Large Language Models have shown prominent capabilities in generating
 functional code from natural language descriptions. However, a standardized way

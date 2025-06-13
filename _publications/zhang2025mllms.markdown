@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025mllms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17422"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have experienced rapid progress in
 visual recognition tasks in recent years. Given their potential integration

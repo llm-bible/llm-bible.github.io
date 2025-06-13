@@ -7,7 +7,7 @@ year: 2024
 bibkey: zolkepli2024multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03053"}
-tags: ['RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG']
 ---
 In this work, we present a comprehensive exploration of finetuning Malaysian
 language models, specifically Llama2 and Mistral, on embedding tasks involving

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024quito
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10497"}
-tags: ['Model Architecture', 'Attention Mechanism', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Model Architecture', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
 ---
 Generative LLM have achieved remarkable success in various industrial
 applications, owing to their promising In-Context Learning capabilities.

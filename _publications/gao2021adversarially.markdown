@@ -7,7 +7,7 @@ year: 2021
 bibkey: gao2021adversarially
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2104.08231"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 The design of better automated dialogue evaluation metrics offers the
 potential of accelerate evaluation research on conversational AI. However,

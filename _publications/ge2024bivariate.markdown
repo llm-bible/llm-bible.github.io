@@ -7,7 +7,7 @@ year: 2024
 bibkey: ge2024bivariate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14908"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models have demonstrated remarkable capabilities across
 various tasks, primarily attributed to the utilization of diversely sourced

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024pair
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.05001"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'Reinforcement Learning', 'Prompting']
 ---
 Large language models (LLMs) have achieved impressive performance on code
 generation. Although prior studies enhanced LLMs with prompting techniques and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tian2024detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03856"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 The increasing capability of large language models (LLMs) to generate fluent
 long-form texts is presenting new challenges in distinguishing

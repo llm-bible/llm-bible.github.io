@@ -7,7 +7,7 @@ year: 2024
 bibkey: brandon2024reducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12981"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Key-value (KV) caching plays an essential role in accelerating decoding for
 transformer-based autoregressive large language models (LLMs). However, the

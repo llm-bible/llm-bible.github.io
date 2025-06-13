@@ -7,7 +7,7 @@ year: 2024
 bibkey: kang2024prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05968"}
-tags: ['Tools', 'RAG', 'Prompting', 'Applications', 'INTERSPEECH']
+tags: ['INTERSPEECH', 'Tools', 'Applications', 'RAG', 'Prompting']
 ---
 In this work, we introduce a framework for speech summarization that
 leverages the processing and reasoning capabilities of large language models

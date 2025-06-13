@@ -7,7 +7,7 @@ year: 2023
 bibkey: ma2023process
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.15575"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'In-Context Learning']
+tags: ['GPT', 'Model Architecture', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Language models (LMs) are capable of conducting in-context learning for
 multiple choice reasoning tasks, but the options in these tasks are treated

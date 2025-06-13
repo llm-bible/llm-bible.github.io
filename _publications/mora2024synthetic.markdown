@@ -7,7 +7,7 @@ year: 2024
 bibkey: mora2024synthetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.03636"}
-tags: ['Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advances in large language models (LLMs) for code applications have
 demonstrated remarkable zero-shot fluency and instruction following on

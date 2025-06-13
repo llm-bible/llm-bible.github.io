@@ -7,7 +7,7 @@ year: 2022
 bibkey: chen2022adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2202.04824"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Language Modeling', 'Pretraining Methods', 'Prompting', 'Attention Mechanism']
+tags: ['Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Prompt-based learning, with its capability to tackle zero-shot and few-shot
 NLP tasks, has gained much attention in community. The main idea is to bridge

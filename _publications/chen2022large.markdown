@@ -8,7 +8,7 @@ bibkey: chen2022large
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2210.06710v2"}
   - {name: "Code", url: "https://github.com/wenhuchen/TableCoT"}
-tags: ['Few-Shot', 'Reinforcement Learning', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Reinforcement Learning', 'Has Code', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent literature has shown that large language models (LLMs) are generally
 excellent few-shot reasoners to solve text reasoning tasks. However, the

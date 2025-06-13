@@ -7,7 +7,7 @@ year: 2022
 bibkey: guo2022lvp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.15461"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Prompting', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Multimodal Models', 'Prompting']
 ---
 Multimodal Machine Translation (MMT) focuses on enhancing text-only
 translation with visual features, which has attracted considerable attention

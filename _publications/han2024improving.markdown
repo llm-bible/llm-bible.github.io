@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14594"}
-tags: ['Training Techniques', 'Fairness', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Fairness', 'Prompting']
 ---
 One-on-one tutoring is an effective instructional method for enhancing
 learning, yet its efficacy hinges on tutor competencies. Novice math tutors

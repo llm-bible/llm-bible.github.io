@@ -7,7 +7,7 @@ year: 2023
 bibkey: deldjoo2023fairness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.11761"}
-tags: ['Model Architecture', 'Fairness', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Fairness', 'Prompting']
 ---
 Our research investigates the potential of Large-scale Language Models
 (LLMs), specifically OpenAI's GPT, in credit risk assessment-a binary

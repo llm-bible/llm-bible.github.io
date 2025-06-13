@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02433"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities, but
 their outputs can sometimes be unreliable or factually incorrect. To address

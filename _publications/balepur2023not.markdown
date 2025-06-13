@@ -7,7 +7,7 @@ year: 2023
 bibkey: balepur2023not
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07532"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Chain-of-thought (COT) prompting can help large language models (LLMs) reason
 toward correct answers, but its efficacy in reasoning toward incorrect answers

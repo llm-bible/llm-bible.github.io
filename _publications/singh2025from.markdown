@@ -7,7 +7,7 @@ year: 2025
 bibkey: singh2025from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03219"}
-tags: ['Applications', 'Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture']
 ---
 The rapid advancement of artificial intelligence (AI) has reshaped the field
 of natural language processing (NLP), with models like OpenAI ChatGPT and

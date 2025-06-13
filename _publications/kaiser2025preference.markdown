@@ -7,7 +7,7 @@ year: 2025
 bibkey: kaiser2025preference
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22303"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Applications', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Applications', 'Reinforcement Learning']
 ---
 Conversational Question Answering (ConvQA) involves multiple subtasks, i) to
 understand incomplete questions in their context, ii) to retrieve relevant

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yao2024federated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15723"}
-tags: ['Multimodal Models', 'Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Large language models are rapidly gaining popularity and have been widely
 adopted in real-world applications. While the quality of training data is

@@ -7,7 +7,7 @@ year: 2024
 bibkey: silva2024pay
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19001"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 Despite the remarkable success of Large Language Models (LLMs), they still
 exhibit a limited capability to align their outputs to the user instructions.

@@ -7,7 +7,7 @@ year: 2024
 bibkey: shi2024tool
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.16533"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Agentic', 'Reinforcement Learning', 'Tools']
 ---
 Augmenting large language models (LLMs) with external tools has emerged as a
 promising approach to extend their utility, enabling them to solve practical

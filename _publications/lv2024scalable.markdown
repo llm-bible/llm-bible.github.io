@@ -7,7 +7,7 @@ year: 2024
 bibkey: lv2024scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.02063"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Improving the effectiveness and efficiency of large language models (LLMs)
 simultaneously is a critical yet challenging research goal. In this paper, we

@@ -8,7 +8,7 @@ bibkey: wu2022efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.16773"}
   - {name: "Code", url: "https://github"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Access to external knowledge is essential for many natural language
 processing tasks, such as question answering and dialogue. Existing methods

@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00036"}
-tags: ['RAG', 'Survey Paper', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Survey Paper', 'Reinforcement Learning']
 ---
 In recent years, significant concern has emerged regarding the potential
 threat that Large Language Models (LLMs) pose to democratic societies through

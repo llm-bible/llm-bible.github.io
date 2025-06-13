@@ -7,7 +7,7 @@ year: 2023
 bibkey: zheng2023response
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13144"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Quantization', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Quantization']
 ---
 Large language models (LLMs) have revolutionized the field of AI,
 demonstrating unprecedented capacity across various tasks. However, the

@@ -8,7 +8,7 @@ bibkey: xing2022dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.08340"}
   - {name: "Code", url: "https://github.com/fanrena/DPT"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 With the emergence of large pre-trained vison-language model like CLIP,
 transferable representations can be adapted to a wide range of downstream tasks

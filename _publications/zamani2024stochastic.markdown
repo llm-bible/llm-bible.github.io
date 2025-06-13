@@ -7,7 +7,7 @@ year: 2024
 bibkey: zamani2024stochastic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.02816"}
-tags: ['RAG', 'Applications', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Applications']
 ---
 This paper introduces Stochastic RAG--a novel approach for end-to-end
 optimization of retrieval-augmented generation (RAG) models that relaxes the

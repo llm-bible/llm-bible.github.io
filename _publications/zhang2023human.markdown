@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023human
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.07810"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning']
 ---
 In argumentative writing, writers must brainstorm hierarchical writing goals,
 ensure the persuasiveness of their arguments, and revise and organize their

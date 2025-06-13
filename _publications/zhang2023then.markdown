@@ -8,7 +8,7 @@ bibkey: zhang2023then
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.02151v1"}
   - {name: "Code", url: "https://github.com/ZrrSkywalker/CaFo"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Few-Shot', 'Prompting']
 ---
 Visual recognition in low-data regimes requires deep neural networks to learn
 generalized representations from limited training samples. Recently, CLIP-based

@@ -7,7 +7,7 @@ year: 2022
 bibkey: gu2022do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.10029"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 When people think of everyday things like an egg, they typically have a
 mental image associated with it. This allows them to correctly judge, for

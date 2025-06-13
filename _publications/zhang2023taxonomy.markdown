@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023taxonomy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.10899"}
-tags: ['Model Architecture', 'Fairness', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fairness']
 ---
 As large language models (LLMs) have been used in many downstream tasks, the
 internal stereotypical representation may affect the fairness of the outputs.

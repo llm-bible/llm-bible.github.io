@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiang2025jre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.16865"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Science journalism reports current scientific discoveries to non-specialists,
 aiming to enable public comprehension of the state of the art. This task is

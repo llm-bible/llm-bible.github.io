@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.07861"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Interpretability and Explainability']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Retrieval-Augmented Generation (RAG) systems for Large Language Models (LLMs)
 hold promise in knowledge-intensive tasks but face limitations in complex

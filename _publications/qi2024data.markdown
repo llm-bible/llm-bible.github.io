@@ -7,7 +7,7 @@ year: 2024
 bibkey: qi2024data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.10516"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 This study addresses the interaction challenges encountered by spoken
 dialogue systems (SDSs) when engaging with users who exhibit distinct

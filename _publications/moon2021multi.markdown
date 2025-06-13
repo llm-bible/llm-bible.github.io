@@ -8,7 +8,7 @@ bibkey: moon2021multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.11333"}
   - {name: "Code", url: "https://github.com/SuperSupermoon/MedViLL"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'BERT', 'Has Code', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'BERT', 'Multimodal Models']
 ---
 Recently a number of studies demonstrated impressive performance on diverse
 vision-language multi-modal tasks such as image captioning and visual question

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.01423"}
-tags: ['Prompting', 'RAG', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting']
 ---
 Large Language Models (LLMs) exhibit remarkable proficiency in addressing a
 diverse array of tasks within the Natural Language Processing (NLP) domain,

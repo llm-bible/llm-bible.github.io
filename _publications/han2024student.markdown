@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024student
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08272"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 The integration of generative AI in education is expanding, yet empirical
 analyses of large-scale and real-world interactions between students and AI

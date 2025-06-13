@@ -7,7 +7,7 @@ year: 2024
 bibkey: kang2024domain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16160"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated impressive generalization
 capabilities on specific tasks with human-written instruction data. However,

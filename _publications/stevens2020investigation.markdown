@@ -8,7 +8,7 @@ bibkey: stevens2020investigation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2011.14039"}
   - {name: "Code", url: "https://github.com/samuelstevens/sentence-editing-interpretability"}
-tags: ['Training Techniques', 'Model Architecture', 'Interpretability', 'BERT', 'Has Code', 'Interpretability and Explainability', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'Interpretability and Explainability', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'BERT']
 ---
 Pre-trained language models (PLMs) like BERT are being used for almost all
 language-related tasks, but interpreting their behavior still remains a

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chang2024detecting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08904"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Applications']
+tags: ['Applications', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 We explore a strategy to handle controversial topics in LLM-based chatbots
 based on Wikipedia's Neutral Point of View (NPOV) principle: acknowledge the

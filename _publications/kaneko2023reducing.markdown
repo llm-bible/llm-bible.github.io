@@ -7,7 +7,7 @@ year: 2023
 bibkey: kaneko2023reducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.11862"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance in
 various tasks and gained significant attention. LLMs are also used for local

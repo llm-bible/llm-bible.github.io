@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023bias
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.10395"}
-tags: ['Model Architecture', 'Fairness', 'Tools', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT', 'Fairness']
 ---
 Transformer-based pretrained large language models (PLM) such as BERT and GPT
 have achieved remarkable success in NLP tasks. However, PLMs are prone to

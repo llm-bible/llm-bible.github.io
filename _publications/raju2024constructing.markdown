@@ -7,7 +7,7 @@ year: 2024
 bibkey: raju2024constructing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08808"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Interpretability', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 Large Language Models (LLMs) have revolutionized the landscape of machine
 learning, yet current benchmarks often fall short in capturing the diverse

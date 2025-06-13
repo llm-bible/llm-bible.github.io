@@ -7,7 +7,7 @@ year: 2023
 bibkey: lin2023pre
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.07533"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 Visual language models (VLMs) rapidly progressed with the recent success of
 large language models. There have been growing efforts on visual instruction

@@ -7,7 +7,7 @@ year: 2023
 bibkey: castleman2023examining
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.12367"}
-tags: ['Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Applications', 'Model Architecture']
 ---
 Recent advancements in large language models (LLMs) have facilitated the
 development of chatbots with sophisticated conversational capabilities.

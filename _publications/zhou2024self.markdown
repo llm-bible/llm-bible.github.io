@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.13814"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pruning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Pruning', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Quantization']
 ---
 Fine-tuning large language models (LLMs) under resource constraints is a
 significant challenge in deep learning. Low-Rank Adaptation (LoRA), pruning,

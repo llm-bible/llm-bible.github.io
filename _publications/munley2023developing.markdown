@@ -7,7 +7,7 @@ year: 2023
 bibkey: munley2023developing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.04963"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) are a new and powerful tool for a wide span of
 applications involving natural language and demonstrate impressive code

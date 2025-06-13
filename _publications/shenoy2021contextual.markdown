@@ -7,7 +7,7 @@ year: 2021
 bibkey: shenoy2021contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2103.10325"}
-tags: ['Agentic', 'Model Architecture', 'Ethics and Bias', 'BERT', 'Applications', 'INTERSPEECH']
+tags: ['INTERSPEECH', 'Agentic', 'Ethics and Bias', 'Applications', 'Model Architecture', 'BERT']
 ---
 Goal-oriented conversational interfaces are designed to accomplish specific
 tasks and typically have interactions that tend to span multiple turns adhering

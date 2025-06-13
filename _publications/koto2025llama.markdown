@@ -7,7 +7,7 @@ year: 2025
 bibkey: koto2025llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.01493"}
-tags: ['Responsible AI', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Llama-3.1-Sherkala-8B-Chat, or Sherkala-Chat (8B) for short, is a
 state-of-the-art instruction-tuned open generative large language model (LLM)

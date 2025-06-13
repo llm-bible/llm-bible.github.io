@@ -7,7 +7,7 @@ year: 2020
 bibkey: montella2020denoising
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2012.00571"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 The task of verbalization of RDF triples has known a growth in popularity due
 to the rising ubiquity of Knowledge Bases (KBs). The formalism of RDF triples

@@ -7,7 +7,7 @@ year: 2025
 bibkey: jiang2025know
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14225"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Large Language Models (LLMs) have emerged as personalized assistants for
 users across a wide range of tasks -- from offering writing support to

@@ -7,7 +7,7 @@ year: 2023
 bibkey: iscen2023retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.07196"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Contrastive image-text models such as CLIP form the building blocks of many
 state-of-the-art systems. While they excel at recognizing common generic

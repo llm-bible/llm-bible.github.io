@@ -7,7 +7,7 @@ year: 2024
 bibkey: davoodi2024llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05194"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Large language models (LLMs) demonstrate impressive capabilities in
 mathematical reasoning. However, despite these achievements, current

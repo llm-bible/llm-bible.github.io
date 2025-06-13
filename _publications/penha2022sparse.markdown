@@ -8,7 +8,7 @@ bibkey: penha2022sparse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.10558"}
   - {name: "Code", url: "https://github.com/Guzpenha/transformer_rankers/tree/full_rank_retrieval_dialogues"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Ranking responses for a given dialogue context is a popular benchmark in
 which the setup is to re-rank the ground-truth response over a limited set of

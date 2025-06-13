@@ -7,7 +7,7 @@ year: 2025
 bibkey: haq2025llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.15022"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In NLP, fine-tuning LLMs is effective for various applications but requires
 high-quality annotated data. However, manual annotation of data is

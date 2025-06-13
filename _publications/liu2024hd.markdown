@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024hd
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.15754"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'RAG', 'Pruning', 'Ethics and Bias', 'Interpretability and Explainability', 'Prompting']
+tags: ['Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Pruning', 'Training Techniques', 'Prompting']
 ---
 Large language models (LLMs) have emerged as a promising alternative to
 expensive human evaluations. However, the alignment and coverage of LLM-based

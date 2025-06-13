@@ -7,7 +7,7 @@ year: 2024
 bibkey: rietschel2024mediating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14485"}
-tags: ['Prompting', 'Multimodal Models', 'Agentic', 'Tools']
+tags: ['Agentic', 'Multimodal Models', 'Prompting', 'Tools']
 ---
 Architects adopt visual scripting and parametric design tools to explore more
 expansive design spaces (Coates, 2010), refine their thinking about the

@@ -7,7 +7,7 @@ year: 2021
 bibkey: nguyen2021materialized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.14815"}
-tags: ['Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Starting from the COMET methodology by Bosselut et al. (2019), generating
 commonsense knowledge directly from pre-trained language models has recently

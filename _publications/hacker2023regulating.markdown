@@ -7,7 +7,7 @@ year: 2023
 bibkey: hacker2023regulating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2302.02337"}
-tags: ['Model Architecture', 'Fairness', 'Tools', 'Merging', 'GPT', 'Ethics and Bias', 'Interpretability', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Merging', 'Interpretability', 'Fairness']
 ---
 Large generative AI models (LGAIMs), such as ChatGPT, GPT-4 or Stable
 Diffusion, are rapidly transforming the way we communicate, illustrate, and

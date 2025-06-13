@@ -7,7 +7,7 @@ year: 2025
 bibkey: majdinasab2025dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05500"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 The rapid advancement of Large Language Models (LLMs) has outpaced
 traditional evaluation methods. Static benchmarks fail to capture the depth and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024profile
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08692"}
-tags: ['Agentic', 'RAG', 'Tools']
+tags: ['RAG', 'Agentic', 'Tools']
 ---
 The emergence of Large Language Models (LLMs) has innovated the development
 of dialog agents. Specially, a well-trained LLM, as a central process unit, is

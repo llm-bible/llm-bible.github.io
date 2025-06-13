@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025pay
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.24028"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'KDD', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'KDD', 'Pretraining Methods', 'Prompting']
 ---
 Instruction tuning has emerged as a paramount method for tailoring the
 behaviors of LLMs. Recent work has unveiled the potential for LLMs to achieve

@@ -7,7 +7,7 @@ year: 2025
 bibkey: quan2025unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04110"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Interpretability and Explainability', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques']
 ---
 A persistent challenge in AI is the effective integration of material and
 formal inference - the former concerning the plausibility and contextual

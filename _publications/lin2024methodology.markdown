@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024methodology
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00262"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Large Language Models (LLMs), which simulate human users, are frequently
 employed to evaluate chatbots in applications such as tutoring and customer

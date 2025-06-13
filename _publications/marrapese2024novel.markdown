@@ -7,7 +7,7 @@ year: 2024
 bibkey: marrapese2024novel
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09705"}
-tags: ['Responsible AI', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Understanding the conversation abilities of Large Language Models (LLMs) can
 help lead to its more cautious and appropriate deployment. This is especially

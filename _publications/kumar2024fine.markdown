@@ -7,7 +7,7 @@ year: 2024
 bibkey: kumar2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.04392"}
-tags: ['Responsible AI', 'ICML', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Agentic', 'Reinforcement Learning', 'Quantization', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'ICML', 'Responsible AI', 'Efficiency and Optimization', 'Agentic', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Quantization', 'Prompting']
 ---
 Large Language Models (LLMs) have gained widespread adoption across various
 domains, including chatbots and auto-task completion agents. However, these

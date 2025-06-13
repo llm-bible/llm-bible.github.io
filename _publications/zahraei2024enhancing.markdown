@@ -7,7 +7,7 @@ year: 2024
 bibkey: zahraei2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.17703"}
-tags: ['Model Architecture', 'Tools', 'GPT', 'Ethics and Bias', 'Prompting']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Model Architecture', 'Prompting']
 ---
 The Winograd Schema Challenge (WSC) serves as a prominent benchmark for
 evaluating machine understanding. While Large Language Models (LLMs) excel at

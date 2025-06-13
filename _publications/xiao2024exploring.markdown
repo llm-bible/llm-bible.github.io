@@ -7,7 +7,7 @@ year: 2024
 bibkey: xiao2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.02213"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent studies have integrated large language models (LLMs) into diverse
 educational contexts, including providing adaptive programming hints, a type of

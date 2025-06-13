@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024parallelizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.06484"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformers with linear attention (i.e., linear transformers) and
 state-space models have recently been suggested as a viable linear-time

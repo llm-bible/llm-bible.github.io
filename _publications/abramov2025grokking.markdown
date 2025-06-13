@@ -7,7 +7,7 @@ year: 2025
 bibkey: abramov2025grokking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20752"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformers have achieved great success in numerous NLP tasks but continue
 to exhibit notable gaps in multi-step factual reasoning, especially when

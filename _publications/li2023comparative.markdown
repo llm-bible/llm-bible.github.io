@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2301.11847"}
   - {name: "Code", url: "https://github.com/luoyuanlab/Clinical-Longformer,"}
   - {name: "Code", url: "https://huggingface.co/yikuan8/Clinical-Longformer"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Objective: Clinical knowledge enriched transformer models (e.g.,
 ClinicalBERT) have state-of-the-art results on clinical NLP (natural language

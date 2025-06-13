@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024codeshell
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.15747"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'GPT', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism']
 ---
 Code large language models mark a pivotal breakthrough in artificial
 intelligence. They are specifically crafted to understand and generate

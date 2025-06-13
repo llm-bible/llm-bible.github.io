@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024contextually
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.08763"}
-tags: ['Training Techniques', 'Tools', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Pruning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have dramatically advanced AI applications, yet
 their deployment remains challenging due to their immense inference costs.

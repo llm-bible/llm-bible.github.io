@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17010"}
-tags: ['Training Techniques', 'Tools', 'RAG', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'RAG', 'Training Techniques', 'Prompting']
 ---
 When completing knowledge-intensive tasks, humans sometimes need not just an
 answer but also a corresponding reference passage for auxiliary reading.

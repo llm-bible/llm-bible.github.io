@@ -8,7 +8,7 @@ bibkey: kim2023inducing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08491"}
   - {name: "Code", url: "https://kaistai.github.io/prometheus/"}
-tags: ['Model Architecture', 'GPT', 'Has Code', 'Reinforcement Learning']
+tags: ['GPT', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recently, using a powerful proprietary Large Language Model (LLM) (e.g.,
 GPT-4) as an evaluator for long-form responses has become the de facto

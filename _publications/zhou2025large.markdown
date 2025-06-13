@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhou2025large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11193"}
-tags: ['Responsible AI', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Interpretability']
+tags: ['Responsible AI', 'Tools', 'Survey Paper', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability']
 ---
 While the widespread use of Large Language Models (LLMs) brings convenience,
 it also raises concerns about the credibility of academic research and

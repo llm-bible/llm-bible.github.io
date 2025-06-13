@@ -7,7 +7,7 @@ year: 2024
 bibkey: sivasothy2024automated
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.19019"}
-tags: ['Prompting', 'RAG', 'Applications', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Applications', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) is increasingly being used when building
 Generative AI applications. Evaluating these applications and RAG pipelines is

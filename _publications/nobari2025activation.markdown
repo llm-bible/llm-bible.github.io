@@ -7,7 +7,7 @@ year: 2025
 bibkey: nobari2025activation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.02421"}
-tags: ['Security', 'Merging', 'Efficiency and Optimization']
+tags: ['Security', 'Efficiency and Optimization', 'Merging']
 ---
 Model merging, a method that combines the parameters and embeddings of
 multiple fine-tuned large language models (LLMs), offers a promising approach

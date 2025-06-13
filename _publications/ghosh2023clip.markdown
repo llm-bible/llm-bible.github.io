@@ -7,7 +7,7 @@ year: 2023
 bibkey: ghosh2023clip
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11541"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Language Modeling', 'RAG', 'Pretraining Methods', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 In the era of modern healthcare, swiftly generating medical question
 summaries is crucial for informed and timely patient care. Despite the

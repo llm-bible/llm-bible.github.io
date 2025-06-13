@@ -8,7 +8,7 @@ bibkey: bao2025scalable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.05017"}
   - {name: "Code", url: "https://github.com/colored-dye/multi_stage_influence_function"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Pre-trained large language models (LLMs) are commonly fine-tuned to adapt to
 downstream tasks. Since the majority of knowledge is acquired during

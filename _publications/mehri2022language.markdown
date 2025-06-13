@@ -8,7 +8,7 @@ bibkey: mehri2022language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.14393"}
   - {name: "Code", url: "https://github.com/Shikib/lad"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Has Code']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code']
 ---
 To facilitate zero-shot generalization in taskoriented dialog, this paper
 proposes Language Models as Data (LAD). LAD is a paradigm for creating diverse

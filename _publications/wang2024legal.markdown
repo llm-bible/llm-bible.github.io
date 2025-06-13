@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024legal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.10137"}
-tags: ['Applications', 'Survey Paper', 'Reinforcement Learning']
+tags: ['Survey Paper', 'Applications', 'Reinforcement Learning']
 ---
 In this paper, we review legal testing methods based on Large Language Models
 (LLMs), using the OPENAI o1 model as a case study to evaluate the performance

@@ -8,7 +8,7 @@ bibkey: arora2024simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18668"}
   - {name: "Code", url: "https://github.com/HazyResearch/based"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 Recent work has shown that attention-based language models excel at recall,
 the ability to ground generations in tokens previously seen in context.

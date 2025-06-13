@@ -7,7 +7,7 @@ year: 2024
 bibkey: demoor2024transformer
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.14753"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Transformer-based language models are highly effective for code completion,
 with much research dedicated to enhancing the content of these completions.

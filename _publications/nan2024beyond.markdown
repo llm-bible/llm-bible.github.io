@@ -8,7 +8,7 @@ bibkey: nan2024beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08704"}
   - {name: "Code", url: "https://github.com/Nandayang/RadVUQA"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Security', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Recent advancements in Large Vision-Language Models (LVLMs) have demonstrated
 remarkable capabilities across diverse tasks, garnering significant attention

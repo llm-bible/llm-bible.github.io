@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.15194"}
   - {name: "Code", url: "https://github.com/microsoft/MMLU-CF"}
   - {name: "Code", url: "https://huggingface.co/datasets/microsoft/MMLU-CF"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Interpretability', 'Has Code']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code']
 ---
 Multiple-choice question (MCQ) datasets like Massive Multitask Language
 Understanding (MMLU) are widely used to evaluate the commonsense,

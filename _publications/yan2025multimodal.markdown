@@ -7,7 +7,7 @@ year: 2025
 bibkey: yan2025multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.02871"}
-tags: ['Multimodal Models', 'Reinforcement Learning', 'TACL', 'ACL', 'Applications']
+tags: ['Applications', 'TACL', 'Reinforcement Learning', 'ACL', 'Multimodal Models']
 ---
 Scientific reasoning, the process through which humans apply logic, evidence,
 and critical thinking to explore and interpret scientific phenomena, is

@@ -8,7 +8,7 @@ bibkey: kim2025align
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03622"}
   - {name: "Code", url: "https://github.com/minnesotanlp/struct_align"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Generating long, coherent text remains a challenge for large language models
 (LLMs), as they lack hierarchical planning and structured organization in

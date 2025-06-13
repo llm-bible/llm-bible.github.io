@@ -7,7 +7,7 @@ year: 2024
 bibkey: haider2024prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.10129"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Generating accurate code review comments remains a significant challenge due
 to the inherently diverse and non-unique nature of the task output. Large

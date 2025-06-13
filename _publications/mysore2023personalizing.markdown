@@ -7,7 +7,7 @@ year: 2023
 bibkey: mysore2023personalizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09180"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 Powerful large language models have facilitated the development of writing
 assistants that promise to significantly improve the quality and efficiency of

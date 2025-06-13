@@ -7,7 +7,7 @@ year: 2023
 bibkey: campbell2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12655"}
-tags: ['Security', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Security', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) has revolutionized the capabilities of transformer
 models in NLP. In our project, we extend the understanding of the mechanisms

@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025memorization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12523"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) encode vast amounts of pre-trained knowledge in
 their parameters, but updating them as real-world information evolves remains a

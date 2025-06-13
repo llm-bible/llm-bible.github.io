@@ -8,7 +8,7 @@ bibkey: george2024probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.12828"}
   - {name: "Code", url: "https://github.com/sonnygeorge/OEDD"}
-tags: ['Agentic', 'Model Architecture', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 Large language model (LLM) agents show promise in an increasing number of
 domains. In many proposed applications, it is expected that the agent reasons

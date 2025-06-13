@@ -7,7 +7,7 @@ year: 2025
 bibkey: ucar2025fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04918"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Vision-Language Models (VLMs) have emerged as powerful tools in artificial
 intelli-gence, capable of integrating textual and visual data for a unified

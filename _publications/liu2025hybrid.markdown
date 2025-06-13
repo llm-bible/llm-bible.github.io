@@ -8,7 +8,7 @@ bibkey: liu2025hybrid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16036"}
   - {name: "Code", url: "https://github.com/lntzm/HICom"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Transformer', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Recent Multi-modal Large Language Models (MLLMs) have been challenged by the
 computational overhead resulting from massive video frames, often alleviated

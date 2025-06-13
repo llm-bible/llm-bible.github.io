@@ -8,7 +8,7 @@ bibkey: xu2023align
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15907"}
   - {name: "Code", url: "https://github.com/GAIR-NLP/OPO"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 In this paper, we aim to align large language models with the ever-changing,
 complex, and diverse human values (e.g., social norms) across time and

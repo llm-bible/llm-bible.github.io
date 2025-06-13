@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01073"}
-tags: ['Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 The lack of domain-specific data in the pre-training of Large Language Models
 (LLMs) severely limits LLM-based decision systems in specialized applications,

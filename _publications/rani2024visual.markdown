@@ -7,7 +7,7 @@ year: 2024
 bibkey: rani2024visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17306"}
-tags: ['Responsible AI', 'Multimodal Models', 'Reinforcement Learning', 'Ethics and Bias', 'Applications']
+tags: ['Responsible AI', 'Applications', 'Ethics and Bias', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The troubling rise of hallucination presents perhaps the most significant
 impediment to the advancement of responsible AI. In recent times, considerable

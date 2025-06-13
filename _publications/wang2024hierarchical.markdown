@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024hierarchical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.00979"}
-tags: ['Agentic', 'Model Architecture', 'Few-Shot', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Decision transformers recast reinforcement learning as a conditional sequence
 generation problem, offering a simple but effective alternative to traditional

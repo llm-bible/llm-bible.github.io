@@ -7,7 +7,7 @@ year: 2022
 bibkey: artetxe2022role
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.11726"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Pre-Training', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Survey Paper', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Prior work on language model pre-training has explored different
 architectures and learning objectives, but differences in data, hyperparameters

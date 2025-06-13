@@ -8,7 +8,7 @@ bibkey: jiang2020abandon
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.03310"}
   - {name: "Code", url: "https://github.com/JXZe/DAM"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Ethics and Bias', 'Interpretability', 'Has Code', 'Attention Mechanism']
+tags: ['Agentic', 'Ethics and Bias', 'Model Architecture', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Visual Dialogue task requires an agent to be engaged in a conversation with
 human about an image. The ability of generating detailed and non-repetitive

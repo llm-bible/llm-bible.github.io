@@ -8,7 +8,7 @@ bibkey: huang2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.11282"}
   - {name: "Code", url: "https://github.com/Aipura/LLM-ARK)"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Agentic', 'GPT', 'Applications', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 The development of large language models (LLMs) has been catalyzed by
 advancements in pre-training techniques. These models have demonstrated robust

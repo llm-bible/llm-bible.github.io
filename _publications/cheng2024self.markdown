@@ -8,7 +8,7 @@ bibkey: cheng2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.11605"}
   - {name: "Code", url: "https://github.com/thu-coai/SPaR"}
-tags: ['Model Architecture', 'GPT', 'Has Code', 'Tools']
+tags: ['Tools', 'GPT', 'Has Code', 'Model Architecture']
 ---
 Instruction-following is a fundamental capability of language models,
 requiring the model to recognize even the most subtle requirements in the

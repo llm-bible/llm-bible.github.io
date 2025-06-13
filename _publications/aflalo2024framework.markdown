@@ -8,7 +8,7 @@ bibkey: aflalo2024framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.14672"}
   - {name: "Code", url: "https://github.com/IntelLabs/fivl"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Interpretability', 'Has Code', 'Interpretability and Explainability', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Large Vision Language Models (LVLMs) have achieved significant progress in
 integrating visual and textual inputs for multimodal reasoning. However, a

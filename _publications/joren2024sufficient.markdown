@@ -7,7 +7,7 @@ year: 2024
 bibkey: joren2024sufficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.06037"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Prompting']
 ---
 Augmenting LLMs with context leads to improved performance across many
 applications. Despite much research on Retrieval Augmented Generation (RAG)

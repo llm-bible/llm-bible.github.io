@@ -8,7 +8,7 @@ bibkey: zong2024safety
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2402.02207v2"}
   - {name: "Code", url: "https://github.com/ys-zong/VLGuard"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Responsible AI', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Current vision large language models (VLLMs) exhibit remarkable capabilities
 yet are prone to generate harmful content and are vulnerable to even the

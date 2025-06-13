@@ -7,7 +7,7 @@ year: 2024
 bibkey: hostnik2024retrieval
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05026"}
-tags: ['Model Architecture', 'Tokenization', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Tokenization', 'Pretraining Methods']
 ---
 The use of large language models (LLMs) is becoming increasingly widespread
 among software developers. However, privacy and computational requirements are

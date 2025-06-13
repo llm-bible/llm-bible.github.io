@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024winning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00920"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 Function calling significantly extends the application boundary of large
 language models, where high-quality and diverse training data is critical for

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024selective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.12892"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The attention mechanism within the transformer architecture enables the model
 to weigh and combine tokens based on their relevance to the query. While

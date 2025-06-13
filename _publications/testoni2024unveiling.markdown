@@ -7,7 +7,7 @@ year: 2024
 bibkey: testoni2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13835"}
-tags: ['Ethics and Bias', 'Multimodal Models', 'Reinforcement Learning']
+tags: ['Multimodal Models', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Ambiguity resolution is key to effective communication. While humans
 effortlessly address ambiguity through conversational grounding strategies, the

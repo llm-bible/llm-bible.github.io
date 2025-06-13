@@ -7,7 +7,7 @@ year: 2022
 bibkey: yavuz2022modeling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.09226"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Merging', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'RAG', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Pretraining Methods']
 ---
 Fusion-in-decoder (Fid) (Izacard and Grave, 2020) is a generative question
 answering (QA) model that leverages passage retrieval with a pre-trained

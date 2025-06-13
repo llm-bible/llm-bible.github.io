@@ -7,7 +7,7 @@ year: 2025
 bibkey: hu2025unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.03154"}
-tags: ['RAG', 'Training Techniques', 'Tools', 'Multimodal Models']
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Tools']
 ---
 Conventional Vision-Language Models(VLMs) typically utilize a fixed number of
 vision tokens, regardless of task complexity. This one-size-fits-all strategy

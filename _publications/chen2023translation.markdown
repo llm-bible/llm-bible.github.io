@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023translation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13582"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Merging', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) combined with instruction tuning have shown
 significant progress in information extraction (IE) tasks, exhibiting strong

@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023think
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08719"}
-tags: ['Agentic', 'Ethics and Bias', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Agentic', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Memory-augmented Large Language Models (LLMs) have demonstrated remarkable
 performance in long-term human-machine interactions, which basically relies on

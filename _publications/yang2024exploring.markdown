@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.10863"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Interpretability and Explainability', 'Applications']
+tags: ['Responsible AI', 'Agentic', 'Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Training Techniques']
 ---
 Large language models (LLMs) have significantly advanced dialogue systems and
 role-playing agents through their ability to generate human-like text. While

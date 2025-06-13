@@ -7,7 +7,7 @@ year: 2024
 bibkey: pham2024speech
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.16771"}
-tags: ['Prompting', 'Multimodal Models', 'Applications']
+tags: ['Multimodal Models', 'Prompting', 'Applications']
 ---
 Visual Language Models have demonstrated remarkable capabilities across
 tasks, including visual question answering and image captioning. However, most

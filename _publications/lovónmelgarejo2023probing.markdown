@@ -7,7 +7,7 @@ year: 2023
 bibkey: lovónmelgarejo2023probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.09670"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Model Architecture', 'Attention Mechanism', 'Applications', 'Reinforcement Learning']
 ---
 Since Pretrained Language Models (PLMs) are the cornerstone of the most
 recent Information Retrieval (IR) models, the way they encode semantic

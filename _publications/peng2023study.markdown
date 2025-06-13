@@ -7,7 +7,7 @@ year: 2023
 bibkey: peng2023study
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13523"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 There is enormous enthusiasm and concerns in using large language models
 (LLMs) in healthcare, yet current assumptions are all based on general-purpose

@@ -7,7 +7,7 @@ year: 2025
 bibkey: lin2025differential
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.13629"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'GPT', 'Attention Mechanism', 'Model Architecture']
 ---
 We introduce Sigma, an efficient large language model specialized for the
 system domain, empowered by a novel architecture including DiffQKV attention,

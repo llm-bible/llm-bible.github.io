@@ -7,7 +7,7 @@ year: 2024
 bibkey: ding2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06361"}
-tags: ['Agentic', 'Model Architecture', 'Survey Paper', 'Tools', 'Merging']
+tags: ['Tools', 'Agentic', 'Survey Paper', 'Model Architecture', 'Merging']
 ---
 Trading is a highly competitive task that requires a combination of strategy,
 knowledge, and psychological fortitude. With the recent success of large

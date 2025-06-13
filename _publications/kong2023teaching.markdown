@@ -7,7 +7,7 @@ year: 2023
 bibkey: kong2023teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.11534"}
-tags: ['RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 The unparalleled performance of closed-sourced ChatGPT has sparked efforts
 towards its democratization, with notable strides made by leveraging real user

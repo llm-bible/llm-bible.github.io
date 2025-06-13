@@ -7,7 +7,7 @@ year: 2025
 bibkey: fang2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.21024"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Agent', 'Tools', 'Reinforcement Learning', 'RAG', 'Distillation', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Agent', 'Distillation']
 ---
 Agent self-improvement, where the backbone Large Language Model (LLM) of the
 agent are trained on trajectories sampled autonomously based on their own

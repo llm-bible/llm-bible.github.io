@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.01744"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Training Techniques', 'Pretraining Methods']
 ---
 Building upon the success of low-rank adapter (LoRA), low-rank gradient
 projection (LoRP) has emerged as a promising solution for memory-efficient

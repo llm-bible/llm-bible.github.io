@@ -7,7 +7,7 @@ year: 2024
 bibkey: meier2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.02302"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Interpretability and Explainability', 'Prompting']
+tags: ['GPT', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Paraphrases represent a human's intuitive ability to understand expressions
 presented in various different ways. Current paraphrase evaluations of language

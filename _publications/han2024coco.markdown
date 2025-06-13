@@ -7,7 +7,7 @@ year: 2024
 bibkey: han2024coco
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.08968"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Multi-modal Large Language Models (MLLMs) are increasingly prominent in the
 field of artificial intelligence. Visual instruction fine-tuning (IFT) is a

@@ -7,7 +7,7 @@ year: 2024
 bibkey: xue2024strengthened
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.01026"}
-tags: ['Training Techniques', 'Few-Shot', 'Pretraining Methods', 'Ethics and Bias', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Multiple-Choice Questions (MCQs) constitute a critical area of research in
 the study of Large Language Models (LLMs). Previous works have investigated the

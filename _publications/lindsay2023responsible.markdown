@@ -7,7 +7,7 @@ year: 2023
 bibkey: lindsay2023responsible
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.15334"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Fairness', 'Reinforcement Learning']
+tags: ['Responsible AI', 'Fairness', 'Ethics and Bias', 'Reinforcement Learning']
 ---
 Providing rich, constructive feedback to students is essential for supporting
 and enhancing their learning. Recent advancements in Generative Artificial

@@ -7,7 +7,7 @@ year: 2023
 bibkey: tan2023lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.16355"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Large-Scale Training', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Large-Scale Training', 'Training Techniques']
 ---
 The recent progress of AI can be largely attributed to large language models
 (LLMs). However, their escalating memory requirements introduce challenges for

@@ -7,7 +7,7 @@ year: 2020
 bibkey: wang2020information
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2007.01528"}
-tags: ['Training Techniques', 'Applications', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'GPT', 'Applications', 'Model Architecture']
 ---
 Here we experiment with the use of information retrieval as an augmentation
 for pre-trained language models. The text corpus used in information retrieval

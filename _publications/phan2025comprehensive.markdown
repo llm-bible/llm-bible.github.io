@@ -7,7 +7,7 @@ year: 2025
 bibkey: phan2025comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.00339"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Neural Machine Translation (NMT) driven by Transformer architectures has
 advanced significantly, yet faces challenges with low-resource language pairs

@@ -7,7 +7,7 @@ year: 2023
 bibkey: tyen2023llms
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08516"}
-tags: ['Prompting', 'Training Techniques']
+tags: ['Training Techniques', 'Prompting']
 ---
 While self-correction has shown promise in improving LLM outputs in terms of
 style and quality (e.g. Chen et al., 2023b; Madaan et al., 2023), recent

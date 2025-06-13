@@ -7,7 +7,7 @@ year: 2023
 bibkey: chu2023fine
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2310.03331v1"}
-tags: ['Training Techniques', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Ethics and Bias', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 In-context learning (ICL) is an astonishing emergent ability of large
 language models (LLMs). By presenting a prompt that includes multiple

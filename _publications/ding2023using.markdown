@@ -7,7 +7,7 @@ year: 2023
 bibkey: ding2023using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.08182"}
-tags: ['Model Architecture', 'Few-Shot', 'GPT', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Our work demonstrates that large language model (LLM) pre-trained on texts
 can not only solve pure math word problems, but also physics word problems,

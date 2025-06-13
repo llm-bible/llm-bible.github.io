@@ -7,7 +7,7 @@ year: 2025
 bibkey: gao2025can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14507"}
-tags: ['Model Architecture', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Prompting']
 ---
 This study evaluates Large Language Models' (LLMs) ability to simulate
 non-native-like English use observed in human second language (L2) learners

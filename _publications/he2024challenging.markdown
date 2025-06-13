@@ -8,7 +8,7 @@ bibkey: he2024challenging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.14008"}
   - {name: "Code", url: "https://github.com/OpenBMB/OlympiadBench"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Recent advancements have seen Large Language Models (LLMs) and Large
 Multimodal Models (LMMs) surpassing general human capabilities in various

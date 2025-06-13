@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00569"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Multimodal Models']
 ---
 Despite recent advances in Vision-Language Models (VLMs), they may over-rely
 on visual language priors existing in their training data rather than true

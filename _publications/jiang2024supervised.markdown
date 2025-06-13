@@ -7,7 +7,7 @@ year: 2024
 bibkey: jiang2024supervised
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.10222"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Image-text training like CLIP has dominated the pretraining of vision
 foundation models in recent years. Subsequent efforts have been made to

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024semantic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12867"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Research on Multi-modal Large Language Models (MLLMs) towards the multi-image
 cross-modal instruction has received increasing attention and made significant

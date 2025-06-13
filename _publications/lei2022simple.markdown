@@ -7,7 +7,7 @@ year: 2022
 bibkey: lei2022simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.11588"}
-tags: ['Masked Language Model', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 In this work, we explore whether modeling recurrence into the Transformer
 architecture can both be beneficial and efficient, by building an extremely

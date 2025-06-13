@@ -8,7 +8,7 @@ bibkey: zhang2025cold
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.01945"}
   - {name: "Code", url: "https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"}
-tags: ['Survey Paper', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Has Code']
 ---
 Cold-start problem is one of the long-standing challenges in recommender
 systems, focusing on accurately modeling new or interaction-limited users or

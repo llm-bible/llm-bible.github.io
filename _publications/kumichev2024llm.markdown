@@ -7,7 +7,7 @@ year: 2024
 bibkey: kumichev2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02056"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Generating synthetic text addresses the challenge of data availability in
 privacy-sensitive domains such as healthcare. This study explores the

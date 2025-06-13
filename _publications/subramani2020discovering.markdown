@@ -7,7 +7,7 @@ year: 2020
 bibkey: subramani2020discovering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2008.09049"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Despite the extensive success of pretrained language models as encoders for
 building NLP systems, they haven't seen prominence as decoders for sequence

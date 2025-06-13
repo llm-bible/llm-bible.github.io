@@ -7,7 +7,7 @@ year: 2023
 bibkey: tian2023harnessing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.17054"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'ACL']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'ACL', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) such as GPT-3 have demonstrated a strong
 capability to generate coherent and contextually relevant text. However, amidst

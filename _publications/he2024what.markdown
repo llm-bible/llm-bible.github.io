@@ -8,7 +8,7 @@ bibkey: he2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.15786"}
   - {name: "Code", url: "https://github.com/Shwai-He/LLM-Drop"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Reinforcement Learning', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 While scaling Transformer-based large language models (LLMs) has demonstrated
 promising performance across various tasks, it also introduces redundant

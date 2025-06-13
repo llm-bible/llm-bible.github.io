@@ -7,7 +7,7 @@ year: 2025
 bibkey: roux2025tapered
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14286"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 We propose a new algorithm for fine-tuning large language models using
 reinforcement learning. Tapered Off-Policy REINFORCE (TOPR) uses an asymmetric,

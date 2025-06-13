@@ -8,7 +8,7 @@ bibkey: wan2023explore
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.09168"}
   - {name: "Code", url: "https://github.com/fanqiwan/Explore-Instruct"}
-tags: ['Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Has Code']
 ---
 Instruction-tuning can be substantially optimized through enhanced diversity,
 resulting in models capable of handling a broader spectrum of tasks. However,

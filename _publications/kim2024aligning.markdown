@@ -8,7 +8,7 @@ bibkey: kim2024aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11972"}
   - {name: "Code", url: "https://github.com/heyjoonkim/APA"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'RAG', 'Has Code']
+tags: ['Agentic', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code']
 ---
 In interactions between users and language model agents, user utterances
 frequently exhibit ellipsis (omission of words or phrases) or imprecision (lack

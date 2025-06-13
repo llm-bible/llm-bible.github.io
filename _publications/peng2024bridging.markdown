@@ -8,7 +8,7 @@ bibkey: peng2024bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.00147"}
   - {name: "Code", url: "https://github.com/pengshuai-rin/MultiMath"}
-tags: ['Agentic', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 The rapid development of large language models (LLMs) has spurred extensive
 research into their domain-specific capabilities, particularly mathematical

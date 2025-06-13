@@ -8,7 +8,7 @@ bibkey: anjum2024hallucination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.10011"}
   - {name: "Code", url: "https://github.com/ResponsibleAILab/HALO"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Interpretability', 'Has Code']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Interpretability', 'Has Code']
 ---
 Large language models (LLMs) have significantly advanced natural language
 processing tasks, yet they are susceptible to generating inaccurate or

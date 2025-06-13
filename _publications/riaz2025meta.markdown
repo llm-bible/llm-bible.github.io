@@ -7,7 +7,7 @@ year: 2025
 bibkey: riaz2025meta
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12563"}
-tags: ['Agentic', 'Training Techniques', 'RAG', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Agentic', 'Applications', 'RAG', 'Training Techniques', 'Prompting']
 ---
 Recent smaller language models such Phi-3.5 and Phi-4 rely on synthetic data
 generated using larger Language models. Questions remain about leveraging

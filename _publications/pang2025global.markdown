@@ -7,7 +7,7 @@ year: 2025
 bibkey: pang2025global
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09645"}
-tags: ['Tokenization', 'RAG', 'Training Techniques', 'Tools']
+tags: ['Training Techniques', 'RAG', 'Tools', 'Tokenization']
 ---
 Dance serves as a profound and universal expression of human culture,
 conveying emotions and stories through movements synchronized with music.

@@ -8,7 +8,7 @@ bibkey: shi2024continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16789"}
   - {name: "Code", url: "https://github.com/Wang-ML-Lab/llm-continual-learning-survey"}
-tags: ['Training Techniques', 'Survey Paper', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Survey Paper', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The recent success of large language models (LLMs) trained on static,
 pre-collected, general datasets has sparked numerous research directions and

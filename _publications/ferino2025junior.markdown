@@ -7,7 +7,7 @@ year: 2025
 bibkey: ferino2025junior
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07556"}
-tags: ['Model Architecture', 'Survey Paper', 'Tools', 'GPT', 'Applications']
+tags: ['Tools', 'Survey Paper', 'GPT', 'Applications', 'Model Architecture']
 ---
 Many studies exploring the adoption of Large Language Model-based tools for
 software development by junior developers have emerged in recent years. These

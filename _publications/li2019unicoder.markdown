@@ -7,7 +7,7 @@ year: 2019
 bibkey: li2019unicoder
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.06066"}
-tags: ['Masked Language Model', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training']
+tags: ['Transformer', 'Pre-Training', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Multimodal Models']
 ---
 We propose Unicoder-VL, a universal encoder that aims to learn joint
 representations of vision and language in a pre-training manner. Borrow ideas

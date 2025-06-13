@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025policy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.14521"}
-tags: ['Responsible AI', 'Security', 'Efficiency and Optimization', 'Tools', 'Distillation', 'Ethics and Bias', 'Interpretability']
+tags: ['Responsible AI', 'Tools', 'Efficiency and Optimization', 'Ethics and Bias', 'Interpretability', 'Security', 'Distillation']
 ---
 Chain-of-Thought (CoT) reasoning enhances large language models (LLMs) by
 decomposing complex problems into step-by-step solutions, improving performance

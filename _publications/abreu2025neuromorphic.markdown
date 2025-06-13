@@ -7,7 +7,7 @@ year: 2025
 bibkey: abreu2025neuromorphic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.18002"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Large language models (LLMs) deliver impressive performance but require large
 amounts of energy. In this work, we present a MatMul-free LLM architecture

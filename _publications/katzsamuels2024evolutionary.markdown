@@ -7,7 +7,7 @@ year: 2024
 bibkey: katzsamuels2024evolutionary
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.07513"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting', 'Distillation']
 ---
 The ability of large language models (LLMs) to execute complex instructions
 is essential for their real-world applications. However, several recent studies

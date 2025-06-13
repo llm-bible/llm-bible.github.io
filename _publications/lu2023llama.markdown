@@ -7,7 +7,7 @@ year: 2023
 bibkey: lu2023llama
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.11148"}
-tags: ['Training Techniques', 'Survey Paper', 'Tools', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Survey Paper', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 The automation of code review activities, a long-standing pursuit in software
 engineering, has been primarily addressed by numerous domain-specific

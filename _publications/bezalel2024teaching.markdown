@@ -7,7 +7,7 @@ year: 2024
 bibkey: bezalel2024teaching
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.01483"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Large Language Models (LLMs) often struggle when prompted to generate content
 under specific constraints. However, in such cases it is often easy to check

@@ -8,7 +8,7 @@ bibkey: gu2024teams
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08694"}
   - {name: "Code", url: "https://github.com/SafeRL-Lab/TeaMs-RL"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The development of Large Language Models (LLMs) often confronts challenges
 stemming from the heavy reliance on human annotators in the reinforcement

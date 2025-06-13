@@ -7,7 +7,7 @@ year: 2023
 bibkey: zheng2023smart
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.14730"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 With the rise of Large Language Models (LLMs), notably characterized by GPT
 frameworks, there emerges a catalyst for novel healthcare applications. Earlier

@@ -7,7 +7,7 @@ year: 2023
 bibkey: ren2023towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13220"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Pre-trained large language models based on Transformers have demonstrated
 remarkable in-context learning (ICL) abilities. With just a few demonstration

@@ -8,7 +8,7 @@ bibkey: zhan2025adaptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.00061"}
   - {name: "Code", url: "https://github.com/uiuc-kang-lab/AdaptiveAttackAgent"}
-tags: ['Agentic', 'Security', 'Tools', 'Has Code', 'Prompting', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'Security', 'Has Code', 'Prompting']
 ---
 Large Language Model (LLM) agents exhibit remarkable performance across
 diverse applications by using external tools to interact with environments.

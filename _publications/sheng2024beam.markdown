@@ -7,7 +7,7 @@ year: 2024
 bibkey: sheng2024beam
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.08707"}
-tags: ['Security', 'Model Architecture', 'RAG', 'Prompting', 'Attention Mechanism']
+tags: ['RAG', 'Model Architecture', 'Security', 'Attention Mechanism', 'Prompting']
 ---
 In this letter, we use large language models (LLMs) to develop a
 high-performing and robust beam prediction method. We formulate the millimeter

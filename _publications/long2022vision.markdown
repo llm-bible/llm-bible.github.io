@@ -7,7 +7,7 @@ year: 2022
 bibkey: long2022vision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.07356"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Pretraining Methods', 'Transformer', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Transformer', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Pretrained models have produced great success in both Computer Vision (CV)
 and Natural Language Processing (NLP). This progress leads to learning joint

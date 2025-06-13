@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02911"}
-tags: ['Prompting', 'RAG', 'In-Context Learning', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting', 'In-Context Learning']
 ---
 Large language models (LLMs) have achieved promising results in sentiment
 analysis through the in-context learning (ICL) paradigm. However, their ability

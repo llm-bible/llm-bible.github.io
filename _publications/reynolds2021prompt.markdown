@@ -7,7 +7,7 @@ year: 2021
 bibkey: reynolds2021prompt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.07350"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Prevailing methods for mapping large generative language models to supervised
 tasks may fail to sufficiently probe models' novel capabilities. Using GPT-3 as

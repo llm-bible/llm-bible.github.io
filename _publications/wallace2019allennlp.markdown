@@ -8,7 +8,7 @@ bibkey: wallace2019allennlp
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.09251"}
   - {name: "Code", url: "https://allennlp.org/interpret"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Language Modeling', 'Interpretability', 'BERT', 'Has Code', 'Interpretability and Explainability']
+tags: ['Tools', 'Interpretability and Explainability', 'Language Modeling', 'Model Architecture', 'Interpretability', 'Security', 'Has Code', 'BERT']
 ---
 Neural NLP models are increasingly accurate but are imperfect and
 opaque---they break in counterintuitive ways and leave end users puzzled at

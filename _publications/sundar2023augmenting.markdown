@@ -7,7 +7,7 @@ year: 2023
 bibkey: sundar2023augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12024"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Optimizing accuracy and performance while eliminating hallucinations of
 open-domain conversational large language models (LLMs) is an open research

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024survey
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.14294"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Attention Mechanism', 'Survey Paper']
+tags: ['Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture', 'Survey Paper']
 ---
 Large Language Models (LLMs) have attracted extensive attention due to their
 remarkable performance across various tasks. However, the substantial

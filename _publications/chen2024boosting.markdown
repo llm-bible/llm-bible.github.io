@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.04118"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'Prompting', 'Attention Mechanism']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 Prompt engineering, as an efficient and effective way to leverage Large
 Language Models (LLM), has drawn a lot of attention from the research

@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024leverage
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.03547"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Efficiency and Optimization', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 Undeniably, Large Language Models (LLMs) have stirred an extraordinary wave
 of innovation in the machine learning research domain, resulting in substantial

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024ensuring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.14487"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'Fairness', 'Tools', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Applications']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Fairness']
 ---
 The remarkable capabilities of Large Language Models (LLMs) make them
 increasingly compelling for adoption in real-world healthcare applications.

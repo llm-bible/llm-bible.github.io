@@ -7,7 +7,7 @@ year: 2023
 bibkey: noever2023visual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.12383"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Multimodal Models', 'Model Architecture']
 ---
 This study explores the capabilities of multimodal large language models
 (LLMs) in handling challenging multistep tasks that integrate language and

@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025inner
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13842"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) face inherent performance bottlenecks under
 parameter constraints, particularly in processing critical tokens that demand

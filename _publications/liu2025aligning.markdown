@@ -8,7 +8,7 @@ bibkey: liu2025aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.12972"}
   - {name: "Code", url: "https://github.com/Wings-Of-Disaster/VaLiK"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'RAG', 'Has Code', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'RAG', 'Has Code', 'Multimodal Models']
 ---
 Multimodal reasoning in Large Language Models (LLMs) struggles with
 incomplete knowledge and hallucination artifacts, challenges that textual

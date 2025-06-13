@@ -7,7 +7,7 @@ year: 2024
 bibkey: ju2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11900"}
-tags: ['Training Techniques', 'Few-Shot', 'RAG', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Pre-Training', 'RAG', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent work has showcased the powerful capability of large language models
 (LLMs) in recalling knowledge and reasoning. However, the reliability of LLMs

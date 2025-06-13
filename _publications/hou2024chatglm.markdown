@@ -7,7 +7,7 @@ year: 2024
 bibkey: hou2024chatglm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00934"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Large-Scale Training', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques']
 ---
 ChatGLM is a free-to-use AI service powered by the ChatGLM family of large
 language models (LLMs). In this paper, we present the ChatGLM-RLHF pipeline --

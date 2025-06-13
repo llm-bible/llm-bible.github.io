@@ -8,7 +8,7 @@ bibkey: han2023student
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.13243"}
   - {name: "Code", url: "https://github.com/zeunie/ChEDDAR"}
-tags: ['Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Survey Paper', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code']
 ---
 The integration of generative AI in education is expanding, yet empirical
 analyses of large-scale, real-world interactions between students and AI

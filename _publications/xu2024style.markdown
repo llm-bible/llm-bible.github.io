@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024style
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03137"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have increased the demand for personalized and
 stylish content generation. However, closed-source models like GPT-4 present

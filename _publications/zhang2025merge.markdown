@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhang2025merge
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07663"}
-tags: ['Model Architecture', 'Multimodal Models', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
 ---
 Recent advances in Multimodal Large Language Models (MLLMs) have enhanced
 their versatility as they integrate a growing number of modalities. Considering

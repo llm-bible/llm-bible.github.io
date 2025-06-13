@@ -7,7 +7,7 @@ year: 2023
 bibkey: nazi2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06775"}
-tags: ['Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'Reinforcement Learning']
 ---
 The deployment of large language models (LLMs) within the healthcare sector
 has sparked both enthusiasm and apprehension. These models exhibit the

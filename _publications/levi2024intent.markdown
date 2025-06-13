@@ -8,7 +8,7 @@ bibkey: levi2024intent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.03099"}
   - {name: "Code", url: "https://github.com/Eladlev/AutoPrompt}{here"}
-tags: ['Efficiency and Optimization', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'Applications', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Prompt engineering is a challenging and important task due to the high
 sensitivity of Large Language Models (LLMs) to the given prompt and the

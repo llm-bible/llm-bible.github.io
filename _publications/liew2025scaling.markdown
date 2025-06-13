@@ -7,7 +7,7 @@ year: 2025
 bibkey: liew2025scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03009"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Pretraining Methods', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
 ---
 Pretraining large language models (LLMs) is resource-intensive, often
 requiring months of training time even with high-end GPU clusters. There are

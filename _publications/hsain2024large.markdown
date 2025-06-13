@@ -7,7 +7,7 @@ year: 2024
 bibkey: hsain2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.14702"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 This research explores the integration of chatbot technology powered by
 GPT-3.5 and GPT-4 Turbo into higher education to enhance internationalization

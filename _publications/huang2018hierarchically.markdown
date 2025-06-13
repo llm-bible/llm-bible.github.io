@@ -7,7 +7,7 @@ year: 2018
 bibkey: huang2018hierarchically
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1805.08191"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Agentic', 'Tools', 'Reinforcement Learning']
 ---
 We propose a hierarchically structured reinforcement learning approach to
 address the challenges of planning for generating coherent multi-sentence

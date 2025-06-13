@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023auto
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02224"}
-tags: ['Agentic', 'Agent', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Agent', 'Pretraining Methods']
 ---
 Auto-GPT is an autonomous agent that leverages recent advancements in
 adapting Large Language Models (LLMs) for decision-making tasks. While there

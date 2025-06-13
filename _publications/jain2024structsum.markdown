@@ -7,7 +7,7 @@ year: 2024
 bibkey: jain2024structsum
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06837"}
-tags: ['Prompting', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Prompting', 'Reinforcement Learning']
 ---
 We consider the task of generating structured representations of text using
 large language models (LLMs). We focus on tables and mind maps as

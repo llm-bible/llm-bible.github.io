@@ -7,7 +7,7 @@ year: 2023
 bibkey: robinson2023bio
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.06610"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'GPT']
+tags: ['Responsible AI', 'GPT', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Medical systematic reviews can be very costly and resource intensive. We
 explore how Large Language Models (LLMs) can support and be trained to perform

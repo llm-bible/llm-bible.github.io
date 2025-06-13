@@ -7,7 +7,7 @@ year: 2023
 bibkey: tan2023interpreting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.05014"}
-tags: ['Security', 'Model Architecture', 'Survey Paper', 'Reinforcement Learning', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Survey Paper', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism']
 ---
 Pretrained language models (PLMs) have made significant strides in various
 natural language processing tasks. However, the lack of interpretability due to

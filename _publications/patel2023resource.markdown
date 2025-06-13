@@ -7,7 +7,7 @@ year: 2023
 bibkey: patel2023resource
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.04655"}
-tags: ['Multimodal Models', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods']
+tags: ['RAG', 'Merging', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models']
 ---
 Text-to-image (T2I) diffusion models, notably the unCLIP models (e.g.,
 DALL-E-2), achieve state-of-the-art (SOTA) performance on various compositional

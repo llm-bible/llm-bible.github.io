@@ -8,7 +8,7 @@ bibkey: tu2022exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2205.05862"}
   - {name: "Code", url: "https://github.com/ImKeTT/AdaVAE"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Variational Auto-Encoder (VAE) has become the de-facto learning paradigm in
 achieving representation learning and generation for natural language at the

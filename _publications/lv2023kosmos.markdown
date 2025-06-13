@@ -8,7 +8,7 @@ bibkey: lv2023kosmos
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11419"}
   - {name: "Code", url: "https://aka.ms/kosmos25"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 The automatic reading of text-intensive images represents a significant
 advancement toward achieving Artificial General Intelligence (AGI). In this

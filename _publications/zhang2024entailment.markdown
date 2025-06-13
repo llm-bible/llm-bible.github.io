@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024entailment
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05821"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Multimodal Models']
 ---
 With the rise of large-scale language models (LLMs), it is currently popular
 and effective to convert multimodal information into text descriptions for

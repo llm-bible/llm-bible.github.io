@@ -7,7 +7,7 @@ year: 2023
 bibkey: joshi2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.14993"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Applications', 'Attention Mechanism']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Attention Mechanism']
 ---
 ChatGPT is an AI language model developed by OpenAI that can understand and
 generate human-like text. It can be used for a variety of use cases such as

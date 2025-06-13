@@ -8,7 +8,7 @@ bibkey: huang2024perturbation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01109"}
   - {name: "Code", url: "https://github.com/git-disl/Vaccine"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 The new paradigm of finetuning-as-a-service introduces a new attack surface
 for Large Language Models (LLMs): a few harmful data uploaded by users can

@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025jailbreaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.01444"}
-tags: ['Security', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs), which integrate vision and other
 modalities into Large Language Models (LLMs), significantly enhance AI

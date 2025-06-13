@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.13449"}
-tags: ['Arxiv', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'In-Context Learning', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting', 'In-Context Learning', 'Arxiv']
 ---
 Large Language Models (LLMs) struggle to handle long input sequences due to
 high memory and runtime costs. Memory-augmented models have emerged as a

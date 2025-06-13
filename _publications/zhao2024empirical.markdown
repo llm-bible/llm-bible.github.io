@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024empirical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15569"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Since the launch of ChatGPT at the end of 2022, generative dialogue models
 represented by ChatGPT have quickly become essential tools in daily life. As

@@ -7,7 +7,7 @@ year: 2024
 bibkey: cai2024factuality
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.13779"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) has become prevalent in
 question-answering (QA) tasks due to its ability of utilizing search engine to

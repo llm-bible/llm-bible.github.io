@@ -8,7 +8,7 @@ bibkey: ye2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09348"}
   - {name: "Code", url: "https://cambrian-yzt.github.io/MOAT"}
-tags: ['Multimodal Models', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Multimodal Models', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 Large multimodal models (LMMs) have demonstrated significant potential as
 generalists in vision-language (VL) tasks. However, there remains a significant

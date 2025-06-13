@@ -7,7 +7,7 @@ year: 2024
 bibkey: ge2024little
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01485"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Attention Mechanism', 'Model Architecture']
+tags: ['Training Techniques', 'Efficiency and Optimization', 'Attention Mechanism', 'Model Architecture']
 ---
 Training and serving long-context large language models (LLMs) incurs
 substantial overhead. To address this, two critical steps are often required: a

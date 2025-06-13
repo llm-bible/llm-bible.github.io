@@ -7,7 +7,7 @@ year: 2025
 bibkey: sun2025lost
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10634"}
-tags: ['Prompting', 'Model Architecture', 'In-Context Learning', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Prompting', 'In-Context Learning', 'Model Architecture']
 ---
 By simply incorporating demonstrations into the context, in-context learning
 (ICL) enables large language models (LLMs) to yield awesome performance on many

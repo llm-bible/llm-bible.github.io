@@ -7,7 +7,7 @@ year: 2023
 bibkey: paul2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.07840"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Survey Paper', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Sequence-to-sequence models have been used to transform erroneous programs
 into correct ones when trained with a large enough dataset. Some recent studies

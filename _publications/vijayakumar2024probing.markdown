@@ -7,7 +7,7 @@ year: 2024
 bibkey: vijayakumar2024probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.14097"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT']
 ---
 In the era of high performing Large Language Models, researchers have widely
 acknowledged that contextual word representations are one of the key drivers in

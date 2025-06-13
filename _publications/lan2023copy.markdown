@@ -8,7 +8,7 @@ bibkey: lan2023copy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.06962"}
   - {name: "Code", url: "https://github.com/gmftbyGMFTBY/Copyisallyouneed}."}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 The dominant text generation models compose the output by sequentially
 selecting words from a fixed vocabulary. In this paper, we formulate text

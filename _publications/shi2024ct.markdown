@@ -7,7 +7,7 @@ year: 2024
 bibkey: shi2024ct
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.12174"}
-tags: ['Training Techniques', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Text-to-Table aims to generate structured tables to convey the key
 information from unstructured documents. Existing text-to-table datasets are

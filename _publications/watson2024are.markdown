@@ -7,7 +7,7 @@ year: 2024
 bibkey: watson2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05200"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 This paper investigates the suitability of frontier Large Language Models
 (LLMs) for Q&A interactions in science centres, with the aim of boosting

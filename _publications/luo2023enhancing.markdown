@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13785"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Few-Shot', 'Prompting']
 ---
 Training or finetuning large-scale language models (LLMs) such as GPT-3
 requires substantial computation resources, motivating recent efforts to

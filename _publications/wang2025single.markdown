@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025single
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17932"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'RAG', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large Language Models (LLMs) have become increasingly vulnerable to jailbreak
 attacks that circumvent their safety mechanisms. While existing defense methods

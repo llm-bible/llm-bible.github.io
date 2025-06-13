@@ -7,7 +7,7 @@ year: 2024
 bibkey: liao2024align
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.03008"}
-tags: ['Pretraining Methods', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Despite the recent progress made in Video Question-Answering (VideoQA), these
 methods typically function as black-boxes, making it difficult to understand

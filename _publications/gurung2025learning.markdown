@@ -7,7 +7,7 @@ year: 2025
 bibkey: gurung2025learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.22828"}
-tags: ['Prompting', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Prompting', 'Reinforcement Learning']
 ---
 Generating high-quality stories spanning thousands of tokens requires
 competency across a variety of skills, from tracking plot and character arcs to

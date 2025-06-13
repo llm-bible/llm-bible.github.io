@@ -7,7 +7,7 @@ year: 2025
 bibkey: jangra2025improved
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19508"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent advancements in vision-language models have achieved remarkable
 results in making language models understand vision inputs. However, a unified

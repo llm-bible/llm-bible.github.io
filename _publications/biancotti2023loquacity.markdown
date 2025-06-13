@@ -7,7 +7,7 @@ year: 2023
 bibkey: biancotti2023loquacity
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.03595"}
-tags: ['Model Architecture', 'GPT', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'GPT', 'Model Architecture']
 ---
 ChatGPT, a software seeking to simulate human conversational abilities, is
 attracting increasing attention. It is sometimes portrayed as a groundbreaking

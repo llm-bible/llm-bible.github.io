@@ -8,7 +8,7 @@ bibkey: kang2023impact
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.08256"}
   - {name: "Code", url: "https://github.com/CheongWoong/impact_of_cooccurrence"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Ethics and Bias', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Ethics and Bias', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 Large language models (LLMs) often make factually incorrect responses despite
 their success in various applications. In this paper, we hypothesize that

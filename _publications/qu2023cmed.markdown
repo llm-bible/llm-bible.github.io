@@ -7,7 +7,7 @@ year: 2023
 bibkey: qu2023cmed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.14539"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Prompting']
 ---
 Medical dialogue generation relies on natural language generation techniques
 to enable online medical consultations. Recently, the widespread adoption of

@@ -8,7 +8,7 @@ bibkey: huang2024language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.19046"}
   - {name: "Code", url: "https://github.com/NVlabs/LITA"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 There has been tremendous progress in multimodal Large Language Models
 (LLMs). Recent works have extended these models to video input with promising

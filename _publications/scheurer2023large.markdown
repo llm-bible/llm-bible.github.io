@@ -7,7 +7,7 @@ year: 2023
 bibkey: scheurer2023large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07590"}
-tags: ['Agentic', 'Training Techniques', 'GPT', 'Model Architecture']
+tags: ['Training Techniques', 'Agentic', 'GPT', 'Model Architecture']
 ---
 We demonstrate a situation in which Large Language Models, trained to be
 helpful, harmless, and honest, can display misaligned behavior and

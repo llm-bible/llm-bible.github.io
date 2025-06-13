@@ -7,7 +7,7 @@ year: 2025
 bibkey: ding2025dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16235"}
-tags: ['Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning']
 ---
 Tree of Thoughts (ToT) enhances Large Language Model (LLM) reasoning by
 structuring problem-solving as a spanning tree. However, recent methods focus

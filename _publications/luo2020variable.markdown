@@ -7,7 +7,7 @@ year: 2020
 bibkey: luo2020variable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.16046"}
-tags: ['WMT', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Existing work in multilingual pretraining has demonstrated the potential of
 cross-lingual transferability by training a unified Transformer encoder for

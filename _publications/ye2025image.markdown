@@ -8,7 +8,7 @@ bibkey: ye2025image
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.08816"}
   - {name: "Code", url: "https://github.com/FourierAI/IDEA"}
-tags: ['Multimodal Models', 'Training Techniques', 'Few-Shot', 'RAG', 'Has Code', 'Prompting', 'Pre-Training']
+tags: ['Pre-Training', 'RAG', 'Training Techniques', 'Has Code', 'Few-Shot', 'Multimodal Models', 'Prompting']
 ---
 CLIP (Contrastive Language-Image Pre-training) has attained great success in
 pattern recognition and computer vision. Transferring CLIP to downstream tasks

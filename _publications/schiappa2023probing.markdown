@@ -8,7 +8,7 @@ bibkey: schiappa2023probing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.03659"}
   - {name: "Code", url: "https://tinyurl.com/vlm-robustness"}
-tags: ['Security', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 In recent years large visual-language (V+L) models have achieved great
 success in various downstream tasks. However, it is not well studied whether

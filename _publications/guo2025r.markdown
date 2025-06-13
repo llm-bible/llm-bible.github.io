@@ -7,7 +7,7 @@ year: 2025
 bibkey: guo2025r
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.02018"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning']
 ---
 Reasoning stands as a cornerstone of intelligence, enabling the synthesis of
 existing knowledge to solve complex problems. Despite remarkable progress,

@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025explanation
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.08507"}
-tags: ['Training Techniques', 'Few-Shot', 'Language Modeling', 'Interpretability and Explainability', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Applications', 'Interpretability and Explainability', 'Language Modeling', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Grammatical error correction (GEC) aims to correct grammatical, spelling, and
 semantic errors in natural language text. With the growing of large language

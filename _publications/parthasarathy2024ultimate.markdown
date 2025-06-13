@@ -7,7 +7,7 @@ year: 2024
 bibkey: parthasarathy2024ultimate
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.13296"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Merging', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Pruning', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 This report examines the fine-tuning of Large Language Models (LLMs),
 integrating theoretical insights with practical applications. It outlines the

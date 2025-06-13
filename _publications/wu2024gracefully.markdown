@@ -8,7 +8,7 @@ bibkey: wu2024gracefully
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.02454"}
   - {name: "Code", url: "https://github.com/ZrW00/GraceFul"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'BERT', 'Has Code']
+tags: ['Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'BERT']
 ---
 Backdoor attacks remain significant security threats to generative large
 language models (LLMs). Since generative LLMs output sequences of

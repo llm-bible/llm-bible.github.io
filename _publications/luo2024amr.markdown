@@ -8,7 +8,7 @@ bibkey: luo2024amr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.00558"}
   - {name: "Code", url: "https://github.com/ChiYeungLaw/AMR-Evol"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Distillation', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Has Code', 'Distillation']
 ---
 The impressive performance of proprietary LLMs like GPT4 in code generation
 has led to a trend to replicate these capabilities in open-source models

@@ -8,7 +8,7 @@ bibkey: he2025shakespearean
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.02851"}
   - {name: "Code", url: "https://github.com/ZicongHe2002/HCL-Spark"}
-tags: ['Model Architecture', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Has Code', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) are known to hallucinate, a phenomenon often
 linked to creativity. While previous research has primarily explored this

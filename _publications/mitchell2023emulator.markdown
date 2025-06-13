@@ -7,7 +7,7 @@ year: 2023
 bibkey: mitchell2023emulator
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.12962"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Widely used language models (LMs) are typically built by scaling up a
 two-stage training pipeline: a pre-training stage that uses a very large,

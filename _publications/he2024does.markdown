@@ -7,7 +7,7 @@ year: 2024
 bibkey: he2024does
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.10541"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Few-Shot', 'GPT', 'Prompting', 'Applications']
+tags: ['Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 In the realm of Large Language Models (LLMs), prompt optimization is crucial
 for model performance. Although previous research has explored aspects like

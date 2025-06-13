@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhou2024options
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.12381"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 Question-Options Generation (QOG) is a task that involves generating a set of
 question-options pairs given context. This task has various applications,

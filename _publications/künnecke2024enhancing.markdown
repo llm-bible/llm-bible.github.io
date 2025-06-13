@@ -7,7 +7,7 @@ year: 2024
 bibkey: künnecke2024enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01811"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Interpretability and Explainability']
+tags: ['Transformer', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Grading short answer questions automatically with interpretable reasoning
 behind the grading decision is a challenging goal for current transformer

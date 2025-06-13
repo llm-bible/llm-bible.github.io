@@ -7,7 +7,7 @@ year: 2019
 bibkey: liu2019robustly
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.11692"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Language model pretraining has led to significant performance gains but
 careful comparison between different approaches is challenging. Training is

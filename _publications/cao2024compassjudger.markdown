@@ -8,7 +8,7 @@ bibkey: cao2024compassjudger
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.16256"}
   - {name: "Code", url: "https://github.com/open-compass/CompassJudger"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Has Code', 'Attention Mechanism']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code']
 ---
 Efficient and accurate evaluation is crucial for the continuous improvement
 of large language models (LLMs). Among various assessment methods, subjective

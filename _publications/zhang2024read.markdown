@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024read
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00816"}
-tags: ['Multimodal Models', 'Few-Shot', 'RAG', 'Fine-Tuning', 'Interpretability and Explainability', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'RAG', 'Few-Shot', 'Multimodal Models']
 ---
 Understanding the contents of multimodal documents is essential to accurately
 extract relevant evidence and use it for reasoning. Existing document

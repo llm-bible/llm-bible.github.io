@@ -7,7 +7,7 @@ year: 2024
 bibkey: mo2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06652"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 In this paper, a tool for detecting LLM AI text generation is developed based
 on the Transformer model, aiming to improve the accuracy of AI text generation

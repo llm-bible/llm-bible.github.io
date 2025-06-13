@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023cot
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.11143"}
-tags: ['Prompting', 'Pretraining Methods', 'BERT', 'Model Architecture']
+tags: ['BERT', 'Prompting', 'Model Architecture', 'Pretraining Methods']
 ---
 Unsupervised sentence representation learning aims to transform input
 sentences into fixed-length vectors enriched with intricate semantic

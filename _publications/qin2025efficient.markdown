@@ -8,7 +8,7 @@ bibkey: qin2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.14560"}
   - {name: "Code", url: "https://github.com/BUAA-CLab/ReasoningV"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have advanced Verilog code generation
 significantly, yet face challenges in data quality, reasoning capabilities, and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: lange2024large
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18381"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Large Transformer models are capable of implementing a plethora of so-called
 in-context learning algorithms. These include gradient descent, classification,

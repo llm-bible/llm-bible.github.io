@@ -7,7 +7,7 @@ year: 2024
 bibkey: belem2024from
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.13961"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Although many studies have investigated and reduced hallucinations in large
 language models (LLMs) for single-document tasks, research on hallucination in

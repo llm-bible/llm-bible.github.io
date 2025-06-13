@@ -8,7 +8,7 @@ bibkey: tang2023ml
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09835"}
   - {name: "Code", url: "https://github.com/gersteinlab/ML-bench"}
-tags: ['Agentic', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Agentic', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Despite Large Language Models (LLMs) like GPT-4 achieving impressive results
 in function-level code generation, they struggle with repository-scale code

@@ -8,7 +8,7 @@ bibkey: ding2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14233"}
   - {name: "Code", url: "https://github.com/thunlp/UltraChat"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Fine-tuning on instruction data has been widely validated as an effective
 practice for implementing chat language models like ChatGPT. Scaling the

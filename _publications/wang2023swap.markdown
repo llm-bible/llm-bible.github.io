@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023swap
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.10874"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Merging', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 With the explosive popularity of AI-generated content (AIGC), video
 generation has recently received a lot of attention. Generating videos guided

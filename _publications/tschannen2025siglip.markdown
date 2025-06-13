@@ -7,7 +7,7 @@ year: 2025
 bibkey: tschannen2025siglip
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14786"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Fairness', 'Multimodal Models', 'Reinforcement Learning', 'Distillation', 'Bias Mitigation', 'Ethics and Bias', 'Pretraining Methods']
+tags: ['Efficiency and Optimization', 'Ethics and Bias', 'Bias Mitigation', 'Reinforcement Learning', 'Fairness', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Distillation']
 ---
 We introduce SigLIP 2, a family of new multilingual vision-language encoders
 that build on the success of the original SigLIP. In this second iteration, we

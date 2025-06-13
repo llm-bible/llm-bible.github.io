@@ -8,7 +8,7 @@ bibkey: jang2023personalized
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.11564"}
   - {name: "Code", url: "https://github.com/joeljang/RLPHF"}
-tags: ['Agentic', 'Merging', 'Has Code', 'Reinforcement Learning']
+tags: ['Agentic', 'Has Code', 'Merging', 'Reinforcement Learning']
 ---
 While Reinforcement Learning from Human Feedback (RLHF) aligns Large Language
 Models (LLMs) with general, aggregate human preferences, it is suboptimal for

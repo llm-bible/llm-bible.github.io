@@ -7,7 +7,7 @@ year: 2024
 bibkey: yoo2024hyperclova
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.01954"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Ethics and Bias', 'Responsible AI']
 ---
 We introduce HyperCLOVA X, a family of large language models (LLMs) tailored
 to the Korean language and culture, along with competitive capabilities in

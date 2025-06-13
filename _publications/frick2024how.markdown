@@ -8,7 +8,7 @@ bibkey: frick2024how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14872"}
   - {name: "Code", url: "https://github.com/lmarena/PPE"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Has Code']
+tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 We introduce a new benchmark for reward models that quantifies their ability
 to produce strong language models through RLHF (Reinforcement Learning from

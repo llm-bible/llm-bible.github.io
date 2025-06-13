@@ -7,7 +7,7 @@ year: 2018
 bibkey: bapna2018training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1808.07561"}
-tags: ['WMT', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'WMT', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 While current state-of-the-art NMT models, such as RNN seq2seq and
 Transformers, possess a large number of parameters, they are still shallow in

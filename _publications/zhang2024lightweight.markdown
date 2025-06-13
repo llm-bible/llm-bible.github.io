@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024lightweight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06693"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Applications']
+tags: ['Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Multimodal Models']
 ---
 The rapid advancements in Large Language Models (LLMs) have significantly
 expanded their applications, ranging from multilingual support to

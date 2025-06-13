@@ -8,7 +8,7 @@ bibkey: kundu2025lvlm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.04982"}
   - {name: "Code", url: "https://github.com/opengear-project/LVLM-compress-bench"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'GPT', 'Quantization', 'Ethics and Bias', 'Pretraining Methods', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Ethics and Bias', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Quantization']
 ---
 Despite recent efforts in understanding the compression impact on large
 language models (LLMs) in terms of their downstream task performance and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024glint
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10244"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'RAG', 'RecSys', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'RecSys', 'Pretraining Methods']
 ---
 Transformer-based models have gained significant traction in sequential
 recommender systems (SRSs) for their ability to capture user-item interactions

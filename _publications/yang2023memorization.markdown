@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023memorization
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.01868"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Security', 'Training Techniques', 'Pretraining Methods']
 ---
 The rapid advancement of large language models, such as the Generative
 Pre-trained Transformer (GPT) series, has had significant implications across

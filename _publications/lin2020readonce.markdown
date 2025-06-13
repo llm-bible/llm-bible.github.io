@@ -7,7 +7,7 @@ year: 2020
 bibkey: lin2020readonce
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.12854"}
-tags: ['Training Techniques', 'Model Architecture', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 We present ReadOnce Transformers, an approach to convert a transformer-based
 model into one that can build an information-capturing, task-independent, and

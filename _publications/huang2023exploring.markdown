@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023exploring
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.06739"}
-tags: ['RAG', 'Training Techniques', 'Merging', 'Multimodal Models']
+tags: ['RAG', 'Training Techniques', 'Multimodal Models', 'Merging']
 ---
 Current instruction-based editing methods, such as InstructPix2Pix, often
 fail to produce satisfactory results in complex scenarios due to their

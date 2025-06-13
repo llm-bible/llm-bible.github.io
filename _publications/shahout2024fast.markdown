@@ -7,7 +7,7 @@ year: 2024
 bibkey: shahout2024fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18248"}
-tags: ['Efficiency and Optimization', 'Applications', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications']
 ---
 Augmented Large Language Models (LLMs) enhance the capabilities of standalone
 LLMs by integrating external data sources through API calls. In interactive LLM

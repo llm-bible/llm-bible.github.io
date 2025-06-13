@@ -7,7 +7,7 @@ year: 2024
 bibkey: lee2024fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15154"}
-tags: ['Prompting', 'RAG', 'Applications']
+tags: ['RAG', 'Prompting', 'Applications']
 ---
 In machine translation, the problem of ambiguously gendered input has been
 pointed out, where the gender of an entity is not available in the source

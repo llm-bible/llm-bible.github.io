@@ -7,7 +7,7 @@ year: 2024
 bibkey: kang2024what
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07681"}
-tags: ['Efficiency and Optimization', 'Training Techniques']
+tags: ['Training Techniques', 'Efficiency and Optimization']
 ---
 Despite the remarkable capabilities of modern large language models (LLMs),
 the mechanisms behind their problem-solving abilities remain elusive. In this

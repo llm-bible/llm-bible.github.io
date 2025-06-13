@@ -7,7 +7,7 @@ year: 2023
 bibkey: curran2023hallucination
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.11520"}
-tags: ['TACL', 'Model Architecture', 'Attention Mechanism', 'ACL']
+tags: ['ACL', 'TACL', 'Attention Mechanism', 'Model Architecture']
 ---
 The legal profession necessitates a multidimensional approach that involves
 synthesizing an in-depth comprehension of a legal issue with insightful

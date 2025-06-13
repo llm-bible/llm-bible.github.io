@@ -7,7 +7,7 @@ year: 2021
 bibkey: mccoy2021how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2111.09509"}
-tags: ['Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Current language models can generate high-quality text. Are they simply
 copying text they have seen before, or have they learned generalizable

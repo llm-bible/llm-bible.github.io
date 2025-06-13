@@ -7,7 +7,7 @@ year: 2025
 bibkey: zeng2025analyst
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16395"}
-tags: ['Prompting', 'Applications', 'Tools', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have demonstrated potential for data science
 tasks via code generation. However, the exploratory nature of data science,

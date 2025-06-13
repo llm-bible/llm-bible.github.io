@@ -8,7 +8,7 @@ bibkey: wang2024speak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11725"}
   - {name: "Code", url: "https://github.com/THUNLP-MT/symbol2language"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Has Code', 'Prompting']
 ---
 Symbols (or more broadly, non-natural language textual representations) such
 as numerical sequences, molecular formulas, and table delimiters widely exist,

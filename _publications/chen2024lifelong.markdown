@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024lifelong
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.15432"}
-tags: ['Security', 'Training Techniques', 'Reinforcement Learning', 'Merging', 'Applications']
+tags: ['Applications', 'Merging', 'Reinforcement Learning', 'Security', 'Training Techniques']
 ---
 Model editing aims to correct inaccurate knowledge, update outdated
 information, and incorporate new data into Large Language Models (LLMs) without

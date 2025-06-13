@@ -7,7 +7,7 @@ year: 2025
 bibkey: chen2025continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13603"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Prompting', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 The recent advances in Legal Large Language Models (LLMs) have transformed
 the landscape of legal research and practice by automating tasks, enhancing

@@ -8,7 +8,7 @@ bibkey: li2021supervision
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.05208"}
   - {name: "Code", url: "https://github.com/Sense-GVT/DeCLIP"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Has Code', 'Pre-Training', 'Attention Mechanism']
+tags: ['Pre-Training', 'Tools', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Multimodal Models']
 ---
 Recently, large-scale Contrastive Language-Image Pre-training (CLIP) has
 attracted unprecedented attention for its impressive zero-shot recognition

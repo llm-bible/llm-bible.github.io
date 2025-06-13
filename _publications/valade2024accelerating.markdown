@@ -7,7 +7,7 @@ year: 2024
 bibkey: valade2024accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21082"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 This paper presents a novel technique for accelerating inference in large,
 pre-trained language models (LLMs) by introducing early exits during inference.

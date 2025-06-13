@@ -7,7 +7,7 @@ year: 2024
 bibkey: ehsan2024explainable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05345"}
-tags: ['Interpretability', 'RAG', 'Interpretability and Explainability']
+tags: ['Interpretability and Explainability', 'RAG', 'Interpretability']
 ---
 When the initial vision of Explainable (XAI) was articulated, the most
 popular framing was to open the (proverbial) "black-box" of AI so that we could

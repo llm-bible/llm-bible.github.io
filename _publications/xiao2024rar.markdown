@@ -8,7 +8,7 @@ bibkey: xiao2024rar
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.06347"}
   - {name: "Code", url: "https://github.com/gowitheflow-1998/RAR-b"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Semantic textual similartiy (STS) and information retrieval tasks (IR) tasks
 have been the two major avenues to record the progress of embedding models in

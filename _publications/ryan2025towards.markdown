@@ -7,7 +7,7 @@ year: 2025
 bibkey: ryan2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00263"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Retrieval Augmented Generation (RAG) has become one of the most popular
 methods for bringing knowledge-intensive context to large language models (LLM)

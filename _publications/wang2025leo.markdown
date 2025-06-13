@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025leo
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.04653"}
-tags: ['Efficiency and Optimization', 'Fine-Tuning', 'Multimodal Models']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Multimodal Models']
 ---
 Redundancy of visual tokens in multi-modal large language models (MLLMs)
 significantly reduces their computational efficiency. Recent approaches, such

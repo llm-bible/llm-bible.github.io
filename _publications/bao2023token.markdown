@@ -7,7 +7,7 @@ year: 2023
 bibkey: bao2023token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.04493"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Sequence-to-sequence (seq2seq) models have been widely used for natural
 language processing, computer vision, and other deep learning tasks. We find

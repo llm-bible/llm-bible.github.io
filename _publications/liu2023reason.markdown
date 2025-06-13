@@ -7,7 +7,7 @@ year: 2023
 bibkey: liu2023reason
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.17382"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Prompting']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) demonstrate impressive reasoning abilities, but
 translating reasoning into actions in the real world remains challenging. In

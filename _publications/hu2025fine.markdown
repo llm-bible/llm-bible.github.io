@@ -7,7 +7,7 @@ year: 2025
 bibkey: hu2025fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.06521"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Hallucination, or the generation of incorrect or fabricated information,
 remains a critical challenge in large language models (LLMs), particularly in

@@ -7,7 +7,7 @@ year: 2020
 bibkey: dodge2020fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2002.06305"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Fine-tuning pretrained contextual word embedding models to supervised
 downstream tasks has become commonplace in natural language processing. This

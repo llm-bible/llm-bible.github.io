@@ -7,7 +7,7 @@ year: 2025
 bibkey: wei2025swe
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.18449"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 The recent DeepSeek-R1 release has demonstrated the immense potential of
 reinforcement learning (RL) in enhancing the general reasoning capabilities of

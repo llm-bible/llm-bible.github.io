@@ -8,7 +8,7 @@ bibkey: sapkota2025multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.18648"}
   - {name: "Code", url: "https://github.com/WSUAgRobotics/data-aug-multi-modal-llm"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'RAG', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Survey Paper', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Multimodal Models']
 ---
 In the past five years, research has shifted from traditional Machine
 Learning (ML) and Deep Learning (DL) approaches to leveraging Large Language

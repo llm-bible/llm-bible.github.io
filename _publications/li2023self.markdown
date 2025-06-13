@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023self
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2305.14623v2"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 Fact-checking is an essential task in NLP that is commonly utilized for
 validating the factual accuracy of claims. Prior work has mainly focused on

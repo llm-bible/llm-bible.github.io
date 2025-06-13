@@ -7,7 +7,7 @@ year: 2024
 bibkey: peng2024navigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.24032"}
-tags: ['Agentic', 'Fine-Tuning', 'Tools', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Tools']
 ---
 The rise of large language models (LLMs) has revolutionized user interactions
 with knowledge-based systems, enabling chatbots to synthesize vast amounts of

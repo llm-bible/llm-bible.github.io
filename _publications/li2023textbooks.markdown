@@ -7,7 +7,7 @@ year: 2023
 bibkey: li2023textbooks
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.05463"}
-tags: ['Model Architecture', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Transformer', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 We continue the investigation into the power of smaller Transformer-based
 language models as initiated by \textbf\{TinyStories\} -- a 10 million parameter

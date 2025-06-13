@@ -7,7 +7,7 @@ year: 2025
 bibkey: harris2025should
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.00225"}
-tags: ['Agentic', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic']
 ---
 We evaluate the ability of the current generation of large language models
 (LLMs) to help a decision-making agent facing an exploration-exploitation

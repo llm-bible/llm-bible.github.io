@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhao2025addressing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03687"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Medication recommendation systems have garnered attention within healthcare
 for their potential to deliver personalized and efficacious drug combinations

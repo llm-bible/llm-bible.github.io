@@ -7,7 +7,7 @@ year: 2024
 bibkey: pierro2024mamba
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.12397"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Merging', 'Pruning', 'Quantization', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'Pruning', 'Merging', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Quantization']
 ---
 Modern recurrent layers are emerging as a promising path toward edge
 deployment of foundation models, especially in the context of large language

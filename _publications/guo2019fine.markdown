@@ -7,7 +7,7 @@ year: 2019
 bibkey: guo2019fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.08717"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Training Techniques', 'Pretraining Methods']
 ---
 Non-autoregressive translation (NAT) models remove the dependence on previous
 target tokens and generate all target tokens in parallel, resulting in

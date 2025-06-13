@@ -8,7 +8,7 @@ bibkey: li2024dawn
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.03205"}
   - {name: "Code", url: "https://github.com/RUCAIBox/HaluEval-2.0"}
-tags: ['Training Techniques', 'Applications', 'Has Code', 'Reinforcement Learning']
+tags: ['Training Techniques', 'Has Code', 'Applications', 'Reinforcement Learning']
 ---
 In the era of large language models (LLMs), hallucination (i.e., the tendency
 to generate factually incorrect content) poses great challenge to trustworthy

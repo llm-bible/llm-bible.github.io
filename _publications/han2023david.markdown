@@ -7,7 +7,7 @@ year: 2023
 bibkey: han2023david
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14771"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Language Modeling', 'Merging', 'GPT', 'Pretraining Methods']
+tags: ['Efficiency and Optimization', 'GPT', 'Language Modeling', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Diffusion-based language models are emerging as a promising alternative to
 autoregressive LMs: they approach the competence of autoregressive LMs while

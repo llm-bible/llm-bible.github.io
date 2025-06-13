@@ -7,7 +7,7 @@ year: 2025
 bibkey: jabin2025adcare
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.00275"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Chronic diseases, including diabetes, hypertension, asthma, HIV-AIDS,
 epilepsy, and tuberculosis, necessitate rigorous adherence to medication to

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tanaka2024leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.06874"}
-tags: ['Model Architecture', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Prompting']
 ---
 The analysis of students' emotions and behaviors is crucial for enhancing
 learning outcomes and personalizing educational experiences. Traditional

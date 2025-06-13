@@ -7,7 +7,7 @@ year: 2025
 bibkey: hong2025benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.05225"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 The rapid advancement of Chinese large language models (LLMs) underscores the
 need for domain-specific evaluations to ensure reliable applications. However,

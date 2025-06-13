@@ -8,7 +8,7 @@ bibkey: zhang2024look
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.10423"}
   - {name: "Code", url: "https://github.com/sqzhang-lazy/GuidelineLLM"}
-tags: ['Responsible AI', 'Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Responsible AI', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods']
 ---
 Despite being empowered with alignment mechanisms, large language models
 (LLMs) are increasingly vulnerable to emerging jailbreak attacks that can

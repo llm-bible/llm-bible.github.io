@@ -8,7 +8,7 @@ bibkey: hersche2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.05586"}
   - {name: "Code", url: "https://github.com/IBM/raven-large-language-models"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'ACL', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'ACL', 'Has Code', 'Prompting']
 ---
 This work compares large language models (LLMs) and neuro-symbolic approaches
 in solving Raven's progressive matrices (RPM), a visual abstract reasoning test

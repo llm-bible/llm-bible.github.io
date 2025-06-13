@@ -7,7 +7,7 @@ year: 2024
 bibkey: chochlakis2024strong
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.17125"}
-tags: ['Training Techniques', 'Few-Shot', 'Prompting', 'Pre-Training', 'In-Context Learning']
+tags: ['Pre-Training', 'Training Techniques', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 In-context Learning (ICL) has emerged as a powerful paradigm for performing
 natural language tasks with Large Language Models (LLM) without updating the

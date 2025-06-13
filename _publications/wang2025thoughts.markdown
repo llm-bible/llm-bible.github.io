@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025thoughts
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.18585"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) such as OpenAI's o1 have demonstrated remarkable
 abilities in complex reasoning tasks by scaling test-time compute and

@@ -7,7 +7,7 @@ year: 2023
 bibkey: tian2023fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.08401"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The fluency and creativity of large pre-trained language models (LLMs) have
 led to their widespread use, sometimes even as a replacement for traditional

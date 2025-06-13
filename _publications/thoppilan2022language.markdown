@@ -7,7 +7,7 @@ year: 2022
 bibkey: thoppilan2022language
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2201.08239v3"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications']
+tags: ['Fine-Tuning', 'Responsible AI', 'Transformer', 'Ethics and Bias', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
 ---
 We present LaMDA: Language Models for Dialog Applications. LaMDA is a family
 of Transformer-based neural language models specialized for dialog, which have

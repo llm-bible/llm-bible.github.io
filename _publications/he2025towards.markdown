@@ -7,7 +7,7 @@ year: 2025
 bibkey: he2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16851"}
-tags: ['Responsible AI', 'Fairness', 'Tools', 'RAG', 'Bias Mitigation', 'Ethics and Bias', 'Interpretability and Explainability']
+tags: ['Responsible AI', 'Tools', 'Ethics and Bias', 'Interpretability and Explainability', 'RAG', 'Bias Mitigation', 'Fairness']
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance in
 natural language generation tasks, yet their uncontrolled outputs pose

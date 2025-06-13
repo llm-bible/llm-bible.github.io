@@ -7,7 +7,7 @@ year: 2025
 bibkey: rohera2025better
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.20022"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Multilingual Large Language Models (LLMs) have demonstrated significant
 effectiveness across various languages, particularly in high-resource languages

@@ -7,7 +7,7 @@ year: 2024
 bibkey: pahilajani2024grs
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.00369"}
-tags: ['Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Applications']
 ---
 Large Language Models (LLMs) have excelled in multi-hop question-answering
 (M-QA) due to their advanced reasoning abilities. However, the impact of the

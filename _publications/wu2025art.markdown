@@ -7,7 +7,7 @@ year: 2025
 bibkey: wu2025art
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.21036"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 We present an agentic framework, Thinker, which achieves state of art
 performance in challenging reasoning tasks for realistic customer service

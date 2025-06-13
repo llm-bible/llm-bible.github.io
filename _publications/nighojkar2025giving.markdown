@@ -7,7 +7,7 @@ year: 2025
 bibkey: nighojkar2025giving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14155"}
-tags: ['Prompting', 'Model Architecture', 'GPT']
+tags: ['GPT', 'Prompting', 'Model Architecture']
 ---
 In computational cognitive modeling, capturing the full spectrum of human
 judgment and decision-making processes, beyond just optimal behaviors, is a

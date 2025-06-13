@@ -7,7 +7,7 @@ year: 2025
 bibkey: xu2025technical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20215"}
-tags: ['Security', 'Model Architecture', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Security', 'Pretraining Methods', 'Multimodal Models']
 ---
 In this report, we present Qwen2.5-Omni, an end-to-end multimodal model
 designed to perceive diverse modalities, including text, images, audio, and

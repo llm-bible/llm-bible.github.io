@@ -7,7 +7,7 @@ year: 2024
 bibkey: ramamurthy2024unified
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.03300"}
-tags: ['RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) often fail to synthesize information from their
 context to generate an accurate response. This renders them unreliable in

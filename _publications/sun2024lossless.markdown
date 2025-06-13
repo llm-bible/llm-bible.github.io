@@ -8,7 +8,7 @@ bibkey: sun2024lossless
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.11912"}
   - {name: "Code", url: "https://github.com/Infini-AI-Lab/TriForce"}
-tags: ['Security', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'RAG', 'Reinforcement Learning', 'Security', 'Has Code']
 ---
 With large language models (LLMs) widely deployed in long content generation
 recently, there has emerged an increasing demand for efficient long-sequence

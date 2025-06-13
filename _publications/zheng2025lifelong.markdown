@@ -8,7 +8,7 @@ bibkey: zheng2025lifelong
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.07278"}
   - {name: "Code", url: "https://github.com/qianlima-lab/awesome-lifelong-llm-agent"}
-tags: ['Agentic', 'Multimodal Models', 'Survey Paper', 'Reinforcement Learning', 'Merging', 'Has Code']
+tags: ['Agentic', 'Survey Paper', 'Merging', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Lifelong learning, also known as continual or incremental learning, is a
 crucial component for advancing Artificial General Intelligence (AGI) by

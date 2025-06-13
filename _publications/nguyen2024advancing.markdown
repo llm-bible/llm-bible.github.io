@@ -8,7 +8,7 @@ bibkey: nguyen2024advancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.21229"}
   - {name: "Code", url: "https://github.com/nngocson2002/ViVQA"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Pretraining Methods', 'Transformer', 'Has Code', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Visual Question Answering (VQA) has recently emerged as a potential research
 domain, captivating the interest of many in the field of artificial

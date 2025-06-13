@@ -7,7 +7,7 @@ year: 2025
 bibkey: lei2025enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.17144"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Training Techniques', 'Prompting']
 ---
 Prior research on training grounded factuality classification models to
 detect hallucinations in large language models (LLMs) has relied on public

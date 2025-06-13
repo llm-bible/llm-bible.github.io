@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024framework
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.15924"}
-tags: ['Tools', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'ACL', 'Applications']
+tags: ['Tools', 'Ethics and Bias', 'Applications', 'RAG', 'ACL', 'Pretraining Methods']
 ---
 The long-standing one-to-many problem of gold standard responses in
 open-domain dialogue systems presents challenges for automatic evaluation

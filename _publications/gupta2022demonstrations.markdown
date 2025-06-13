@@ -7,7 +7,7 @@ year: 2022
 bibkey: gupta2022demonstrations
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2204.04327"}
-tags: ['Prompting', 'RAG', 'Applications', 'Tools']
+tags: ['RAG', 'Tools', 'Prompting', 'Applications']
 ---
 Building universal dialogue systems that operate across multiple domains/APIs
 and generalize to new ones with minimal overhead is a critical challenge.

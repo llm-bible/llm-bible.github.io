@@ -8,7 +8,7 @@ bibkey: wang2022can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2207.00735"}
   - {name: "Code", url: "https://github.com/anonNo2/crosstalk-generation"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Language is the principal tool for human communication, in which humor is one
 of the most attractive parts. Producing natural language like humans using

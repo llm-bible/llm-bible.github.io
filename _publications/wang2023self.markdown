@@ -7,7 +7,7 @@ year: 2023
 bibkey: wang2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.13552"}
-tags: ['Prompting', 'In-Context Learning', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Prompting', 'In-Context Learning', 'Reinforcement Learning']
 ---
 In open-domain question-answering (ODQA), most existing questions require
 single-hop reasoning on commonsense. To further extend this task, we officially

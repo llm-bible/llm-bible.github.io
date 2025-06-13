@@ -8,7 +8,7 @@ bibkey: zhao2024dual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.18050"}
   - {name: "Code", url: "https://github.com/QingFei1/LongRAG"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Long-Context Question Answering (LCQA), a challenging task, aims to reason
 over long-context documents to yield accurate answers to questions. Existing

@@ -7,7 +7,7 @@ year: 2025
 bibkey: springer2025overtrained
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.19206"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Pre-Training', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pre-Training', 'Pretraining Methods']
 ---
 Large language models are pre-trained on ever-growing token budgets under the
 assumption that better pre-training performance translates to improved

@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024one
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.00256"}
-tags: ['Prompting', 'RAG', 'In-Context Learning']
+tags: ['RAG', 'Prompting', 'In-Context Learning']
 ---
 Large Language Models (LLMs) exhibit strong generalization capabilities to
 novel tasks when prompted with language instructions and in-context demos.

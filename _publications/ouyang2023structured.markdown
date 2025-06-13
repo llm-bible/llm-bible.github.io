@@ -8,7 +8,7 @@ bibkey: ouyang2023structured
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09656"}
   - {name: "Code", url: "https://github.com/ozyyshr/StructChem"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Has Code', 'Prompting']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) excel in diverse areas, yet struggle with
 complex scientific reasoning, especially in the field of chemistry. Different

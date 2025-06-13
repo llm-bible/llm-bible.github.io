@@ -7,7 +7,7 @@ year: 2023
 bibkey: busch2023just
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.07183"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 GPT-3 and several other language models (LMs) can effectively address various
 natural language processing (NLP) tasks, including machine translation and text

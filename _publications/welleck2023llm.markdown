@@ -7,7 +7,7 @@ year: 2023
 bibkey: welleck2023llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.18457"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 We present LLMSTEP, a tool for integrating a language model into the Lean
 proof assistant. LLMSTEP is a Lean 4 tactic that sends a user's proof state to

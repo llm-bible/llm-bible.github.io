@@ -8,7 +8,7 @@ bibkey: wang2023all
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.00905"}
   - {name: "Code", url: "https://github.com/Jarviswang94/Multilingual_safety_benchmark"}
-tags: ['Responsible AI', 'Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Has Code', 'Prompting']
+tags: ['Responsible AI', 'Tools', 'GPT', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Safety lies at the core of developing and deploying large language models
 (LLMs). However, previous safety benchmarks only concern the safety in one

@@ -7,7 +7,7 @@ year: 2023
 bibkey: priyanshu2023are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.15008"}
-tags: ['Model Architecture', 'GPT', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Prompting', 'In-Context Learning']
 ---
 LLM-powered chatbots are becoming widely adopted in applications such as
 healthcare, personal assistants, industry hiring decisions, etc. In many of

@@ -7,7 +7,7 @@ year: 2020
 bibkey: vanbiljon2020optimal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.04418"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Transformers have shown great promise as an approach to Neural Machine
 Translation (NMT) for low-resource languages. However, at the same time,

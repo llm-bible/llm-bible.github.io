@@ -7,7 +7,7 @@ year: 2024
 bibkey: sun2024dr
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.19567"}
-tags: ['Agentic', 'Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Vision-Language Models (VLM) can support clinicians by analyzing medical
 images and engaging in natural language interactions to assist in diagnostic

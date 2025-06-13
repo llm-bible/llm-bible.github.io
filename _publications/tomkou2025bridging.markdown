@@ -7,7 +7,7 @@ year: 2025
 bibkey: tomkou2025bridging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.05527"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 This paper introduces a novel integration of Retrieval-Augmented Generation
 (RAG) enhanced Large Language Models (LLMs) with Extended Reality (XR)

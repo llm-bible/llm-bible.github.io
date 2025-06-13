@@ -7,7 +7,7 @@ year: 2021
 bibkey: kale2021is
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.02171"}
-tags: ['Training Techniques', 'Language Modeling', 'RAG', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Applications', 'RAG', 'Language Modeling', 'Training Techniques']
 ---
 Recently, mT5 - a massively multilingual version of T5 - leveraged a unified
 text-to-text format to attain state-of-the-art results on a wide variety of

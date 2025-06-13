@@ -7,7 +7,7 @@ year: 2025
 bibkey: tayal2025conversational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.17753"}
-tags: ['Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Conversational assistants are becoming more and more popular, including in
 healthcare, partly because of the availability and capabilities of Large

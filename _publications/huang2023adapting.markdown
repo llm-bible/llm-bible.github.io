@@ -7,7 +7,7 @@ year: 2023
 bibkey: huang2023adapting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.00409"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Multimodal Models', 'Merging', 'BERT', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Attention Mechanism', 'BERT', 'Multimodal Models', 'Prompting']
 ---
 Pre-trained language models (PLMs) have played an increasing role in
 multimedia research. In terms of vision-language (VL) tasks, they often serve

@@ -7,7 +7,7 @@ year: 2022
 bibkey: yang2022parameter
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2210.04382"}
-tags: ['Model Architecture', 'Pretraining Methods', 'BERT', 'Transformer', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 Parameter-efficient tuning aims at updating only a small subset of parameters
 when adapting a pretrained model to downstream tasks. In this work, we

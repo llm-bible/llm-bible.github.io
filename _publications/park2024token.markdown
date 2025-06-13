@@ -7,7 +7,7 @@ year: 2024
 bibkey: park2024token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15131"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Pruning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Pruning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 The attention mechanism in text generation is memory-bounded due to its
 sequential characteristics. Therefore, off-chip memory accesses should be

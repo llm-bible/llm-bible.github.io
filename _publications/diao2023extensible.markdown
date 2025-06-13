@@ -8,7 +8,7 @@ bibkey: diao2023extensible
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.12420"}
   - {name: "Code", url: "https://github.com/OptimalScale/LMFlow"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Foundation models have demonstrated a great ability to achieve general
 human-level intelligence far beyond traditional approaches. As the technique

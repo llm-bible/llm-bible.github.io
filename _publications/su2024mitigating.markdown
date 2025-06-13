@@ -8,7 +8,7 @@ bibkey: su2024mitigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.09417"}
   - {name: "Code", url: "https://github.com/oneal2000/EntityHallucination"}
-tags: ['Applications', 'Has Code']
+tags: ['Has Code', 'Applications']
 ---
 The emergence of Large Language Models (LLMs) has revolutionized how users
 access information, shifting from traditional search engines to direct

@@ -8,7 +8,7 @@ bibkey: fu2025cross
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.16629"}
   - {name: "Code", url: "https://github.com/LVUGAI/CHiP"}
-tags: ['Efficiency and Optimization', 'Multimodal Models', 'Tools', 'Reinforcement Learning', 'Has Code']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) still struggle with hallucinations
 despite their impressive capabilities. Recent studies have attempted to

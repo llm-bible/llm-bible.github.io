@@ -8,7 +8,7 @@ bibkey: hasan2025labels
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.00691"}
   - {name: "Code", url: "https://github.com/hasan-rakibul/LLMPathy"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Merging', 'Ethics and Bias', 'BERT', 'Has Code', 'Prompting', 'Applications']
+tags: ['Applications', 'Ethics and Bias', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'BERT', 'Prompting']
 ---
 Large language models (LLMs) have revolutionised numerous fields, with
 LLM-as-a-service (LLMSaaS) having a strong generalisation ability that offers

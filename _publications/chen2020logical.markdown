@@ -8,7 +8,7 @@ bibkey: chen2020logical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.10404"}
   - {name: "Code", url: "https://github.com/wenhuchen/LogicNLG"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Tools', 'Survey Paper', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Neural natural language generation (NLG) models have recently shown
 remarkable progress in fluency and coherence. However, existing studies on

@@ -7,7 +7,7 @@ year: 2024
 bibkey: zeng2024root
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06809"}
-tags: ['Responsible AI', 'Security', 'Model Architecture', 'RAG', 'Prompting']
+tags: ['Responsible AI', 'RAG', 'Model Architecture', 'Security', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated immense utility across various
 industries. However, as LLMs advance, the risk of harmful outputs increases due

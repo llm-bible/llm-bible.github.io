@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025chain
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16260"}
-tags: ['Multimodal Models', 'RAG', 'Interpretability', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'RAG', 'Interpretability', 'Multimodal Models', 'Prompting']
 ---
 Visual reasoning is crucial for multimodal large language models (MLLMs) to
 address complex chart queries, yet high-quality rationale data remains scarce.

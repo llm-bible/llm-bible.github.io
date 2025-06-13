@@ -7,7 +7,7 @@ year: 2025
 bibkey: dinh2025towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13589"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['GPT', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability']
 ---
 Large Language Models (LLMs) are likely to play a key role in Intent-Based
 Networking (IBN) as they show remarkable performance in interpreting human

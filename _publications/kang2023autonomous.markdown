@@ -7,7 +7,7 @@ year: 2023
 bibkey: kang2023autonomous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.01423"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture']
 ---
 ChatMOF is an autonomous Artificial Intelligence (AI) system that is built to
 predict and generate metal-organic frameworks (MOFs). By leveraging a

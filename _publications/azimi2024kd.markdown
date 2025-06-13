@@ -8,7 +8,7 @@ bibkey: azimi2024kd
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20777"}
   - {name: "Code", url: "https://github.com/rambodazimi/KD-LoRA"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Distillation', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Large language models (LLMs) have demonstrated remarkable performance across
 various downstream tasks. However, the high computational and memory

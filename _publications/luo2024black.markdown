@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024black
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.12468"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'In-Context Learning', 'GPT', 'Fine-Tuning', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Training or finetuning large-scale language models (LLMs) requires
 substantial computation resources, motivating recent efforts to explore

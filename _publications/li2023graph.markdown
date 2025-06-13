@@ -8,7 +8,7 @@ bibkey: li2023graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02330"}
   - {name: "Code", url: "https://github.com/HKUDS/GFormer"}
-tags: ['Training Techniques', 'Model Architecture', 'RecSys', 'Pretraining Methods', 'Transformer', 'Has Code']
+tags: ['Transformer', 'Model Architecture', 'Training Techniques', 'RecSys', 'Has Code', 'Pretraining Methods']
 ---
 This paper presents a novel approach to representation learning in
 recommender systems by integrating generative self-supervised learning with

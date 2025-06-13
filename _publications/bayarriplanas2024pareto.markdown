@@ -7,7 +7,7 @@ year: 2024
 bibkey: bayarriplanas2024pareto
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15127"}
-tags: ['Prompting', 'RAG', 'Applications', 'Efficiency and Optimization']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Applications']
 ---
 This study leverages optimized context retrieval to enhance open-source Large
 Language Models (LLMs) for cost-effective, high performance healthcare AI. We

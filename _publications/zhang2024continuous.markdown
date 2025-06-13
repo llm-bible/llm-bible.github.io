@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024continuous
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.05362"}
-tags: ['Agentic', 'Model Architecture', 'Language Modeling', 'BERT', 'Prompting', 'Applications']
+tags: ['Agentic', 'Applications', 'Language Modeling', 'Model Architecture', 'BERT', 'Prompting']
 ---
 In the coming decade, artificial intelligence systems will continue to
 improve and revolutionise every industry and facet of human life. Designing

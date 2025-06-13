@@ -8,7 +8,7 @@ bibkey: zhang2023evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.02408"}
   - {name: "Code", url: "https://github.com/RUCAIBox/CARP"}
-tags: ['Prompting', 'Has Code', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Has Code', 'Prompting', 'Reinforcement Learning']
 ---
 Chain-of-thought prompting~(CoT) and tool augmentation have been validated in
 recent work as effective practices for improving large language models~(LLMs)

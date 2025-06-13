@@ -7,7 +7,7 @@ year: 2024
 bibkey: song2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11629"}
-tags: ['Model Architecture', 'Few-Shot', 'In-Context Learning', 'GPT', 'Ethics and Bias', 'Prompting', 'Attention Mechanism']
+tags: ['GPT', 'Ethics and Bias', 'Model Architecture', 'Attention Mechanism', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Utilizing Large Language Models (LLMs) as evaluators to assess the
 performance of LLMs has garnered attention. However, this kind of evaluation

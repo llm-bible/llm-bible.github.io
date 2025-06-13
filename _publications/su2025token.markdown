@@ -7,7 +7,7 @@ year: 2025
 bibkey: su2025token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.03275"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Reinforcement Learning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) excel at reasoning and planning when trained on
 chainof-thought (CoT) data, where the step-by-step thought process is

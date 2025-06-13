@@ -8,7 +8,7 @@ bibkey: liu2024extensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.00604"}
   - {name: "Code", url: "https://github.com/THUDM/Self-Contrast"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Applications', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Reinforcement learning from human feedback (RLHF) has been a central
 technique for recent large language model (LLM) alignment. However, its heavy

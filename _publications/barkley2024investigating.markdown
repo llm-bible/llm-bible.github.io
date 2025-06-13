@@ -7,7 +7,7 @@ year: 2024
 bibkey: barkley2024investigating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19385"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Prompting', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'Model Architecture', 'Attention Mechanism', 'Prompting']
 ---
 Large Language Models (LLMs) are powerful computational models trained on
 extensive corpora of human-readable text, enabling them to perform

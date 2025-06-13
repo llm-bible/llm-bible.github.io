@@ -7,7 +7,7 @@ year: 2023
 bibkey: cai2023scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.02690"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'In-Context Learning', 'Merging', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Model Architecture', 'Merging', 'Training Techniques', 'Attention Mechanism', 'Prompting', 'In-Context Learning']
 ---
 The recent surge of large language models (LLMs) highlights their ability to
 perform in-context learning, i.e., "learning" to perform a task from a few

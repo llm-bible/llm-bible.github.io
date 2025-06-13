@@ -7,7 +7,7 @@ year: 2020
 bibkey: zhang2020trojaning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2008.00312"}
-tags: ['Security', 'Model Architecture', 'Tools', 'GPT', 'BERT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Security', 'BERT']
 ---
 Recent years have witnessed the emergence of a new paradigm of building
 natural language processing (NLP) systems: general-purpose, pre-trained

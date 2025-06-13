@@ -7,7 +7,7 @@ year: 2024
 bibkey: shen2024scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16690"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'Pretraining Methods', 'Large-Scale Training', 'Transformer', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Large-Scale Training', 'Attention Mechanism', 'Pretraining Methods', 'Scaling Laws']
 ---
 The interest in linear complexity models for large language models is on the
 rise, although their scaling capacity remains uncertain. In this study, we

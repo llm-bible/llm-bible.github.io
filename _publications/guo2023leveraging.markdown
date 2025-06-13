@@ -7,7 +7,7 @@ year: 2023
 bibkey: guo2023leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.15880"}
-tags: ['Tools', 'Reinforcement Learning', 'RAG', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Reinforcement Learning', 'Prompting']
 ---
 Large language model (LLM) has achieved outstanding performance on various
 downstream tasks with its powerful natural language understanding and zero-shot

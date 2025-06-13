@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.09162"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pretraining Methods']
 ---
 While Large Language Models (LLMs) have demonstrated exceptional multitasking
 abilities, fine-tuning these models on downstream, domain-specific datasets is

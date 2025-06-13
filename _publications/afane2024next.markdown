@@ -7,7 +7,7 @@ year: 2024
 bibkey: afane2024next
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.13874"}
-tags: ['Agentic', 'Security', 'Tools', 'RAG', 'Merging']
+tags: ['Agentic', 'Tools', 'RAG', 'Merging', 'Security']
 ---
 The escalating threat of phishing emails has become increasingly
 sophisticated with the rise of Large Language Models (LLMs). As attackers

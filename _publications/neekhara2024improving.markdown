@@ -7,7 +7,7 @@ year: 2024
 bibkey: neekhara2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.17957"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large Language Model (LLM) based text-to-speech (TTS) systems have
 demonstrated remarkable capabilities in handling large speech datasets and

@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025tutorial
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.10867"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 OpenAI o1 has shown that applying reinforcement learning to integrate
 reasoning steps directly during inference can significantly improve a model's

@@ -7,7 +7,7 @@ year: 2025
 bibkey: bouchard2025uncertainty
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.19254"}
-tags: ['Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Applications', 'Reinforcement Learning']
 ---
 Hallucinations are a persistent problem with Large Language Models (LLMs). As
 these models become increasingly used in high-stakes domains, such as

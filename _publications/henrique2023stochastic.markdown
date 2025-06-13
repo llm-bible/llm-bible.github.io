@@ -7,7 +7,7 @@ year: 2023
 bibkey: henrique2023stochastic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.08968"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 The self-attention revolution allowed generative language models to scale and
 achieve increasingly impressive abilities. Such models - commonly referred to

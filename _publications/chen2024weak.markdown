@@ -8,7 +8,7 @@ bibkey: chen2024weak
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06733"}
   - {name: "Code", url: "https://github.com/chenqi008/LateralThinking"}
-tags: ['RAG', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code']
 ---
 While advancements in NLP have significantly improved the performance of
 Large Language Models (LLMs) on tasks requiring vertical thinking, their

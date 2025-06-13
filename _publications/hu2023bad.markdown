@@ -7,7 +7,7 @@ year: 2023
 bibkey: hu2023bad
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.12247"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Distillation', 'GPT', 'BERT']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'BERT', 'Distillation']
 ---
 Detecting fake news requires both a delicate sense of diverse clues and a
 profound understanding of the real-world background, which remains challenging

@@ -7,7 +7,7 @@ year: 2020
 bibkey: komatsuzaki2020current
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2009.06857"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'BERT']
 ---
 We classify and re-examine some of the current approaches to improve the
 performance-computes trade-off of language models, including (1) non-causal

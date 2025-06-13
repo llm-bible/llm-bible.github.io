@@ -7,7 +7,7 @@ year: 2019
 bibkey: dinan2019second
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1902.00098"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'NeurIPS']
+tags: ['Model Architecture', 'NeurIPS', 'Transformer', 'Pretraining Methods']
 ---
 We describe the setting and results of the ConvAI2 NeurIPS competition that
 aims to further the state-of-the-art in open-domain chatbots. Some key

@@ -7,7 +7,7 @@ year: 2022
 bibkey: dai2022enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2203.06386"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Multimodal Models', 'Distillation', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Training Techniques', 'Multimodal Models', 'Distillation']
 ---
 The recent large-scale vision-language pre-training (VLP) of dual-stream
 architectures (e.g., CLIP) with a tremendous amount of image-text pair data,

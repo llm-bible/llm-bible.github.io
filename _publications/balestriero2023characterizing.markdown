@@ -8,7 +8,7 @@ bibkey: balestriero2023characterizing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.01648"}
   - {name: "Code", url: "https://github.com/RandallBalestriero/SplineLLM"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) drive current AI breakthroughs despite very
 little being known about their internal representations. In this work, we

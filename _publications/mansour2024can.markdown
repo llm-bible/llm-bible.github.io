@@ -7,7 +7,7 @@ year: 2024
 bibkey: mansour2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.06149"}
-tags: ['Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting']
+tags: ['Transformer', 'GPT', 'RAG', 'Model Architecture', 'Pretraining Methods', 'Prompting']
 ---
 Although several methods were proposed to address the problem of automated
 essay scoring (AES) in the last 50 years, there is still much to desire in

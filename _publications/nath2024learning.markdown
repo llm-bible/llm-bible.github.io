@@ -7,7 +7,7 @@ year: 2024
 bibkey: nath2024learning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.13887"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Techniques that learn improved representations via offline data or
 self-supervised objectives have shown impressive results in traditional

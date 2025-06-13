@@ -7,7 +7,7 @@ year: 2024
 bibkey: pieler2024rephrasing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.20796"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Pre-Training', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pre-Training', 'Pretraining Methods']
 ---
 Recently published work on rephrasing natural text data for pre-training LLMs
 has shown promising results when combining the original dataset with the

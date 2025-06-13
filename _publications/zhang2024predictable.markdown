@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024predictable
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07111"}
-tags: ['Security', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'RAG', 'Merging', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Security', 'Training Techniques', 'Large-Scale Training', 'Scaling Laws']
 ---
 While scaling laws optimize training configurations for large language models
 (LLMs) through experiments on smaller or early-stage models, they fail to

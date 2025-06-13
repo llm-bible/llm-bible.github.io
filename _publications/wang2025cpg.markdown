@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025cpg
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13261"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 Purpose: The rapid emergence of large language models (LLMs) such as ChatGPT
 has significantly impacted foreign language education, yet their pedagogical

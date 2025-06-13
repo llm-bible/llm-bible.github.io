@@ -8,7 +8,7 @@ bibkey: horton2024kv
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08391"}
   - {name: "Code", url: "https://github.com/apple/corenet/tree/main/projects/kv-prediction"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Inference with transformer-based language models begins with a prompt
 processing step. In this step, the model generates the first output token and

@@ -7,7 +7,7 @@ year: 2024
 bibkey: tomar2024ecosage
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.06807"}
-tags: ['Multimodal Models', 'Training Techniques', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Survey Paper', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Tools', 'Survey Paper', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 In recent times, there has been an increasing awareness about imminent
 environmental challenges, resulting in people showing a stronger dedication to

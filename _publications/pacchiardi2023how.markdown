@@ -7,7 +7,7 @@ year: 2023
 bibkey: pacchiardi2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.15840"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Merging']
+tags: ['GPT', 'Prompting', 'Model Architecture', 'Merging']
 ---
 Large language models (LLMs) can "lie", which we define as outputting false
 statements despite "knowing" the truth in a demonstrable sense. LLMs might

@@ -7,7 +7,7 @@ year: 2025
 bibkey: zhao2025language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.13337"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Prompting']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Providing evaluations to student work is a critical component of effective
 student learning, and automating its process can significantly reduce the

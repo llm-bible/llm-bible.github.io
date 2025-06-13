@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024visionllm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08394"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models', 'Prompting']
 ---
 We present VisionLLM v2, an end-to-end generalist multimodal large model
 (MLLM) that unifies visual perception, understanding, and generation within a

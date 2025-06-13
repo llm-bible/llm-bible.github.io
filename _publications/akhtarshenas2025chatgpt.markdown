@@ -7,7 +7,7 @@ year: 2025
 bibkey: akhtarshenas2025chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.17403"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'GPT', 'Survey Paper', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have revo lutionized natural language processing
 Natural Language Processing (NLP), with Chat Generative Pre-trained Transformer

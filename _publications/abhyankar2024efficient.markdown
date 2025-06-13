@@ -7,7 +7,7 @@ year: 2024
 bibkey: abhyankar2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01869"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models are increasingly integrated with external environments,
 tools, and agents like ChatGPT plugins to extend their capability beyond

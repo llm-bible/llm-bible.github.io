@@ -7,7 +7,7 @@ year: 2023
 bibkey: dusell2023stack
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.01749"}
-tags: ['Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Attention, specifically scaled dot-product attention, has proven effective
 for natural language, but it does not have a mechanism for handling

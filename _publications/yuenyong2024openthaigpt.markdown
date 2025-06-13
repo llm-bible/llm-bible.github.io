@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuenyong2024openthaigpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.07238"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'GPT']
+tags: ['GPT', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 OpenThaiGPT 1.5 is an advanced Thai language chat model based on Qwen v2.5,
 finetuned on over 2,000,000 Thai instruction pairs. This report provides an

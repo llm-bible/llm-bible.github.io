@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.11702"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models (LLMs) have demonstrated notable proficiency in code
 generation, with numerous prior studies showing their promising capabilities in

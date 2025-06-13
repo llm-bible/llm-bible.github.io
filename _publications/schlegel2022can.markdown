@@ -7,7 +7,7 @@ year: 2022
 bibkey: schlegel2022can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.05417"}
-tags: ['Pretraining Methods', 'RAG', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'RAG', 'Transformer', 'Pretraining Methods']
 ---
 State-of-the-art deep-learning-based approaches to Natural Language
 Processing (NLP) are credited with various capabilities that involve reasoning

@@ -8,7 +8,7 @@ bibkey: pan2023logic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.12295"}
   - {name: "Code", url: "https://github.com/teacherpeterpan/Logic-LLM"}
-tags: ['Prompting', 'RAG', 'Has Code', 'Tools']
+tags: ['RAG', 'Tools', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have shown human-like reasoning abilities but
 still struggle with complex logical problems. This paper introduces a novel

@@ -7,7 +7,7 @@ year: 2024
 bibkey: minato2024overview
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.03547"}
-tags: ['Agentic', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 We have held dialogue robot competitions in 2020 and 2022 to compare the
 performances of interactive robots using an android that closely resembles a

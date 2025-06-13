@@ -7,7 +7,7 @@ year: 2020
 bibkey: hua2020less
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.15881"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques']
 ---
 Question answering is an effective method for obtaining information from
 knowledge bases (KB). In this paper, we propose the Neural-Symbolic Complex

@@ -7,7 +7,7 @@ year: 2024
 bibkey: hwang2024understanding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.04273"}
-tags: ['Multimodal Models', 'Reinforcement Learning', 'RAG', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Leveraging generative AI (for example, Large Language Models) for language
 understanding within robotics opens up possibilities for LLM-driven robot

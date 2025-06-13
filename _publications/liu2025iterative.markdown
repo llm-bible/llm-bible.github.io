@@ -7,7 +7,7 @@ year: 2025
 bibkey: liu2025iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.03462"}
-tags: ['Survey Paper', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Survey Paper', 'Reinforcement Learning']
 ---
 Vocabulary acquisition is essential to second language learning, as it
 underpins all core language skills. Accurate vocabulary assessment is

@@ -7,7 +7,7 @@ year: 2019
 bibkey: hu2019iterative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1911.06258"}
-tags: ['Multimodal Models', 'Model Architecture', 'Merging', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Merging', 'Attention Mechanism', 'Pretraining Methods', 'Multimodal Models']
 ---
 Many visual scenes contain text that carries crucial information, and it is
 thus essential to understand text in images for downstream reasoning tasks. For

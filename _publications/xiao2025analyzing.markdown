@@ -8,7 +8,7 @@ bibkey: xiao2025analyzing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.13816"}
   - {name: "Code", url: "https://github.com/DAMO-NLP-SG/LLM-Multilingual-Knowledge-Boundaries"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 While understanding the knowledge boundaries of LLMs is crucial to prevent
 hallucination, research on knowledge boundaries of LLMs has predominantly

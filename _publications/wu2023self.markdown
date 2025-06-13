@@ -7,7 +7,7 @@ year: 2023
 bibkey: wu2023self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16090"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Merging', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Prompting']
 ---
 Text-to-image generation has witnessed significant progress with the advent
 of diffusion models. Despite the ability to generate photorealistic images,

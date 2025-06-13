@@ -7,7 +7,7 @@ year: 2024
 bibkey: shehata2024rumour
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16859"}
-tags: ['Model Architecture', 'Few-Shot', 'RAG', 'GPT', 'Interpretability', 'Interpretability and Explainability', 'Prompting']
+tags: ['GPT', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Interpretability', 'Few-Shot', 'Prompting']
 ---
 Conversational prompt-engineering-based large language models (LLMs) have
 enabled targeted control over the output creation, enhancing versatility,

@@ -7,7 +7,7 @@ year: 2019
 bibkey: wiegreffe2019attention
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1908.04626"}
-tags: ['Security', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Interpretability', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Security', 'Training Techniques', 'Attention Mechanism']
 ---
 Attention mechanisms play a central role in NLP systems, especially within
 recurrent neural network (RNN) models. Recently, there has been increasing

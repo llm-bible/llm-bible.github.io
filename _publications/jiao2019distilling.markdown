@@ -7,7 +7,7 @@ year: 2019
 bibkey: jiao2019distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1909.10351"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'Distillation', 'Pretraining Methods', 'BERT', 'Transformer', 'Pre-Training', 'Applications']
+tags: ['Transformer', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'BERT', 'Distillation']
 ---
 Language model pre-training, such as BERT, has significantly improved the
 performances of many natural language processing tasks. However, pre-trained

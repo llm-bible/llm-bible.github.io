@@ -7,7 +7,7 @@ year: 2023
 bibkey: park2023graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.09762"}
-tags: ['Prompting', 'RAG', 'Applications']
+tags: ['RAG', 'Prompting', 'Applications']
 ---
 Chain-of-Thought (CoT) prompting along with sub-question generation and
 answering has enhanced multi-step reasoning capabilities of Large Language

@@ -8,7 +8,7 @@ bibkey: zhu2024generative
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.00976"}
   - {name: "Code", url: "https://github.com/youngsheen/GPST"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'In-Context Learning']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 While recent advancements in speech language models have achieved significant
 progress, they face remarkable challenges in modeling the long acoustic

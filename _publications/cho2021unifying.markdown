@@ -8,7 +8,7 @@ bibkey: cho2021unifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2102.02779"}
   - {name: "Code", url: "https://github.com/j-min/VL-T5"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Language Modeling', 'Has Code', 'Applications']
+tags: ['Tools', 'Applications', 'Language Modeling', 'Model Architecture', 'Has Code', 'Multimodal Models']
 ---
 Existing methods for vision-and-language learning typically require designing
 task-specific architectures and objectives for each task. For example, a

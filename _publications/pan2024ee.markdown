@@ -8,7 +8,7 @@ bibkey: pan2024ee
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.00518"}
   - {name: "Code", url: "https://github.com/pan-x-c/EE-LLM"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code']
 ---
 This work introduces EE-Tuning, a lightweight and economical solution to
 training/tuning early-exit large language models (LLMs). In contrast to the

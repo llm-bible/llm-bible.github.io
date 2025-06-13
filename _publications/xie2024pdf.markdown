@@ -8,7 +8,7 @@ bibkey: xie2024pdf
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05970"}
   - {name: "Code", url: "https://github.com/yh-hust/PDF-Wukong"}
-tags: ['Multimodal Models', 'Efficiency and Optimization', 'Reinforcement Learning', 'RAG', 'Has Code']
+tags: ['Efficiency and Optimization', 'RAG', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 Multimodal document understanding is a challenging task to process and
 comprehend large amounts of textual and visual information. Recent advances in

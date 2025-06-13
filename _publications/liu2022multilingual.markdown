@@ -7,7 +7,7 @@ year: 2022
 bibkey: liu2022multilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2208.08629"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Large-Scale Training']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Large-Scale Training', 'Training Techniques']
 ---
 Building dialogue generation systems in a zero-shot scenario remains a huge
 challenge, since the typical zero-shot approaches in dialogue generation rely

@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2505.03005"}
   - {name: "Code", url: "https://huggingface.co/collections/recursal/radlads-6818ee69e99e729ba8a87102"}
   - {name: "Code", url: "https://github.com/recursal/RADLADS-paper"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Distillation', 'Pretraining Methods', 'Transformer', 'Has Code', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Distillation']
 ---
 We present Rapid Attention Distillation to Linear Attention Decoders at Scale
 (RADLADS), a protocol for rapidly converting softmax attention transformers

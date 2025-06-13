@@ -7,7 +7,7 @@ year: 2022
 bibkey: yeh2022multi
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2211.07441"}
-tags: ['Model Architecture', 'Applications', 'Attention Mechanism', 'Reinforcement Learning']
+tags: ['Attention Mechanism', 'Reinforcement Learning', 'Applications', 'Model Architecture']
 ---
 Generating engaging content has drawn much recent attention in the NLP
 community. Asking questions is a natural way to respond to photos and promote

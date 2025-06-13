@@ -8,7 +8,7 @@ bibkey: hu2025dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.11004"}
   - {name: "Code", url: "https://github.com/Fhujinwu/DCP"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Has Code', 'Prompting']
+tags: ['Agentic', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Prompting']
 ---
 Large Language Models (LLMs) have shown outstanding performance across a
 variety of tasks, partly due to advanced prompting techniques. However, these

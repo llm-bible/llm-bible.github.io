@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024fully
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.06845"}
-tags: ['Responsible AI', 'Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Responsible AI', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Ethics and Bias', 'GPT', 'Agentic', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods', 'Few-Shot']
 ---
 Recently, Large Language Models (LLMs) have undergone a significant
 transformation, marked by a rapid rise in both their popularity and

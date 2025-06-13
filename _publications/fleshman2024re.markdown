@@ -7,7 +7,7 @@ year: 2024
 bibkey: fleshman2024re
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.14764"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Applications', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Applications', 'Pretraining Methods']
 ---
 Large language models (LLMs) fine-tuned for text-retrieval have demonstrated
 state-of-the-art results across several information retrieval (IR) benchmarks.

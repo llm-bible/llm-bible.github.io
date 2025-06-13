@@ -8,7 +8,7 @@ bibkey: abbasi2024universal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08791"}
   - {name: "Code", url: "https://github.com/abbasiReza/super-pipeline"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 The rapid growth in machine learning models, especially in natural language
 processing and computer vision, has led to challenges when running these models

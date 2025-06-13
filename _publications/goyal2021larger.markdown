@@ -7,7 +7,7 @@ year: 2021
 bibkey: goyal2021larger
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2105.00572"}
-tags: ['Masked Language Model', 'Training Techniques', 'Model Architecture', 'RAG', 'Language Modeling', 'Pretraining Methods', 'BERT', 'Transformer']
+tags: ['Transformer', 'RAG', 'Language Modeling', 'Model Architecture', 'Masked Language Model', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 Recent work has demonstrated the effectiveness of cross-lingual language
 model pretraining for cross-lingual understanding. In this study, we present

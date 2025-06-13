@@ -7,7 +7,7 @@ year: 2024
 bibkey: ding2024ra
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14154"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'RAG', 'Merging', 'Interpretability and Explainability', 'Pre-Training']
+tags: ['Pre-Training', 'Tools', 'Interpretability and Explainability', 'RAG', 'Merging', 'Training Techniques', 'Multimodal Models']
 ---
 Multimodal Large Language Models (MLLMs) have recently received substantial
 interest, which shows their emerging potential as general-purpose models for

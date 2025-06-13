@@ -7,7 +7,7 @@ year: 2024
 bibkey: safa2024zero
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.15861"}
-tags: ['Prompting', 'Tools']
+tags: ['Tools', 'Prompting']
 ---
 Dialogue State Tracking (DST) is crucial for understanding user needs and
 executing appropriate system actions in task-oriented dialogues. Majority of

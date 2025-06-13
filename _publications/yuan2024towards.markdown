@@ -7,7 +7,7 @@ year: 2024
 bibkey: yuan2024towards
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16164"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Scaling Laws', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Scaling Laws']
 ---
 Large language models (LLMs) have shown remarkable performance on a variety
 of NLP tasks, and are being rapidly adopted in a wide range of use cases. It is

@@ -7,7 +7,7 @@ year: 2024
 bibkey: qian2024are
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06338"}
-tags: ['Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Interpretability and Explainability', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'Interpretability and Explainability', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
 ---
 This paper investigates whether large language models (LLMs) are
 state-of-the-art quality estimators for machine translation of user-generated

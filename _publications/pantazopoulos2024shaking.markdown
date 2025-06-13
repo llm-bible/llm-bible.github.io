@@ -7,7 +7,7 @@ year: 2024
 bibkey: pantazopoulos2024shaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.05395"}
-tags: ['Multimodal Models', 'Model Architecture', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Applications', 'Language Modeling', 'Model Architecture', 'Pretraining Methods', 'Multimodal Models']
 ---
 This study explores replacing Transformers in Visual Language Models (VLMs)
 with Mamba, a recent structured state space model (SSM) that demonstrates

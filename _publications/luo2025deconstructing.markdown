@@ -7,7 +7,7 @@ year: 2025
 bibkey: luo2025deconstructing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.16385"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Distillation']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Distillation']
 ---
 Recent advancements in large language models (LLMs) have demonstrated
 remarkable reasoning capabilities through long chain-of-thought (CoT)

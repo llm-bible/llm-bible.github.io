@@ -8,7 +8,7 @@ bibkey: zeng2024can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.01293"}
   - {name: "Code", url: "https://github.com/UW-Madison-Lee-Lab/CoBSAT"}
-tags: ['Multimodal Models', 'Training Techniques', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Applications', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 The evolution from Large Language Models (LLMs) to Multimodal Large Language
 Models (MLLMs) has spurred research into extending In-Context Learning (ICL) to

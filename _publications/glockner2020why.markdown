@@ -7,7 +7,7 @@ year: 2020
 bibkey: glockner2020why
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2010.03384"}
-tags: ['BERT', 'Training Techniques', 'Tools', 'Model Architecture']
+tags: ['Training Techniques', 'BERT', 'Tools', 'Model Architecture']
 ---
 Evaluating the trustworthiness of a model's prediction is essential for
 differentiating between `right for the right reasons' and `right for the wrong

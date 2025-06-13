@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024preemptive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.20902"}
-tags: ['Prompting', 'Security']
+tags: ['Security', 'Prompting']
 ---
 Large language models (LLMs) showcase impressive reasoning capabilities when
 coupled with Chain-of-Thought (CoT) prompting. However, the robustness of this

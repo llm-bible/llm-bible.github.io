@@ -7,7 +7,7 @@ year: 2019
 bibkey: lee2019patent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1907.02052"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods']
 ---
 In this work, we focus on fine-tuning an OpenAI GPT-2 pre-trained model for
 generating patent claims. GPT-2 has demonstrated impressive efficacy of

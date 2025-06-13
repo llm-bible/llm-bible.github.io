@@ -7,7 +7,7 @@ year: 2025
 bibkey: behnam2025accelerating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.14051"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer-based Large Language Models rely critically on KV cache to
 efficiently handle extended contexts during the decode phase. Yet, the size of

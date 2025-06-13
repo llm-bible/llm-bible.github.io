@@ -8,7 +8,7 @@ bibkey: bao2021fine
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2110.13640"}
   - {name: "Code", url: "https://github.com/microsoft/unilm/tree/master/s2s-ft"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'BERT', 'Fine-Tuning', 'Transformer', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Transformer', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'BERT']
 ---
 Pretrained bidirectional Transformers, such as BERT, have achieved
 significant improvements in a wide variety of language understanding tasks,

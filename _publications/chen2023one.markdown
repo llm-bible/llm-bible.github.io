@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023one
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.16989"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Survey Paper', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Upon its release in late 2022, ChatGPT has brought a seismic shift in the
 entire landscape of AI, both in research and commerce. Through

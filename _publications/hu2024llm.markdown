@@ -7,7 +7,7 @@ year: 2024
 bibkey: hu2024llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.01248"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'GPT']
+tags: ['Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Multimodal Models']
 ---
 This paper introduces SceneCraft, a Large Language Model (LLM) Agent
 converting text descriptions into Blender-executable Python scripts which

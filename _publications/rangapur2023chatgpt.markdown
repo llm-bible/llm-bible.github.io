@@ -7,7 +7,7 @@ year: 2023
 bibkey: rangapur2023chatgpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.03325"}
-tags: ['BERT', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['BERT', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models have gained considerable interest for their impressive
 performance on various tasks. Among these models, ChatGPT developed by OpenAI

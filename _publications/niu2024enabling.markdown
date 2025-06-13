@@ -7,7 +7,7 @@ year: 2024
 bibkey: niu2024enabling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.02352"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'BERT', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'BERT']
 ---
 We propose a new attention mechanism with linear complexity, ATP, that
 fixates \textbf\{A\}ttention on \textbf\{T\}op \textbf\{P\}rincipal keys, rather than

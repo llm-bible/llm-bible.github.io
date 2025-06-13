@@ -7,7 +7,7 @@ year: 2023
 bibkey: ojo2023how
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.07978"}
-tags: ['Model Architecture', 'Language Modeling', 'BERT', 'Prompting', 'Applications']
+tags: ['Applications', 'Language Modeling', 'Model Architecture', 'BERT', 'Prompting']
 ---
 Large-scale multilingual evaluations, such as MEGA, often include only a
 handful of African languages due to the scarcity of high-quality evaluation

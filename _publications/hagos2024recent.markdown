@@ -7,7 +7,7 @@ year: 2024
 bibkey: hagos2024recent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.14962"}
-tags: ['Merging', 'Applications']
+tags: ['Applications', 'Merging']
 ---
 The emergence of Generative Artificial Intelligence (AI) and Large Language
 Models (LLMs) has marked a new era of Natural Language Processing (NLP),

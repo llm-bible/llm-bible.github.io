@@ -7,7 +7,7 @@ year: 2025
 bibkey: lv2025data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.12687"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tokenization', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Applications', 'RAG', 'Training Techniques', 'Tokenization', 'Pretraining Methods']
 ---
 Large language models (LLMs) have demonstrated significant potential in code
 generation tasks. However, there remains a performance gap between open-source

@@ -8,7 +8,7 @@ bibkey: oğuz2024do
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.05569"}
   - {name: "Code", url: "https://anonymous.4open.science/r/indexical_shift_llm-E1B4"}
-tags: ['Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Has Code', 'Applications']
+tags: ['GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Has Code', 'Few-Shot']
 ---
 Large language models (LLMs) have shown impressive capabilities in tasks such
 as machine translation, text summarization, question answering, and solving

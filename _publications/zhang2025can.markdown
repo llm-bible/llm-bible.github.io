@@ -8,7 +8,7 @@ bibkey: zhang2025can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.16427"}
   - {name: "Code", url: "https://github.com/thuiar/MMLA"}
-tags: ['Multimodal Models', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Multimodal language analysis is a rapidly evolving field that leverages
 multiple modalities to enhance the understanding of high-level semantics

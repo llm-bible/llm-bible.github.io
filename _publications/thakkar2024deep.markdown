@@ -7,7 +7,7 @@ year: 2024
 bibkey: thakkar2024deep
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04879"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models are first pre-trained on trillions of tokens and then
 instruction-tuned or aligned to specific preferences. While pre-training

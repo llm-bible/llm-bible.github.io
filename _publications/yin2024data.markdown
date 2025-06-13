@@ -8,7 +8,7 @@ bibkey: yin2024data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.19951"}
   - {name: "Code", url: "https://github.com/VITA-MLLM/Sparrow"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models']
 ---
 Recent years have witnessed the success of Multimodal Large Language Models
 (MLLMs) in the vision understanding domain. The success of these models can

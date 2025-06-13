@@ -7,7 +7,7 @@ year: 2020
 bibkey: yue2020clinical
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2005.00574"}
-tags: ['BERT', 'Applications', 'EMNLP', 'Model Architecture']
+tags: ['BERT', 'EMNLP', 'Applications', 'Model Architecture']
 ---
 Machine reading comprehension has made great progress in recent years owing
 to large-scale annotated datasets. In the clinical domain, however, creating

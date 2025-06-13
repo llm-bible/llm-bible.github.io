@@ -7,7 +7,7 @@ year: 2024
 bibkey: arias2024decoding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.06097"}
-tags: ['Language Modeling', 'Applications']
+tags: ['Applications', 'Language Modeling']
 ---
 Decoding strategies for generative large language models (LLMs) are a
 critical but often underexplored aspect of text generation tasks. Guided by

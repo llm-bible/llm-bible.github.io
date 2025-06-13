@@ -7,7 +7,7 @@ year: 2024
 bibkey: pareja2024unveiling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.13337"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Survey Paper', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 The rise of large language models (LLMs) has created a significant disparity:
 industrial research labs with their computational resources, expert teams, and

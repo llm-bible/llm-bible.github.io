@@ -7,7 +7,7 @@ year: 2024
 bibkey: chen2024lmstyle
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08943"}
-tags: ['Model Architecture', 'GPT', 'Attention Mechanism', 'Tools']
+tags: ['Tools', 'GPT', 'Attention Mechanism', 'Model Architecture']
 ---
 Since the breakthrough of ChatGPT, large language models (LLMs) have garnered
 significant attention in the research community. With the development of LLMs,

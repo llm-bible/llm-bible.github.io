@@ -7,7 +7,7 @@ year: 2023
 bibkey: jin2023contrastive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.00589"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Information retrieval (IR) is essential in biomedical knowledge acquisition
 and clinical decision support. While recent progress has shown that language

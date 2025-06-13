@@ -8,7 +8,7 @@ bibkey: lv2023full
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.09782"}
   - {name: "Code", url: "https://github.com/OpenLMLab/LOMO"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'RAG', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large Language Models (LLMs) have revolutionized Natural Language Processing
 (NLP) but demand massive GPU resources for training. Lowering the threshold for

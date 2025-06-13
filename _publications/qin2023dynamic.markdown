@@ -7,7 +7,7 @@ year: 2023
 bibkey: qin2023dynamic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02409"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Transformer-based language models (LMs) are inefficient in long contexts. We
 propose Dodo, a solution for context compression. Instead of one vector per

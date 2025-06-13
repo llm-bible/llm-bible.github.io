@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024comprehensive
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2411.03350"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Survey Paper', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Survey Paper', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting']
 ---
 Large language models (LLMs) have demonstrated emergent abilities in text
 generation, question answering, and reasoning, facilitating various tasks and

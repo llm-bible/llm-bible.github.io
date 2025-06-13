@@ -7,7 +7,7 @@ year: 2024
 bibkey: kumar2024improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.00199"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Agentic', 'Reinforcement Learning']
+tags: ['Agentic', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 The Socratic method is a way of guiding students toward solving a problem
 independently without directly revealing the solution to the problem. Although

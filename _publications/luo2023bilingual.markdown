@@ -7,7 +7,7 @@ year: 2023
 bibkey: luo2023bilingual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2311.11608"}
-tags: ['Training Techniques', 'RAG', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Training Techniques', 'Pretraining Methods']
 ---
 Objective: Most existing fine-tuned biomedical large language models (LLMs)
 focus on enhancing performance in monolingual biomedical question answering and

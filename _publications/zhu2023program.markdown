@@ -8,7 +8,7 @@ bibkey: zhu2023program
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.13888"}
   - {name: "Code", url: "https://github.com/Xuekai-Zhu/pad"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
 ---
 While large language models (LLMs) excel in various natural language
 processing tasks, their huge size and the inaccessibility of parameters present

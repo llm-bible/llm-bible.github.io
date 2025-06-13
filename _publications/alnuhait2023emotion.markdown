@@ -8,7 +8,7 @@ bibkey: alnuhait2023emotion
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.07316v1"}
   - {name: "Code", url: "https://github.com/qywu/FaceChat"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Has Code', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Has Code', 'Multimodal Models']
 ---
 While current dialogue systems like ChatGPT have made significant
 advancements in text-based interactions, they often overlook the potential of

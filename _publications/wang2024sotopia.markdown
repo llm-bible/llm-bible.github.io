@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024sotopia
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2403.08715"}
-tags: ['Responsible AI', 'Agentic', 'Training Techniques', 'Model Architecture', 'RAG', 'GPT']
+tags: ['Responsible AI', 'Agentic', 'GPT', 'RAG', 'Model Architecture', 'Training Techniques']
 ---
 Humans learn social skills through both imitation and social interaction.
 This social learning process is largely understudied by existing research on

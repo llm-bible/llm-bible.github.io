@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhu2024quite
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.06996"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Ethics and Bias', 'Prompting', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Ethics and Bias', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Prompting']
 ---
 While nationality is a pivotal demographic element that enhances the
 performance of language models, it has received far less scrutiny regarding

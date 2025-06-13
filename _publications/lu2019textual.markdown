@@ -7,7 +7,7 @@ year: 2019
 bibkey: lu2019textual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.09134"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Agentic', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Attention Mechanism']
 ---
 Multiple-choice VQA has drawn increasing attention from researchers and
 end-users recently. As the demand for automatically constructing large-scale

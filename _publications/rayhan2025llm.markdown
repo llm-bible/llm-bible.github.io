@@ -7,7 +7,7 @@ year: 2025
 bibkey: rayhan2025llm
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.21132"}
-tags: ['Agentic', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs), such as ChatGPT, have demonstrated the
 capability to generate human like, natural responses across a range of tasks,

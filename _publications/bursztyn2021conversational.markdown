@@ -7,7 +7,7 @@ year: 2021
 bibkey: bursztyn2021conversational
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2112.04404"}
-tags: ['Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'GPT']
+tags: ['GPT', 'Model Architecture', 'Language Modeling', 'Reinforcement Learning', 'Multimodal Models']
 ---
 Based on recent advances in realistic language modeling (GPT-3) and
 cross-modal representations (CLIP), Gaud\'i was developed to help designers

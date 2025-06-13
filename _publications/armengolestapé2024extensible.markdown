@@ -7,7 +7,7 @@ year: 2024
 bibkey: armengolestapé2024extensible
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.16041"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Tools', 'GPT', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods']
 ---
 The escalating demand to migrate legacy software across different Instruction
 Set Architectures (ISAs) has driven the development of assembly-to-assembly

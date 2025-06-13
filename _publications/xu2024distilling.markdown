@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024distilling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17890"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Language Modeling', 'Distillation', 'Pruning', 'Quantization']
+tags: ['Tools', 'Efficiency and Optimization', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Pruning', 'Training Techniques', 'Quantization', 'Distillation']
 ---
 Sequential Recommendation (SR) task involves predicting the next item a user
 is likely to interact with, given their past interactions. The SR models

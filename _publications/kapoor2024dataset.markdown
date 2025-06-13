@@ -7,7 +7,7 @@ year: 2024
 bibkey: kapoor2024dataset
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.17553"}
-tags: ['Agentic', 'Multimodal Models', 'Model Architecture', 'Agent', 'Tools', 'GPT', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Agent', 'Multimodal Models']
 ---
 For decades, human-computer interaction has fundamentally been manual. Even
 today, almost all productive work done on the computer necessitates human input

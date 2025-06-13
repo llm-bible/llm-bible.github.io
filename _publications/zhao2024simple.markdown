@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhao2024simple
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09529"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods', 'Prompting']
 ---
 During inference for transformer-based large language models (LLM),
 prefilling is the computation of the key-value (KV) cache for input tokens in

@@ -8,7 +8,7 @@ bibkey: cheng2025aligning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.20491"}
   - {name: "Code", url: "https://github.com/thu-coai/VPO"}
-tags: ['Responsible AI', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Responsible AI', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 Video generation models have achieved remarkable progress in text-to-video
 tasks. These models are typically trained on text-video pairs with highly

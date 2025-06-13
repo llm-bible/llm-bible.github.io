@@ -7,7 +7,7 @@ year: 2024
 bibkey: geng2024sketch
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09967"}
-tags: ['Training Techniques', 'Language Modeling', 'Ethics and Bias', 'Interpretability', 'Applications']
+tags: ['Applications', 'Ethics and Bias', 'Language Modeling', 'Interpretability', 'Training Techniques']
 ---
 Constrained decoding, a technique for enforcing constraints on language model
 outputs, offers a way to control text generation without retraining or

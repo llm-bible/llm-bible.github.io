@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024effective
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.12499"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have exhibited impressive multilingual reasoning
 capabilities, driven by extensive multilingual pre-training corpora and

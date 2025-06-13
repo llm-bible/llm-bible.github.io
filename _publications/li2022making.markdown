@@ -7,7 +7,7 @@ year: 2022
 bibkey: li2022making
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2206.02336v3"}
-tags: ['Prompting', 'Model Architecture', 'GPT', 'Few-Shot']
+tags: ['Few-Shot', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Few-shot learning is a challenging task that requires language models to
 generalize from limited examples. Large language models like GPT-3 and PaLM

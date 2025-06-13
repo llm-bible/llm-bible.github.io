@@ -7,7 +7,7 @@ year: 2025
 bibkey: du2025breaking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.03777"}
-tags: ['Efficiency and Optimization', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization']
 ---
 Large Language Models (LLMs) face challenges for on-device inference due to
 high memory demands. Traditional methods to reduce memory usage often

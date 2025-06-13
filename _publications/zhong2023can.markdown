@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhong2023can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.10335"}
-tags: ['Security', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Applications']
+tags: ['Tools', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security']
 ---
 Recently, the large language models (LLMs) have shown extraordinary ability
 in understanding natural language and generating programming code. It has been

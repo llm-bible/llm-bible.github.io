@@ -8,7 +8,7 @@ bibkey: qin2024unleashing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.02085"}
   - {name: "Code", url: "https://github.com/yuleiqin/fantastic-data-engineering"}
-tags: ['Survey Paper', 'Training Techniques', 'Has Code']
+tags: ['Training Techniques', 'Survey Paper', 'Has Code']
 ---
 Instruction tuning plays a critical role in aligning large language models
 (LLMs) with human preference. Despite the vast amount of open instruction

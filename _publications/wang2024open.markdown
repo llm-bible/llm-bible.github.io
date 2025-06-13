@@ -8,7 +8,7 @@ bibkey: wang2024open
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.09671"}
   - {name: "Code", url: "https://openreasoner.github.io"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Has Code', 'Dataset']
+tags: ['Agentic', 'GPT', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Dataset']
 ---
 In this technical report, we introduce OpenR, an open-source framework
 designed to integrate key components for enhancing the reasoning capabilities

@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.01951"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'RAG', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Tools', 'RAG', 'Language Modeling', 'Reinforcement Learning', 'Training Techniques']
 ---
 Recent work in language modeling has raised the possibility of
 self-improvement, where a language models evaluates and refines its own

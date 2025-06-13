@@ -9,7 +9,7 @@ additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.10706"}
   - {name: "Code", url: "https://huggingface.co/openBA"}
   - {name: "Code", url: "https://github.com/OpenNLG/openBA.git"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Pre-Training']
+tags: ['Fine-Tuning', 'Transformer', 'Pre-Training', 'Tools', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Large language models (LLMs) with billions of parameters have demonstrated
 outstanding performance on various natural language processing tasks. This

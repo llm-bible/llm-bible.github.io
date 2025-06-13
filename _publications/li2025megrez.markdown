@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025megrez
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.15803"}
-tags: ['Security', 'Applications', 'Multimodal Models', 'Reinforcement Learning']
+tags: ['Security', 'Multimodal Models', 'Applications', 'Reinforcement Learning']
 ---
 In this work, we present the Megrez models, comprising a language model
 (Megrez-3B-Instruct) and a multimodal model (Megrez-3B-Omni). These models are

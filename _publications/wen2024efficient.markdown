@@ -7,7 +7,7 @@ year: 2024
 bibkey: wen2024efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.14072"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Transformer', 'Prompting', 'Applications']
+tags: ['Transformer', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Recent advancements in vision-language models (VLMs) have expanded their
 potential for real-world applications, enabling these models to perform complex

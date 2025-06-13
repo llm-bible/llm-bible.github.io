@@ -8,7 +8,7 @@ bibkey: gao2024vid
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.10981"}
   - {name: "Code", url: "https://github.com/Dawn-LX/Causal-VideoGen"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Merging', 'GPT', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting', 'Attention Mechanism']
+tags: ['Transformer', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Attention Mechanism', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 With the advance of diffusion models, today's video generation has achieved
 impressive quality. But generating temporal consistent long videos is still

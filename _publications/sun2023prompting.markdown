@@ -8,7 +8,7 @@ bibkey: sun2023prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.14766"}
   - {name: "Code", url: "https://github.com/microsoft/SimXNS/tree/main/ALLIES"}
-tags: ['Tools', 'RAG', 'Has Code', 'Prompting', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Has Code', 'Prompting']
 ---
 With the advance of large language models (LLMs), the research field of LLM
 applications becomes more and more popular and the idea of constructing

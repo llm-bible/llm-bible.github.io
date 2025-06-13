@@ -7,7 +7,7 @@ year: 2023
 bibkey: sardana2023beyond
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.00448"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Scaling Laws', 'Reinforcement Learning', 'Large-Scale Training', 'Pre-Training']
+tags: ['Pre-Training', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Scaling Laws']
 ---
 Large language model (LLM) scaling laws are empirical formulas that estimate
 changes in model quality as a result of increasing parameter count and training

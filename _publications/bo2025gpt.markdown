@@ -7,7 +7,7 @@ year: 2025
 bibkey: bo2025gpt
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.10490"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Interpretability and Explainability', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'GPT', 'Interpretability and Explainability', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 We explore the potential of integrating learnable and interpretable
 modules--specifically Kolmogorov-Arnold Networks (KAN) and graph-based

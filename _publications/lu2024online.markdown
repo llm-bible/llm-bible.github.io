@@ -7,7 +7,7 @@ year: 2024
 bibkey: lu2024online
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.17931"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Pretraining Methods']
 ---
 Effectively aligning Large Language Models (LLMs) with human-centric values
 while preventing the degradation of abilities acquired through Pre-training and

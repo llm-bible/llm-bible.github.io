@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023graph
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05007"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Few-Shot', 'Tools', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'Efficiency and Optimization', 'Tools', 'Applications', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting']
 ---
 Recent advances in few-shot question answering (QA) mostly rely on the power
 of pre-trained large language models (LLMs) and fine-tuning in specific

@@ -7,7 +7,7 @@ year: 2024
 bibkey: yadav2024mind
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23437"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'Language Modeling', 'Pretraining Methods', 'Transformer', 'Applications']
+tags: ['Transformer', 'Tools', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 Retrieval-Augmented Generation (RAG) systems enhance text generation by
 incorporating external knowledge but often struggle when retrieving context

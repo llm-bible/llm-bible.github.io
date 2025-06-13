@@ -7,7 +7,7 @@ year: 2024
 bibkey: wang2024arithmetic
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.18571"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Agentic', 'Efficiency and Optimization', 'Tools', 'Applications', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Fine-grained control over large language models (LLMs) remains a significant
 challenge, hindering their adaptability to diverse user needs. While

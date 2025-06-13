@@ -7,7 +7,7 @@ year: 2024
 bibkey: nelson2024needle
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.01437"}
-tags: ['Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Current large language models (LLMs) often perform poorly on simple fact
 retrieval tasks. Here we investigate if coupling a dynamically adaptable

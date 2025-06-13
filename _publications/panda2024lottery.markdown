@@ -8,7 +8,7 @@ bibkey: panda2024lottery
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.16797"}
   - {name: "Code", url: "https://github.com/kiddyboots216/lottery-ticket-adaptation"}
-tags: ['Training Techniques', 'Reinforcement Learning', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Has Code', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'Merging', 'Reinforcement Learning', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Existing methods for adapting large language models (LLMs) to new tasks are
 not suited to multi-task adaptation because they modify all the model weights

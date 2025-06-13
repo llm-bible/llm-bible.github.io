@@ -7,7 +7,7 @@ year: 2024
 bibkey: bogin2024evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.07440"}
-tags: ['Agentic', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 Given that Large Language Models (LLMs) have made significant progress in
 writing code, can they now be used to autonomously reproduce results from

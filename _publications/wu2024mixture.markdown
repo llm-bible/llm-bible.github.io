@@ -7,7 +7,7 @@ year: 2024
 bibkey: wu2024mixture
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08811"}
-tags: ['Agentic', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) are typically fine-tuned on diverse and
 extensive datasets sourced from various origins to develop a comprehensive

@@ -7,7 +7,7 @@ year: 2021
 bibkey: donato2021diverse
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2106.03717"}
-tags: ['WMT', 'Training Techniques', 'Efficiency and Optimization', 'Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'SLT']
+tags: ['Transformer', 'Efficiency and Optimization', 'Model Architecture', 'WMT', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'SLT']
 ---
 We propose a new architecture for adapting a sentence-level
 sequence-to-sequence transformer by incorporating multiple pretrained document

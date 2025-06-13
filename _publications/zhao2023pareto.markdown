@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhao2023pareto
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2306.16564"}
-tags: ['Prompting', 'Efficiency and Optimization', 'Applications', 'Tools']
+tags: ['Tools', 'Efficiency and Optimization', 'Prompting', 'Applications']
 ---
 Large Language Models (LLMs) have shown impressive abilities in many
 applications. When a concrete and precise answer is desired, it is important to

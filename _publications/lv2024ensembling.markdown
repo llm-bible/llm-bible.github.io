@@ -7,7 +7,7 @@ year: 2024
 bibkey: lv2024ensembling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07380"}
-tags: ['RAG', 'Training Techniques', 'Merging', 'Tools']
+tags: ['Training Techniques', 'RAG', 'Tools', 'Merging']
 ---
 Ensembles of generative large language models (LLMs) can integrate the
 strengths of different LLMs to compensate for the limitations of individual

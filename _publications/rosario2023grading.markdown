@@ -7,7 +7,7 @@ year: 2023
 bibkey: rosario2023grading
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2303.12038"}
-tags: ['Prompting', 'Model Architecture', 'Applications', 'GPT']
+tags: ['GPT', 'Prompting', 'Applications', 'Model Architecture']
 ---
 Chatbots have long been capable of answering basic questions and even
 responding to obscure prompts, but recently their improvements have been far

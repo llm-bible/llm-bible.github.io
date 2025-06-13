@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024hit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.18583"}
-tags: ['Security', 'Merging', 'RAG']
+tags: ['RAG', 'Security', 'Merging']
 ---
 Ensembling various LLMs to unlock their complementary potential and leverage
 their individual strengths is highly valuable. Previous studies typically focus

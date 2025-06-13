@@ -7,7 +7,7 @@ year: 2025
 bibkey: singh2025leveraging
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.09003"}
-tags: ['Model Architecture', 'Few-Shot', 'Tools', 'RAG', 'GPT', 'Prompting']
+tags: ['Tools', 'GPT', 'RAG', 'Model Architecture', 'Few-Shot', 'Prompting']
 ---
 Data catalogs serve as repositories for organizing and accessing diverse
 collection of data assets, but their effectiveness hinges on the ease with

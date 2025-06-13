@@ -7,7 +7,7 @@ year: 2023
 bibkey: yuan2023scaling
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2308.01825"}
-tags: ['Pretraining Methods', 'Training Techniques', 'Pre-Training', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Training Techniques', 'Pre-Training', 'Pretraining Methods']
 ---
 Mathematical reasoning is a challenging task for large language models
 (LLMs), while the scaling relationship of it with respect to LLM capacity is

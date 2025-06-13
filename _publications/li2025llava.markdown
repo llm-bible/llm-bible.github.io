@@ -7,7 +7,7 @@ year: 2025
 bibkey: li2025llava
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07487"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning']
+tags: ['Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Multimodal Models']
 ---
 Recently, multimodal large models (MLLMs) have demonstrated exceptional
 capabilities in visual understanding and reasoning across various

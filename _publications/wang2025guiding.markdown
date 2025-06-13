@@ -7,7 +7,7 @@ year: 2025
 bibkey: wang2025guiding
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.18070"}
-tags: ['RAG', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['RAG', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Retrieval Augmented Generation (RAG) has become the standard non-parametric
 approach for equipping Large Language Models (LLMs) with up-to-date knowledge

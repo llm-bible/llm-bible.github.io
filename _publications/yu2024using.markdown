@@ -7,7 +7,7 @@ year: 2024
 bibkey: yu2024using
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.19056"}
-tags: ['Prompting', 'RAG', 'Model Architecture', 'GPT']
+tags: ['RAG', 'GPT', 'Prompting', 'Model Architecture']
 ---
 Existing math datasets evaluate the reasoning abilities of large language
 models (LLMs) by either using the final answer or the intermediate reasoning

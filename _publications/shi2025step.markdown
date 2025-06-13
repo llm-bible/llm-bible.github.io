@@ -8,7 +8,7 @@ bibkey: shi2025step
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.16786"}
   - {name: "Code", url: "https://github.com/liuting20/SwimVG"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Multimodal Models', 'Model Architecture', 'Tools', 'Merging', 'Pretraining Methods', 'Fine-Tuning', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Fine-Tuning', 'Transformer', 'Tools', 'Efficiency and Optimization', 'Model Architecture', 'Merging', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Multimodal Models', 'Prompting']
 ---
 Visual grounding aims to ground an image region through natural language,
 which heavily relies on cross-modal alignment. Most existing methods transfer

@@ -7,7 +7,7 @@ year: 2024
 bibkey: jin2024self
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2404.09336"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'GPT', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models (LLMs) can solve challenging tasks. However, their
 inference computation on modern GPUs is highly inefficient due to the

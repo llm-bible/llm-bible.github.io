@@ -7,7 +7,7 @@ year: 2024
 bibkey: nouriinanloo2024re
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.18740"}
-tags: ['RAG', 'Model Architecture', 'Applications', 'GPT']
+tags: ['RAG', 'GPT', 'Model Architecture', 'Applications']
 ---
 Large Language Models (LLMs) have been revolutionizing a myriad of natural
 language processing tasks with their diverse zero-shot capabilities. Indeed,

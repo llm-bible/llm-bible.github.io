@@ -7,7 +7,7 @@ year: 2024
 bibkey: luo2024barking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.08110"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Applications', 'Attention Mechanism']
+tags: ['Applications', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Multimodal Models']
 ---
 Vision-Language Models (VLMs) implicitly learn to associate image regions
 with words from large-scale training data, demonstrating an emergent capability

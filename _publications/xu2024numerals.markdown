@@ -7,7 +7,7 @@ year: 2024
 bibkey: xu2024numerals
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02864"}
-tags: ['Model Architecture', 'Attention Mechanism']
+tags: ['Attention Mechanism', 'Model Architecture']
 ---
 Numeral systems and units of measurement are two conjoined topics in
 activities of human beings and have mutual effects with the languages

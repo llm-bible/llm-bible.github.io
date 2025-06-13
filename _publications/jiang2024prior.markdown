@@ -8,7 +8,7 @@ bibkey: jiang2024prior
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.15051"}
   - {name: "Code", url: "https://github.com/fletcherjiang/LLMEPET"}
-tags: ['Multimodal Models', 'Model Architecture', 'Tools', 'RAG', 'Merging', 'Has Code']
+tags: ['Tools', 'RAG', 'Model Architecture', 'Merging', 'Has Code', 'Multimodal Models']
 ---
 In this paper, we investigate the feasibility of leveraging large language
 models (LLMs) for integrating general knowledge and incorporating pseudo-events

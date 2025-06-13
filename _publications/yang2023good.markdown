@@ -7,7 +7,7 @@ year: 2023
 bibkey: yang2023good
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.01598"}
-tags: ['Multimodal Models', 'RAG', 'Fine-Tuning', 'Prompting', 'Applications']
+tags: ['Fine-Tuning', 'Applications', 'RAG', 'Multimodal Models', 'Prompting']
 ---
 Aligning the recent large language models (LLMs) with computer vision models
 leads to large vision-language models (LVLMs), which have paved the way for

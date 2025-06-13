@@ -7,7 +7,7 @@ year: 2024
 bibkey: huang2024demystifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2407.17817"}
-tags: ['Language Modeling', 'Training Techniques', 'Pre-Training', 'Tools']
+tags: ['Training Techniques', 'Pre-Training', 'Language Modeling', 'Tools']
 ---
 Large Language Models (LLMs) frequently memorize long sequences verbatim,
 often with serious legal and privacy implications. Much prior work has studied

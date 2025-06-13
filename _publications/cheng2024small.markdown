@@ -8,7 +8,7 @@ bibkey: cheng2024small
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.11277"}
   - {name: "Code", url: "https://github.com/RUCAIBox/HaluAgent"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Tools', 'RAG', 'Model Architecture', 'Training Techniques', 'Has Code', 'Pretraining Methods']
 ---
 Hallucination detection is a challenging task for large language models
 (LLMs), and existing studies heavily rely on powerful closed-source LLMs such

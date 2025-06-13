@@ -7,7 +7,7 @@ year: 2024
 bibkey: ossowski2024prompting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11337"}
-tags: ['Multimodal Models', 'Model Architecture', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Multimodal Models', 'Prompting']
 ---
 Vision-language models such as CLIP have shown impressive capabilities in
 encoding texts and images into aligned embeddings, enabling the retrieval of

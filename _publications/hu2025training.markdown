@@ -7,7 +7,7 @@ year: 2025
 bibkey: hu2025training
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.02988"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Distillation', 'Pretraining Methods', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods', 'Prompting', 'Distillation']
 ---
 The rapid advancement of large language models (LLMs) has opened new
 possibilities for their adoption as evaluative judges. This paper introduces

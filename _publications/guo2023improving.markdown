@@ -7,7 +7,7 @@ year: 2023
 bibkey: guo2023improving
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2305.07804"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Model Architecture', 'Few-Shot', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Applications']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'GPT', 'Applications', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Few-Shot']
 ---
 Large Language Models (LLMs) have made remarkable advancements in the field
 of natural language processing. However, their increasing size poses challenges

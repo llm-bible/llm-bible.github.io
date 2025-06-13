@@ -7,7 +7,7 @@ year: 2024
 bibkey: qi2024quantifying
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.01769"}
-tags: ['RAG', 'Model Architecture', 'GPT', 'Tools']
+tags: ['RAG', 'Tools', 'GPT', 'Model Architecture']
 ---
 While large language models (LLMs) have shown exceptional capabilities in
 understanding complex queries and performing sophisticated tasks, their

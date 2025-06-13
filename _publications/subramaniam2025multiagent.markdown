@@ -7,7 +7,7 @@ year: 2025
 bibkey: subramaniam2025multiagent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2501.05707"}
-tags: ['Agentic', 'Training Techniques', 'Reinforcement Learning', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Agentic', 'Reinforcement Learning', 'Training Techniques', 'Pretraining Methods']
 ---
 Large language models (LLMs) have achieved remarkable performance in recent
 years but are fundamentally limited by the underlying training data. To improve

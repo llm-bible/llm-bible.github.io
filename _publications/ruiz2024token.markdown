@@ -7,7 +7,7 @@ year: 2024
 bibkey: ruiz2024token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2412.07682"}
-tags: ['Prompting', 'Efficiency and Optimization', 'RAG', 'Reinforcement Learning']
+tags: ['RAG', 'Efficiency and Optimization', 'Prompting', 'Reinforcement Learning']
 ---
 The inference cost of Large Language Models (LLMs) is a significant challenge
 due to their computational demands, specially on tasks requiring long outputs.

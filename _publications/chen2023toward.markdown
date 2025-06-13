@@ -7,7 +7,7 @@ year: 2023
 bibkey: chen2023toward
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.05915"}
-tags: ['Agentic', 'Security', 'Model Architecture', 'Efficiency and Optimization', 'Few-Shot', 'Tools', 'Reinforcement Learning', 'Training Techniques', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Prompting', 'Applications', 'In-Context Learning']
+tags: ['Fine-Tuning', 'Agentic', 'GPT', 'Efficiency and Optimization', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Pretraining Methods', 'Few-Shot', 'Prompting', 'In-Context Learning']
 ---
 Recent efforts have augmented language models (LMs) with external tools or
 environments, leading to the development of language agents that can reason and

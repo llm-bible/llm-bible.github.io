@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024token
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.11724"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Large-Scale Training']
+tags: ['Tools', 'Efficiency and Optimization', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques']
 ---
 Given a Large Language Model (LLM) generation, how can we identify which
 training data led to this generation? In this paper, we proposed RapidIn, a

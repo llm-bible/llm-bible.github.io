@@ -7,7 +7,7 @@ year: 2025
 bibkey: das2025can
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.07903"}
-tags: ['Pretraining Methods', 'Model Architecture', 'Transformer', 'Reinforcement Learning']
+tags: ['Transformer', 'Pretraining Methods', 'Model Architecture', 'Reinforcement Learning']
 ---
 Large language models often expose their brittleness in reasoning tasks,
 especially while executing long chains of reasoning over context. We propose

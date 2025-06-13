@@ -8,7 +8,7 @@ bibkey: wu2023language
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.04379"}
   - {name: "Code", url: "https://github.com/wudongming97/Prompt4Driving"}
-tags: ['Model Architecture', 'RAG', 'Pretraining Methods', 'Transformer', 'Has Code', 'Prompting']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Has Code', 'Pretraining Methods', 'Prompting']
 ---
 A new trend in the computer vision community is to capture objects of
 interest following flexible human command represented by a natural language

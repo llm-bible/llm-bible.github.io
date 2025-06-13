@@ -7,7 +7,7 @@ year: 2023
 bibkey: yao2023deepspeed
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.14327"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Fine-Tuning', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Tools', 'Model Architecture', 'Reinforcement Learning', 'Training Techniques', 'Attention Mechanism']
 ---
 Most of the existing multi-modal models, hindered by their incapacity to
 adeptly manage interleaved image-and-text inputs in multi-image, multi-round

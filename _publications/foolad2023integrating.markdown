@@ -7,7 +7,7 @@ year: 2023
 bibkey: foolad2023integrating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2307.10443"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Despite the significant progress made by transformer models in machine
 reading comprehension tasks, they still fall short in handling complex

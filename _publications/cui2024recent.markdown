@@ -8,7 +8,7 @@ bibkey: cui2024recent
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.03751"}
   - {name: "Code", url: "https://github.com/dreamtheater123/Awesome-SpeechLM-Survey"}
-tags: ['Training Techniques', 'Model Architecture', 'Survey Paper', 'Tools', 'Has Code', 'Attention Mechanism', 'INTERSPEECH']
+tags: ['INTERSPEECH', 'Tools', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Attention Mechanism', 'Has Code']
 ---
 Large Language Models (LLMs) have recently garnered significant attention,
 primarily for their capabilities in text-based interactions. However, natural

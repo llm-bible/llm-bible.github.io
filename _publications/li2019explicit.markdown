@@ -7,7 +7,7 @@ year: 2019
 bibkey: li2019explicit
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1912.11980"}
-tags: ['WMT', 'Model Architecture', 'Tools', 'Merging', 'Pretraining Methods', 'Transformer', 'Applications', 'Attention Mechanism']
+tags: ['Transformer', 'Tools', 'Applications', 'Model Architecture', 'WMT', 'Merging', 'Attention Mechanism', 'Pretraining Methods']
 ---
 State-of-the-art Transformer-based neural machine translation (NMT) systems
 still follow a standard encoder-decoder framework, in which source sentence

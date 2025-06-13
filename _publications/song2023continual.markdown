@@ -8,7 +8,7 @@ bibkey: song2023continual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.14763"}
   - {name: "Code", url: "https://github.com/Raincleared-Song/ConPET"}
-tags: ['Has Code', 'Training Techniques', 'Fine-Tuning', 'Merging']
+tags: ['Fine-Tuning', 'Training Techniques', 'Has Code', 'Merging']
 ---
 Continual learning necessitates the continual adaptation of models to newly
 emerging tasks while minimizing the catastrophic forgetting of old ones. This

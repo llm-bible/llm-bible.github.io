@@ -7,7 +7,7 @@ year: 2024
 bibkey: xie2024me
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.12749"}
-tags: ['Training Techniques', 'Model Architecture', 'RAG', 'GPT', 'Pretraining Methods', 'Fine-Tuning', 'Pre-Training', 'Applications']
+tags: ['Fine-Tuning', 'Pre-Training', 'GPT', 'Applications', 'RAG', 'Model Architecture', 'Training Techniques', 'Pretraining Methods']
 ---
 Recent advancements in large language models (LLMs) like ChatGPT and LLaMA
 show promise in medical applications, yet challenges remain in medical language

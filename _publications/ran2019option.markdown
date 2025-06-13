@@ -7,7 +7,7 @@ year: 2019
 bibkey: ran2019option
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1903.03033"}
-tags: ['RAG', 'Model Architecture', 'Transformer', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Transformer', 'Model Architecture']
 ---
 Multiple-choice reading comprehension (MCRC) is the task of selecting the
 correct answer from multiple options given a question and an article. Existing

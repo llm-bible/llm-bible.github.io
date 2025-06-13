@@ -7,7 +7,7 @@ year: 2024
 bibkey: wolters2024memory
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.08413"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Survey Paper', 'Pretraining Methods', 'Transformer']
+tags: ['Transformer', 'Efficiency and Optimization', 'Survey Paper', 'Model Architecture', 'Pretraining Methods']
 ---
 Large language models (LLMs) have recently transformed natural language
 processing, enabling machines to generate human-like text and engage in

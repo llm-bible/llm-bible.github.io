@@ -7,7 +7,7 @@ year: 2024
 bibkey: qian2024boosting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2409.05591"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Tools', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning']
 ---
 Processing long contexts presents a significant challenge for large language
 models (LLMs). While recent advancements allow LLMs to handle much longer

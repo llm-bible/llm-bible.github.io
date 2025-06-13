@@ -7,7 +7,7 @@ year: 2024
 bibkey: chang2024rl
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.23912"}
-tags: ['Agentic', 'Security', 'Training Techniques', 'Tools', 'Reinforcement Learning', 'Prompting']
+tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'Security', 'Training Techniques', 'Prompting']
 ---
 The reasoning abilities of large language models (LLMs) have improved with
 chain-of-thought (CoT) prompting, allowing models to solve complex tasks

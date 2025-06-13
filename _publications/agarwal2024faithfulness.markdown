@@ -7,7 +7,7 @@ year: 2024
 bibkey: agarwal2024faithfulness
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2402.04614"}
-tags: ['Interpretability and Explainability', 'Applications', 'Tools', 'Reinforcement Learning']
+tags: ['Interpretability and Explainability', 'Tools', 'Applications', 'Reinforcement Learning']
 ---
 Large Language Models (LLMs) are deployed as powerful tools for several
 natural language processing (NLP) applications. Recent works show that modern

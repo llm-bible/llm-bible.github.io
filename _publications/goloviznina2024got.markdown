@@ -7,7 +7,7 @@ year: 2024
 bibkey: goloviznina2024got
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.02060"}
-tags: ['Tools', 'Reinforcement Learning', 'Quantization', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Tools', 'Applications', 'Interpretability and Explainability', 'Reinforcement Learning', 'Interpretability', 'Quantization']
 ---
 Interpretability and explainability of AI are becoming increasingly important
 in light of the rapid development of large language models (LLMs). This paper

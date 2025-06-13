@@ -7,7 +7,7 @@ year: 2023
 bibkey: bubeck2023sparks
 additional_links:
   - {name: "Paper", url: "http://arxiv.org/abs/2303.12712v5"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'GPT', 'Fine-Tuning', 'Prompting']
+tags: ['Fine-Tuning', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Prompting']
 ---
 Artificial intelligence (AI) researchers have been developing and refining
 large language models (LLMs) that exhibit remarkable capabilities across a

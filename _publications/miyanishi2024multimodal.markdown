@@ -7,7 +7,7 @@ year: 2024
 bibkey: miyanishi2024multimodal
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2408.12959"}
-tags: ['Multimodal Models', 'Tools', 'Reinforcement Learning', 'Ethics and Bias', 'Pretraining Methods', 'Prompting', 'In-Context Learning']
+tags: ['Tools', 'Ethics and Bias', 'Reinforcement Learning', 'Pretraining Methods', 'Multimodal Models', 'Prompting', 'In-Context Learning']
 ---
 The rapid growth of Large Language Models (LLMs) usage has highlighted the
 importance of gradient-free in-context learning (ICL). However, interpreting

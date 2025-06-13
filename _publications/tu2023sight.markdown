@@ -7,7 +7,7 @@ year: 2023
 bibkey: tu2023sight
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2309.07120"}
-tags: ['Responsible AI', 'Ethics and Bias', 'Training Techniques', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'Responsible AI', 'Training Techniques', 'Ethics and Bias']
 ---
 Multi-modal large language models (MLLMs) are trained based on large language
 models (LLM), with an enhanced capability to comprehend multi-modal inputs and

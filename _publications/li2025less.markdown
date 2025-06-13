@@ -8,7 +8,7 @@ bibkey: li2025less
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.11886"}
   - {name: "Code", url: "https://github.com/GAIR-NLP/LIMR"}
-tags: ['Efficiency and Optimization', 'Training Techniques', 'Reinforcement Learning', 'Distillation', 'Ethics and Bias', 'Pretraining Methods', 'Interpretability', 'Fine-Tuning', 'Has Code']
+tags: ['Fine-Tuning', 'Efficiency and Optimization', 'Ethics and Bias', 'Reinforcement Learning', 'Interpretability', 'Training Techniques', 'Has Code', 'Pretraining Methods', 'Distillation']
 ---
 In this paper, we ask: what truly determines the effectiveness of RL training
 data for enhancing language models' reasoning capabilities? While recent

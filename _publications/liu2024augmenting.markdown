@@ -7,7 +7,7 @@ year: 2024
 bibkey: liu2024augmenting
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.09003"}
-tags: ['Model Architecture', 'GPT', 'Tools']
+tags: ['Tools', 'GPT', 'Model Architecture']
 ---
 Despite the advancements in large language models (LLMs) for mathematical
 reasoning, solving competition-level math problems remains a significant

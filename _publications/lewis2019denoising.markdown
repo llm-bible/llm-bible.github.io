@@ -7,7 +7,7 @@ year: 2019
 bibkey: lewis2019denoising
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/1910.13461"}
-tags: ['Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Language Modeling', 'GPT', 'Pretraining Methods', 'BERT', 'Pre-Training', 'Applications']
+tags: ['Pre-Training', 'GPT', 'Tools', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Language Modeling', 'Training Techniques', 'Pretraining Methods', 'BERT']
 ---
 We present BART, a denoising autoencoder for pretraining sequence-to-sequence
 models. BART is trained by (1) corrupting text with an arbitrary noising

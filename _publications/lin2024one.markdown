@@ -8,7 +8,7 @@ bibkey: lin2024one
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.11005"}
   - {name: "Code", url: "https://github.com/fangru-lin/redial_dialect_robustness_fairness"}
-tags: ['Security', 'Model Architecture', 'Fairness', 'Tools', 'Reinforcement Learning', 'GPT', 'Bias Mitigation', 'Ethics and Bias', 'Has Code']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Bias Mitigation', 'Model Architecture', 'Reinforcement Learning', 'Security', 'Has Code', 'Fairness']
 ---
 Language is not monolithic. While benchmarks, including those designed for
 multiple languages, are often used as proxies to evaluate the performance of

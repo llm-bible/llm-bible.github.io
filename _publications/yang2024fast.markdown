@@ -7,7 +7,7 @@ year: 2024
 bibkey: yang2024fast
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.05076"}
-tags: ['Model Architecture', 'Reinforcement Learning', 'RAG', 'Pretraining Methods', 'Transformer', 'Attention Mechanism']
+tags: ['Transformer', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism', 'Pretraining Methods']
 ---
 Large language models (LLMs) have driven significant advancements across
 diverse NLP tasks, with long-context models gaining prominence for handling

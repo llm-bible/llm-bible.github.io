@@ -8,7 +8,7 @@ bibkey: deng2025efficient
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.12167"}
   - {name: "Code", url: "https://github.com/plm-team/PLM"}
-tags: ['Agentic', 'Efficiency and Optimization', 'Model Architecture', 'Training Techniques', 'Scaling Laws', 'Reinforcement Learning', 'RAG', 'Large-Scale Training', 'Fine-Tuning', 'Transformer', 'Has Code', 'Dataset', 'Pre-Training', 'Applications', 'Attention Mechanism']
+tags: ['Fine-Tuning', 'Transformer', 'Agentic', 'Pre-Training', 'Efficiency and Optimization', 'Applications', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Large-Scale Training', 'Training Techniques', 'Attention Mechanism', 'Has Code', 'Scaling Laws', 'Dataset']
 ---
 While scaling laws have been continuously validated in large language models
 (LLMs) with increasing model parameters, the inherent tension between the

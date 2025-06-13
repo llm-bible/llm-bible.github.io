@@ -7,7 +7,7 @@ year: 2025
 bibkey: dass2025enhanced
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2504.07463"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Interpretability and Explainability']
+tags: ['Agentic', 'Tools', 'Interpretability and Explainability', 'RAG', 'Reinforcement Learning']
 ---
 Supporting learners' understanding of taught skills in online settings is a
 longstanding challenge. While exercises and chat-based agents can evaluate

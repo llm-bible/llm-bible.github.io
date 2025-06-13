@@ -7,7 +7,7 @@ year: 2025
 bibkey: chernov2025evaluating
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.17187"}
-tags: ['RAG', 'Model Architecture', 'Attention Mechanism']
+tags: ['RAG', 'Attention Mechanism', 'Model Architecture']
 ---
 Recently, Large Language Models (LLMs) with Mixture of Experts (MoE) layers
 have gained significant attention. Currently, state-of-the-art LLMs utilize

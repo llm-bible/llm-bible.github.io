@@ -7,7 +7,7 @@ year: 2024
 bibkey: zhang2024privacy
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2410.08014"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Applications', 'Attention Mechanism']
+tags: ['Tools', 'Efficiency and Optimization', 'Applications', 'Model Architecture', 'Reinforcement Learning', 'Attention Mechanism']
 ---
 Large Language Models (LLMs) have gained significant attention in on-device
 applications due to their remarkable performance across real-world tasks.

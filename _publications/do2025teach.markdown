@@ -7,7 +7,7 @@ year: 2025
 bibkey: do2025teach
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.20748"}
-tags: ['Training Techniques', 'Tools', 'Reinforcement Learning', 'RAG', 'Ethics and Bias', 'Interpretability']
+tags: ['Tools', 'Ethics and Bias', 'RAG', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 Multi-trait automated essay scoring (AES) systems provide a fine-grained
 evaluation of an essay's diverse aspects. While they excel in scoring, prior

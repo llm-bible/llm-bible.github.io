@@ -7,7 +7,7 @@ year: 2025
 bibkey: fan2025if
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.23514"}
-tags: ['Agentic', 'Model Architecture', 'GPT']
+tags: ['Agentic', 'GPT', 'Model Architecture']
 ---
 Large language models (LLMs) can carry out human-like dialogue, but unlike
 humans, they are stateless due to the superposition property. However, during

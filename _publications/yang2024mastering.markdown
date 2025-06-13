@@ -8,7 +8,7 @@ bibkey: yang2024mastering
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2401.11708"}
   - {name: "Code", url: "https://github.com/YangLing0818/RPG-DiffusionMaster"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'Merging', 'GPT', 'Has Code', 'Prompting']
+tags: ['Tools', 'GPT', 'Model Architecture', 'Reinforcement Learning', 'Merging', 'Training Techniques', 'Has Code', 'Multimodal Models', 'Prompting']
 ---
 Diffusion models have exhibit exceptional performance in text-to-image
 generation and editing. However, existing methods often face challenges when

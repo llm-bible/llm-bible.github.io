@@ -7,7 +7,7 @@ year: 2024
 bibkey: duan2024r
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2405.07495"}
-tags: ['Model Architecture', 'GPT']
+tags: ['GPT', 'Model Architecture']
 ---
 There has been increasing interest in investigating the behaviours of large
 language models (LLMs) and LLM-powered chatbots by treating an LLM as a

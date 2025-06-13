@@ -7,7 +7,7 @@ year: 2025
 bibkey: lu2025data
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2502.01943"}
-tags: ['Efficiency and Optimization', 'Model Architecture', 'GPT', 'Reinforcement Learning']
+tags: ['Efficiency and Optimization', 'GPT', 'Model Architecture', 'Reinforcement Learning']
 ---
 Direct Preference Optimization (DPO) has shown effectiveness in aligning
 multi-modal large language models (MLLM) with human preferences. However,

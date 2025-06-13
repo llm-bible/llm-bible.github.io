@@ -7,7 +7,7 @@ year: 2020
 bibkey: wong2020contextual
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2004.09894"}
-tags: ['Applications', 'Pretraining Methods', 'Model Architecture', 'Transformer']
+tags: ['Model Architecture', 'Transformer', 'Applications', 'Pretraining Methods']
 ---
 The advent of context-aware NMT has resulted in promising improvements in the
 overall translation quality and specifically in the translation of discourse

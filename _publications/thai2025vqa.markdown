@@ -7,7 +7,7 @@ year: 2025
 bibkey: thai2025vqa
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.06271"}
-tags: ['Multimodal Models', 'Applications', 'Tools']
+tags: ['Tools', 'Multimodal Models', 'Applications']
 ---
 Language-guided 3D scene understanding is important for advancing
 applications in robotics, AR/VR, and human-computer interaction, enabling

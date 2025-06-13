@@ -7,7 +7,7 @@ year: 2022
 bibkey: zhu2022keyword
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2212.01739"}
-tags: ['Agentic', 'Training Techniques', 'Few-Shot', 'Pre-Training', 'Applications']
+tags: ['Agentic', 'Pre-Training', 'Applications', 'Training Techniques', 'Few-Shot']
 ---
 Incorporating external knowledge into the response generation process is
 essential to building more helpful and reliable dialog agents. However,

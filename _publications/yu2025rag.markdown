@@ -7,7 +7,7 @@ year: 2025
 bibkey: yu2025rag
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2503.13514"}
-tags: ['Agentic', 'Training Techniques', 'Model Architecture', 'Tools', 'Reinforcement Learning', 'RAG', 'GPT', 'Interpretability', 'Interpretability and Explainability', 'Applications']
+tags: ['Agentic', 'GPT', 'Tools', 'Applications', 'Interpretability and Explainability', 'RAG', 'Model Architecture', 'Reinforcement Learning', 'Interpretability', 'Training Techniques']
 ---
 This paper presents RAG-KG-IL, a novel multi-agent hybrid framework designed
 to enhance the reasoning capabilities of Large Language Models (LLMs) by

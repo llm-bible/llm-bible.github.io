@@ -7,7 +7,7 @@ year: 2023
 bibkey: kraus2023enhancing
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2304.00116"}
-tags: ['Agentic', 'RAG']
+tags: ['RAG', 'Agentic']
 ---
 Large language models (LLMs) have significantly transformed the landscape of
 artificial intelligence by demonstrating their ability in generating human-like

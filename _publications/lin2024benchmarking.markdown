@@ -7,7 +7,7 @@ year: 2024
 bibkey: lin2024benchmarking
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2406.04770"}
-tags: ['Model Architecture', 'Tools', 'Reinforcement Learning', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability']
+tags: ['Tools', 'GPT', 'Ethics and Bias', 'Interpretability and Explainability', 'Model Architecture', 'Reinforcement Learning']
 ---
 We introduce WildBench, an automated evaluation framework designed to
 benchmark large language models (LLMs) using challenging, real-world user

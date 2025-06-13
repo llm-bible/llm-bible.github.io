@@ -7,7 +7,7 @@ year: 2023
 bibkey: zhang2023tuning
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2310.02050"}
-tags: ['Multimodal Models', 'Training Techniques', 'Model Architecture', 'Survey Paper', 'GPT', 'Pretraining Methods', 'Fine-Tuning']
+tags: ['Fine-Tuning', 'GPT', 'Survey Paper', 'Model Architecture', 'Training Techniques', 'Pretraining Methods', 'Multimodal Models']
 ---
 With the emergence of large language models (LLMs), multimodal models based
 on LLMs have demonstrated significant potential. Models such as LLaSM, X-LLM,

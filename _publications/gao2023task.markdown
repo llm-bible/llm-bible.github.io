@@ -7,7 +7,7 @@ year: 2023
 bibkey: gao2023task
 additional_links:
   - {name: "Paper", url: "https://arxiv.org/abs/2312.13108"}
-tags: ['Agentic', 'Tools', 'Reinforcement Learning', 'RAG', 'Applications']
+tags: ['Agentic', 'Tools', 'Applications', 'RAG', 'Reinforcement Learning']
 ---
 Graphical User Interface (GUI) automation holds significant promise for
 assisting users with complex tasks, thereby boosting human productivity.
