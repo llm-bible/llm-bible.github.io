@@ -88,7 +88,7 @@ var allData = [];
 var filteredData = [];
 
 // Read the data
-d3.json('./tsne_clustered.json', function(data) {
+d3.json('./tsne_clustered.json').then(function(data) {
   allData = data;
 
   // Convert 'year' and 'citations' fields to numbers
